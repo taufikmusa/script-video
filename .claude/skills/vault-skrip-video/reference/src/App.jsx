@@ -1,5 +1,5 @@
 import { useState, useMemo, useEffect } from 'react'
-import { skrip } from './data'
+import { skrip, namaSiri } from './data'
 import Teleprompter from './Teleprompter'
 import { muat, simpan, salinKeClipboard, kiraPatah, anggarMasa, tarikhMelayu } from './util'
 
@@ -38,7 +38,7 @@ export default function App() {
       if (status === "belum" && dahRakam[s.id]) return false
       if (status === "dah" && !dahRakam[s.id]) return false
       if (kata.length === 0) return true
-      const hay = [nombor(s), s.tajuk, s.teks, s.tags.join(" "), s.topik, s.hook || ""].join(" ").toLowerCase()
+      const hay = [nombor(s), namaSiri[s.siri] || "", s.tajuk, s.teks, s.tags.join(" "), s.topik, s.hook || ""].join(" ").toLowerCase()
       return kata.every(k => hay.includes(k))   // semua kata kunci mesti ada
     })
   }, [cari, siri, topik, status, dahRakam])
@@ -105,7 +105,7 @@ export default function App() {
               className={"chip chip-siri" + (siri === k ? " aktif" : "")}
               onClick={() => { setSiri(k); setHad(HAD_AWAL) }}
             >
-              {k} <span className="chip-n">{k === "Semua" ? skrip.length : skrip.filter(s => s.siri === k).length}</span>
+              {k}{namaSiri[k] ? ` · ${namaSiri[k]}` : ""} <span className="chip-n">{k === "Semua" ? skrip.length : skrip.filter(s => s.siri === k).length}</span>
             </button>
           ))}
         </div>

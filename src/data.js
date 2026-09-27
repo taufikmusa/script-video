@@ -3800,5 +3800,764 @@ Sebagai penutup siri ini, drop di komen: apa pengajaran paling berharga yang and
 Sebab usaha mendidik simpanan emas adalah perjuangan suci membina kekuatan...
 
 Ummah!`
+  },
+  {
+    id: 163,
+    siri: "Script-07",
+    no: 1,
+    topik: "Jual Emas",
+    tajuk: "Resit Asal Hilang (Mitos Resit Hilang Emas Tak Laku)",
+    tags: ["barang kemas", "916", "999", "resit", "cawangan"],
+    teks: `Resit emas lama anda dah hilang dan bimbang kedai luar tolak separuh harga?
+
+Jangan panik, sebab ramai tersilap sangka barang kemas tanpa resit asal dah hilang nilainya!
+
+Sebenarnya, Public Gold tetap terima apa saja jenama emas walaupun resit asal anda dah hilang bertahun-tahun.
+
+Tengok kadar belian semula hari ini: emas 999 diambil pada RM542 segram, manakala emas 916 cecah RM497 segram!
+
+Caranya cukup mudah. Anda cuma perlu daftar akaun percuma terlebih dahulu, kemudian bawa kad pengenalan dan emas ke cawangan terdekat.
+
+Staf kaunter akan uji ketulenan guna mesin pengimbas khas secara telus di depan mata anda, dan bayaran terus dipindahkan ke akaun bank pada hari yang sama.
+
+Pernah tak anda simpan emas lama yang dah bertahun hilang resit pembeliannya? Kongsi pengalaman anda di ruangan komen.
+
+Nilai sebenar emas terletak pada ketulenan gramnya, bukan pada sehelai...
+
+Kertas!`
+  },
+  {
+    id: 164,
+    siri: "Script-07",
+    no: 2,
+    topik: "Jual Emas",
+    tajuk: "Emas Rosak, Putus & Patah (Barang Kemas Terbiar Dalam Laci)",
+    tags: ["barang kemas", "susut nilai", "916", "999", "patah", "jenama lain", "cawangan", "tunai"],
+    teks: `Rantai emas putus atau cincin kemek biasanya dibiarkan terperap berhabuk di dalam laci?
+
+Ramai ingat emas yang dah rosak teruk macam ni tak ada nilai dan kedai luar akan kenakan potongan susut nilai melampau!
+
+Hakikatnya, Public Gold tetap beli emas rosak, patah, bengkok atau apa jua jenama lain dengan kadar belian balik yang sangat tinggi.
+
+Kadar rasmi hari ini: emas 999 dibeli RM542 segram dan emas 916 cecah RM497 segram tanpa sebarang caj tersembunyi!
+
+Anda hanya perlu daftar akaun percuma, bawa emas rosak bersama kad pengenalan ke mana-mana cawangan berhampiran.
+
+Staf kaunter akan uji ketulenan guna mesin pengimbas khas dan duit jualan terus masuk ke akaun bank anda hari ini juga.
+
+Ada tak barang kemas patah yang anda masih simpan sampai sekarang? Cuba beritahu di ruangan komen.
+
+Jangan biar emas rosak terbiar rugi, tukarkan segera jadi...
+
+Tunai!`
+  },
+  {
+    id: 165,
+    siri: "Script-07",
+    no: 3,
+    topik: "Jual Emas",
+    tajuk: "Potongan Susut Nilai Kedai Luar (Perbandingan Spread Telus)",
+    tags: ["barang kemas", "susut nilai", "ringgit", "916", "999", "resit", "jenama lain", "spread"],
+    teks: `Kenapa kedai emas luar potong harga sampai 25 peratus bila anda nak jual semula barang kemas lama?
+
+Ramai terkejut bila nilai simpanan mereka dipotong sana sini sampai hilang ratusan ringgit sekelip mata disebabkan susut nilai tinggi!
+
+Di Public Gold, anda boleh jual semula emas jenama lain pada harga pasaran semasa yang jauh lebih adil dan telus.
+
+Lihat harga buyback hari ini: emas 999 diambil pada RM542 segram, manakala emas 916 mencecah RM497 segram!
+
+Tiada syarat resit lama, tiada potongan berat sesuka hati, staf cuma uji ketulenan logam menggunakan mesin khas di kaunter.
+
+Bila anda setuju dengan harga paparan, duit terus ditransfer masuk ke akaun bank anda pada hari yang sama.
+
+Anda pernah kena tolak susut nilai tinggi bila jual emas di kedai biasa? Tulis cerita anda di ruangan komen.
+
+Jadilah penyimpan bijak yang sentiasa memilih ketelusan dan...
+
+Untung!`
+  },
+  {
+    id: 166,
+    siri: "Script-07",
+    no: 4,
+    topik: "Jual Emas",
+    tajuk: "Hujung Minggu Buka (16 Cawangan PG Jewel Sabtu & Ahad)",
+    tags: ["pg jewel", "barang kemas", "916", "999", "kecemasan", "hujung minggu", "cawangan", "tunai"],
+    teks: `Hari minggu nak pakai duit kecemasan tapi semua cawangan emas dan kaunter bank pula tutup?
+
+Ramai tak tahu mereka sebenarnya tak perlu tunggu hari Isnin untuk cairkan barang kemas terpakai kepada wang tunai!
+
+Kalau cawangan Public Gold cuma buka Isnin hingga Jumaat, 16 cawangan PG Jewel di seluruh Malaysia sedia beroperasi pada hari Sabtu dan Ahad.
+
+Mereka beli apa jua jenama emas pada kadar tinggi: emas 999 dibeli RM542 segram dan emas 916 pada RM497 segram!
+
+Bawa saja kad pengenalan dan emas anda terus ke kedai PG Jewel terdekat untuk staf uji ketulenan secara percuma.
+
+Bila harga dipersetujui secara telus, bayaran terus dipindahkan segera ke akaun bank anda tanpa sebarang prosedur rumit.
+
+Hujung minggu ni ada emas terpakai yang nak dicairkan segera? Komen lokasi bandar anda di bawah sekarang.
+
+Cairkan aset bila-bila masa tanpa halangan waktu demi ketenangan...
+
+Hati!`
+  },
+  {
+    id: 167,
+    siri: "Script-07",
+    no: 5,
+    topik: "Jual Emas",
+    tajuk: "4 Langkah Pantas Jual Emas (Panduan Lengkap Walk-In)",
+    tags: ["916", "999", "dealer", "jenama lain", "cawangan", "tunai"],
+    teks: `Ingat nak jual emas lama di cawangan perlukan proses rumit dan isi borang panjang berjela?
+
+Sebenarnya ada empat langkah sangat pantas untuk tukar emas jenama lain menjadi duit berkepuk hari ini juga!
+
+Langkah pertama, daftar akaun percuma dengan dealer sah terlebih dahulu supaya urusan di kaunter menjadi lebih pantas.
+
+Kedua, bawa emas yang nak dijual bersama kad pengenalan anda ke cawangan Public Gold berhampiran.
+
+Ketiga, staf kaunter akan periksa ketulenan emas anda secara telus menggunakan mesin pengimbas khas.
+
+Keempat, semak harga buyback hari ini: emas 999 dibeli RM542 segram dan 916 pada RM497 segram, kemudian duit terus ditransfer ke bank anda!
+
+Bahkan di HQ Menara Public Gold Kuala Lumpur, kemudahan pembayaran wang tunai fizikal turut disediakan.
+
+Antara terima bayaran tunai di kaunter atau transfer bank segera, anda pilih yang mana? Komen jawapan anda di bawah.
+
+Urusan jual balik emas kini jauh lebih pantas, telus dan...
+
+Mudah!`
+  },
+  {
+    id: 168,
+    siri: "Script-07",
+    no: 6,
+    topik: "Jual Emas",
+    tajuk: "Wang Tunai Segera di HQ Menara KL (Pilihan Cash vs Bank Transfer)",
+    tags: ["916", "999", "kecemasan", "resit", "patah", "tunai", "menara kl"],
+    teks: `Perlukan wang tunai segera dalam tangan hari ini dan bukan sekadar angka dalam akaun bank anda?
+
+Bila berlaku kecemasan mendesak, terpaksa menunggu bayaran pindahan bank berhari-hari memang boleh buat sesiapa saja rasa tertekan!
+
+Khas untuk anda, HQ Menara Public Gold di Kuala Lumpur menyediakan kemudahan pembayaran tunai terus di kaunter bila anda jual emas terpakai.
+
+Kadar belian semula hari ini sangat tinggi: emas 999 diambil RM542 segram, manakala emas 916 mencecah RM497 segram!
+
+Emas rosak, patah, atau jenama luar semuanya diterima dengan mudah tanpa perlu tunjuk resit belian lama.
+
+Staf cuma uji ketulenan logam guna mesin khas dan anda boleh terus bawa pulang tunai pada hari yang sama.
+
+Kalau ada pilihan, anda lebih selesa terima wang tunai kaunter atau transfer bank? Kongsi pandangan anda di ruangan komen.
+
+Sebab dalam waktu kecemasan, aset sebenar mestilah memberi ketenangan...
+
+Poket!`
+  },
+  {
+    id: 169,
+    siri: "Script-07",
+    no: 7,
+    topik: "Jual Emas",
+    tajuk: "Emas Jenama Lain / Jenama-X (Beli Luar, Jual di Public Gold)",
+    tags: ["barang kemas", "916", "999", "jenama lain", "cawangan"],
+    teks: `Beli barang kemas di kedai lain bertahun lalu, tapi boleh ke jual balik kepada Public Gold?
+
+Jawapannya sangat boleh, malah Public Gold beli semula semua jenama emas terpakai dengan harga antara tertinggi di Malaysia!
+
+Jangan biar kedai luar tolak harga murah hanya kerana rekaan perhiasan dah lama atau bentuknya dah bengkok.
+
+Tengok kadar belian semula hari ini: emas 999 dibayar RM542 segram dan emas 916 diambil pada RM497 segram!
+
+Anda cuma perlu buka akaun percuma sebelum hadir ke cawangan, bawa kad pengenalan dan serahkan emas untuk ujian mesin pengimbas.
+
+Selepas nilai dipersetujui secara telus di hadapan anda, duit jualan dipindahkan terus ke akaun bank pada hari sama.
+
+Berapa banyak emas jenama luar yang masih tersimpan dalam simpanan anda sekarang? Komen jumlah gram di bawah.
+
+Beli di mana pun tak mengapa, yang penting jual balik dapat nilai...
+
+Maksimum!`
+  },
+  {
+    id: 170,
+    siri: "Script-07",
+    no: 8,
+    topik: "Jual Emas",
+    tajuk: "Duit Masuk Hari Sama (Tanpa Tinggal Barang & Bebas Birokrasi)",
+    tags: ["916", "999", "jenama lain", "cawangan"],
+    teks: `Pernah alami situasi nak jual emas tapi kedai minta tinggalkan barang berhari-hari kononnya untuk proses semakan?
+
+Risiko barang hilang atau nilai dipotong sesuka hati di belakang memang buat penyimpan emas rasa bimbang dan ragu-ragu!
+
+Di cawangan Public Gold, proses belian balik emas jenama lain berjalan sangat pantas, selamat dan telus di depan mata anda.
+
+Tengok kadar buyback hari ini: emas 999 dibeli RM542 segram, manakala emas 916 dinilai setinggi RM497 segram!
+
+Staf kaunter uji ketulenan menggunakan mesin teknologi moden tanpa perlu mengikis atau merosakkan emas berharga anda.
+
+Sebaik sahaja anda bersetuju dengan harga paparan, bayaran terus dipindahkan ke akaun bank pada hari yang sama tanpa karenah birokrasi.
+
+Penting ke untuk duit jualan emas masuk ke akaun bank anda serta-merta hari ini? Nyatakan pendapat anda di ruangan komen.
+
+Pilihlah platform jual emas yang sentiasa menjamin keselamatan dan kepantasan...
+
+Cair!`
+  },
+  {
+    id: 171,
+    siri: "Script-07",
+    no: 9,
+    topik: "Jual Emas",
+    tajuk: "Uji Ketulenan Mesin Pengimbas Khas (Tanpa Kikis & Tanpa Bakar)",
+    tags: ["barang kemas", "916", "999", "resit", "cawangan"],
+    teks: `Risau kedai emas kikis atau bakar barang kemas anda semata-mata nak uji ketulenan logam tersebut?
+
+Cara lama itu bukan saja merosakkan bentuk barang, malah sering kali mengurangkan timbangan berat asal gram emas anda!
+
+Di cawangan Public Gold, staf kaunter menguji ketulenan emas lama atau jenama luar menggunakan mesin pengimbas canggih tanpa merosakkan barang.
+
+Ujian dibuat secara terbuka mengikut kadar pasaran hari ini: emas 999 diambil RM542 segram dan emas 916 dibeli RM497 segram!
+
+Tak perlu risau kalau resit lama dah hilang atau bentuknya kemek, nilai emas diukur secara tepat mengikut ketulenan logam sebenar.
+
+Bila selesai semakan, bayaran terus ditransfer masuk ke akaun bank anda pada hari yang sama.
+
+Pernah tengok staf uji emas guna mesin pengimbas moden di kaunter sebelum ini? Tulis pengalaman anda di ruangan komen.
+
+Pastikan setiap gram emas anda dinilai secara adil, telus dan...
+
+Tepat!`
+  },
+  {
+    id: 172,
+    siri: "Script-07",
+    no: 10,
+    topik: "Jual Emas",
+    tajuk: "Upgrade Emas Lama ke Emas Pelaburan (Kitaran Aset Berganda)",
+    tags: ["barang kemas", "916", "999", "patah", "cawangan"],
+    teks: `Kenapa biarkan emas perhiasan lama yang dah patah terbiar sedangkan anda boleh tukar jadi aset pelaburan padu?
+
+Barang kemas lama yang tersimpan bertahun dalam laci tak mendatangkan hasil jika dibiarkan tanpa perancangan kewangan yang jelas!
+
+Cairkan emas jenama luar anda di cawangan Public Gold pada harga belian semula yang sangat lumayan dan telus hari ini.
+
+Kadar rasmi hari ini: emas 999 dibeli RM542 segram, manakala emas 916 cecah RM497 segram tanpa sebarang caj tersembunyi!
+
+Daftar akaun percuma, bawa emas dan kad pengenalan ke kaunter, dan duit jualan dipindahkan terus ke akaun bank hari sama.
+
+Wang jualan itu kemudiannya boleh terus anda gunakan untuk kumpul jongkong emas pelaburan gred sembilan sembilan sembilan yang baru.
+
+Anda lebih berminat simpan barang kemas terpakai atau jongkong emas pelaburan tulen? Nyatakan pilihan anda di ruangan komen.
+
+Ubah emas lama yang rosak menjadi kekayaan masa depan yang...
+
+Kekal!`
+  },
+  {
+    id: 173,
+    siri: "Script-07",
+    no: 11,
+    topik: "Jual Emas",
+    tajuk: "Sibuk Hari Bekerja (Solusi Hujung Minggu di 16 Cawangan PG Jewel)",
+    tags: ["pg jewel", "916", "999", "resit", "patah", "hujung minggu", "cawangan"],
+    teks: `Isnin sampai Jumaat sibuk bekerja sampai tak ada masa nak ke kaunter untuk jual emas lama anda?
+
+Ramai bertangguh cairkan emas terpakai sebab ingat semua cawangan belian balik tutup pada hari cuti!
+
+Sebenarnya, jika cawangan Public Gold dibuka hari bekerja, anda boleh bawa emas terpakai ke 16 cawangan PG Jewel yang beroperasi pada hari Sabtu dan Ahad.
+
+Mereka beli apa saja jenama emas dengan kadar pasaran tinggi: emas 999 diambil RM542 segram, dan emas 916 mencecah RM497 segram!
+
+Emas bengkok, patah, atau resit hilang semuanya laku. Staf kaunter akan uji ketulenan guna mesin pengimbas canggih tanpa merosakkan barang.
+
+Sebaik sahaja anda setuju dengan harga telus, duit terus ditransfer masuk ke akaun bank pada hari yang sama.
+
+Anda lebih suka uruskan hal kewangan pada hari bekerja atau hujung minggu? Kongsi rutin anda di ruangan komen.
+
+Uruskan aset anda bila-bila masa mengikut keselesaan...
+
+Masa!`
+  },
+  {
+    id: 174,
+    siri: "Script-07",
+    no: 12,
+    topik: "Jual Emas",
+    tajuk: "Waktu Operasi (Public Gold Isnin-Jumaat vs PG Jewel Sabtu & Ahad)",
+    tags: ["pg jewel", "barang kemas", "rumah", "916", "999", "patah", "cawangan", "tunai"],
+    teks: `Kerap keliru cawangan mana yang buka bila anda nak jual semula barang kemas lama?
+
+Jangan sampai anda rugi masa memandu jauh ke kaunter yang sebenarnya tutup pada hari cuti umum!
+
+Ingat formula mudah ini: cawangan Public Gold beroperasi Isnin hingga Jumaat, manakala 16 cawangan PG Jewel sedia membantu anda pada hari Sabtu dan Ahad.
+
+Kedua-duanya menerima emas rosak, cincin patah, dan emas jenama luar mengikut harga pasaran semasa yang sangat tinggi.
+
+Kadar rasmi hari ini: emas 999 dibeli RM542 segram, manakala emas 916 dinilai RM497 segram tanpa sebarang caj tersembunyi!
+
+Daftar akaun percuma, bawa kad pengenalan dan emas anda, staf akan scan ketulenan dan pindahkan duit terus ke akaun bank anda.
+
+Antara cawangan Public Gold atau kedai PG Jewel, mana satu paling dekat dengan rumah anda? Tulis lokasi anda di bawah.
+
+Kini mencairkan emas lama jadi tunai jauh lebih...
+
+Fleksibel!`
+  },
+  {
+    id: 175,
+    siri: "Script-07",
+    no: 13,
+    topik: "Jual Emas",
+    tajuk: "Kecemasan Hujung Minggu (Cairkan Emas Patah Ahad Pagi)",
+    tags: ["pg jewel", "barang kemas", "916", "999", "kecemasan", "resit", "patah", "hujung minggu"],
+    teks: `Kecemasan mendesak perlukan duit tunai berlaku pada pagi Ahad, tapi macam mana nak cairkan emas terpakai?
+
+Bila situasi mendesak tiba di luar hari bekerja, menunggu sampai hari Isnin memang boleh menambahkan tekanan jiwa!
+
+Jangan risau, bawa saja barang kemas lama atau emas jenama luar anda terus ke cawangan PG Jewel berhampiran yang dibuka pada hari Sabtu dan Ahad.
+
+Public Gold menawarkan kadar belian semula yang sangat kompetitif: emas 999 dinilai RM542 segram dan emas 916 dibeli RM497 segram!
+
+Walaupun rantai dah putus atau resit belian asal dah hilang, staf kaunter tetap terima dan uji ketulenan guna mesin khas secara telus.
+
+Bila anda bersetuju, bayaran terus diproses masuk ke akaun bank anda hari ini juga tanpa birokrasi.
+
+Pernah tak anda hadapi situasi kecemasan wang pada hari minggu? Kongsi pengalaman anda di ruangan komen.
+
+Selesaikan masalah kewangan segera dengan aset yang pantas...
+
+Selesai!`
+  },
+  {
+    id: 176,
+    siri: "Script-07",
+    no: 14,
+    topik: "Jual Emas",
+    tajuk: "Shopping Hujung Minggu Sambil Singgah PG Jewel (Shah Alam, BM, Menara PG)",
+    tags: ["pg jewel", "barang kemas", "916", "999", "patah", "hujung minggu", "cawangan", "tunai"],
+    teks: `Keluar bersiar-siar di pusat membeli-belah hujung minggu ni sambil bawa barang kemas terpakai dalam beg?
+
+Jangan biarkan emas lama anda tersimpan sia-sia kalau anda boleh tukarkannya menjadi wang tunai serta-merta!
+
+Singgah saja ke cawangan PG Jewel seperti di Shah Alam, Bukit Mertajam, atau Menara Public Gold Kuala Lumpur yang buka hari Sabtu dan Ahad.
+
+Mereka sedia membeli semula pelbagai jenama emas pada harga pasaran tinggi: emas 999 dibayar RM542 segram dan emas 916 cecah RM497 segram!
+
+Tak perlu risau barang kemas kemek atau patah, staf kaunter akan timbang dan uji ketulenan menggunakan mesin pengimbas moden di depan anda.
+
+Selepas nilai dipersetujui, duit jualan dipindahkan terus ke akaun bank anda pada hari yang sama.
+
+Hujung minggu ni ada rancangan nak singgah cawangan PG Jewel berdekatan anda? Nyatakan bandar anda di ruangan komen.
+
+Tukarkan barang kemas lama kepada peluang kewangan yang berlipat...
+
+Ganda!`
+  },
+  {
+    id: 177,
+    siri: "Script-07",
+    no: 15,
+    topik: "Jual Emas",
+    tajuk: "Rangkaian 16 Cawangan PG Jewel Seluruh Malaysia (Utara ke Sabah Sarawak)",
+    tags: ["pg jewel", "916", "999", "beli balik", "hujung minggu", "cawangan"],
+    teks: `Ingat kedai beli balik emas hujung minggu cuma ada di kawasan Lembah Klang sahaja?
+
+Ramai terlepas pandang bahawa rangkaian belian balik emas ini sebenarnya sudah meliputi seluruh pelosok negara!
+
+Daripada Alor Setar, Ipoh, Seremban, Johor Bahru, sehinggalah ke cawangan Kota Kinabalu dan Miri, terdapat 16 cawangan PG Jewel yang sedia beroperasi pada hari Sabtu dan Ahad.
+
+Jika hari bekerja anda boleh ke cawangan Public Gold, hujung minggu pula anda boleh hadir ke PG Jewel untuk cairkan emas jenama luar.
+
+Tengok kadar hari ini: emas 999 diambil RM542 segram, manakala emas 916 dibeli RM497 segram secara telus!
+
+Cuma bawa kad pengenalan dan emas anda, staf akan semak ketulenan guna mesin khas dan bayaran dipindahkan terus ke bank anda.
+
+Negeri mana tempat tinggal anda sekarang yang ada cawangan PG Jewel? Tulis di ruangan komen.
+
+Di mana pun anda berada, mencairkan emas kini sangat...
+
+Dekat!`
+  },
+  {
+    id: 178,
+    siri: "Script-07",
+    no: 16,
+    topik: "Jual Emas",
+    tajuk: "Tip Persediaan & Hubungi Dulu Sebelum Walk-in Hujung Minggu",
+    tags: ["pg jewel", "916", "999", "patah", "hujung minggu", "cawangan"],
+    teks: `Dah bersemangat nak bawa emas patah ke kedai pada hari cuti, tapi takut tersalah waktu operasi?
+
+Untuk elakkan perjalanan anda sia-sia pada hujung minggu, ikut satu tips paling penting ini sebelum melangkah keluar!
+
+Jika cawangan Public Gold dibuka Isnin hingga Jumaat, untuk hari Sabtu dan Ahad anda boleh hadir ke 16 cawangan PG Jewel seluruh Malaysia.
+
+Sangat digalakkan untuk telefon cawangan PG Jewel pilihan anda terlebih dahulu bagi mengesahkan waktu operasi kaunter pada hari tersebut.
+
+Mereka menerima semua jenama emas pada kadar pasaran tinggi: emas 999 dibeli RM542 segram dan emas 916 mencecah RM497 segram!
+
+Staf kaunter akan uji ketulenan guna mesin pengimbas canggih dan pindahkan bayaran terus ke akaun bank hari sama.
+
+Biasa tak anda telefon premis dulu sebelum pergi berurusan pada hari cuti? Komen amalan anda di bawah.
+
+Lakukan persediaan awal supaya urusan jual emas anda sentiasa lancar dan...
+
+Selamat!`
+  },
+  {
+    id: 179,
+    siri: "Script-07",
+    no: 17,
+    topik: "Jual Emas",
+    tajuk: "Emas Putus Malam Sabtu (Tak Perlu Tunggu Isnin Untuk Jual)",
+    tags: ["pg jewel", "barang kemas", "916", "999", "resit", "patah", "jenama lain", "cawangan"],
+    teks: `Rantai emas kesayangan terputus pada malam Sabtu dan anda ingat kena tunggu hari bekerja baru boleh jual?
+
+Menangguhkan jualan boleh menyebabkan anda terlepas harga pasaran emas semasa yang sedang melonjak tinggi hari ini!
+
+Hakikatnya, anda tidak perlu menunggu hari Isnin kerana 16 cawangan PG Jewel sedia membeli emas terpakai anda pada hari Sabtu dan Ahad.
+
+Bawa saja emas yang patah, bengkok, atau jenama lain itu ke kaunter untuk dinilai secara telus.
+
+Lihat kadar belian balik hari ini: emas 999 diambil pada RM542 segram, manakala emas 916 dinilai setinggi RM497 segram!
+
+Tanpa perlu resit lama, staf kaunter menguji ketulenan menggunakan mesin khas dan duit terus ditransfer ke akaun bank anda pada hari sama.
+
+Ada barang kemas yang putus dan masih belum dibaiki dalam simpanan anda? Tulis di ruangan komen.
+
+Jangan biarkan emas rosak terperap lama, tukarkan segera jadi tunai yang...
+
+Pantas!`
+  },
+  {
+    id: 180,
+    siri: "Script-07",
+    no: 18,
+    topik: "Jual Emas",
+    tajuk: "Potongan Hari Cuti Kedai Luar vs Ketelusan PG Jewel",
+    tags: ["pg jewel", "susut nilai", "916", "999", "resit", "jenama lain", "hujung minggu", "cawangan"],
+    teks: `Perasan tak kedai emas biasa suka kenakan potongan susut nilai lebih tinggi bila anda jual pada hujung minggu?
+
+Ramai terpaksa reda bila kedai luar potong nilai sehingga 25 peratus atas alasan emas terpakai tiada resit atau rekaan lama!
+
+Elakkan kerugian itu dengan membawa emas jenama lain anda ke cawangan PG Jewel yang beroperasi pada hari Sabtu dan Ahad.
+
+Public Gold menawarkan harga belian balik yang konsisten dan adil: emas 999 dibeli RM542 segram, manakala emas 916 dinilai RM497 segram!
+
+Staf kaunter menguji ketulenan menggunakan mesin pengimbas moden di hadapan anda tanpa sebarang potongan tersembunyi.
+
+Bila anda setuju dengan harga telus tersebut, bayaran terus dipindahkan terus ke akaun bank anda hari ini juga.
+
+Pernah rasa tertipu dengan potongan harga melampau di kedai emas luar? Kongsi rasa anda di ruangan komen.
+
+Pilihlah tempat belian balik yang sentiasa mengekalkan standard urus niaga yang...
+
+Telus!`
+  },
+  {
+    id: 181,
+    siri: "Script-07",
+    no: 19,
+    topik: "Jual Emas",
+    tajuk: "Daftar Percuma Dari Rumah Sebelum Walk-in Cawangan / PG Jewel",
+    tags: ["pg jewel", "rumah", "916", "999", "dealer", "cawangan"],
+    teks: `Nak jual emas lama di cawangan Public Gold atau PG Jewel tapi risau urusan di kaunter ambil masa lama?
+
+Langkah paling bijak sebelum hadir adalah selesaikan pendaftaran percuma dari rumah terlebih dahulu!
+
+Bila anda daftar percuma dengan dealer sah, nombor akaun anda sudah sedia dalam sistem untuk cepatkan urusan staf kaunter.
+
+Sama ada ke cawangan Public Gold hari Isnin hingga Jumaat, atau ke PG Jewel hari Sabtu dan Ahad, urusan anda jadi lancar.
+
+Kadar belian semula hari ini sangat tinggi: emas 999 dinilai RM542 segram dan emas 916 dibeli RM497 segram!
+
+Duit jualan terus ditransfer ke akaun bank anda pada hari yang sama tanpa sebarang kesulitan.
+
+Dah ada akaun Public Gold sendiri atau belum daftar lagi? Tulis jawapan anda di ruangan komen.
+
+Dapatkan bimbingan dealer sah agar urusan jual emas anda sentiasa...
+
+Urus!`
+  },
+  {
+    id: 182,
+    siri: "Script-07",
+    no: 20,
+    topik: "Jual Emas",
+    tajuk: "Kemas Almari Hujung Minggu (Tukar Barang Kemas Terbiar Jadi Duit)",
+    tags: ["pg jewel", "barang kemas", "916", "999", "jenama lain", "hujung minggu", "cawangan", "tunai"],
+    teks: `Hujung minggu waktu terbaik kemas almari dan anda terjumpa gelang emas lama yang dah rosak dan pudar warnanya?
+
+Barang kemas lama yang tersimpan bertahun tanpa dipakai sebenarnya adalah wang tunai beku yang boleh dimanfaatkan hari ini juga!
+
+Jangan simpan semula ke dalam kotak, sebaliknya bawa emas jenama lain itu terus ke cawangan PG Jewel terdekat yang buka pada hari Sabtu dan Ahad.
+
+Tengok kadar belian semula rasmi hari ini: emas 999 dibeli RM542 segram, manakala emas 916 dinilai mencecah RM497 segram!
+
+Staf kaunter akan timbang dan uji ketulenan guna mesin pengimbas canggih secara telus tanpa mengikis barang kemas anda.
+
+Bila selesai pengesahan nilai, duit jualan dipindahkan terus ke akaun bank anda pada hari yang sama.
+
+Bila kali terakhir anda periksa dan timbang barang kemas lama dalam simpanan? Cuba kongsikan di ruangan komen.
+
+Tukarkan barang kemas yang terbiar lama menjadi wang tunai dalam akaun bank secara...
+
+Segera!`
+  },
+  {
+    id: 183,
+    siri: "Script-07",
+    no: 21,
+    topik: "Jual Emas",
+    tajuk: "Tergoda Harga Emas Naik (Semak #1: Jual Tanpa Matlamat Jelas)",
+    tags: ["pg jewel", "916", "999", "beli balik", "jenama lain", "cawangan", "tunai"],
+    teks: `Nampak harga emas tengah melambung tinggi dan anda terus rasa tak sabar nak jual semua simpanan?
+
+Tunggu dulu, sebab ramai penyimpan akhirnya menyesal bila duit jualan habis dibelanjakan ke tempat yang tak sepatutnya!
+
+Semak perkara pertama ini: adakah anda benar-benar perlukan wang tunai sekarang atau sekadar tergoda dengan angka harga semasa?
+
+Menjual emas tanpa tujuan jelas hanya akan merendahkan kualiti aset kekayaan yang anda kumpul dengan susah payah.
+
+Tapi jika ada keperluan mendesak, Public Gold sedia beli balik emas jenama lain pada kadar tertinggi: emas 999 diambil RM542 segram dan emas 916 cecah RM497 segram!
+
+Bawa saja emas fizikal ke cawangan hari bekerja atau ke 16 cawangan PG Jewel pada hari Sabtu dan Ahad.
+
+Pernah tak anda jual emas masa harga naik tapi akhirnya duit itu lesap entah ke mana? Tulis di ruangan komen.
+
+Jangan biarkan godaan keuntungan singkat merosakkan masa depan...
+
+Aset!`
+  },
+  {
+    id: 184,
+    siri: "Script-07",
+    no: 22,
+    topik: "Jual Emas",
+    tajuk: "Pajak vs Jual Terus (Semak #2: Tunai Sementara vs Lepas Hak Milik)",
+    tags: ["pg jewel", "barang kemas", "ar-rahnu", "pajak", "916", "999", "beli balik", "jenama lain"],
+    teks: `Perlukan wang tunai segera tapi berat hati nak lepaskan barang kemas kesayangan buat selama-lamanya?
+
+Ramai terburu-buru jual emas terpakai sedangkan mereka sebenarnya masih ada peluang untuk miliki semula emas tersebut!
+
+Sebelum menjual, semak sama ada memajak di Ar-Rahnu adalah pilihan yang jauh lebih bijak untuk poket anda.
+
+Jika anda cuma perlukan tunai sementara dan mampu menebusnya semula dalam beberapa bulan, memajak membolehkan emas kekal menjadi hak milik anda.
+
+Namun jika anda memang nekad nak lepaskan, Public Gold beli balik emas jenama lain pada harga telus: emas 999 pada RM542 segram dan 916 mencecah RM497 segram!
+
+Cawangan dibuka Isnin hingga Jumaat, dan 16 cawangan PG Jewel sedia membantu anda setiap Sabtu dan Ahad.
+
+Bila terdesak nak pakai duit, anda lebih suka gadai sementara atau jual terus? Komen pilihan anda di bawah.
+
+Pilihlah jalan kewangan terbaik agar emas kesayangan anda masih mampu di...
+
+Tebus!`
+  },
+  {
+    id: 185,
+    siri: "Script-07",
+    no: 23,
+    topik: "Jual Emas",
+    tajuk: "3 Keadaan Sahaja Boleh Jual Emas (Semak #4: Formula Kewangan Berilmu)",
+    tags: ["pg jewel", "hartanah", "916", "999", "bisnes", "kecemasan", "disiplin", "jenama lain"],
+    teks: `Tahu tak ada tiga keadaan sahaja yang membolehkan seorang penyimpan emas berilmu menjual aset mereka?
+
+Ramai orang jual emas sebab nak beli barang kehendak, akhirnya simpanan bertahun-tahun lebur begitu sahaja!
+
+Penyimpan bijak hanya cairkan emas dalam tiga situasi: pertama, tukar kepada aset yang menjana pendapatan seperti hartanah atau modal bisnes.
+
+Kedua, bila matlamat asal tabungan sudah tercapai. Dan ketiga, waktu kecemasan kritikal selepas semua simpanan tunai di bank habis.
+
+Jika situasi anda menepati tiga perkara ini, cawangan Public Gold dan PG Jewel sedia membeli semula emas jenama lain pada kadar tinggi: emas 999 dinilai RM542 segram dan 916 dibeli RM497 segram!
+
+Bawa kad pengenalan dan emas anda ke kaunter, duit terus ditransfer hari ini juga.
+
+Antara tiga sebab tadi, apa matlamat utama anda simpan emas sekarang? Nyatakan di ruangan komen.
+
+Kekalkan simpanan emas anda dengan matlamat yang kukuh dan...
+
+Disiplin!`
+  },
+  {
+    id: 186,
+    siri: "Script-07",
+    no: 24,
+    topik: "Jual Emas",
+    tajuk: "Menyesal Jual Emas Sebab Belanja Hangus (Semak #5: Bahaya Duit Bocor)",
+    tags: ["pg jewel", "916", "999", "anak", "jenama lain", "cawangan", "tunai"],
+    teks: `Bila emas dah berjaya ditukar jadi wang kertas berkepuk dalam dompet, kenapa duit itu cepat sangat habis?
+
+Inilah kesilapan paling pedih bila menjual emas tanpa memikirkan kesan jangka panjang terhadap simpanan persaraan dan pendidikan anak!
+
+Duit tunai sifatnya sangat cair dan mudah bocor dibelanjakan untuk kehendak yang langsung tidak menambah nilai hidup anda.
+
+Sebelum melangkah ke kaunter jualan, pastikan keputusan mencairkan emas ini benar-benar selari dengan rancangan kewangan masa depan anda.
+
+Jika memang ada keperluan penting, Public Gold beli semula emas lama dan jenama lain pada harga pasaran tinggi: emas 999 dibayar RM542 segram dan 916 diambil RM497 segram!
+
+Urusan kaunter dibuka Isnin hingga Jumaat di cawangan rasmi, manakala 16 kedai PG Jewel sedia buka Sabtu dan Ahad.
+
+Pernah rasa duit simpanan bocor laju bila bertukar jadi tunai? Kongsi pengalaman anda di ruangan komen.
+
+Lindungi kekayaan keluarga agar tidak hanyut dibawa tabiat belanja...
+
+Bocor!`
+  },
+  {
+    id: 187,
+    siri: "Script-07",
+    no: 25,
+    topik: "Jual Emas",
+    tajuk: "Salah Pilih Tempat Jual / Potongan Spread (Semak #3: Tolak 25% Kedai Luar)",
+    tags: ["pg jewel", "barang kemas", "susut nilai", "ringgit", "916", "999", "resit", "cawangan"],
+    teks: `Dah simpan emas bertahun-tahun, tapi bila nak jual balik nilainya dipotong sampai 25 peratus oleh kedai luar?
+
+Ramai penyimpan kerugian ratusan ringgit hanya kerana tersilap memilih tempat untuk menjual semula barang kemas mereka!
+
+Untuk dapatkan pulangan maksimum, pastikan anda menjual di platform yang menjamin kadar belian balik telus tanpa resit asal.
+
+Public Gold menawarkan harga buyback antara tertinggi di pasaran untuk semua jenama emas: emas 999 dibeli RM542 segram, manakala emas 916 dinilai setinggi RM497 segram!
+
+Staf kaunter menguji ketulenan menggunakan mesin pengimbas khas secara telus di depan mata anda tanpa mengikis emas.
+
+Boleh walk-in ke cawangan hari bekerja atau ke 16 cawangan PG Jewel pada hari Sabtu dan Ahad.
+
+Berapa peratus susut nilai paling teruk yang kedai luar pernah potong emas anda? Komen di bawah.
+
+Jangan biar titik peluh anda susut di tempat yang menekan...
+
+Nilai!`
+  },
+  {
+    id: 188,
+    siri: "Script-07",
+    no: 26,
+    topik: "Jual Emas",
+    tajuk: "Tukar Emas Jadi Aset Menjana Pendapatan (Semak #4a: Modal Hartanah & Bisnes)",
+    tags: ["pg jewel", "barang kemas", "hartanah", "rumah", "916", "999", "bisnes", "jenama lain"],
+    teks: `Bila masa paling tepat untuk cairkan jongkong emas dan barang kemas lama dalam peti simpanan anda?
+
+Masa terbaik adalah apabila anda ingin menukarkan emas tersebut kepada aset lain yang mampu menjana aliran tunai berterusan!
+
+Contohnya menampung deposit pembelian rumah sewa atau mengembangkan modal perniagaan yang terbukti menghasilkan keuntungan bulanan.
+
+Tindakan ini bukan menghabiskan aset, sebaliknya memperkembangkan kekayaan anda daripada aset pelindung kepada aset produktif yang memberi pulangan.
+
+Bagi merealisasikan langkah ini, Public Gold sedia membeli semula emas jenama lain pada kadar amat tinggi: emas 999 dibayar RM542 segram dan 916 dinilai RM497 segram!
+
+Bawa emas anda ke cawangan Public Gold hari Isnin hingga Jumaat, atau PG Jewel pada hari Sabtu dan Ahad.
+
+Kalau ada duit jualan emas, bisnes apa yang teringin sangat anda mulakan? Tulis impian anda di ruangan komen.
+
+Ubah emas lama menjadi enjin kekayaan baharu yang berlipat...
+
+Untung!`
+  },
+  {
+    id: 189,
+    siri: "Script-07",
+    no: 27,
+    topik: "Jual Emas",
+    tajuk: "Capai Matlamat Tabungan Asal (Semak #4b: Hantar Haji & Rumah Pertama)",
+    tags: ["pg jewel", "inflasi", "hutang", "haji", "rumah", "916", "999", "disiplin"],
+    teks: `Dah bertahun mendisiplinkan diri kumpul gram emas, bila sebenarnya saat paling manis untuk menjualnya?
+
+Saat paling membahagiakan adalah apabila matlamat murni tabungan anda akhirnya berjaya dicapai sepenuhnya!
+
+Sama ada untuk membayar deposit rumah idaman pertama, kos majlis perkahwinan bebas hutang, atau menghantar ibu bapa menunaikan ibadah haji ke tanah suci.
+
+Inilah fungsi sebenar emas sebagai penyimpan nilai yang kalis inflasi dan menjaga disiplin kewangan anda daripada bocor.
+
+Bila impian sudah di depan mata, cairkan emas terpakai anda di Public Gold pada kadar belian balik terbaik: emas 999 pada RM542 segram dan 916 cecah RM497 segram!
+
+Urusan pantas di semua cawangan rasmi atau 16 cawangan PG Jewel yang buka Sabtu dan Ahad.
+
+Apa matlamat impian terbesar anda yang ingin dicapai melalui simpanan emas? Kongsikan di ruangan komen.
+
+Cairkan aset hanya bila ia berjaya menyempurnakan sebuah...
+
+Hajat!`
+  },
+  {
+    id: 190,
+    siri: "Script-07",
+    no: 28,
+    topik: "Jual Emas",
+    tajuk: "Dana Tunai Habis, Baru Sentuh Emas (Semak #4c: Emas Benteng Terakhir)",
+    tags: ["pg jewel", "krisis", "916", "999", "kecemasan", "jenama lain", "cawangan", "tunai"],
+    teks: `Kereta rosak atau bil perubatan tiba-tiba datang, adakah emas aset pertama yang patut anda jual?
+
+Jangan tersilap langkah, kerana penyimpan emas yang bijak sentiasa menggunakan dana kecemasan tunai di bank terlebih dahulu!
+
+Emas adalah benteng pertahanan kewangan terakhir anda, yang hanya patut dicairkan apabila semua simpanan kecemasan tunai sudah habis digunakan.
+
+Menjual emas terlalu awal untuk perbelanjaan kecil akan menyebabkan anda kehilangan kubu pelindung kekayaan apabila krisis sebenar melanda.
+
+Tetapi jika anda benar-benar di fasa kecemasan mutlak, Public Gold sedia membeli emas jenama lain pada harga pasaran tinggi: emas 999 dibeli RM542 segram dan 916 cecah RM497 segram!
+
+Hadir terus ke cawangan hari biasa atau PG Jewel pada hari Sabtu dan Ahad untuk bayaran pantas hari sama.
+
+Berapa bulan dana kecemasan tunai yang anda sediakan sebelum mula sentuh emas? Tulis di ruangan komen.
+
+Jadikan emas simpanan anda sebagai perisai terakhir dan...
+
+Benteng!`
+  },
+  {
+    id: 191,
+    siri: "Script-07",
+    no: 29,
+    topik: "Jual Emas",
+    tajuk: "5 Checklist Pantas Sebelum Bawa Emas ke Kaunter (Ringkasan Menyeluruh)",
+    tags: ["pg jewel", "916", "999", "kecemasan", "jenama lain", "cawangan", "tunai"],
+    teks: `Dah bersiap nak bawa emas lama ke cawangan, tapi dah semak ke lima checklist penting ini?
+
+Pertama, tanya diri adakah anda benar-benar perlukan tunai sekarang atau sekadar rambang mata melihat harga emas naik.
+
+Kedua, semak sama ada memajak lebih berbaloi jika anda mahu menebusnya semula nanti.
+
+Ketiga, pastikan tujuan jualan menepati tiga keadaan ideal: tukar aset pendapatan, capai matlamat tabungan, atau kecemasan mutlak.
+
+Keempat, pilih tempat jualan telus seperti Public Gold yang beli emas jenama lain pada kadar tinggi: emas 999 pada RM542 segram dan 916 cecah RM497 segram!
+
+Kelima, pertimbangkan kesan jangka panjang terhadap dana persaraan anda.
+
+Bila semua semakan selesai, bawa kad pengenalan anda ke cawangan Isnin hingga Jumaat atau PG Jewel setiap Sabtu dan Ahad.
+
+Berapa daripada lima semakan ini yang biasa anda buat sebelum jual emas? Komen jawapan anda di bawah.
+
+Buat keputusan kewangan dengan tenang, berilmu dan...
+
+Bijak!`
+  },
+  {
+    id: 192,
+    siri: "Script-07",
+    no: 30,
+    topik: "Jual Emas",
+    tajuk: "Emas Susah Dikumpul, Jangan Mudah Dilepas (Refleksi Keringat Simpanan)",
+    tags: ["pg jewel", "916", "999", "cawangan"],
+    teks: `Ingat lagi betapa susahnya anda mengikat perut dan mendisiplinkan diri semata-mata nak beli segram emas dulu?
+
+Setiap gram emas yang ada dalam tangan anda dibeli dengan keringat, masa, dan pengorbanan yang bukan sedikit!
+
+Jadi jangan sesekali melepaskan emas terpakai anda dengan mudah hanya untuk membeli barang kehendak yang nilainya susut ke sifar.
+
+Kekalkan emas anda selagi tidak terdesak. Tetapi jika keadaan benar-benar memaksa, pastikan anda mendapat nilai pulangan paling adil dan berbaloi.
+
+Public Gold menghargai nilai emas anda dengan kadar belian semula tinggi: emas 999 diambil RM542 segram, manakala emas 916 dinilai RM497 segram!
+
+Urusan dibuka di cawangan rasmi Isnin hingga Jumaat, serta 16 cawangan PG Jewel pada hari Sabtu dan Ahad.
+
+Pernah tak anda menyesal lepaskan emas lama terlalu cepat pada masa lalu? Kongsi kisah anda di ruangan komen.
+
+Hargai setiap gram simpanan anda demi menjamin masa depan yang...
+
+Tenang!`
   }
 ];
+
+// Nama tambahan untuk siri (dipapar pada chip siri). Siri tanpa nama cukup guna "Script-NN".
+export const namaSiri = {
+  "Script-07": "Jual Emas",
+};

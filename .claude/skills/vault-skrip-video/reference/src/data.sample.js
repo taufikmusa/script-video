@@ -57,3 +57,6 @@ Sebab bagi mereka yang bersedia, emas bukan sekadar logam, tapi ia adalah bot...
 Penyelamat!`
   }
 ];
+
+// Nama tambahan untuk siri (pilihan)
+export const namaSiri = {};

@@ -1,10 +1,12 @@
 """
 Tukar fail .docx skrip jadi blok JS yang boleh ditampal terus dalam src/data.js.
 
-Sokong 2 format:
+Sokong 3 format:
   A) Setiap skrip bermula dengan heading gaya "Title" (cth "Tab 1", "Tab 2")
   B) Format batch "SKRIP 01: TAJUK" + senarai "Skrip 01: Tajuk [Punchline: X]"
      + jadual (Anggaran Masa | Gaya Hook | Punchline)
+  C) Format angle: heading "Skrip 01: Angle Tajuk (...)" + jadual 1x1 meta (⏱ ...)
+     + jadual 1x1 berisi isi skrip (satu baris = satu babak, punchline "... Kata!")
 
 Guna:
     pip install python-docx
@@ -46,7 +48,8 @@ TAGS = ["gap", "pg jewel", "barang kemas", "susut nilai", "inflasi", "zakat", "a
         "999", "dealer", "bisnes", "g100", "anak", "wanita", "isteri", "kahwin", "pusaka", "faraid",
         "kecemasan", "auto-debit", "epp", "dca", "fomo", "psikologi", "disiplin", "sejarah", "kilang",
         "beli balik", "cukai", "syariah", "sedekah", "masjid", "ibu tunggal", "bujang", "pelajar", "ptptn",
-        "durian", "robert kiyosaki", "azizi ali", "seminar", "inflasi makanan", "emas digital"]
+        "durian", "robert kiyosaki", "azizi ali", "seminar", "inflasi makanan", "emas digital",
+        "resit", "patah", "jenama lain", "hujung minggu", "cawangan", "spread", "tunai", "menara kl"]
 
 
 def teka_topik(tajuk, teks):
@@ -96,6 +99,42 @@ def baca_batch(d):
     return skrip
 
 
+def pisah_punchline(p):
+    """'Nilai emas pada sehelai... Kertas!' -> ['Nilai emas pada sehelai...', 'Kertas!']"""
+    if not p:
+        return p
+    m = re.match(r"^(.*\.\.\.)\s*([^.]{1,40}!)$", p[-1])
+    return p[:-1] + [m.group(1), m.group(2)] if m else p
+
+
+def baca_angle(d):
+    """Format C: heading 'Skrip NN: Angle ...' + jadual meta + jadual isi."""
+    jadual = iter(d.tables)
+    skrip, semasa = [], None
+    for el in d.element.body.iterchildren():
+        tag = el.tag.split("}")[1]
+        if tag == "p":
+            m = re.match(r"Skrip (\d+):\s*(?:Angle\s+)?(.*)", teks_para(el))
+            if m:
+                semasa = {"tajuk": m.group(2).strip(), "p": [], "hook": ""}
+                skrip.append(semasa)
+        elif tag == "tbl":
+            t = next(jadual)
+            if semasa is None or len(t.rows) != 1 or len(t.columns) != 1:
+                continue
+            isi = t.rows[0].cells[0].text.strip()
+            if isi.startswith("⏱") or semasa["p"]:
+                continue
+            semasa["p"] = pisah_punchline([x.strip() for x in isi.split("\n") if x.strip()])
+    return skrip
+
+
+def kesan_format(d):
+    if any(re.match(r"Skrip \d+:\s*Angle", p.text.strip()) for p in d.paragraphs):
+        return baca_angle(d)
+    return baca_batch(d) if d.tables else baca_tab(d)
+
+
 def baca_tab(d):
     """Format A: heading 'Title' setiap skrip."""
     skrip, semasa = [], None
@@ -111,15 +150,15 @@ def baca_tab(d):
     return skrip
 
 
-def blok_js(skrip, siri, mula):
+def blok_js(skrip, siri, mula, topik_tetap=None, no_mula=1):
     out = []
     for i, s in enumerate(skrip):
         teks = "\n\n".join(s["p"])
-        topik = teka_topik(s["tajuk"], teks)
+        topik = topik_tetap or teka_topik(s["tajuk"], teks)
         medan = [
             f"    id: {mula + i},",
             f"    siri: {json.dumps(siri)},",
-            f"    no: {i + 1},",
+            f"    no: {no_mula + i},",
             f"    topik: {json.dumps(topik, ensure_ascii=False)},",
             f"    tajuk: {json.dumps(s['tajuk'], ensure_ascii=False)},",
             f"    tags: {json.dumps(teka_tags(s['tajuk'], teks, topik), ensure_ascii=False)},",
@@ -136,7 +175,9 @@ if __name__ == "__main__":
     ap.add_argument("fail")
     ap.add_argument("--siri", required=True)
     ap.add_argument("--mula", type=int, default=1)
+    ap.add_argument("--no-mula", type=int, default=1, help="nombor pertama dalam siri (bila satu siri gabung beberapa fail)")
+    ap.add_argument("--topik", help="paksa semua skrip guna topik ini")
     a = ap.parse_args()
     d = docx.Document(a.fail)
-    skrip = baca_batch(d) if d.tables else baca_tab(d)
-    print(",\n".join(blok_js(skrip, a.siri, a.mula)) + ",")
+    skrip = kesan_format(d)
+    print(",\n".join(blok_js(skrip, a.siri, a.mula, a.topik, a.no_mula)) + ",")
