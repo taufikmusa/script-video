@@ -12,7 +12,7 @@ export default function App() {
   const [cari, setCari] = useState("")
   const [siri, setSiri] = useState("Semua")
   const [topik, setTopik] = useState("Semua")
-  const [hanyaBelum, setHanyaBelum] = useState(false)
+  const [status, setStatus] = useState("semua")   // semua | belum | dah
   const [dahRakam, setDahRakam] = useState(() => muat("dahRakam", {}))
   const [had, setHad] = useState(HAD_AWAL)
   const [disalin, setDisalin] = useState(null)
@@ -35,15 +35,19 @@ export default function App() {
     return skrip.filter(s => {
       if (siri !== "Semua" && s.siri !== siri) return false
       if (topik !== "Semua" && s.topik !== topik) return false
-      if (hanyaBelum && dahRakam[s.id]) return false
+      if (status === "belum" && dahRakam[s.id]) return false
+      if (status === "dah" && !dahRakam[s.id]) return false
       if (kata.length === 0) return true
       const hay = [nombor(s), s.tajuk, s.teks, s.tags.join(" "), s.topik, s.hook || ""].join(" ").toLowerCase()
       return kata.every(k => hay.includes(k))   // semua kata kunci mesti ada
     })
-  }, [cari, siri, topik, hanyaBelum, dahRakam])
+  }, [cari, siri, topik, status, dahRakam])
 
   const senarai = senaraiPenuh.slice(0, had)
-  const jumlahRakam = Object.values(dahRakam).filter(Boolean).length
+  // Kiraan dah rakam ikut siri & topik yang sedang dipilih
+  const skop = skrip.filter(s => (siri === "Semua" || s.siri === siri) && (topik === "Semua" || s.topik === topik))
+  const jumlahRakam = skop.filter(s => dahRakam[s.id]).length
+  const tukarStatus = (nilai, on) => { setStatus(on ? nilai : "semua"); setHad(HAD_AWAL) }
 
   function salin(s) {
     salinKeClipboard(s.teks).then(() => {
@@ -116,13 +120,19 @@ export default function App() {
             </button>
           ))}
         </div>
-        <label className="toggle">
-          <input type="checkbox" checked={hanyaBelum} onChange={e => { setHanyaBelum(e.target.checked); setHad(HAD_AWAL) }} />
-          <span>Tunjuk yang belum rakam sahaja</span>
-        </label>
+        <div className="toggles">
+          <label className="toggle">
+            <input type="checkbox" checked={status === "belum"} onChange={e => tukarStatus("belum", e.target.checked)} />
+            <span>Belum rakam sahaja</span>
+          </label>
+          <label className="toggle">
+            <input type="checkbox" checked={status === "dah"} onChange={e => tukarStatus("dah", e.target.checked)} />
+            <span>Dah rakam sahaja</span>
+          </label>
+        </div>
         <div className="statbar">
           <span>Papar {senarai.length} dari {senaraiPenuh.length}</span>
-          <span>{jumlahRakam} / {skrip.length} dah rakam</span>
+          <span>{jumlahRakam} / {skop.length} dah rakam{siri !== "Semua" ? ` (${siri})` : ""}</span>
         </div>
       </div>
 

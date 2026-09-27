@@ -34,7 +34,8 @@ button { font: inherit; }
 .chip { padding: 8px 14px; border-radius: 20px; border: 1px solid var(--garis); background: transparent; color: var(--pudar); cursor: pointer; font-size: 14px; }
 .chip.aktif { background: var(--emas); color: #1a1814; border-color: var(--emas); font-weight: 600; }
 .chip-n { opacity: .65; font-size: 12px; margin-left: 2px; }
-.toggle { display: flex; align-items: center; gap: 8px; margin-top: 14px; color: var(--pudar); font-size: 14px; cursor: pointer; }
+.toggles { display: flex; flex-wrap: wrap; gap: 6px 22px; margin-top: 14px; }
+.toggle { display: flex; align-items: center; gap: 8px; color: var(--pudar); font-size: 14px; cursor: pointer; }
 .statbar { display: flex; justify-content: space-between; margin-top: 14px; color: var(--lagi-pudar); font-size: 13px; border-top: 1px solid #2a261d; padding-top: 12px; }
 
 /* Grid kad */
