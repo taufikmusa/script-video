@@ -88,6 +88,8 @@ Punchline!`              // babak dipisah SATU baris kosong; perenggan terakhir 
 
 ## 4. Ciri UI (jangan pecahkan bila ubah)
 
+- **Slot harga buyback:** teks boleh ada `{harga999}` dan `{harga916}` (cth `emas 999 dibeli RM{harga999} segram`). App ganti dengan harga semasa di mana-mana — kad, Salin, teleprompter, carian. Kotak "💰 Harga buyback hari ni" (input 999 & 916 + tarikh dikemaskini) keluar bila senarai ditapis (siri/topik/carian) dan ada skrip bertanda harga. Nilai disimpan `localStorage` key `harga`; lalai dalam `export const hargaLalai` di hujung `data.js` (tukar lalai di sana kalau nak semua peranti dapat harga baru). **Batch Jual Emas baru: selepas jana blok, tukar harga RM999/916 yang tertulis (cth `RM542`, `RM497`) kepada `RM{harga999}` / `RM{harga916}`** — semak dengan grep, pastikan hanya nombor buyback yang ditukar.
+
 - **Cari:** semua kata mesti ada (AND) merentas `siri · no`, tajuk, teks, tags, topik, hook. `script-03 07` cari terus nombor. Klik `#tag` = cari tag tu.
 - **Chip siri** (border putus-putus) + **chip topik**; kiraan topik ikut siri dipilih. Di phone (≤480px) chip jadi satu baris swipe.
 - **Checkbox "Belum rakam sahaja" / "Dah rakam sahaja"** — saling eksklusif (state `status`: semua|belum|dah). Kiraan kanan `x / N dah rakam (Script-NN)` ikut siri+topik semasa.
@@ -131,5 +133,5 @@ Punchline!`              // babak dipisah SATU baris kosong; perenggan terakhir 
 | Run lama "cancelled" | `concurrency: pages` batalkan run lama bila push baru — normal, semak run terkini. |
 | Deploy ditolak environment | Environment `github-pages` hanya benarkan branch default. Push ke branch default atau tambah branch dalam Settings → Environments. |
 | Skrin putih | Error JS: koma hilang dalam data.js, backtick tak di-escape, atau locale API. Jalankan `npm run build` + node import data.js. |
-| Harga dalam skrip basi | Skrip Jual Emas sebut kadar belian semula (RM542/g 999, RM497/g 916 — 27 Sept 2026). Ingatkan Taufik semak harga semasa sebelum rakam. |
+| Harga dalam skrip basi | Skrip Jual Emas guna slot `{harga999}`/`{harga916}`; Taufik isi harga dalam kotak harga di app. Kalau ada skrip baru yang masih tulis harga tetap, tukar ke slot. |
 | Tanda dah rakam hilang | localStorage per peranti — tukar phone/clear cache = hilang. Beritahu Taufik; sync antara peranti perlukan backend. |

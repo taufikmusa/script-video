@@ -3814,7 +3814,7 @@ Jangan panik, sebab ramai tersilap sangka barang kemas tanpa resit asal dah hila
 
 Sebenarnya, Public Gold tetap terima apa saja jenama emas walaupun resit asal anda dah hilang bertahun-tahun.
 
-Tengok kadar belian semula hari ini: emas 999 diambil pada RM542 segram, manakala emas 916 cecah RM497 segram!
+Tengok kadar belian semula hari ini: emas 999 diambil pada RM{harga999} segram, manakala emas 916 cecah RM{harga916} segram!
 
 Caranya cukup mudah. Anda cuma perlu daftar akaun percuma terlebih dahulu, kemudian bawa kad pengenalan dan emas ke cawangan terdekat.
 
@@ -3839,7 +3839,7 @@ Ramai ingat emas yang dah rosak teruk macam ni tak ada nilai dan kedai luar akan
 
 Hakikatnya, Public Gold tetap beli emas rosak, patah, bengkok atau apa jua jenama lain dengan kadar belian balik yang sangat tinggi.
 
-Kadar rasmi hari ini: emas 999 dibeli RM542 segram dan emas 916 cecah RM497 segram tanpa sebarang caj tersembunyi!
+Kadar rasmi hari ini: emas 999 dibeli RM{harga999} segram dan emas 916 cecah RM{harga916} segram tanpa sebarang caj tersembunyi!
 
 Anda hanya perlu daftar akaun percuma, bawa emas rosak bersama kad pengenalan ke mana-mana cawangan berhampiran.
 
@@ -3864,7 +3864,7 @@ Ramai terkejut bila nilai simpanan mereka dipotong sana sini sampai hilang ratus
 
 Di Public Gold, anda boleh jual semula emas jenama lain pada harga pasaran semasa yang jauh lebih adil dan telus.
 
-Lihat harga buyback hari ini: emas 999 diambil pada RM542 segram, manakala emas 916 mencecah RM497 segram!
+Lihat harga buyback hari ini: emas 999 diambil pada RM{harga999} segram, manakala emas 916 mencecah RM{harga916} segram!
 
 Tiada syarat resit lama, tiada potongan berat sesuka hati, staf cuma uji ketulenan logam menggunakan mesin khas di kaunter.
 
@@ -3889,7 +3889,7 @@ Ramai tak tahu mereka sebenarnya tak perlu tunggu hari Isnin untuk cairkan baran
 
 Kalau cawangan Public Gold cuma buka Isnin hingga Jumaat, 16 cawangan PG Jewel di seluruh Malaysia sedia beroperasi pada hari Sabtu dan Ahad.
 
-Mereka beli apa jua jenama emas pada kadar tinggi: emas 999 dibeli RM542 segram dan emas 916 pada RM497 segram!
+Mereka beli apa jua jenama emas pada kadar tinggi: emas 999 dibeli RM{harga999} segram dan emas 916 pada RM{harga916} segram!
 
 Bawa saja kad pengenalan dan emas anda terus ke kedai PG Jewel terdekat untuk staf uji ketulenan secara percuma.
 
@@ -3918,7 +3918,7 @@ Kedua, bawa emas yang nak dijual bersama kad pengenalan anda ke cawangan Public 
 
 Ketiga, staf kaunter akan periksa ketulenan emas anda secara telus menggunakan mesin pengimbas khas.
 
-Keempat, semak harga buyback hari ini: emas 999 dibeli RM542 segram dan 916 pada RM497 segram, kemudian duit terus ditransfer ke bank anda!
+Keempat, semak harga buyback hari ini: emas 999 dibeli RM{harga999} segram dan 916 pada RM{harga916} segram, kemudian duit terus ditransfer ke bank anda!
 
 Bahkan di HQ Menara Public Gold Kuala Lumpur, kemudahan pembayaran wang tunai fizikal turut disediakan.
 
@@ -3941,7 +3941,7 @@ Bila berlaku kecemasan mendesak, terpaksa menunggu bayaran pindahan bank berhari
 
 Khas untuk anda, HQ Menara Public Gold di Kuala Lumpur menyediakan kemudahan pembayaran tunai terus di kaunter bila anda jual emas terpakai.
 
-Kadar belian semula hari ini sangat tinggi: emas 999 diambil RM542 segram, manakala emas 916 mencecah RM497 segram!
+Kadar belian semula hari ini sangat tinggi: emas 999 diambil RM{harga999} segram, manakala emas 916 mencecah RM{harga916} segram!
 
 Emas rosak, patah, atau jenama luar semuanya diterima dengan mudah tanpa perlu tunjuk resit belian lama.
 
@@ -3966,7 +3966,7 @@ Jawapannya sangat boleh, malah Public Gold beli semula semua jenama emas terpaka
 
 Jangan biar kedai luar tolak harga murah hanya kerana rekaan perhiasan dah lama atau bentuknya dah bengkok.
 
-Tengok kadar belian semula hari ini: emas 999 dibayar RM542 segram dan emas 916 diambil pada RM497 segram!
+Tengok kadar belian semula hari ini: emas 999 dibayar RM{harga999} segram dan emas 916 diambil pada RM{harga916} segram!
 
 Anda cuma perlu buka akaun percuma sebelum hadir ke cawangan, bawa kad pengenalan dan serahkan emas untuk ujian mesin pengimbas.
 
@@ -3991,7 +3991,7 @@ Risiko barang hilang atau nilai dipotong sesuka hati di belakang memang buat pen
 
 Di cawangan Public Gold, proses belian balik emas jenama lain berjalan sangat pantas, selamat dan telus di depan mata anda.
 
-Tengok kadar buyback hari ini: emas 999 dibeli RM542 segram, manakala emas 916 dinilai setinggi RM497 segram!
+Tengok kadar buyback hari ini: emas 999 dibeli RM{harga999} segram, manakala emas 916 dinilai setinggi RM{harga916} segram!
 
 Staf kaunter uji ketulenan menggunakan mesin teknologi moden tanpa perlu mengikis atau merosakkan emas berharga anda.
 
@@ -4016,7 +4016,7 @@ Cara lama itu bukan saja merosakkan bentuk barang, malah sering kali mengurangka
 
 Di cawangan Public Gold, staf kaunter menguji ketulenan emas lama atau jenama luar menggunakan mesin pengimbas canggih tanpa merosakkan barang.
 
-Ujian dibuat secara terbuka mengikut kadar pasaran hari ini: emas 999 diambil RM542 segram dan emas 916 dibeli RM497 segram!
+Ujian dibuat secara terbuka mengikut kadar pasaran hari ini: emas 999 diambil RM{harga999} segram dan emas 916 dibeli RM{harga916} segram!
 
 Tak perlu risau kalau resit lama dah hilang atau bentuknya kemek, nilai emas diukur secara tepat mengikut ketulenan logam sebenar.
 
@@ -4041,7 +4041,7 @@ Barang kemas lama yang tersimpan bertahun dalam laci tak mendatangkan hasil jika
 
 Cairkan emas jenama luar anda di cawangan Public Gold pada harga belian semula yang sangat lumayan dan telus hari ini.
 
-Kadar rasmi hari ini: emas 999 dibeli RM542 segram, manakala emas 916 cecah RM497 segram tanpa sebarang caj tersembunyi!
+Kadar rasmi hari ini: emas 999 dibeli RM{harga999} segram, manakala emas 916 cecah RM{harga916} segram tanpa sebarang caj tersembunyi!
 
 Daftar akaun percuma, bawa emas dan kad pengenalan ke kaunter, dan duit jualan dipindahkan terus ke akaun bank hari sama.
 
@@ -4066,7 +4066,7 @@ Ramai bertangguh cairkan emas terpakai sebab ingat semua cawangan belian balik t
 
 Sebenarnya, jika cawangan Public Gold dibuka hari bekerja, anda boleh bawa emas terpakai ke 16 cawangan PG Jewel yang beroperasi pada hari Sabtu dan Ahad.
 
-Mereka beli apa saja jenama emas dengan kadar pasaran tinggi: emas 999 diambil RM542 segram, dan emas 916 mencecah RM497 segram!
+Mereka beli apa saja jenama emas dengan kadar pasaran tinggi: emas 999 diambil RM{harga999} segram, dan emas 916 mencecah RM{harga916} segram!
 
 Emas bengkok, patah, atau resit hilang semuanya laku. Staf kaunter akan uji ketulenan guna mesin pengimbas canggih tanpa merosakkan barang.
 
@@ -4093,7 +4093,7 @@ Ingat formula mudah ini: cawangan Public Gold beroperasi Isnin hingga Jumaat, ma
 
 Kedua-duanya menerima emas rosak, cincin patah, dan emas jenama luar mengikut harga pasaran semasa yang sangat tinggi.
 
-Kadar rasmi hari ini: emas 999 dibeli RM542 segram, manakala emas 916 dinilai RM497 segram tanpa sebarang caj tersembunyi!
+Kadar rasmi hari ini: emas 999 dibeli RM{harga999} segram, manakala emas 916 dinilai RM{harga916} segram tanpa sebarang caj tersembunyi!
 
 Daftar akaun percuma, bawa kad pengenalan dan emas anda, staf akan scan ketulenan dan pindahkan duit terus ke akaun bank anda.
 
@@ -4116,7 +4116,7 @@ Bila situasi mendesak tiba di luar hari bekerja, menunggu sampai hari Isnin mema
 
 Jangan risau, bawa saja barang kemas lama atau emas jenama luar anda terus ke cawangan PG Jewel berhampiran yang dibuka pada hari Sabtu dan Ahad.
 
-Public Gold menawarkan kadar belian semula yang sangat kompetitif: emas 999 dinilai RM542 segram dan emas 916 dibeli RM497 segram!
+Public Gold menawarkan kadar belian semula yang sangat kompetitif: emas 999 dinilai RM{harga999} segram dan emas 916 dibeli RM{harga916} segram!
 
 Walaupun rantai dah putus atau resit belian asal dah hilang, staf kaunter tetap terima dan uji ketulenan guna mesin khas secara telus.
 
@@ -4141,7 +4141,7 @@ Jangan biarkan emas lama anda tersimpan sia-sia kalau anda boleh tukarkannya men
 
 Singgah saja ke cawangan PG Jewel seperti di Shah Alam, Bukit Mertajam, atau Menara Public Gold Kuala Lumpur yang buka hari Sabtu dan Ahad.
 
-Mereka sedia membeli semula pelbagai jenama emas pada harga pasaran tinggi: emas 999 dibayar RM542 segram dan emas 916 cecah RM497 segram!
+Mereka sedia membeli semula pelbagai jenama emas pada harga pasaran tinggi: emas 999 dibayar RM{harga999} segram dan emas 916 cecah RM{harga916} segram!
 
 Tak perlu risau barang kemas kemek atau patah, staf kaunter akan timbang dan uji ketulenan menggunakan mesin pengimbas moden di depan anda.
 
@@ -4168,7 +4168,7 @@ Daripada Alor Setar, Ipoh, Seremban, Johor Bahru, sehinggalah ke cawangan Kota K
 
 Jika hari bekerja anda boleh ke cawangan Public Gold, hujung minggu pula anda boleh hadir ke PG Jewel untuk cairkan emas jenama luar.
 
-Tengok kadar hari ini: emas 999 diambil RM542 segram, manakala emas 916 dibeli RM497 segram secara telus!
+Tengok kadar hari ini: emas 999 diambil RM{harga999} segram, manakala emas 916 dibeli RM{harga916} segram secara telus!
 
 Cuma bawa kad pengenalan dan emas anda, staf akan semak ketulenan guna mesin khas dan bayaran dipindahkan terus ke bank anda.
 
@@ -4193,7 +4193,7 @@ Jika cawangan Public Gold dibuka Isnin hingga Jumaat, untuk hari Sabtu dan Ahad 
 
 Sangat digalakkan untuk telefon cawangan PG Jewel pilihan anda terlebih dahulu bagi mengesahkan waktu operasi kaunter pada hari tersebut.
 
-Mereka menerima semua jenama emas pada kadar pasaran tinggi: emas 999 dibeli RM542 segram dan emas 916 mencecah RM497 segram!
+Mereka menerima semua jenama emas pada kadar pasaran tinggi: emas 999 dibeli RM{harga999} segram dan emas 916 mencecah RM{harga916} segram!
 
 Staf kaunter akan uji ketulenan guna mesin pengimbas canggih dan pindahkan bayaran terus ke akaun bank hari sama.
 
@@ -4218,7 +4218,7 @@ Hakikatnya, anda tidak perlu menunggu hari Isnin kerana 16 cawangan PG Jewel sed
 
 Bawa saja emas yang patah, bengkok, atau jenama lain itu ke kaunter untuk dinilai secara telus.
 
-Lihat kadar belian balik hari ini: emas 999 diambil pada RM542 segram, manakala emas 916 dinilai setinggi RM497 segram!
+Lihat kadar belian balik hari ini: emas 999 diambil pada RM{harga999} segram, manakala emas 916 dinilai setinggi RM{harga916} segram!
 
 Tanpa perlu resit lama, staf kaunter menguji ketulenan menggunakan mesin khas dan duit terus ditransfer ke akaun bank anda pada hari sama.
 
@@ -4241,7 +4241,7 @@ Ramai terpaksa reda bila kedai luar potong nilai sehingga 25 peratus atas alasan
 
 Elakkan kerugian itu dengan membawa emas jenama lain anda ke cawangan PG Jewel yang beroperasi pada hari Sabtu dan Ahad.
 
-Public Gold menawarkan harga belian balik yang konsisten dan adil: emas 999 dibeli RM542 segram, manakala emas 916 dinilai RM497 segram!
+Public Gold menawarkan harga belian balik yang konsisten dan adil: emas 999 dibeli RM{harga999} segram, manakala emas 916 dinilai RM{harga916} segram!
 
 Staf kaunter menguji ketulenan menggunakan mesin pengimbas moden di hadapan anda tanpa sebarang potongan tersembunyi.
 
@@ -4268,7 +4268,7 @@ Bila anda daftar percuma dengan dealer sah, nombor akaun anda sudah sedia dalam 
 
 Sama ada ke cawangan Public Gold hari Isnin hingga Jumaat, atau ke PG Jewel hari Sabtu dan Ahad, urusan anda jadi lancar.
 
-Kadar belian semula hari ini sangat tinggi: emas 999 dinilai RM542 segram dan emas 916 dibeli RM497 segram!
+Kadar belian semula hari ini sangat tinggi: emas 999 dinilai RM{harga999} segram dan emas 916 dibeli RM{harga916} segram!
 
 Duit jualan terus ditransfer ke akaun bank anda pada hari yang sama tanpa sebarang kesulitan.
 
@@ -4291,7 +4291,7 @@ Barang kemas lama yang tersimpan bertahun tanpa dipakai sebenarnya adalah wang t
 
 Jangan simpan semula ke dalam kotak, sebaliknya bawa emas jenama lain itu terus ke cawangan PG Jewel terdekat yang buka pada hari Sabtu dan Ahad.
 
-Tengok kadar belian semula rasmi hari ini: emas 999 dibeli RM542 segram, manakala emas 916 dinilai mencecah RM497 segram!
+Tengok kadar belian semula rasmi hari ini: emas 999 dibeli RM{harga999} segram, manakala emas 916 dinilai mencecah RM{harga916} segram!
 
 Staf kaunter akan timbang dan uji ketulenan guna mesin pengimbas canggih secara telus tanpa mengikis barang kemas anda.
 
@@ -4318,7 +4318,7 @@ Semak perkara pertama ini: adakah anda benar-benar perlukan wang tunai sekarang 
 
 Menjual emas tanpa tujuan jelas hanya akan merendahkan kualiti aset kekayaan yang anda kumpul dengan susah payah.
 
-Tapi jika ada keperluan mendesak, Public Gold sedia beli balik emas jenama lain pada kadar tertinggi: emas 999 diambil RM542 segram dan emas 916 cecah RM497 segram!
+Tapi jika ada keperluan mendesak, Public Gold sedia beli balik emas jenama lain pada kadar tertinggi: emas 999 diambil RM{harga999} segram dan emas 916 cecah RM{harga916} segram!
 
 Bawa saja emas fizikal ke cawangan hari bekerja atau ke 16 cawangan PG Jewel pada hari Sabtu dan Ahad.
 
@@ -4343,7 +4343,7 @@ Sebelum menjual, semak sama ada memajak di Ar-Rahnu adalah pilihan yang jauh leb
 
 Jika anda cuma perlukan tunai sementara dan mampu menebusnya semula dalam beberapa bulan, memajak membolehkan emas kekal menjadi hak milik anda.
 
-Namun jika anda memang nekad nak lepaskan, Public Gold beli balik emas jenama lain pada harga telus: emas 999 pada RM542 segram dan 916 mencecah RM497 segram!
+Namun jika anda memang nekad nak lepaskan, Public Gold beli balik emas jenama lain pada harga telus: emas 999 pada RM{harga999} segram dan 916 mencecah RM{harga916} segram!
 
 Cawangan dibuka Isnin hingga Jumaat, dan 16 cawangan PG Jewel sedia membantu anda setiap Sabtu dan Ahad.
 
@@ -4368,7 +4368,7 @@ Penyimpan bijak hanya cairkan emas dalam tiga situasi: pertama, tukar kepada ase
 
 Kedua, bila matlamat asal tabungan sudah tercapai. Dan ketiga, waktu kecemasan kritikal selepas semua simpanan tunai di bank habis.
 
-Jika situasi anda menepati tiga perkara ini, cawangan Public Gold dan PG Jewel sedia membeli semula emas jenama lain pada kadar tinggi: emas 999 dinilai RM542 segram dan 916 dibeli RM497 segram!
+Jika situasi anda menepati tiga perkara ini, cawangan Public Gold dan PG Jewel sedia membeli semula emas jenama lain pada kadar tinggi: emas 999 dinilai RM{harga999} segram dan 916 dibeli RM{harga916} segram!
 
 Bawa kad pengenalan dan emas anda ke kaunter, duit terus ditransfer hari ini juga.
 
@@ -4393,7 +4393,7 @@ Duit tunai sifatnya sangat cair dan mudah bocor dibelanjakan untuk kehendak yang
 
 Sebelum melangkah ke kaunter jualan, pastikan keputusan mencairkan emas ini benar-benar selari dengan rancangan kewangan masa depan anda.
 
-Jika memang ada keperluan penting, Public Gold beli semula emas lama dan jenama lain pada harga pasaran tinggi: emas 999 dibayar RM542 segram dan 916 diambil RM497 segram!
+Jika memang ada keperluan penting, Public Gold beli semula emas lama dan jenama lain pada harga pasaran tinggi: emas 999 dibayar RM{harga999} segram dan 916 diambil RM{harga916} segram!
 
 Urusan kaunter dibuka Isnin hingga Jumaat di cawangan rasmi, manakala 16 kedai PG Jewel sedia buka Sabtu dan Ahad.
 
@@ -4416,7 +4416,7 @@ Ramai penyimpan kerugian ratusan ringgit hanya kerana tersilap memilih tempat un
 
 Untuk dapatkan pulangan maksimum, pastikan anda menjual di platform yang menjamin kadar belian balik telus tanpa resit asal.
 
-Public Gold menawarkan harga buyback antara tertinggi di pasaran untuk semua jenama emas: emas 999 dibeli RM542 segram, manakala emas 916 dinilai setinggi RM497 segram!
+Public Gold menawarkan harga buyback antara tertinggi di pasaran untuk semua jenama emas: emas 999 dibeli RM{harga999} segram, manakala emas 916 dinilai setinggi RM{harga916} segram!
 
 Staf kaunter menguji ketulenan menggunakan mesin pengimbas khas secara telus di depan mata anda tanpa mengikis emas.
 
@@ -4443,7 +4443,7 @@ Contohnya menampung deposit pembelian rumah sewa atau mengembangkan modal pernia
 
 Tindakan ini bukan menghabiskan aset, sebaliknya memperkembangkan kekayaan anda daripada aset pelindung kepada aset produktif yang memberi pulangan.
 
-Bagi merealisasikan langkah ini, Public Gold sedia membeli semula emas jenama lain pada kadar amat tinggi: emas 999 dibayar RM542 segram dan 916 dinilai RM497 segram!
+Bagi merealisasikan langkah ini, Public Gold sedia membeli semula emas jenama lain pada kadar amat tinggi: emas 999 dibayar RM{harga999} segram dan 916 dinilai RM{harga916} segram!
 
 Bawa emas anda ke cawangan Public Gold hari Isnin hingga Jumaat, atau PG Jewel pada hari Sabtu dan Ahad.
 
@@ -4468,7 +4468,7 @@ Sama ada untuk membayar deposit rumah idaman pertama, kos majlis perkahwinan beb
 
 Inilah fungsi sebenar emas sebagai penyimpan nilai yang kalis inflasi dan menjaga disiplin kewangan anda daripada bocor.
 
-Bila impian sudah di depan mata, cairkan emas terpakai anda di Public Gold pada kadar belian balik terbaik: emas 999 pada RM542 segram dan 916 cecah RM497 segram!
+Bila impian sudah di depan mata, cairkan emas terpakai anda di Public Gold pada kadar belian balik terbaik: emas 999 pada RM{harga999} segram dan 916 cecah RM{harga916} segram!
 
 Urusan pantas di semua cawangan rasmi atau 16 cawangan PG Jewel yang buka Sabtu dan Ahad.
 
@@ -4493,7 +4493,7 @@ Emas adalah benteng pertahanan kewangan terakhir anda, yang hanya patut dicairka
 
 Menjual emas terlalu awal untuk perbelanjaan kecil akan menyebabkan anda kehilangan kubu pelindung kekayaan apabila krisis sebenar melanda.
 
-Tetapi jika anda benar-benar di fasa kecemasan mutlak, Public Gold sedia membeli emas jenama lain pada harga pasaran tinggi: emas 999 dibeli RM542 segram dan 916 cecah RM497 segram!
+Tetapi jika anda benar-benar di fasa kecemasan mutlak, Public Gold sedia membeli emas jenama lain pada harga pasaran tinggi: emas 999 dibeli RM{harga999} segram dan 916 cecah RM{harga916} segram!
 
 Hadir terus ke cawangan hari biasa atau PG Jewel pada hari Sabtu dan Ahad untuk bayaran pantas hari sama.
 
@@ -4518,7 +4518,7 @@ Kedua, semak sama ada memajak lebih berbaloi jika anda mahu menebusnya semula na
 
 Ketiga, pastikan tujuan jualan menepati tiga keadaan ideal: tukar aset pendapatan, capai matlamat tabungan, atau kecemasan mutlak.
 
-Keempat, pilih tempat jualan telus seperti Public Gold yang beli emas jenama lain pada kadar tinggi: emas 999 pada RM542 segram dan 916 cecah RM497 segram!
+Keempat, pilih tempat jualan telus seperti Public Gold yang beli emas jenama lain pada kadar tinggi: emas 999 pada RM{harga999} segram dan 916 cecah RM{harga916} segram!
 
 Kelima, pertimbangkan kesan jangka panjang terhadap dana persaraan anda.
 
@@ -4545,7 +4545,7 @@ Jadi jangan sesekali melepaskan emas terpakai anda dengan mudah hanya untuk memb
 
 Kekalkan emas anda selagi tidak terdesak. Tetapi jika keadaan benar-benar memaksa, pastikan anda mendapat nilai pulangan paling adil dan berbaloi.
 
-Public Gold menghargai nilai emas anda dengan kadar belian semula tinggi: emas 999 diambil RM542 segram, manakala emas 916 dinilai RM497 segram!
+Public Gold menghargai nilai emas anda dengan kadar belian semula tinggi: emas 999 diambil RM{harga999} segram, manakala emas 916 dinilai RM{harga916} segram!
 
 Urusan dibuka di cawangan rasmi Isnin hingga Jumaat, serta 16 cawangan PG Jewel pada hari Sabtu dan Ahad.
 
@@ -4561,3 +4561,7 @@ Tenang!`
 export const namaSiri = {
   "Script-07": "Jual Emas",
 };
+
+// Harga buyback lalai untuk slot {harga999} & {harga916} dalam skrip (cth siri Jual Emas).
+// Taufik boleh tukar terus dalam app (kotak "Harga buyback") — nilai dalam app diutamakan.
+export const hargaLalai = { harga999: "542", harga916: "497", tarikh: "27 September 2026" };

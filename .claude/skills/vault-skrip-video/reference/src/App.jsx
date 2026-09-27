@@ -1,10 +1,11 @@
 import { useState, useMemo, useEffect } from 'react'
-import { skrip, namaSiri } from './data'
+import { skrip as skripAsal, namaSiri, hargaLalai } from './data'
 import Teleprompter from './Teleprompter'
 import { muat, simpan, salinKeClipboard, kiraPatah, anggarMasa, tarikhMelayu } from './util'
 
-const SIRI = ["Semua", ...Array.from(new Set(skrip.map(s => s.siri)))]
-const TOPIK = ["Semua", ...Array.from(new Set(skrip.map(s => s.topik)))]
+const SIRI = ["Semua", ...Array.from(new Set(skripAsal.map(s => s.siri)))]
+const TOPIK = ["Semua", ...Array.from(new Set(skripAsal.map(s => s.topik)))]
+const SLOT_HARGA = /\{(harga999|harga916)\}/g
 const nombor = s => `${s.siri} · ${String(s.no).padStart(2, "0")}`
 const HAD_AWAL = 30
 
@@ -18,6 +19,22 @@ export default function App() {
   const [disalin, setDisalin] = useState(null)
   const [prompter, setPrompter] = useState(null)   // skrip yang sedang dibuka dalam teleprompter
   const [kembang, setKembang] = useState({})       // kad mana yang dibuka penuh
+  const [harga, setHarga] = useState(() => muat("harga", hargaLalai))
+
+  // Isi slot {harga999}/{harga916} dalam skrip dengan harga semasa
+  const skrip = useMemo(() => skripAsal.map(s => {
+    if (!s.teks.includes("{harga")) return s
+    const teks = s.teks.replace(SLOT_HARGA, (_, k) => (harga[k] || "").trim() || hargaLalai[k])
+    return { ...s, teks, adaHarga: true }
+  }), [harga])
+
+  function ubahHarga(kunci, nilai) {
+    setHarga(prev => {
+      const baru = { ...prev, [kunci]: nilai.replace(/[^\d.,]/g, ""), tarikh: tarikhMelayu(new Date()) }
+      simpan("harga", baru)
+      return baru
+    })
+  }
 
   // Buka terus teleprompter kalau URL ada #skrip-5 (senang bookmark kat phone)
   useEffect(() => {
@@ -28,7 +45,7 @@ export default function App() {
     }
   }, [])
 
-  const skripHariIni = useMemo(() => pilihHariIni(skrip, dahRakam), [dahRakam])
+  const skripHariIni = useMemo(() => pilihHariIni(skrip, dahRakam), [skrip, dahRakam])
 
   const senaraiPenuh = useMemo(() => {
     const kata = cari.trim().toLowerCase().split(/\s+/).filter(Boolean)
@@ -41,12 +58,14 @@ export default function App() {
       const hay = [nombor(s), namaSiri[s.siri] || "", s.tajuk, s.teks, s.tags.join(" "), s.topik, s.hook || ""].join(" ").toLowerCase()
       return kata.every(k => hay.includes(k))   // semua kata kunci mesti ada
     })
-  }, [cari, siri, topik, status, dahRakam])
+  }, [skrip, cari, siri, topik, status, dahRakam])
 
   const senarai = senaraiPenuh.slice(0, had)
   // Kiraan dah rakam ikut siri & topik yang sedang dipilih
   const skop = skrip.filter(s => (siri === "Semua" || s.siri === siri) && (topik === "Semua" || s.topik === topik))
   const jumlahRakam = skop.filter(s => dahRakam[s.id]).length
+  // Kotak harga keluar bila senarai ditapis (siri/topik/carian) dan ada skrip bertanda harga
+  const adaHarga = (siri !== "Semua" || topik !== "Semua" || cari.trim() !== "") && senaraiPenuh.some(s => s.adaHarga)
   const tukarStatus = (nilai, on) => { setStatus(on ? nilai : "semua"); setHad(HAD_AWAL) }
 
   function salin(s) {
@@ -120,6 +139,22 @@ export default function App() {
             </button>
           ))}
         </div>
+        {adaHarga && (
+          <div className="harga">
+            <div className="harga-tajuk">💰 Harga buyback hari ni <span>auto masuk dalam skrip</span></div>
+            <div className="harga-baris">
+              <label>999<span>RM</span>
+                <input inputMode="decimal" value={harga.harga999} onChange={e => ubahHarga("harga999", e.target.value)} />
+                <small>/g</small>
+              </label>
+              <label>916<span>RM</span>
+                <input inputMode="decimal" value={harga.harga916} onChange={e => ubahHarga("harga916", e.target.value)} />
+                <small>/g</small>
+              </label>
+            </div>
+            <div className="harga-nota">Dikemaskini: {harga.tarikh || "-"}</div>
+          </div>
+        )}
         <div className="toggles">
           <label className="toggle">
             <input type="checkbox" checked={status === "belum"} onChange={e => tukarStatus("belum", e.target.checked)} />

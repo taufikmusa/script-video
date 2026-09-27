@@ -60,3 +60,6 @@ Penyelamat!`
 
 // Nama tambahan untuk siri (pilihan)
 export const namaSiri = {};
+
+// Harga lalai untuk slot {harga999} & {harga916}
+export const hargaLalai = { harga999: "542", harga916: "497", tarikh: "" };

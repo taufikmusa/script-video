@@ -34,6 +34,16 @@ button { font: inherit; }
 .chip { padding: 8px 14px; border-radius: 20px; border: 1px solid var(--garis); background: transparent; color: var(--pudar); cursor: pointer; font-size: 14px; }
 .chip.aktif { background: var(--emas); color: #1a1814; border-color: var(--emas); font-weight: 600; }
 .chip-n { opacity: .65; font-size: 12px; margin-left: 2px; }
+.harga { margin-top: 14px; border: 1px solid var(--emas); border-radius: 12px; padding: 12px 14px; background: #1a1712; }
+.harga-tajuk { color: var(--emas); font-weight: 700; font-size: 14px; }
+.harga-tajuk span { color: var(--lagi-pudar); font-weight: 400; font-size: 12px; margin-left: 6px; }
+.harga-baris { display: flex; flex-wrap: wrap; gap: 10px 20px; margin-top: 10px; }
+.harga-baris label { display: flex; align-items: center; gap: 6px; font-weight: 700; color: var(--teks); font-size: 15px; }
+.harga-baris label span { color: var(--pudar); font-weight: 400; margin-left: 4px; }
+.harga-baris input { width: 90px; padding: 8px 10px; font-size: 16px; font-weight: 700; border-radius: 8px; border: 1px solid var(--garis); background: var(--kad); color: #fff; outline: none; }
+.harga-baris input:focus { border-color: var(--emas); }
+.harga-baris small { color: var(--lagi-pudar); }
+.harga-nota { margin-top: 8px; color: var(--lagi-pudar); font-size: 12px; }
 .toggles { display: flex; flex-wrap: wrap; gap: 6px 22px; margin-top: 14px; }
 .toggle { display: flex; align-items: center; gap: 8px; color: var(--pudar); font-size: 14px; cursor: pointer; }
 .statbar { display: flex; justify-content: space-between; margin-top: 14px; color: var(--lagi-pudar); font-size: 13px; border-top: 1px solid #2a261d; padding-top: 12px; }
