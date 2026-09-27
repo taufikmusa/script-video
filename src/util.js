@@ -35,8 +35,8 @@ export function kiraPatah(teks) {
   return teks.split(/\s+/).filter(Boolean).length
 }
 
-// Anggaran masa bacaan ~150 patah seminit (gaya reels yang bertenaga)
-export function anggarMasa(patah, ppm = 150) {
+// Anggaran masa bacaan ~165 patah seminit (skrip 60 saat ≈ 160-165 patah)
+export function anggarMasa(patah, ppm = 165) {
   const saat = Math.round((patah / ppm) * 60)
   if (saat < 60) return `~${saat}s`
   return `~${Math.floor(saat / 60)}m ${String(saat % 60).padStart(2, "0")}s`

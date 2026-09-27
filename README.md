@@ -6,7 +6,7 @@ Stack: Vite + React → GitHub → **GitHub Pages** (auto-deploy guna GitHub Act
 
 ## Ciri
 - **Cari** merentas tajuk, isi skrip, tags & topik (boleh taip beberapa kata, cth `pg jewel zakat`). Klik `#tag` untuk cari terus.
-- **Tapis topik** — senarai topik dijana automatik dari `data.js`.
+- **Tapis siri** (Script-01 … Script-06, setiap siri bernombor 01, 02, …) dan **topik** (dijana automatik dari `data.js`). Cari nombor terus: `script-03 07`.
 - **📋 Salin** skrip penuh satu klik.
 - **✓ Dah rakam** — tanda skrip yang dah rakam (simpan dalam pelayar, `localStorage`).
 - **Skrip cadangan hari ni** — satu skrip dipilih ikut tarikh (utamakan yang belum rakam).
@@ -27,7 +27,7 @@ Pisahkan setiap babak dengan satu baris kosong. Baris terakhir = punchline.
 Ada banyak skrip dalam .docx (format "Tab 1", "Tab 2"...)? Jana blok terus:
 ```bash
 pip install python-docx
-python tools/docx_ke_data.py Script_Video-02.docx --mula 13
+python tools/docx_ke_data.py Batch_6.docx --siri Script-07 --mula 163
 ```
 
 ## Jalan di komputer

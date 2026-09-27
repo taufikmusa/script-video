@@ -6,7 +6,7 @@ const lebar = typeof window !== "undefined" ? window.innerWidth : 1000
 const TETAPAN_LALAI = { laju: 5, saiz: lebar < 600 ? 34 : 52, cermin: false, tengah: false }
 const HAD = { lajuMin: 1, lajuMax: 20, saizMin: 24, saizMax: 96 }
 
-export default function Teleprompter({ skrip, onTutup }) {
+export default function Teleprompter({ skrip, label, onTutup }) {
   const [tetapan, setTetapan] = useState(() => muat("prompter", TETAPAN_LALAI))
   const [main, setMain] = useState(false)
   const [kiraan, setKiraan] = useState(0)        // 3-2-1 sebelum mula
@@ -137,7 +137,7 @@ export default function Teleprompter({ skrip, onTutup }) {
   return (
     <div className="tp">
       <div className="tp-atas">
-        <div className="tp-tajuk">{skrip.tajuk}</div>
+        <div className="tp-tajuk">{label ? `${label} · ` : ""}{skrip.tajuk}</div>
         <button className="tp-x" onClick={onTutup} aria-label="Tutup">✕</button>
       </div>
       <div className="tp-progres"><div style={{ width: `${kemajuan * 100}%` }} /></div>

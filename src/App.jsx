@@ -3,11 +3,14 @@ import { skrip } from './data'
 import Teleprompter from './Teleprompter'
 import { muat, simpan, salinKeClipboard, kiraPatah, anggarMasa, tarikhMelayu } from './util'
 
+const SIRI = ["Semua", ...Array.from(new Set(skrip.map(s => s.siri)))]
 const TOPIK = ["Semua", ...Array.from(new Set(skrip.map(s => s.topik)))]
+const nombor = s => `${s.siri} · ${String(s.no).padStart(2, "0")}`
 const HAD_AWAL = 30
 
 export default function App() {
   const [cari, setCari] = useState("")
+  const [siri, setSiri] = useState("Semua")
   const [topik, setTopik] = useState("Semua")
   const [hanyaBelum, setHanyaBelum] = useState(false)
   const [dahRakam, setDahRakam] = useState(() => muat("dahRakam", {}))
@@ -30,13 +33,14 @@ export default function App() {
   const senaraiPenuh = useMemo(() => {
     const kata = cari.trim().toLowerCase().split(/\s+/).filter(Boolean)
     return skrip.filter(s => {
+      if (siri !== "Semua" && s.siri !== siri) return false
       if (topik !== "Semua" && s.topik !== topik) return false
       if (hanyaBelum && dahRakam[s.id]) return false
       if (kata.length === 0) return true
-      const hay = (s.tajuk + " " + s.teks + " " + s.tags.join(" ") + " " + s.topik).toLowerCase()
+      const hay = [nombor(s), s.tajuk, s.teks, s.tags.join(" "), s.topik, s.hook || ""].join(" ").toLowerCase()
       return kata.every(k => hay.includes(k))   // semua kata kunci mesti ada
     })
-  }, [cari, topik, hanyaBelum, dahRakam])
+  }, [cari, siri, topik, hanyaBelum, dahRakam])
 
   const senarai = senaraiPenuh.slice(0, had)
   const jumlahRakam = Object.values(dahRakam).filter(Boolean).length
@@ -77,7 +81,7 @@ export default function App() {
           <div className="banner">
             <div>
               <div className="banner-tarikh">📅 {tarikhMelayu(new Date())}</div>
-              <div className="banner-sub">Skrip cadangan hari ni: <b>{skripHariIni.tajuk}</b></div>
+              <div className="banner-sub">Skrip cadangan hari ni: <b>{nombor(skripHariIni)} — {skripHariIni.tajuk}</b></div>
             </div>
             <button className="btn btn-emas" onClick={() => bukaPrompter(skripHariIni)}>▶ Rakam sekarang</button>
           </div>
@@ -86,10 +90,21 @@ export default function App() {
         <input
           className="search"
           type="search"
-          placeholder="🔍 Cari topik, kata kunci… (cth: zakat, 916, gap)"
+          placeholder="🔍 Cari topik, kata kunci… (cth: zakat, 916, script-03 07)"
           value={cari}
           onChange={e => { setCari(e.target.value); setHad(HAD_AWAL) }}
         />
+        <div className="chips">
+          {SIRI.map(k => (
+            <button
+              key={k}
+              className={"chip chip-siri" + (siri === k ? " aktif" : "")}
+              onClick={() => { setSiri(k); setHad(HAD_AWAL) }}
+            >
+              {k} <span className="chip-n">{k === "Semua" ? skrip.length : skrip.filter(s => s.siri === k).length}</span>
+            </button>
+          ))}
+        </div>
         <div className="chips">
           {TOPIK.map(k => (
             <button
@@ -97,7 +112,7 @@ export default function App() {
               className={"chip" + (topik === k ? " aktif" : "")}
               onClick={() => { setTopik(k); setHad(HAD_AWAL) }}
             >
-              {k} <span className="chip-n">{k === "Semua" ? skrip.length : skrip.filter(s => s.topik === k).length}</span>
+              {k} <span className="chip-n">{skrip.filter(s => (siri === "Semua" || s.siri === siri) && (k === "Semua" || s.topik === k)).length}</span>
             </button>
           ))}
         </div>
@@ -119,10 +134,14 @@ export default function App() {
           return (
             <article key={s.id} className={"kad" + (dahRakam[s.id] ? " kad-rakam" : "")}>
               <div className="kad-atas">
-                <span className="badge">{s.topik}</span>
+                <span className="no">{nombor(s)}</span>
                 <span className="meta">{anggarMasa(kiraPatah(s.teks))} · {kiraPatah(s.teks)} patah</span>
               </div>
               <h2 className="tajuk">{s.tajuk}</h2>
+              <div className="sub">
+                <span className="badge">{s.topik}</span>
+                {s.hook && <span className="gaya">🎣 {s.hook}</span>}
+              </div>
               <p className="hook">“{perenggan[0]}”</p>
               <div className="tags">
                 {s.tags.map(t => (
@@ -158,7 +177,7 @@ export default function App() {
 
       <footer className="footer">Vault Skrip Video · Taufik Bin Musa</footer>
 
-      {prompter && <Teleprompter skrip={prompter} onTutup={tutupPrompter} />}
+      {prompter && <Teleprompter skrip={prompter} label={nombor(prompter)} onTutup={tutupPrompter} />}
     </div>
   )
 }
