@@ -10,7 +10,7 @@ Perpustakaan peribadi skrip video pendek Taufik + teleprompter untuk rakam.
 - **Repo:** `taufikmusa/script-video` (branch kerja & default: yang sedia ada dalam repo — semak `git branch -a`)
 - **Live:** https://taufikmusa.github.io/script-video/
 - **Stack:** Vite + React (JS) → GitHub → GitHub Pages via GitHub Actions (`.github/workflows/deploy.yml`, Pages Source = "GitHub Actions")
-- **Kandungan (Sept 2026):** 162 skrip — Script-01 (12) + Script-02 hingga Script-06 (5 × 30). id global 1–162.
+- **Kandungan (Sept 2026):** 192 skrip — Script-01 (12) + Script-02 hingga Script-06 (5 × 30) + Script-07 "Jual Emas" (30, gabungan 3 fail × 10). id global 1–192.
 
 Folder `reference/` ada kod penuh yang berfungsi (salinan dari repo). Kalau repo dah ada, KERJA TERUS DALAM REPO — reference hanya untuk bina semula / projek baru.
 
@@ -50,26 +50,33 @@ Punchline!`              // babak dipisah SATU baris kosong; perenggan terakhir 
 ```
 
 **Konvensyen yang Taufik dah tetapkan:**
-- Setiap fail docx = satu siri `Script-NN` (dua digit). Script-01 = 12 skrip asal (Script_Video-01.docx, Tab 1–12). Batch 1 (fail tanpa nombor batch, topik 1–30) = Script-02, Batch 2 = Script-03 … Batch 5 = Script-06. Batch seterusnya = Script-07 dan ke atas.
+- Setiap fail docx = satu siri `Script-NN` (dua digit). Script-01 = 12 skrip asal (Script_Video-01.docx, Tab 1–12). Batch 1 (fail tanpa nombor batch, topik 1–30) = Script-02, Batch 2 = Script-03 … Batch 5 = Script-06. Script-07 = 3 fail "10 Skrip Viral Jual Emas Terpakai" Batch 01–03 digabung (no 01–30, topik tetap "Jual Emas"). Siri baru seterusnya = Script-08.
+- Beberapa fail boleh digabung jadi SATU siri bila Taufik minta — guna `--no-mula` supaya nombor bersambung.
+- Nama siri pilihan (cth "Jual Emas") disimpan dalam `export const namaSiri = { "Script-07": "Jual Emas" }` di hujung `data.js`; chip papar `Script-07 · Jual Emas` dan nama ini boleh dicari. Siri yang Taufik beri nama dalam kurungan ("Script-07 (Jual Emas)") → tambah ke `namaSiri`, JANGAN tukar `siri`.
 - `no` bermula 01 dalam SETIAP siri (bukan ikut nombor topik 31, 61 dalam docx).
 - Punchline `★ Scam! ★` → buang bintang. Teleprompter besarkan & warnakan emas perenggan terakhir secara automatik.
 - Em dash (—) dalam skrip DIBIARKAN (jadi isyarat jeda masa baca). Tukar ke koma hanya jika Taufik minta.
 - Skrip bertindih antara Script-01 dan Script-02 dikekalkan (ayat sedikit berbeza) melainkan Taufik minta buang.
 
-**9 topik (kekalkan nama tepat):** Kewangan Peribadi, Strategi Emas, Kenapa Emas, Bisnes & Dealer, Zakat & Syariah, Public Gold & GAP, Keluarga, Penipuan & Keselamatan, Barang Kemas. Senarai chip dijana automatik dari data — topik baru muncul sendiri, tapi elak cipta topik baru tanpa sebab.
+**10 topik (kekalkan nama tepat):** Kewangan Peribadi, Strategi Emas, Kenapa Emas, Bisnes & Dealer, Zakat & Syariah, Public Gold & GAP, Keluarga, Penipuan & Keselamatan, Barang Kemas, Jual Emas (topik paksa untuk Script-07). Senarai chip dijana automatik dari data — topik baru muncul sendiri, tapi elak cipta topik baru tanpa sebab.
 
 ## 3. Tambah batch docx baru (aliran kerja utama)
 
 1. Kenal pasti format docx:
    - **Format batch** (paling biasa): heading `SKRIP NN: TAJUK HURUF BESAR`, jadual 1×3 selepasnya (Anggaran Masa | Gaya Hook | Kata Terakhir), senarai `Skrip NN: Tajuk [Punchline: X]` di awal (tajuk huruf biasa diambil dari sini), punchline `★ X! ★`.
    - **Format tab**: gaya "Title" (`Tab 1`, `Tab 2`) diikuti perenggan.
-   Converter auto-kesan (ada jadual → batch, tiada → tab).
+   - **Format angle** (siri Jual Emas): heading `Skrip NN: Angle Tajuk (...)`, jadual 1×1 meta bermula `⏱`, kemudian jadual 1×1 berisi skrip (satu baris = satu babak). Punchline melekat di ayat akhir `"...sehelai... Kertas!"` — converter pecahkan jadi perenggan `…sehelai...` + `Kertas!` supaya teleprompter besarkan kata terakhir sahaja. Prefix "Angle " dibuang dari tajuk. Jadual awal (penulis/kadar rujukan & ringkasan angle) diabaikan.
+   Converter auto-kesan (ada "Skrip NN: Angle" → angle; ada jadual → batch; tiada → tab).
 2. Jana blok:
    ```bash
    pip install python-docx
-   python tools/docx_ke_data.py "fail.docx" --siri Script-07 --mula 163 > /tmp/blok.txt
+   python tools/docx_ke_data.py "fail.docx" --siri Script-08 --mula 193 > /tmp/blok.txt
+   # gabung beberapa fail dalam satu siri + paksa topik:
+   python tools/docx_ke_data.py b1.docx --siri Script-08 --mula 193 --no-mula 1  --topik "X" >> /tmp/blok.txt
+   python tools/docx_ke_data.py b2.docx --siri Script-08 --mula 203 --no-mula 11 --topik "X" >> /tmp/blok.txt
    ```
-   Output berakhir dengan koma — tampal sebelum `];` penutup dalam `src/data.js` (buang koma terakhir sebelum `]` atau biar; JS terima trailing comma).
+   Semak juga setiap skrip: perenggan terakhir mesti punchline pendek (cth `Kertas!`).
+   Output berakhir dengan koma — tampal sebelum `];` penutup ARRAY `skrip` dalam `src/data.js` (bukan selepas `namaSiri`) (buang koma terakhir sebelum `]` atau biar; JS terima trailing comma).
 3. **Semak topik yang diteka** — converter guna kata kunci (tajuk dulu, kemudian isi) dan kadang tersasar (cth skrip "Bank Pusat Borong Emas" jatuh ke Public Gold & GAP sedangkan patut Kenapa Emas). Senaraikan `siri no topik tajuk` dan betulkan yang salah dengan tangan. Kali lepas ~14/150 perlu dibetulkan.
 4. Sahkan:
    ```bash
@@ -124,4 +131,5 @@ Punchline!`              // babak dipisah SATU baris kosong; perenggan terakhir 
 | Run lama "cancelled" | `concurrency: pages` batalkan run lama bila push baru — normal, semak run terkini. |
 | Deploy ditolak environment | Environment `github-pages` hanya benarkan branch default. Push ke branch default atau tambah branch dalam Settings → Environments. |
 | Skrin putih | Error JS: koma hilang dalam data.js, backtick tak di-escape, atau locale API. Jalankan `npm run build` + node import data.js. |
+| Harga dalam skrip basi | Skrip Jual Emas sebut kadar belian semula (RM542/g 999, RM497/g 916 — 27 Sept 2026). Ingatkan Taufik semak harga semasa sebelum rakam. |
 | Tanda dah rakam hilang | localStorage per peranti — tukar phone/clear cache = hilang. Beritahu Taufik; sync antara peranti perlukan backend. |
