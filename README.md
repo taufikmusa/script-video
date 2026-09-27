@@ -30,6 +30,9 @@ pip install python-docx
 python tools/docx_ke_data.py Batch_6.docx --siri Script-07 --mula 163
 ```
 
+## Skill Claude
+Panduan penuh untuk Claude (tambah batch, konvensyen siri, teleprompter): `.claude/skills/vault-skrip-video/SKILL.md`.
+
 ## Jalan di komputer
 ```bash
 npm install
