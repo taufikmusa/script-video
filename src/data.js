@@ -4554,6 +4554,1146 @@ Pernah tak anda menyesal lepaskan emas lama terlalu cepat pada masa lalu? Kongsi
 Hargai setiap gram simpanan anda demi menjamin masa depan yang...
 
 Tenang!`
+  },
+  {
+    id: 193,
+    siri: "Catchy-01",
+    no: 1,
+    topik: "Kenapa Emas",
+    tajuk: "3 Golongan yang Mendapat Manfaat Besar dari Simpanan Emas",
+    tags: ["inflasi", "krisis", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Tak semua orang kena simpan emas tau!
+
+Tapi kalau ada 3 masalah ni, wajib simpan, okey?
+
+Tangan gatal berbelanja?
+
+Tukar jadi emas, okey?
+
+Emas matikan nafsu boros sebab kita sayang nak jual!
+
+Simpan tunai banyak?
+
+Kena ada emas, okey?
+
+Sebab inflasi makan kuasa beli duit kita diam-diam.
+
+Banyak aset tapi tiada emas fizikal?
+
+Kena simpan emas, okey?
+
+Ibarat bot penyelamat bila berlaku krisis kewangan!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 194,
+    siri: "Catchy-01",
+    no: 2,
+    topik: "Strategi Emas",
+    tajuk: "3 Posisi Penting dalam Pelaburan Emas: Anda di Mana?",
+    tags: ["gaji", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Stres tengok graf harga emas naik turun setiap hari?
+
+Puncanya sebab anda tak tahu 3 posisi ni, okey?
+
+Nak untung tunai cepat?
+
+Itu pelabur emas, okey?
+
+Kena beli murah, jual mahal, dan jangan sayang emas!
+
+Nak selamatkan nilai titik peluh gaji?
+
+Itu penyimpan emas, okey?
+
+Fokus kumpul gram konsisten tanpa peduli graf harian.
+
+Nak buat duit sambil kumpul gram percuma?
+
+Jadilah peniaga emas, okey?
+
+Bina pendapatan royalti pasif berterusan seumur hidup!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 195,
+    siri: "Catchy-01",
+    no: 3,
+    topik: "Kenapa Emas",
+    tajuk: "5 Sebab Kenapa Pakar Kewangan Sarankan Simpan Emas",
+    tags: ["susut nilai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Tahu tak kenapa pakar kewangan senyap-senyap alihkan kekayaan ke emas?
+
+Sebab 3 rahsia besar ni, okey?
+
+Risau simpanan bank susut nilai?
+
+Tukar jadi emas fizikal, okey?
+
+Purata kenaikan emas rekod lebih 10 peratus setahun!
+
+Duit simpanan selalu bocor?
+
+Kunci dalam bentuk emas, okey?
+
+Nafsu boros automatik mati bila pegang emas fizikal!
+
+Takut duit simpanan dibekukan?
+
+Simpan emas di tangan sendiri, okey?
+
+Aset hakiki 100 peratus milik anda tanpa risiko pihak ketiga!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 196,
+    siri: "Catchy-01",
+    no: 4,
+    topik: "Strategi Emas",
+    tajuk: "7 Checklist Penting Kaya dengan Emas",
+    tags: ["gap", "hutang", "gaji", "kecemasan", "auto-debit", "disiplin"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Ingat beli emas automatik terus kaya raya?
+
+Kena ada 3 disiplin sistem ni dulu, okey?
+
+Takut kecemasan hidup melanda?
+
+Sediakan 12 bulan dana kecemasan, okey?
+
+Benteng paling selamat sebelum fikir nak melabur!
+
+Hutang jahat masih bertimbun?
+
+Fokus langsaikan dulu, okey?
+
+Jangan biar faedah hutang makan titik peluh anda!
+
+Asyik simpan ikut baki hujung bulan?
+
+Tukar ke GAP Auto-Debit, okey?
+
+Gaji masuk terus tolak automatik, simpan dan lupakan!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 197,
+    siri: "Catchy-01",
+    no: 5,
+    topik: "Public Gold & GAP",
+    tajuk: "Akaun Emas GAP Bukan Emas Digital!",
+    tags: ["gap", "rumah", "skim", "emas digital", "cawangan"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Ingat akaun emas GAP ni emas digital atas skrin semata-mata?
+
+Bukan tau, ada 3 bukti fizikal ni, okey?
+
+Takut skim emas maya menipu?
+
+Uji minta keluar emas fizikal, okey?
+
+Platform betul wajib serahkan emas fizikal ke tangan anda!
+
+Nak kumpul bajet kecil ikut kemampuan?
+
+Guna akaun GAP, okey?
+
+Boleh kumpul serendah RM100 dengan simpanan percuma!
+
+Nak pegang kepingan emas sendiri?
+
+Keluarkan emas fizikal bila-bila masa, okey?
+
+Boleh ambil di cawangan atau pos berinsurans sampai rumah!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 198,
+    siri: "Catchy-01",
+    no: 6,
+    topik: "Kenapa Emas",
+    tajuk: "Asal Duit adalah Emas (Sejarah 15 Ogos 1971)",
+    tags: ["gaji", "dinar", "1971", "sejarah"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Tahu tak duit kertas dalam dompet kita bukan duit sebenar?
+
+Sejak 15 Ogos 1971, ada 3 fakta anda kena tahu, okey?
+
+Sedar tak duit kertas cuma baucar?
+
+Dulu wajib disandar emas, okey?
+
+Tapi sandaran tu dah dibatalkan secara sepihak!
+
+Hairan kenapa harga barang makin mahal?
+
+Sebab duit kertas dicetak sesuka hati, okey?
+
+Mesin cetak jalan terus, kuasa beli gaji kita makin jatuh!
+
+Nak kuasa beli kekal 1,400 tahun?
+
+Simpan dinar emas, okey?
+
+Dari zaman Nabi sampai hari ini, 1 dinar tetap mampu beli seekor kambing!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 199,
+    siri: "Catchy-01",
+    no: 7,
+    topik: "Strategi Emas",
+    tajuk: "4 Asas Pelaburan Emas yang Wajib Diketahui",
+    tags: ["hutang", "hartanah", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Sebelum letak duit dalam emas, tunggu dulu!
+
+Kena faham 3 rukun asas ni supaya tak lebur, okey?
+
+Ada orang janji dividen emas bulanan 5 peratus?
+
+Tolak laju-laju, okey?
+
+Emas fizikal tiada dividen, itu sah scammer!
+
+Beli emas tapi tak dapat barang?
+
+Wajib pegang emas fizikal di tangan, okey?
+
+Transaksi sah mesti ada serahan barang sebenar!
+
+Nak melabur tapi tak tahu tujuan?
+
+Tetapkan matlamat jelas, okey?
+
+Guna emas untuk bebas hutang dan beli hartanah tunai!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 200,
+    siri: "Catchy-01",
+    no: 8,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Beli Emas, Mesti Dapat Emas! Titik.",
+    tags: [],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Beli emas fizikal pun boleh kena tipu, apatah lagi beli emas atas angin!
+
+Kena pegang 3 prinsip ni, okey?
+
+Orang tawar sijil digital tanpa serah barang?
+
+Jangan sesekali percaya, okey?
+
+Bila syarikat lesap, sijil atas kertas tu jadi sampah!
+
+Takut aset dibekukan pihak ketiga?
+
+Pegang emas fizikal sendiri, okey?
+
+Satu-satunya harta yang tiada risiko pihak ketiga!
+
+Nak tidur lena bila simpan emas?
+
+Pastikan barang ada dalam genggaman, okey?
+
+Emas di tangan, kuasa kekayaan seratus peratus milik anda!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 201,
+    siri: "Catchy-01",
+    no: 9,
+    topik: "Public Gold & GAP",
+    tajuk: "Belian EPP vs GAP Auto-Debit: Mana Lebih Menguntungkan?",
+    tags: ["gap", "auto-debit", "epp", "syariah"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Keliru nak kumpul emas guna ansuran EPP atau simpan santai GAP?
+
+Faham 3 perbezaan ni dulu, okey?
+
+Nak paksa diri sambar gold bar besar?
+
+Pilih ansuran EPP patuh syariah, okey?
+
+Boleh kunci harga hari ini dan bayar ansuran 6 ke 10 bulan!
+
+Nak menabung santai tanpa komitmen berat?
+
+Pilih potongan GAP Auto-Debit, okey?
+
+Tiada risiko penalti dan nikmati kelebihan pemurataan kos!
+
+Harga emas turun naik dalam pasaran?
+
+Kekal konsisten setiap bulan, okey?
+
+Harga turun dapat lebih banyak gram emas!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 202,
+    siri: "Catchy-01",
+    no: 10,
+    topik: "Strategi Emas",
+    tajuk: "Berapa Jumlah Simpanan Emas Setiap Orang Patut Ada?",
+    tags: ["krisis", "kecemasan"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Berapa gram emas sebenarnya setiap keluarga wajib miliki?
+
+Pakar kewangan pesan capai 3 sasaran ni, okey?
+
+Baru nak mula bina benteng kecemasan?
+
+Kumpul 100 gram pertama, okey?
+
+Dana rizab peribadi bila berlaku kecemasan hidup!
+
+Berapa peratus kekayaan patut dialihkan?
+
+Peruntukkan 10 hingga 15 peratus harta, okey?
+
+Khas dalam bentuk emas fizikal di luar sistem bank!
+
+Nak pastikan keluarga kebal krisis ekonomi besar?
+
+Sasarkan simpanan 1 kilogram emas, okey?
+
+Bot penyelamat ratusan ribu yang tak boleh dibekukan sesiapa!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 203,
+    siri: "Catchy-01",
+    no: 11,
+    topik: "Strategi Emas",
+    tajuk: "Rahsia Cikgu Syahrul Beli Tanah Lot Rumah Secara Tunai",
+    tags: ["gaji", "rumah", "ringgit", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Gaji cikgu biasa tapi mampu beli tanah lot secara tunai tanpa pinjaman bank?
+
+Ini 3 rahsia beliau buat, okey?
+
+Duit dalam akaun bank sentiasa bocor?
+
+Tukar lebihan gaji jadi emas fizikal, okey?
+
+Bila jadi emas, simpanan selamat dan tak mudah diusik!
+
+Asyik gatal tangan nak belanjakan duit?
+
+Peram emas rapi bertahun-tahun, okey?
+
+Biar gram bertambah dan nilai emas berkembang!
+
+Cukup gram dan harga melonjak tinggi?
+
+Cairkan emas beli tanah tunai, okey?
+
+Jimat ratusan ribu ringgit daripada bayar faedah pinjaman bank!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 204,
+    siri: "Catchy-01",
+    no: 12,
+    topik: "Strategi Emas",
+    tajuk: "Bina 2 Buah Rumah Sewa Tunai guna 531 Gram Emas (Kisah En Bashir)",
+    tags: ["hutang", "gaji", "hartanah", "rumah", "epp", "disiplin", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Ingat simpan emas sekadar peram dalam album?
+
+Tengok 3 langkah En Bashir jana pasif RM1,000 sebulan ni, okey?
+
+Gaji bulanan nak ditukar jadi aset besar?
+
+Paksa diri menabung ansuran EPP, okey?
+
+Disiplin bertahun-tahun sampai terkumpul 531 gram emas!
+
+Peluang bina rumah sewa tiba?
+
+Cairkan sebahagian emas dapat RM100,000 tunai, okey?
+
+Bina 2 buah rumah sewa tanpa buat pinjaman bank sesen pun!
+
+Nak pendapatan pasif mengalir setiap bulan?
+
+Tukar emas kepada aset hartanah, okey?
+
+Rumah siap bebas hutang, sewa bersih masuk poket setiap bulan!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 205,
+    siri: "Catchy-01",
+    no: 13,
+    topik: "Kewangan Peribadi",
+    tajuk: "Bila Melabur, Rugi dalam Tangan, tapi Untung Belum Tentu",
+    tags: ["skim", "kecemasan", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Jangan sesekali melabur duit yang anda tak sanggup tengok hangus!
+
+Pegang 3 prinsip keselamatan ni, okey?
+
+Duit makan pun cukup-cukup belanja?
+
+Jangan terjebak pelaburan risiko tinggi, okey?
+
+Bila melabur, rugi dah pasti tapi untung belum tentu!
+
+Risau simpanan habis lebur dalam skim cepat kaya?
+
+Sediakan 6 bulan dana kecemasan tunai, okey?
+
+Asas kewangan paling penting sebelum fikir nak gandakan duit!
+
+Nak modal selamat daripada hangus?
+
+Simpan dalam emas fizikal, okey?
+
+Nilai intrinsik logam kekal dan takkan pernah jadi sifar!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 206,
+    siri: "Catchy-01",
+    no: 14,
+    topik: "Bisnes & Dealer",
+    tajuk: "Bisnes Public Gold Boleh Diwarisi: Kisah Arwah Tuan Muda Abdur Rahman",
+    tags: ["bisnes"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Bila kita pejam mata nanti, apa jadi pada nafkah keluarga?
+
+Fahami 3 kelebihan bisnes boleh diwarisi ni, okey?
+
+Maut datang tanpa diduga pada usia muda?
+
+Bina perniagaan berlesen yang sah, okey?
+
+Macam arwah Tuan Muda Abdur Rahman yang pergi seawal 25 tahun!
+
+Risau keluarga hilang punca pendapatan?
+
+Sistem Public Gold pindahkan royalti ke waris, okey?
+
+RM5,000 ke RM8,000 sebulan automatik diserah kepada ibu arwah tanpa birokrasi!
+
+Nak bina aset yang menjaga orang tersayang?
+
+Bina empayar penyimpan emas hari ini, okey?
+
+Kerja keras anda diiktiraf sebagai legasi seumur hidup!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 207,
+    siri: "Catchy-01",
+    no: 15,
+    topik: "Kewangan Peribadi",
+    tajuk: "Cabaran bila Ada Duit Tunai di Tangan: Penyakit Tangan Gatal",
+    tags: ["gaji", "bonus", "kecemasan", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Dapat bonus atau lebihan gaji mesti lesap tanpa dikesan?
+
+Rawat penyakit 'tangan gatal' dengan 3 langkah ni, okey?
+
+Nampak baki akaun bank berkepuk?
+
+Jangan biar duduk lama dalam bank, okey?
+
+Naluri manusia memang akan cari jalan untuk belanja!
+
+Tergoda jualan murah diskaun 50 peratus?
+
+Tukar duit terus jadi kepingan emas, okey?
+
+Nafsu boros serta-merta mati sebab fitrah kita sayang nak jual!
+
+Tiba-tiba berdepan kecemasan mendesak?
+
+Cairkan semula emas bila-bila masa, okey?
+
+Emas adalah tunai segera yang mudah ditukar duit balik!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 208,
+    siri: "Catchy-01",
+    no: 16,
+    topik: "Strategi Emas",
+    tajuk: "Mitos Mencari Harga Emas Paling Rendah",
+    tags: ["gap", "auto-debit", "sejarah"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Asyik tunggu harga emas jatuh lantai baru nak beli?
+
+Tinggalkan 3 mitos ni kalau tak nak rugi, okey?
+
+Ingat ada pakar tahu harga paling lantai?
+
+Tiada siapa tahu masa depan pasaran, okey?
+
+Harga murah hanya diketahui bila ia dah jadi sejarah!
+
+Rindu harga lama RM250 segram?
+
+Harga lama takkan kembali lagi, okey?
+
+Lagi lama bertangguh, lagi mahal harga terpaksa dibayar!
+
+Nak strategi simpanan paling tenang?
+
+Beli emas dan tunggu, okey?
+
+Aktifkan GAP Auto-Debit dan mula simpan secara konsisten!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 209,
+    siri: "Catchy-01",
+    no: 17,
+    topik: "Zakat & Syariah",
+    tajuk: "Dinar Emas sebagai Maskahwin: Simpanan Kekal Bernilai",
+    tags: ["gap", "inflasi", "dinar", "ringgit", "999", "anak", "kahwin"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Wang hantaran kahwin ribuan ringgit selalunya habis lepas kenduri!
+
+Tukar jadi dinar emas sebab 3 kelebihan ni, okey?
+
+Duit hantaran cepat lesap dibelanjakan?
+
+Gantikan dengan Dinar Emas 999.9, okey?
+
+Nilai sentimental tinggi dan pasangan sayang nak jual!
+
+Risau kuasa beli susut lepas 10 tahun kahwin?
+
+Dinar emas kalis inflasi, okey?
+
+Nilai emas kekal utuh untuk masa depan anak cucu!
+
+Bakal pengantin pening nak cari modal kahwin?
+
+Kumpul dinar guna akaun GAP, okey?
+
+Menabung serendah RM100 sebulan tanpa perlu berhutang kenduri!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 210,
+    siri: "Catchy-01",
+    no: 18,
+    topik: "Kewangan Peribadi",
+    tajuk: "4 Cara Terbaik Bertahan ketika Ringgit Makin Lemah",
+    tags: ["gaji", "ringgit", "disiplin", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Ringgit makin lemah dan harga barang makin mahal?
+
+Jangan buang masa mengeluh, buat 3 tindakan ni, okey?
+
+Bocorkan perbelanjaan tanpa sedar?
+
+Kawal bajet dan potong langganan membazir, okey?
+
+Utamakan keperluan asas keluarga saja!
+
+Gaji masuk habis licin begitu saja?
+
+Disiplin simpan minima 10 peratus gaji, okey?
+
+Asingkan simpanan pada hari pertama terima gaji!
+
+Takut kuasa beli simpanan tunai cair?
+
+Alihkan simpanan ke emas fizikal, okey?
+
+Bila nilai duit jatuh, harga emas naik lindungi kekayaan anda!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 211,
+    siri: "Catchy-01",
+    no: 19,
+    topik: "Kenapa Emas",
+    tajuk: "Emas Menyelamatkan Keluarga Saya ketika Akaun Bank Dibekukan",
+    tags: ["krisis", "anak", "isteri"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Ingat duit dalam akaun bank seratus peratus milik kita?
+
+Fahami 3 pengajaran bila bank kena beku ni, okey?
+
+Sangka akaun bank kebal selamanya?
+
+Bank boleh sekat duit sekelip mata, okey?
+
+Krisis undang-undang boleh buat semua akaun lumpuh!
+
+Semua harta dan simpanan tak boleh disentuh?
+
+Emas fizikal jadi penyelamat nafkah, okey?
+
+Isteri Tuan Zul sara 8 anak guna emas fizikal bila akaun dibeku!
+
+Nak benteng kewangan bebas campur tangan luar?
+
+Simpan 10 ke 15 peratus harta dalam emas fizikal, okey?
+
+Disimpan di tangan sendiri tanpa siapa tahu lokasinya!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 212,
+    siri: "Catchy-01",
+    no: 20,
+    topik: "Kenapa Emas",
+    tajuk: "Emas sebagai Mata Wang Hakiki ketika Darurat & Gawat",
+    tags: ["krisis", "patah"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Waktu darurat dan banjir besar, duit kertas boleh jadi tak laku!
+
+Ini 3 sebab kenapa emas dicari masa krisis, okey?
+
+Bencana melanda dan bekalan elektrik terputus?
+
+Mesin ATM dan sistem kad bank lumpuh, okey?
+
+Duit dalam skrin langsung tak boleh digunakan untuk beli barang!
+
+Peniaga luar sempadan tolak duit kertas?
+
+Bawa emas fizikal, okey?
+
+Masa banjir Kelantan 2014, peniaga Thailand berebut terima emas walaupun patah!
+
+Perlukan mata wang yang laku di mana-mana?
+
+Simpan emas di tangan sendiri, okey?
+
+Mata wang sejagat yang diiktiraf di seluruh dunia tanpa syarat!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 213,
+    siri: "Catchy-01",
+    no: 21,
+    topik: "Zakat & Syariah",
+    tajuk: "Kos Naik Haji Turun 80% bila Dinilai dalam Emas",
+    tags: ["gap", "haji", "disiplin"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Risau kos tambang haji makin melambung mahal setiap tahun?
+
+Tengok 3 fakta ajaib nilai emas ni, okey?
+
+Tahun 1998 tambang haji RM8,000?
+
+Masa tu perlukan 267 gram emas, okey?
+
+Sebab harga emas waktu tu baru RM30 segram!
+
+Tahun 2017 tambang naik ke hampir RM10,000?
+
+Jemaah cuma perlukan 56 gram emas saja, okey?
+
+Harga emas melonjak tinggi, kos haji turun hampir 80 peratus!
+
+Nak kunci kos tambang haji masa depan?
+
+Kumpul sasaran 60 gram emas, okey?
+
+Disiplin simpan 1 gram sebulan dalam akaun GAP selama 5 tahun!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 214,
+    siri: "Catchy-01",
+    no: 22,
+    topik: "Keluarga",
+    tajuk: "Formula Dana Pendidikan Anak 216 Gram (Bebas Pinjaman PTPTN)",
+    tags: ["gap", "hutang", "anak", "disiplin", "ptptn", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Simpan tunai RM35,000 hari ini takkan cukup untuk universiti anak 18 tahun lagi!
+
+Gunakan formula 3 langkah 216 gram ni, okey?
+
+Bayi baru lahir ke dunia?
+
+Buka Akaun GAP Junior seawal hari pertama, okey?
+
+Langkah paling awal selamatkan masa depan anak!
+
+Macam mana nak kumpul tanpa rasa terbeban?
+
+Disiplin simpan 1 gram emas setiap bulan, okey?
+
+1 gram darab 12 bulan darab 18 tahun genap 216 gram emas!
+
+Anak tamat sekolah menengah nanti?
+
+Biayai ijazah pertama secara tunai, okey?
+
+Anak melangkah ke alam kerjaya bebas daripada beban hutang pinjaman!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 215,
+    siri: "Catchy-01",
+    no: 23,
+    topik: "Kenapa Emas",
+    tajuk: "Duit Kertas, Emas, dan Token Mesin Dobi Layan Diri",
+    tags: ["krisis", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Sedar tak duit kertas dalam dompet kita sama macam token mesin dobi?
+
+Fahami 3 hakikat mudah ni, okey?
+
+Kenapa token mesin dobi ada nilai?
+
+Sebab ada peraturan pemilik kedai, okey?
+
+Bawa keluar ke pasar malam, kepingan besi tu tiada nilai sesen pun!
+
+Bagaimana pula dengan wang kertas?
+
+Bernilai hanya kerana jaminan kerajaan tempatan, okey?
+
+Bila berlaku hiperinflasi atau krisis, ia kembali jadi kertas sampah!
+
+Nak simpan kekayaan yang hakiki?
+
+Tukar tunai kepada logam emas, okey?
+
+Berat dan ketulenannya diiktiraf di seluruh dunia tanpa perlu tandatangan sesiapa!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 216,
+    siri: "Catchy-01",
+    no: 24,
+    topik: "Strategi Emas",
+    tajuk: "Fokus Tambah Gram, Jangan Bazirkan Emosi Pantau Harga Emas",
+    tags: ["gap", "gaji", "auto-debit", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Pantau graf harga emas setiap 20 minit cuma membazirkan emosi!
+
+Pegang 3 formula penyimpan tegar ni, okey?
+
+Kerajaan dunia cetak duit kertas tanpa henti?
+
+Kuasa beli tunai pasti terus merosot, okey?
+
+Harga emas jangka panjang tetap akan melonjak tinggi!
+
+Harga emas naik apa patut buat?
+
+Beli sikit untuk selamatkan gaji, okey?
+
+Bila harga turun, beli banyak untuk nikmati diskaun harga!
+
+Nak simpanan bertambah tanpa serabut kepala?
+
+Aktifkan GAP Auto-Debit, okey?
+
+Fokus tambah gram secara konsisten, simpan dan tidur lena!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 217,
+    siri: "Catchy-01",
+    no: 25,
+    topik: "Kenapa Emas",
+    tajuk: "Hakikat Sebenar di Sebalik Teori 1 Dinar 1 Ekor Kambing",
+    tags: ["inflasi", "dinar"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Harga emas naik beribu peratus tapi penyimpan emas tak bertambah kaya?
+
+Ini 3 hakikat sebenar di sebaliknya, okey?
+
+1,400 tahun lepas apa boleh dibeli dengan 1 dinar?
+
+Mampu beli seekor kambing hidup, okey?
+
+Nilai pertukaran pada zaman Rasulullah SAW!
+
+Hari ini tahun 2026 berapa nilai 1 dinar emas?
+
+Masih mampu beli seekor kambing yang sama, okey?
+
+Kuasa beli emas terbukti kekal utuh merentas zaman!
+
+Kenapa duit RM50 dulu boleh beli kambing sekarang tak dapat?
+
+Duit kertas dihakis inflasi secara senyap, okey?
+
+Simpan emas untuk pastikan titik peluh anda tak dirompak sistem!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 218,
+    siri: "Catchy-01",
+    no: 26,
+    topik: "Kenapa Emas",
+    tajuk: "Kenapa Robert Kiyosaki Kata 'Savers are Losers'?",
+    tags: ["inflasi", "kecemasan", "robert kiyosaki", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Kenapa penulis Rich Dad Poor Dad kata orang suka simpan duit adalah rugi?
+
+Sebab 3 perangkap wang kertas ni, okey?
+
+Simpan duit tunai lama-lama dalam bank?
+
+Kena telan dengan inflasi harga barang, okey?
+
+Karipap 10 sen zaman dulu sekarang dah seringgit seketul!
+
+Harapkan dividen bank 4 ke 5 peratus setahun?
+
+Dividen langsung tak mampu kejar kenaikan kos hidup, okey?
+
+Nombor baki bertambah tapi kuasa membeli makin mengecil!
+
+Nak jadi penyimpan yang menang?
+
+Simpan nilai, bukan simpan nombor, okey?
+
+Simpan tunai 3 bulan kecemasan saja, selebihnya alihkan ke emas fizikal!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 219,
+    siri: "Catchy-01",
+    no: 27,
+    topik: "Bisnes & Dealer",
+    tajuk: "Bisnes Public Gold macam Tanam Pokok Durian",
+    tags: ["dealer", "bisnes", "anak", "durian"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Ingat berniaga emas boleh kaya kilat dalam masa dua tiga bulan?
+
+Fahami 3 peringkat tanam pokok durian ni, okey?
+
+Baru mula jadi dealer dapat komisen kecil?
+
+Jangan putus asa, okey?
+
+Pelanggan simpan RM100 komisen baru seringgit, itu fasa bina asas!
+
+Nak hasil segera yang cepat habis?
+
+Itu macam tanam sayur dua bulan tuai, okey?
+
+Lepas tu kena tanam balik dari awal tanpa hasil berulang!
+
+Nak empayar yang hasilkan royalti bergenerasi?
+
+Bina bisnes Public Gold macam durian Musang King, okey?
+
+Bila pokok dah berbuah lebat, royalti mengalir dan boleh diwarisi anak cucu!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 220,
+    siri: "Catchy-01",
+    no: 28,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Bahaya Membeli Emas daripada Individu Tidak Dikenali",
+    tags: ["resit", "cawangan", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Nampak orang lelong emas murah gila di media sosial?
+
+Hati-hati dengan 3 bahaya besar ni, okey?
+
+Emas murah luar biasa dijual tepi jalan?
+
+Boleh jadi emas curi atau rompakan, okey?
+
+Sindiket nak cairkan tunai dengan cepat!
+
+Polis kesan emas tu sebagai barang kes jenayah?
+
+Anda boleh ditahan reman bersubahat, okey?
+
+Milik barang curi boleh kena penjara di bawah kanun keseksaan!
+
+Nak beli emas dengan tenang dan selamat?
+
+Beli hanya di platform syarikat sah berdaftar, okey?
+
+Ada resit rasmi dan cawangan fizikal yang dijamin tulen!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 221,
+    siri: "Catchy-01",
+    no: 29,
+    topik: "Public Gold & GAP",
+    tajuk: "Menara Public Gold @ TRX & Standard Emas Antarabangsa",
+    tags: ["ringgit", "kilang", "beli balik", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Macam mana nak tahu platform emas betul-betul kukuh atau sekadar atas kertas?
+
+Tengok 3 bukti integriti Public Gold ni, okey?
+
+Nak bukti fizikal yang nyata?
+
+Tengok Menara Public Gold di TRX Kuala Lumpur, okey?
+
+Pusat kewangan antarabangsa menempatkan gold bar LBMA 12.5kg bernilai jutaan ringgit!
+
+Adakah emas penyimpan disokong stok sebenar?
+
+Setiap gram disokong 1 nisbah 1 emas fizikal, okey?
+
+Malah ada kilang penulenan sendiri di Batu Kawan Pulau Pinang!
+
+Bila nak jual balik adakah syarikat mampu bayar?
+
+Rizab tunai Public Gold sangat teguh, okey?
+
+Mampu beli balik puluhan juta ringgit emas dalam masa 3 hari saja!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 222,
+    siri: "Catchy-01",
+    no: 30,
+    topik: "Zakat & Syariah",
+    tajuk: "Supaya Tak Rugi, Jangan Beri Pinjam Duit tapi Pinjamkan Emas",
+    tags: ["inflasi", "dinar", "syariah"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Kawan nak pinjam duit selalunya duit lebur kawan pun hilang!
+
+Selesaikan guna 3 langkah pinjam emas ni, okey?
+
+Bagi pinjam duit kertas RM1,000 hari ini?
+
+5 tahun lagi bayar kuasa beli dah susut jadi RM800, okey?
+
+Pemberi pinjam rugi dimakan inflasi, peminjam pula liat bayar!
+
+Nak lindungi nilai harta secara patuh syariah?
+
+Pinjamkan kepingan emas fizikal, okey?
+
+Pinjam 1 dinar atau 5 gram emas, wajib pulangkan dalam timbangan gram yang sama!
+
+Kenapa cara ni buat peminjam bayar lebih cepat?
+
+Sebab harga emas makin lama makin naik, okey?
+
+Harta anda terpelihara, hubungan silaturahim pun kekal selamat!
+
+Mana nak mula simpan?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
   }
 ];
 
