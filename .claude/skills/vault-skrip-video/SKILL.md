@@ -10,7 +10,7 @@ Perpustakaan peribadi skrip video pendek Taufik + teleprompter untuk rakam.
 - **Repo:** `taufikmusa/script-video` (branch kerja & default: yang sedia ada dalam repo — semak `git branch -a`)
 - **Live:** https://taufikmusa.github.io/script-video/
 - **Stack:** Vite + React (JS) → GitHub → GitHub Pages via GitHub Actions (`.github/workflows/deploy.yml`, Pages Source = "GitHub Actions")
-- **Kandungan (Sept 2026):** 234 skrip — Script-01 (12) + Script-02 hingga Script-06 (5 × 30) + Script-07 "Jual Emas" (30, gabungan 3 fail × 10) + Catchy-01 (12, id 223–234) + Catchy-02 (30, id 193–222). id global 1–234.
+- **Kandungan (Sept 2026):** 354 skrip — Script-01 (12) + Script-02 hingga Script-06 (5 × 30) + Script-07 "Jual Emas" (30, gabungan 3 fail × 10) + Catchy-01 (12, id 223–234) + Catchy-02 (30, id 193–222) + Catchy-03 hingga Catchy-06 (CatchyScript Batch 2–5, topik 31–150, 4 × 30, id 235–354). id global 1–354.
 
 Folder `reference/` ada kod penuh yang berfungsi (salinan dari repo). Kalau repo dah ada, KERJA TERUS DALAM REPO — reference hanya untuk bina semula / projek baru.
 
@@ -51,7 +51,7 @@ Punchline!`              // babak dipisah SATU baris kosong; perenggan terakhir 
 
 **Konvensyen yang Taufik dah tetapkan:**
 - Setiap fail docx = satu siri `Script-NN` (dua digit). Script-01 = 12 skrip asal (Script_Video-01.docx, Tab 1–12). Batch 1 (fail tanpa nombor batch, topik 1–30) = Script-02, Batch 2 = Script-03 … Batch 5 = Script-06. Script-07 = 3 fail "10 Skrip Viral Jual Emas Terpakai" Batch 01–03 digabung (no 01–30, topik tetap "Jual Emas"). Siri baru seterusnya = Script-08.
-- **Siri CatchyScript** (skrip 15–30 saat, formula Soalan? → Tindakan, okey? → Sebab, CTA tetap "Serendah RM100 je... Jangan simpan sorang sorang.") guna nama siri `Catchy-NN`, BUKAN Script-NN. Catchy-01 = versi CatchyScript Script_Video-01 (12 skrip, Tab 1–12), Catchy-02 = 30 skrip CatchyScript. Setiap baris (line break) = satu perenggan; punchline = `Jangan simpan sorang sorang.`; `hook: "CatchyScript (Soalan - Jawapan - Sebab)"`. Converter: `tools/catchy_ke_data.py` (baca document.xml terus, tak perlu python-docx).
+- **Siri CatchyScript** (skrip 15–30 saat, formula Soalan? → Tindakan, okey? → Sebab, CTA tetap "Serendah RM100 je... Jangan simpan sorang sorang.") guna nama siri `Catchy-NN`, BUKAN Script-NN. Catchy-01 = versi CatchyScript Script_Video-01 (12 skrip, Tab 1–12), Catchy-02 = 30 skrip CatchyScript (Batch 1), Batch N = Catchy-0(N+1). Siri CatchyScript seterusnya = Catchy-07. `no` mula 01 setiap siri (converter keluarkan nombor docx 31–60 dsb — tolak jadi 1–30). Setiap baris (line break) = satu perenggan; punchline = `Jangan simpan sorang sorang.`; `hook: "CatchyScript (Soalan - Jawapan - Sebab)"`. Converter: `tools/catchy_ke_data.py` (baca document.xml terus, tak perlu python-docx).
 - Beberapa fail boleh digabung jadi SATU siri bila Taufik minta — guna `--no-mula` supaya nombor bersambung.
 - Nama siri pilihan (cth "Jual Emas") disimpan dalam `export const namaSiri = { "Script-07": "Jual Emas" }` di hujung `data.js`; chip papar `Script-07 · Jual Emas` dan nama ini boleh dicari. Siri yang Taufik beri nama dalam kurungan ("Script-07 (Jual Emas)") → tambah ke `namaSiri`, JANGAN tukar `siri`.
 - `no` bermula 01 dalam SETIAP siri (bukan ikut nombor topik 31, 61 dalam docx).
