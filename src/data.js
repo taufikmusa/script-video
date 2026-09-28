@@ -10742,7 +10742,7 @@ Bayaran dipindahkan terus ke akaun bank anda pada hari yang sama!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -10780,7 +10780,7 @@ Staf uji di depan mata dan duit terus masuk akaun bank hari ini juga!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -10818,7 +10818,7 @@ Dapat tunai penuh tanpa perlu pening kepala fikir potongan spread luar!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -10856,7 +10856,7 @@ Bila setuju harga, bayaran terus dikreditkan segera ke akaun bank anda!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -10894,7 +10894,7 @@ Duit jualan terus ditransfer ke bank atau ambil tunai fizikal di Menara HQ KL!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -10932,7 +10932,7 @@ Urusan pantas, telus, dan poket anda selamat diisi tunai kecemasan!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -10970,7 +10970,7 @@ Duit jualan dipindahkan terus ke akaun bank anda pada hari yang sama!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11008,7 +11008,7 @@ Tiada birokrasi, tiada risiko, duit terus cair masuk poket anda!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11046,7 +11046,7 @@ Selesai imbasan bayaran terus ditransfer masuk ke akaun bank hari sama!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11084,7 +11084,7 @@ Ubah emas lama yang rosak menjadi kekayaan masa depan yang kekal bernilai!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11122,7 +11122,7 @@ Urusan pantas, mudah, dan ikut keselesaan masa anda!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11160,7 +11160,7 @@ Duit jualan terus masuk ke akaun bank tanpa sebarang caj tersembunyi!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11198,7 +11198,7 @@ Masalah kecemasan kewangan selesai serta-merta tanpa birokrasi!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11236,7 +11236,7 @@ Duit jualan terus ditransfer ke bank dan boleh terus belanja shopping!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11274,7 +11274,7 @@ Di mana pun anda berada, mencairkan emas kini sangat dekat!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11312,7 +11312,7 @@ Staf uji guna mesin canggih dan pindahkan bayaran terus ke akaun bank hari sama!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11350,7 +11350,7 @@ Emas rosak bertukar jadi wang tunai segera tanpa perlu tunggu Isnin!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11388,7 +11388,7 @@ Bila setuju harga bayaran terus dipindahkan ke akaun bank hari ini juga!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11426,7 +11426,7 @@ Urusan jadi tersangat pantas, kemas, dan bebas menunggu lama!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11464,7 +11464,7 @@ Emas terbiar bertukar jadi tunai segar dalam akaun bank secara segera!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11502,7 +11502,7 @@ Bayaran terus ditransfer hari yang sama secara telus!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11540,7 +11540,7 @@ Duit jualan terus masuk ke akaun bank anda tanpa prosedur rumit!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11578,7 +11578,7 @@ Emas 999 dinilai RM{harga999} segram dan emas 916 dibeli RM{harga916} segram sec
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11616,7 +11616,7 @@ Emas 999 dibayar RM{harga999} segram dan emas 916 diambil RM{harga916} segram!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11654,7 +11654,7 @@ Walk-in ke cawangan hari biasa atau 16 kedai PG Jewel pada hujung minggu!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11692,7 +11692,7 @@ Emas 999 dibayar RM{harga999} segram dan emas 916 dinilai RM{harga916} segram!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11730,7 +11730,7 @@ Emas 999 pada RM{harga999} segram dan emas 916 cecah RM{harga916} segram!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11768,7 +11768,7 @@ Emas 999 dibeli RM{harga999} segram dan emas 916 cecah RM{harga916} segram bayar
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11806,7 +11806,7 @@ Bawa IC ke cawangan hari bekerja atau PG Jewel setiap Sabtu dan Ahad!
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
@@ -11844,7 +11844,7 @@ Emas 999 diambil RM{harga999} segram dan emas 916 dinilai RM{harga916} segram se
 
 Mana nak mula?
 
-Serendah RM100 je, klik link dekat bio, okey?
+Daftar jadi ahli Public Gold Percuma, klik link dekat bio okey!
 
 Dapat? Kalau dapat, share!
 
