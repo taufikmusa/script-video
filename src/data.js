@@ -10709,12 +10709,1153 @@ Serendah RM100 je, klik link dekat bio, okey?
 Dapat? Kalau dapat, share!
 
 Jangan simpan sorang sorang.`
+  },
+  {
+    id: 355,
+    siri: "Catchy-07",
+    no: 1,
+    topik: "Jual Emas",
+    tajuk: "Resit Asal Hilang (Mitos Resit Hilang Emas Tak Laku)",
+    tags: ["916", "999", "resit"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Resit emas lama dah hilang takut kedai tolak separuh harga?
+
+Jangan panik, Public Gold terima sebab 3 jaminan ni, okey?
+
+Ingat resit hilang emas automatik tak laku?
+
+Mitos semata-mata, okey?
+
+Public Gold terima apa jua jenama emas walaupun resit dah bertahun hilang!
+
+Berapa harga belian semula hari ini?
+
+Emas 999 RM{harga999} segram, emas 916 RM{harga916} segram, okey?
+
+Harga pasaran tinggi telus tanpa sebarang caj tersembunyi!
+
+Macam mana proses semakan di kaunter?
+
+Staf uji ketulenan guna mesin pengimbas khas di depan mata, okey?
+
+Bayaran dipindahkan terus ke akaun bank anda pada hari yang sama!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 356,
+    siri: "Catchy-07",
+    no: 2,
+    topik: "Jual Emas",
+    tajuk: "Emas Rosak, Putus & Patah (Barang Kemas Terbiar dalam Laci)",
+    tags: ["barang kemas", "916", "999", "patah", "cawangan", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Rantai emas putus atau cincin kemek dibiar berhabuk dalam laci?
+
+Tukar jadi tunai segera dengan 3 langkah mudah ni, okey?
+
+Ingat emas rosak teruk kedai tolak harga murah?
+
+Bukan di Public Gold, okey?
+
+Emas rosak, patah, atau bengkok tetap dibeli pada kadar sangat tinggi!
+
+Berapa kadar rasmi belian semula hari ini?
+
+Emas 999 RM{harga999} segram, emas 916 RM{harga916} segram, okey?
+
+Tiada potongan sesuka hati, dinilai ikut berat dan ketulenan logam!
+
+Susah ke nak jual di cawangan?
+
+Daftar akaun percuma bawa kad pengenalan dan emas rosak ke kaunter, okey?
+
+Staf uji di depan mata dan duit terus masuk akaun bank hari ini juga!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 357,
+    siri: "Catchy-07",
+    no: 3,
+    topik: "Jual Emas",
+    tajuk: "Potongan Susut Nilai Kedai Luar (Perbandingan Spread Telus)",
+    tags: ["susut nilai", "ringgit", "916", "999", "resit", "jenama lain", "spread", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Kenapa kedai emas luar potong sampai 25 peratus bila nak jual balik?
+
+Elak rugi ratusan ringgit dengan 3 ketelusan Public Gold ni, okey?
+
+Kedai biasa tolak harga melampau sebab tiada resit?
+
+Beralih ke Public Gold, okey?
+
+Terima emas jenama lain pada harga pasaran semasa yang jauh lebih adil!
+
+Berapa harga buyback tinggi hari ini?
+
+Emas 999 diambil RM{harga999} segram, emas 916 cecah RM{harga916} segram, okey?
+
+Tiada potongan berat tersembunyi, semua dipaparkan secara telus!
+
+Macam mana cara bayaran dibuat?
+
+Staf cuma imbas guna mesin khas dan terus transfer ke bank anda, okey?
+
+Dapat tunai penuh tanpa perlu pening kepala fikir potongan spread luar!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 358,
+    siri: "Catchy-07",
+    no: 4,
+    topik: "Jual Emas",
+    tajuk: "Hujung Minggu Buka (16 Cawangan PG Jewel Sabtu & Ahad)",
+    tags: ["pg jewel", "916", "999", "jenama lain", "hujung minggu", "cawangan", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Hari minggu sesak nak pakai tunai tapi semua kaunter bank tutup?
+
+Cairkan emas pada hari Sabtu dan Ahad dengan 3 kelebihan PG Jewel ni, okey?
+
+Perlu tunggu hari Isnin baru boleh jual emas?
+
+Tak perlu tunggu hari bekerja, okey?
+
+16 cawangan PG Jewel di seluruh Malaysia sedia buka Sabtu dan Ahad!
+
+Terima emas jenama lain ke pada hujung minggu?
+
+Semua jenama emas diterima pada kadar tinggi, okey?
+
+Emas 999 dibeli RM{harga999} segram dan emas 916 pada RM{harga916} segram!
+
+Macam mana proses jual balik di kedai PG Jewel?
+
+Bawa emas dan IC terus ke kaunter untuk ujian ketulenan percuma, okey?
+
+Bila setuju harga, bayaran terus dikreditkan segera ke akaun bank anda!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 359,
+    siri: "Catchy-07",
+    no: 5,
+    topik: "Jual Emas",
+    tajuk: "4 Langkah Pantas Jual Emas (Panduan Lengkap Walk-in)",
+    tags: ["barang kemas", "916", "999", "dealer", "cawangan", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Ingat nak jual emas lama di cawangan kena isi borang panjang berjela?
+
+Tukar emas jadi duit dengan 4 langkah pantas ni, okey?
+
+Langkah pertama nak elak menunggu lama di kaunter?
+
+Daftar akaun percuma dengan dealer sah siap-siap, okey?
+
+Bawa emas dan kad pengenalan terus ke cawangan terdekat!
+
+Langkah kedua staf periksa macam mana?
+
+Staf kaunter uji ketulenan guna mesin pengimbas khas di depan mata, okey?
+
+Tanpa kikis dan tanpa bakar barang kemas anda!
+
+Berapa harga dan macam mana bayaran dibuat?
+
+Emas 999 RM{harga999} segram, emas 916 RM{harga916} segram, okey?
+
+Duit jualan terus ditransfer ke bank atau ambil tunai fizikal di Menara HQ KL!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 360,
+    siri: "Catchy-07",
+    no: 6,
+    topik: "Jual Emas",
+    tajuk: "Wang Tunai Segera di HQ Menara KL (Pilihan Cash vs Bank Transfer)",
+    tags: ["916", "999", "kecemasan", "resit", "tunai", "menara kl"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Perlukan wang tunai segera dalam tangan dan bukan sekadar angka di bank?
+
+Dapatkan cash segera di kaunter dengan 3 keistimewaan Menara Public Gold KL ni, okey?
+
+Sesak kecemasan nak tunggu duit bank berhari-hari tertekan?
+
+HQ Menara Public Gold Kuala Lumpur sediakan tunai fizikal terus di kaunter, okey?
+
+Jual emas terpakai dan terus bawa pulang wang tunai hari yang sama!
+
+Emas rosak atau jenama luar kedai lain diterima ke?
+
+Semua jenis emas diterima tanpa perlu resit belian lama, okey?
+
+Kadar belian balik tinggi: emas 999 RM{harga999} segram dan emas 916 RM{harga916} segram!
+
+Selamat ke proses ujian emas di kaunter HQ?
+
+Staf uji ketulenan secara terbuka guna mesin canggih, okey?
+
+Urusan pantas, telus, dan poket anda selamat diisi tunai kecemasan!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 361,
+    siri: "Catchy-07",
+    no: 7,
+    topik: "Jual Emas",
+    tajuk: "Emas Jenama Lain / Jenama-X (Beli Luar, Jual di Public Gold)",
+    tags: ["barang kemas", "916", "999", "beli balik", "jenama lain", "cawangan"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Beli barang kemas di kedai luar bertahun lalu boleh ke jual ke Public Gold?
+
+Sangat boleh, malah beli balik pada harga tinggi dengan 3 kelebihan ni, okey?
+
+Kedai luar tolak murah sebab bentuk dah lama atau bengkok?
+
+Bawa ke cawangan Public Gold, okey?
+
+Public Gold beli semua jenama emas terpakai dengan harga antara tertinggi di Malaysia!
+
+Tengok kadar belian semula rasmi hari ini berapa?
+
+Emas 999 dibayar RM{harga999} segram dan emas 916 diambil pada RM{harga916} segram, okey?
+
+Dinilai ikut berat dan ketulenan logam sebenar bukan rupa bentuk luaran!
+
+Macam mana nak mula hadir ke cawangan?
+
+Daftar akaun percuma, bawa kad pengenalan dan serah emas untuk imbasan, okey?
+
+Duit jualan dipindahkan terus ke akaun bank anda pada hari yang sama!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 362,
+    siri: "Catchy-07",
+    no: 8,
+    topik: "Jual Emas",
+    tajuk: "Duit Masuk Hari Sama (Tanpa Tinggal Barang & Bebas Birokrasi)",
+    tags: ["916", "999"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Pernah nak jual emas tapi kedai minta tinggalkan barang berhari-hari?
+
+Jangan ambil risiko barang hilang, jual di Public Gold sebab 3 jaminan ni, okey?
+
+Takut barang kena tukar atau nilai dipotong di belakang?
+
+Jangan sesekali tinggal barang, okey?
+
+Di Public Gold proses belian balik berjalan pantas di depan mata anda!
+
+Uji ketulenan guna kaedah apa?
+
+Guna mesin pengimbas moden tanpa kikis atau rosakkan barang, okey?
+
+Kadar buyback hari ini: emas 999 RM{harga999} segram dan emas 916 RM{harga916} segram!
+
+Bila duit jualan boleh masuk ke akaun bank?
+
+Sebaik sahaja anda setuju harga bayaran terus dipindahkan hari yang sama, okey?
+
+Tiada birokrasi, tiada risiko, duit terus cair masuk poket anda!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 363,
+    siri: "Catchy-07",
+    no: 9,
+    topik: "Jual Emas",
+    tajuk: "Uji Ketulenan Mesin Pengimbas Khas (Tanpa Kikis & Tanpa Bakar)",
+    tags: ["barang kemas", "916", "999", "resit"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Risau kedai emas kikis atau bakar barang kemas semata-mata nak uji ketulenan?
+
+Elak emas anda rosak dengan 3 teknologi pengimbas Public Gold ni, okey?
+
+Ujian kikis dan bakar cara lama merugikan kita ke?
+
+Bukan saja rosak bentuk malah kurangkan timbangan berat asal emas, okey?
+
+Cara lama yang boleh buat anda rugi gram emas berharga!
+
+Public Gold uji ketulenan guna cara apa?
+
+Staf kaunter guna mesin pengimbas canggih secara telus di depan mata, okey?
+
+Tak perlu resit lama, nilai diukur tepat ikut ketulenan logam sebenar!
+
+Berapa nilai belian balik semasa hari ini?
+
+Emas 999 dinilai RM{harga999} segram dan emas 916 cecah RM{harga916} segram, okey?
+
+Selesai imbasan bayaran terus ditransfer masuk ke akaun bank hari sama!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 364,
+    siri: "Catchy-07",
+    no: 10,
+    topik: "Jual Emas",
+    tajuk: "Upgrade Emas Lama ke Emas Pelaburan (Kitaran Aset Berganda)",
+    tags: ["barang kemas", "916", "999", "patah"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Kenapa biar barang kemas lama patah terbiar sedangkan boleh tukar jadi jongkong emas?
+
+Upgrade aset kekal anda guna 3 langkah bijak ni, okey?
+
+Barang kemas lama terperap bertahun dalam laci ada hasil ke?
+
+Langsung tiada hasil kalau dibiar tanpa perancangan, okey?
+
+Cairkan di Public Gold pada harga belian semula yang lumayan dan telus!
+
+Berapa kadar rasmi belian semula hari ini?
+
+Emas 999 dibeli RM{harga999} segram dan emas 916 pada RM{harga916} segram, okey?
+
+Tanpa caj tersembunyi dan duit jualan terus masuk ke akaun bank hari sama!
+
+Duit jualan tu nak buat apa supaya tak bocor?
+
+Tukar terus kepada jongkong emas pelaburan gred 999.9 baharu, okey?
+
+Ubah emas lama yang rosak menjadi kekayaan masa depan yang kekal bernilai!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 365,
+    siri: "Catchy-07",
+    no: 11,
+    topik: "Jual Emas",
+    tajuk: "Sibuk Hari Bekerja (Solusi Hujung Minggu di 16 Cawangan PG Jewel)",
+    tags: ["pg jewel", "916", "999", "beli balik", "resit", "patah", "hujung minggu", "cawangan"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Isnin sampai Jumaat sibuk kerja tak sempat ke kaunter jual emas lama?
+
+Jual hari cuti dengan 3 kemudahan PG Jewel ni, okey?
+
+Ingat cawangan beli balik emas tutup hari cuti?
+
+16 cawangan PG Jewel sedia buka Sabtu dan Ahad, okey?
+
+Tak perlu ambil cuti kerja semata-mata nak cairkan emas!
+
+Terima emas patah atau resit lama hilang ke?
+
+Semua jenis emas jenama luar diterima pada kadar tinggi, okey?
+
+Emas 999 RM{harga999} segram dan emas 916 cecah RM{harga916} segram!
+
+Macam mana cara bayaran dibuat?
+
+Staf scan guna mesin khas dan duit terus ditransfer ke akaun bank hari sama, okey?
+
+Urusan pantas, mudah, dan ikut keselesaan masa anda!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 366,
+    siri: "Catchy-07",
+    no: 12,
+    topik: "Jual Emas",
+    tajuk: "Waktu Operasi (Public Gold Isnin-Jumaat vs PG Jewel Sabtu & Ahad)",
+    tags: ["pg jewel", "barang kemas", "916", "999", "cawangan"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Kerap keliru cawangan mana yang buka masa nak jual barang kemas lama?
+
+Faham jadual operasi mudah ni supaya tak buang masa, okey?
+
+Hari bekerja Isnin hingga Jumaat nak pergi mana?
+
+Pergi ke cawangan Public Gold di seluruh negara, okey?
+
+Boleh walk-in uruskan jualan emas terpakai dengan mudah!
+
+Hari cuti Sabtu dan Ahad nak pergi mana?
+
+Hadir ke 16 cawangan PG Jewel seluruh Malaysia, okey?
+
+Kadar buyback tinggi: emas 999 RM{harga999} segram dan emas 916 RM{harga916} segram!
+
+Apa perlu dibawa sebelum hadir ke kaunter?
+
+Daftar akaun percuma dan bawa kad pengenalan bersama emas anda, okey?
+
+Duit jualan terus masuk ke akaun bank tanpa sebarang caj tersembunyi!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 367,
+    siri: "Catchy-07",
+    no: 13,
+    topik: "Jual Emas",
+    tajuk: "Kecemasan Hujung Minggu (Cairkan Emas Patah Ahad Pagi)",
+    tags: ["pg jewel", "916", "999", "kecemasan", "resit", "patah", "hujung minggu", "cawangan"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Kecemasan nak pakai duit tunai pagi Ahad tapi bank tutup?
+
+Cairkan emas pada hari minggu dengan 3 langkah pantas ni, okey?
+
+Perlu tunggu hari Isnin baru boleh dapatkan duit?
+
+Jangan tunggu sampai esok, okey?
+
+Bawa emas rosak terus ke cawangan PG Jewel yang buka Sabtu dan Ahad!
+
+Rantai putus atau resit asal dah hilang kedai terima ke?
+
+Staf PG Jewel tetap terima pada harga belian semula tinggi, okey?
+
+Emas 999 dinilai RM{harga999} segram dan emas 916 dibeli RM{harga916} segram!
+
+Bila duit jualan boleh masuk ke akaun bank?
+
+Sebaik sahaja selesai imbasan bayaran terus diproses hari Ahad itu juga, okey?
+
+Masalah kecemasan kewangan selesai serta-merta tanpa birokrasi!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 368,
+    siri: "Catchy-07",
+    no: 14,
+    topik: "Jual Emas",
+    tajuk: "Shopping Hujung Minggu Sambil Singgah PG Jewel (Shah Alam, BM, Menara PG)",
+    tags: ["pg jewel", "barang kemas", "916", "999", "hujung minggu", "cawangan", "tunai", "menara kl"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Keluar shopping hujung minggu ni bawa barang kemas terpakai dalam beg?
+
+Tukar emas lama jadi tunai dengan 3 langkah mudah ni, okey?
+
+Biar emas lama tersimpan sia-sia dalam beg tangan?
+
+Singgah cawangan PG Jewel macam di Shah Alam, BM, atau Menara KL, okey?
+
+Kedai dibuka hari Sabtu dan Ahad untuk kemudahan anda!
+
+Barang kemas kemek atau rekaan lama mereka terima ke?
+
+Semua jenama emas dibeli semula pada harga pasaran tinggi, okey?
+
+Emas 999 dibayar RM{harga999} segram dan emas 916 cecah RM{harga916} segram!
+
+Macam mana staf uji emas di kaunter?
+
+Staf timbang dan uji ketulenan guna mesin pengimbas moden di depan anda, okey?
+
+Duit jualan terus ditransfer ke bank dan boleh terus belanja shopping!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 369,
+    siri: "Catchy-07",
+    no: 15,
+    topik: "Jual Emas",
+    tajuk: "Rangkaian 16 Cawangan PG Jewel Seluruh Malaysia (Utara ke Sabah Sarawak)",
+    tags: ["pg jewel", "916", "999", "beli balik", "hujung minggu", "cawangan"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Ingat kedai beli balik emas hujung minggu ada di Lembah Klang saja?
+
+Rangkaian PG Jewel ada di seluruh negara dengan 3 liputan luas ni, okey?
+
+Di mana lokasi cawangan PG Jewel yang buka Sabtu Ahad?
+
+Dari Alor Setar, Ipoh, Seremban, JB sampai Kota Kinabalu dan Miri, okey?
+
+16 cawangan sedia beroperasi pada hujung minggu!
+
+Kalau hari bekerja nak pergi cawangan mana?
+
+Boleh pergi ke mana-mana cawangan Public Gold Isnin hingga Jumaat, okey?
+
+Kadar buyback telus: emas 999 RM{harga999} segram dan emas 916 RM{harga916} segram!
+
+Proses semakan di kaunter rumit ke?
+
+Cuma bawa IC dan emas, staf imbas ketulenan dan transfer bayaran segera, okey?
+
+Di mana pun anda berada, mencairkan emas kini sangat dekat!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 370,
+    siri: "Catchy-07",
+    no: 16,
+    topik: "Jual Emas",
+    tajuk: "Tip Persediaan & Hubungi Dulu Sebelum Walk-in Hujung Minggu",
+    tags: ["pg jewel", "916", "999", "patah", "hujung minggu", "cawangan"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Dah bersemangat nak bawa emas patah hari cuti tapi takut tersalah waktu operasi?
+
+Ikut 3 tip persediaan penting ni sebelum melangkah keluar, okey?
+
+Bila waktu terbaik hadir ke kaunter PG Jewel?
+
+Hari Sabtu dan Ahad di 16 cawangan seluruh Malaysia, okey?
+
+Cawangan Public Gold pula dibuka Isnin hingga Jumaat!
+
+Apa langkah terbaik elak perjalanan anda sia-sia?
+
+Telefon cawangan pilihan anda terlebih dahulu untuk sahkan waktu kaunter, okey?
+
+Urusan jadi lebih lancar dan jimat masa perjalanan anda!
+
+Berapa kadar rasmi belian semula hari ini?
+
+Emas 999 dibeli RM{harga999} segram dan emas 916 cecah RM{harga916} segram, okey?
+
+Staf uji guna mesin canggih dan pindahkan bayaran terus ke akaun bank hari sama!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 371,
+    siri: "Catchy-07",
+    no: 17,
+    topik: "Jual Emas",
+    tajuk: "Emas Putus Malam Sabtu (Tak Perlu Tunggu Isnin untuk Jual)",
+    tags: ["pg jewel", "916", "999", "resit", "patah", "cawangan", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Rantai emas terputus malam Sabtu ingat kena tunggu Isnin baru boleh jual?
+
+Tak perlu tangguh, tukar jadi tunai segera dengan 3 fakta ni, okey?
+
+Bahaya ke tangguh jualan hingga hari bekerja?
+
+Boleh terlepas harga emas semasa yang sedang melonjak tinggi hari ini, okey?
+
+Setiap peluang harga tinggi patut dimanfaatkan segera!
+
+Di mana nak jual emas patah pada hari Ahad?
+
+Bawa terus ke 16 cawangan PG Jewel yang buka Sabtu dan Ahad, okey?
+
+Emas 999 diambil RM{harga999} segram dan emas 916 dinilai RM{harga916} segram!
+
+Perlu bawa resit belian lama ke kaunter?
+
+Tanpa resit lama staf tetap uji guna mesin khas dan transfer duit hari sama, okey?
+
+Emas rosak bertukar jadi wang tunai segera tanpa perlu tunggu Isnin!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 372,
+    siri: "Catchy-07",
+    no: 18,
+    topik: "Jual Emas",
+    tajuk: "Potongan Hari Cuti Kedai Luar vs Ketelusan PG Jewel",
+    tags: ["pg jewel", "ringgit", "916", "999", "jenama lain", "hujung minggu", "cawangan"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Perasan tak kedai luar suka potong harga lebih tinggi bila jual hari minggu?
+
+Elak kena sembelih hujung minggu dengan 3 ketelusan PG Jewel ni, okey?
+
+Kedai biasa potong nilai sampai 25 peratus sebab alasan hari cuti?
+
+Jangan biar diri anda rugi ratusan ringgit, okey?
+
+Bawa emas jenama lain anda ke cawangan PG Jewel yang buka Sabtu dan Ahad!
+
+Berapa harga belian semula rasmi yang dijamin?
+
+Emas 999 dibeli RM{harga999} segram dan emas 916 dinilai RM{harga916} segram, okey?
+
+Harga telus dan konsisten tanpa sebarang potongan tersembunyi!
+
+Macam mana ujian ketulenan dibuat di kaunter?
+
+Staf uji guna mesin pengimbas moden di hadapan mata anda, okey?
+
+Bila setuju harga bayaran terus dipindahkan ke akaun bank hari ini juga!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 373,
+    siri: "Catchy-07",
+    no: 19,
+    topik: "Jual Emas",
+    tajuk: "Daftar Percuma dari Rumah Sebelum Walk-in Cawangan / PG Jewel",
+    tags: ["pg jewel", "rumah", "916", "999", "dealer", "cawangan"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Nak jual emas lama tapi risau urusan kaunter ambil masa lama?
+
+Cepatkan giliran anda guna 3 langkah bijak dari rumah ni, okey?
+
+Langkah pertama sebelum keluar rumah apa patut buat?
+
+Selesaikan pendaftaran akaun percuma dengan dealer sah siap-siap, okey?
+
+Nombor akaun anda sudah sedia dalam sistem untuk cepatkan urusan kaunter!
+
+Lepas daftar boleh pergi cawangan mana?
+
+Public Gold hari Isnin hingga Jumaat, atau PG Jewel hari Sabtu dan Ahad, okey?
+
+Kadar buyback tinggi: emas 999 RM{harga999} segram dan emas 916 RM{harga916} segram!
+
+Berapa lama masa diambil untuk terima bayaran?
+
+Selesai staf imbas emas duit jualan terus ditransfer ke akaun bank anda hari sama, okey?
+
+Urusan jadi tersangat pantas, kemas, dan bebas menunggu lama!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 374,
+    siri: "Catchy-07",
+    no: 20,
+    topik: "Jual Emas",
+    tajuk: "Kemas Almari Hujung Minggu (Tukar Barang Kemas Terbiar Jadi Duit)",
+    tags: ["pg jewel", "barang kemas", "916", "999", "hujung minggu", "cawangan", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Kemas almari hujung minggu terjumpa gelang emas lama yang dah rosak dan pudar?
+
+Jangan simpan balik dalam kotak, tukar jadi tunai dengan 3 langkah ni, okey?
+
+Barang kemas lama terperap bertahun sebenarnya apa?
+
+Wang tunai beku yang boleh dimanfaatkan hari ini juga, okey?
+
+Bawa ke cawangan PG Jewel terdekat yang buka hari Sabtu dan Ahad!
+
+Berapa kadar belian semula rasmi hari ini?
+
+Emas 999 dibeli RM{harga999} segram dan emas 916 mencecah RM{harga916} segram, okey?
+
+Dinilai ikut berat dan ketulenan logam tanpa mengikis barang kemas anda!
+
+Macam mana cara duit jualan diterima?
+
+Selesai pengesahan nilai bayaran terus dipindahkan ke akaun bank hari ini juga, okey?
+
+Emas terbiar bertukar jadi tunai segar dalam akaun bank secara segera!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 375,
+    siri: "Catchy-07",
+    no: 21,
+    topik: "Jual Emas",
+    tajuk: "Tergoda Harga Emas Naik (Semak #1: Jual Tanpa Matlamat Jelas)",
+    tags: ["pg jewel", "916", "999", "cawangan", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Nampak harga emas tengah melambung terus tak sabar nak jual semua?
+
+Tahan dulu, semak 3 peringatan penting ni, okey?
+
+Benar-benar perlukan tunai atau sekadar rambang mata?
+
+Tanya diri sebelum jual, okey?
+
+Menjual emas tanpa tujuan cuma merendahkan kualiti aset kekayaan anda!
+
+Kalau betul ada keperluan mendesak apa patut buat?
+
+Jual di platform belian balik tertinggi, okey?
+
+Public Gold ambil emas 999 RM{harga999} segram dan emas 916 RM{harga916} segram!
+
+Bila boleh hadir ke kaunter?
+
+Cawangan buka hari biasa atau 16 kedai PG Jewel setiap Sabtu dan Ahad, okey?
+
+Bayaran terus ditransfer hari yang sama secara telus!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 376,
+    siri: "Catchy-07",
+    no: 22,
+    topik: "Jual Emas",
+    tajuk: "Pajak vs Jual Terus (Semak #2: Tunai Sementara vs Lepas Hak Milik)",
+    tags: ["pg jewel", "ar-rahnu", "pajak", "916", "999", "cawangan", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Perlukan tunai segera tapi berat hati nak lepas emas kesayangan selamanya?
+
+Timbang antara pajak dan jual guna 3 panduan ni, okey?
+
+Perlukan tunai sementara dan mampu tebus beberapa bulan lagi?
+
+Pajak di Ar-Rahnu lebih berbaloi, okey?
+
+Emas kesayangan kekal menjadi hak milik anda tanpa perlu hilang aset!
+
+Kalau memang nekad nak lepaskan emas lama apa pilihan terbaik?
+
+Jual balik terus kepada Public Gold, okey?
+
+Kadar buyback tinggi: emas 999 RM{harga999} segram dan emas 916 cecah RM{harga916} segram!
+
+Di mana nak uruskan jualan balik?
+
+Cawangan Public Gold Isnin hingga Jumaat, atau PG Jewel Sabtu dan Ahad, okey?
+
+Duit jualan terus masuk ke akaun bank anda tanpa prosedur rumit!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 377,
+    siri: "Catchy-07",
+    no: 23,
+    topik: "Jual Emas",
+    tajuk: "3 Keadaan Sahaja Boleh Jual Emas (Semak #4: Formula Kewangan Berilmu)",
+    tags: ["pg jewel", "rumah", "916", "999", "bisnes", "kecemasan", "cawangan", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Tahu tak ada 3 keadaan sahaja penyimpan berilmu dibenarkan jual emas?
+
+Patuhi formula kewangan berdisiplin ni, okey?
+
+Keadaan pertama bila waktu tepat nak cairkan emas?
+
+Bila nak tukar kepada aset jana pendapatan, okey?
+
+Macam tambah modal pusingan bisnes atau beli rumah sewa!
+
+Keadaan kedua dan ketiga bila pula?
+
+Bila matlamat asal tabungan tercapai atau kecemasan mutlak, okey?
+
+Bila semua simpanan kecemasan tunai di bank dah habis digunakan!
+
+Jika situasi anda menepati 3 keadaan tadi di mana nak jual?
+
+Bawa ke cawangan Public Gold atau PG Jewel, okey?
+
+Emas 999 dinilai RM{harga999} segram dan emas 916 dibeli RM{harga916} segram secara telus!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 378,
+    siri: "Catchy-07",
+    no: 24,
+    topik: "Jual Emas",
+    tajuk: "Menyesal Jual Emas Sebab Belanja Hangus (Semak #5: Bahaya Duit Bocor)",
+    tags: ["916", "999", "anak", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Bila emas bertukar jadi wang tunai berkepuk kenapa duit cepat sangat habis?
+
+Lindungi diri daripada duit bocor dengan 3 langkah ni, okey?
+
+Duit tunai dalam dompet sifatnya macam mana?
+
+Sangat cair dan mudah bocor dibelanjakan kehendak remeh, okey?
+
+Menjual emas tanpa pelan cuma merugikan tabung masa depan!
+
+Sebelum bawa emas ke kaunter apa wajib difikirkan?
+
+Pastikan selari dengan rancangan persaraan dan pendidikan anak, okey?
+
+Jangan biar aset bernilai hangus ditelan belanja harian!
+
+Kalau betul ada keperluan penting di mana nak jual?
+
+Cairkan di Public Gold pada kadar pasaran tinggi, okey?
+
+Emas 999 dibayar RM{harga999} segram dan emas 916 diambil RM{harga916} segram!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 379,
+    siri: "Catchy-07",
+    no: 25,
+    topik: "Jual Emas",
+    tajuk: "Salah Pilih Tempat Jual / Potongan Spread (Semak #3: Tolak 25% Kedai Luar)",
+    tags: ["pg jewel", "ringgit", "916", "999", "resit", "hujung minggu", "cawangan", "spread"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Simpan emas bertahun-tahun sekali nak jual kedai luar potong sampai 25 peratus?
+
+Elak kena sembelih spread dengan 3 ketelusan Public Gold ni, okey?
+
+Kedai luar tolak harga melampau sebab rekaan lama atau tiada resit?
+
+Beralih tempat jualan segera, okey?
+
+Ramai rugi ratusan ringgit sebab salah pilih tempat jual balik!
+
+Kenapa Public Gold pilihan paling untung?
+
+Tawar harga buyback tertinggi tanpa syarat resit asal, okey?
+
+Emas 999 dibeli RM{harga999} segram dan emas 916 dinilai RM{harga916} segram!
+
+Macam mana staf uji emas di kaunter?
+
+Guna mesin pengimbas khas secara telus di depan mata anda, okey?
+
+Walk-in ke cawangan hari biasa atau 16 kedai PG Jewel pada hujung minggu!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 380,
+    siri: "Catchy-07",
+    no: 26,
+    topik: "Jual Emas",
+    tajuk: "Tukar Emas Jadi Aset Menjana Pendapatan (Semak #4a: Modal Hartanah & Bisnes)",
+    tags: ["pg jewel", "barang kemas", "hartanah", "rumah", "916", "999", "bisnes", "cawangan"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Bila masa paling tepat nak cairkan jongkong emas dan barang kemas lama?
+
+Masa terbaik adalah untuk tukar jadi 3 aset produktif ni, okey?
+
+Tukar emas kepada aset apa yang paling bijak?
+
+Aset yang mampu jana aliran tunai berterusan, okey?
+
+Contohnya bayar deposit rumah sewa atau kembangkan modal perniagaan!
+
+Langkah ini merugikan simpanan kita ke?
+
+Bukan menghabiskan aset tapi memperkembangkan kekayaan, okey?
+
+Daripada aset pelindung bertukar menjadi aset yang hasilkan pulangan pasif!
+
+Di mana nak cairkan emas pada nilai maksimum?
+
+Bawa ke cawangan Public Gold atau PG Jewel, okey?
+
+Emas 999 dibayar RM{harga999} segram dan emas 916 dinilai RM{harga916} segram!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 381,
+    siri: "Catchy-07",
+    no: 27,
+    topik: "Jual Emas",
+    tajuk: "Capai Matlamat Tabungan Asal (Semak #4b: Hantar Haji & Rumah Pertama)",
+    tags: ["inflasi", "hutang", "haji", "rumah", "916", "999"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Dah bertahun berdisiplin kumpul gram emas bila saat paling manis nak menjualnya?
+
+Saat paling membahagiakan adalah bila 3 hajat murni ni tercapai, okey?
+
+Apa matlamat asal yang wajar diraikan?
+
+Bila cukup dana deposit rumah pertama atau kenduri bebas hutang, okey?
+
+Atau saat menghantar ibu bapa menunaikan ibadah haji ke Tanah Suci!
+
+Kenapa emas alat tabungan terbaik untuk capai impian?
+
+Kalis inflasi dan halang duit simpanan daripada bocor, okey?
+
+Fungsi sebenar emas adalah merealisasikan impian hidup keluarga!
+
+Bila impian dah sedia di mana nak cairkan emas terpakai?
+
+Jual di Public Gold pada kadar belian semula terbaik, okey?
+
+Emas 999 pada RM{harga999} segram dan emas 916 cecah RM{harga916} segram!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 382,
+    siri: "Catchy-07",
+    no: 28,
+    topik: "Jual Emas",
+    tajuk: "Dana Tunai Habis, Baru Sentuh Emas (Semak #4c: Emas Benteng Terakhir)",
+    tags: ["pg jewel", "krisis", "916", "999", "kecemasan", "cawangan", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Kereta rosak atau bil perubatan tiba-tiba datang adakah emas aset pertama patut dijual?
+
+Jangan tersilap langkah, fahami 3 aturan benteng kecemasan ni, okey?
+
+Apa dana pertama wajib disentuh bila kecemasan tiba?
+
+Gunakan dana kecemasan tunai di bank dahulu, okey?
+
+Emas adalah benteng pertahanan terakhir yang disimpan rapi!
+
+Bahaya ke jual emas terlalu awal untuk belanja kecil?
+
+Anda akan kehilangan kubu pelindung bila krisis sebenar melanda, okey?
+
+Hanya sentuh emas bila semua simpanan tunai dah habis licin!
+
+Bila betul-betul di fasa kecemasan mutlak di mana nak jual?
+
+Cairkan di cawangan Public Gold atau PG Jewel, okey?
+
+Emas 999 dibeli RM{harga999} segram dan emas 916 cecah RM{harga916} segram bayaran hari sama!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 383,
+    siri: "Catchy-07",
+    no: 29,
+    topik: "Jual Emas",
+    tajuk: "5 Checklist Pantas Sebelum Bawa Emas ke Kaunter (Ringkasan Menyeluruh)",
+    tags: ["pg jewel", "916", "999", "kecemasan", "cawangan", "tunai"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Dah bersiap nak bawa emas lama ke cawangan dah semak 5 checklist ni ke?
+
+Buat keputusan kewangan bijak guna 3 semakan penting ni, okey?
+
+Checklist pertama dan kedua apa patut ditanya?
+
+Benar-benar perlu tunai atau sekadar tergoda harga naik, okey?
+
+Dan semak sama ada memajak lebih berbaloi jika nak tebus semula!
+
+Checklist ketiga dan keempat apa pula?
+
+Pastikan tujuan jualan untuk aset pendapatan atau kecemasan mutlak, okey?
+
+Dan pilih tempat jualan telus macam Public Gold yang beli emas jenama luar!
+
+Berapa kadar rasmi belian semula hari ini?
+
+Emas 999 pada RM{harga999} segram dan emas 916 cecah RM{harga916} segram, okey?
+
+Bawa IC ke cawangan hari bekerja atau PG Jewel setiap Sabtu dan Ahad!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
+  },
+  {
+    id: 384,
+    siri: "Catchy-07",
+    no: 30,
+    topik: "Jual Emas",
+    tajuk: "Emas Susah Dikumpul, Jangan Mudah Dilepas (Refleksi Keringat Simpanan)",
+    tags: ["916", "999", "beli balik"],
+    hook: "CatchyScript (Soalan - Jawapan - Sebab)",
+    teks: `Ingat lagi betapa susahnya ikat perut disiplinkan diri nak beli segram emas dulu?
+
+Hargai titik peluh anda dengan 3 peringatan berharga ni, okey?
+
+Setiap gram emas dibeli dengan apa?
+
+Keringat, masa, dan pengorbanan yang bukan sedikit, okey?
+
+Jangan lepaskan emas dengan mudah hanya untuk beli kehendak sementara!
+
+Bila waktu yang betul-betul memaksa kita jual emas?
+
+Bila keadaan mendesak dan pastikan dapat nilai pulangan paling adil, okey?
+
+Kekalkan emas selagi tiada keperluan kritikal!
+
+Di mana platform yang menghargai nilai emas anda?
+
+Public Gold beli balik pada kadar pasaran tinggi, okey?
+
+Emas 999 diambil RM{harga999} segram dan emas 916 dinilai RM{harga916} segram secara telus!
+
+Mana nak mula?
+
+Serendah RM100 je, klik link dekat bio, okey?
+
+Dapat? Kalau dapat, share!
+
+Jangan simpan sorang sorang.`
   }
 ];
 
 // Nama tambahan untuk siri (dipapar pada chip siri). Siri tanpa nama cukup guna "Script-NN".
 export const namaSiri = {
   "Script-07": "Jual Emas",
+  "Catchy-07": "Jual Emas",
 };
 
 // Harga buyback lalai untuk slot {harga999} & {harga916} dalam skrip (cth siri Jual Emas).
