@@ -8,6 +8,816 @@
 
 export const skrip = [
   {
+    id: 385,
+    siri: "Asas-01",
+    no: 1,
+    topik: "Kewangan Peribadi",
+    tajuk: "Melabur Bila Ada Duit Lebih, Bukan Cari Duit Lebih",
+    tags: ["penipuan", "palsu", "skim"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Di era video pendek dan siaran langsung hari ini, ramai orang kecundang dalam kewangan sebab terlalu terburu-buru nak cepat kaya!
+
+Bila daya tumpuan kita semakin pendek, kita sentiasa tercari-cari jalan pintas yang menjanjikan pulangan segera tanpa usaha. Tetapi ada satu hakikat pahit dalam dunia pelaburan yang ramai orang enggan terima: rugi itu sentiasa berada dalam tangan, sedangkan untung belum tentu dapat! Sikap terburu-buru inilah punca utama ribuan mangsa terperangkap dalam kancah penipuan skim pelaburan palsu.
+
+Pesan guru saya yang sangat mendalam: mengejar kekayaan itu bagus, tetapi apa yang jauh lebih penting adalah mengelakkan diri daripada jatuh miskin. Kita melabur bukan untuk mencari duit lebih, tetapi kita hanya melabur apabila sudah mempunyai lebihan simpanan yang selamat.
+
+Pernah tak anda hampir terjebak dengan skim pelaburan cepat kaya? Kongsi pengalaman anda di ruangan komen, kerana benteng pertahanan kewangan keluarga bermula dengan...
+
+Sabar!`
+  },
+  {
+    id: 386,
+    siri: "Asas-01",
+    no: 2,
+    topik: "Kewangan Peribadi",
+    tajuk: "Simpan Sikit-Sikit, Akhirnya Jadi Resit",
+    tags: ["gaji", "ringgit", "resit", "tunai"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Kenapa duit simpanan anda setiap bulan bila dikumpul sikit-sikit, akhirnya tetap lesap dan bertukar menjadi resit?
+
+Masalah terbesar kebanyakan orang bukanlah tidak mampu menyimpan wang, sebaliknya mereka gagal mempertahankan baki simpanan tersebut daripada terus bocor. Apabila duit tunai dibiarkan melimpah di dalam akaun bank, tangan kita menjadi terlalu gatal untuk membelanjakannya kepada benda yang bukan-bukan.
+
+Inilah sebabnya penyimpan bijak menukarkan sebahagian tunai kepada kepingan emas fizikal. Emas memberikan anda masa bertenang yang sangat luar biasa. Anda akan berasa sayang mahu menjual kepingan emas yang cantik semata-mata untuk memuaskan kehendak nafsu remeh. Malah, memiliki sekilogram emas langsung tidak membuatkan anda rasa sombong atau kaya berbanding melihat angka ratusan ribu ringgit di skrin telefon.
+
+Berapa hari simpanan gaji anda mampu bertahan sebelum habis dibelanjakan? Tulis secara jujur di ruangan komen, kerana emas mengunci tabiat boros menjadi...
+
+Aset!`
+  },
+  {
+    id: 387,
+    siri: "Asas-01",
+    no: 3,
+    topik: "Kenapa Emas",
+    tajuk: "Duit RM100 Dari Satu Troli Jadi Sebakul",
+    tags: ["inflasi", "dinar", "ringgit", "sejarah", "tunai"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Perasan tak kenapa sekeping duit seratus ringgit yang sama sekarang langsung tidak mampu membeli barangan dapur yang banyak?
+
+Sepuluh tahun yang lalu, sekeping duit seratus ringgit mampu memenuhkan satu troli pasar raya. Tetapi hari ini, bawa nilai yang sama ke kaunter bayaran, barangan dapur anda cuma muat di dalam sebuah bakul kecil sahaja! Itulah wajah sebenar raksasa inflasi, di mana anda dipaksa membayar wang yang semakin banyak semata-mata untuk mendapatkan kuantiti barang yang serupa.
+
+Sifat wang kertas memang dicipta untuk susut nilainya dimamah zaman. Sebaliknya, sejarah ribuan tahun telah membuktikan ketahanan emas fizikal. Pada zaman Rasulullah, seekor kambing dibeli dengan satu dinar emas. Hebatnya hari ini, sekeping satu dinar yang sama masih mampu membeli seekor kambing yang serupa.
+
+Adakah simpanan tunai anda sekarang mampu melawan kenaikan kos sara hidup? Nyatakan pandangan anda di ruangan komen, kerana penyelamat kuasa beli wang anda hanyalah...
+
+Emas!`
+  },
+  {
+    id: 388,
+    siri: "Asas-01",
+    no: 4,
+    topik: "Kenapa Emas",
+    tajuk: "Emas Berdiri Sendiri Tanpa Jaminan Sesiapa",
+    tags: ["hartanah", "tunai"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Aset apa dalam dunia ini yang nilainya kekal utuh tanpa memerlukan sebarang tandatangan pengesahan atau geran perjanjian?
+
+Cuba anda perhatikan aset lain seperti hartanah. Anda memerlukan surat perjanjian jual beli yang sangat tebal, geran rasmi daripada pejabat tanah, dan proses guaman berbulan-bulan semata-mata untuk mencairkannya menjadi tunai. Jika sistem perbankan tergendala atau akaun dibekukan, akses kepada harta anda boleh tersekat serta-merta tanpa amaran.
+
+Tetapi emas fizikal berdiri sendiri tanpa bergantung kepada jaminan mana-mana institusi ataupun kerajaan. Nilai emas melekat secara mutlak pada berat timbangan dan ketulenan logam itu sendiri. Ia tidak boleh dicipta sesuka hati, tidak boleh dicairkan oleh pihak ketiga, dan laku di mana-mana ceruk dunia pada bila-bila masa.
+
+Anda lebih percaya angka dalam skrin telefon atau aset di tangan sendiri? Kongsi jawapan anda di ruangan komen, kerana kekayaan mutlak adalah aset yang...
+
+Bebas!`
+  },
+  {
+    id: 389,
+    siri: "Asas-01",
+    no: 5,
+    topik: "Kewangan Peribadi",
+    tajuk: "Dua Jaminan Orang Makan Gaji",
+    tags: ["gaji", "krisis", "kecemasan"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Tahukah anda bahawa orang yang bekerja makan gaji sebenarnya hanya mempunyai dua jaminan mutlak sepanjang hayat kerjaya mereka?
+
+Jaminan pertama adalah anda sendiri yang akan membuat keputusan untuk berhenti kerja. Dan jaminan kedua yang paling digeruni adalah anda akan diberhentikan oleh majikan! Ramai pekerja terperangkap dengan zon selesa pendapatan bulanan, sehinggalah krisis syarikat melanda dan punca rezeki terputus dalam sekelip mata tanpa sempat bersedia.
+
+Kekayaan sebenar bukanlah diukur daripada berapa besar angka gaji bulanan yang masuk ke dalam akaun bank anda. Sebaliknya, kekayaan sebenar diukur daripada berapa bulan keluarga anda mampu bertahan hidup dengan maruah apabila anda tidak lagi mempunyai gaji. Jika tiada simpanan kecemasan, kejatuhan ekonomi akan menjadi mimpi ngeri yang memusnahkan masa depan.
+
+Berapa bulan simpanan kecemasan yang anda miliki sekarang? Cuba semak dan beritahu di komen, kerana ketenangan hidup menuntut benteng yang...
+
+Kukuh!`
+  },
+  {
+    id: 390,
+    siri: "Asas-01",
+    no: 6,
+    topik: "Kewangan Peribadi",
+    tajuk: "Miskin Usia Tua Itu Penjara",
+    tags: ["hutang", "gaji", "anak"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Pernah tak anda terbayang bagaimana nasib hidup anda apabila kudrat bekerja mencari rezeki sudah tiada nanti?
+
+Guru saya Tuan Mohd Zulkifli Shafie pernah berkongsi satu pesanan yang sangat pedas: miskin di usia muda itu satu pengalaman, tetapi miskin di usia tua adalah satu penjara! Apabila tiba waktu bersara kelak, kita tidak lagi mampu hidup dengan gaji bulanan, sebaliknya terpaksa bergantung sepenuhnya kepada simpanan yang dibina sewaktu tubuh masih bertenaga.
+
+Empat kepastian hidup ini pasti tiba tanpa dapat dielakkan: kita akan tua, kita akan bersara, anak-anak memerlukan dana pelajaran, dan kita pasti meninggal dunia. Jangan sesekali biarkan anak cucu mewarisi bebanan hutang kita, sebaliknya tinggalkan mereka dengan bekalan harta simpanan yang bermanfaat.
+
+Adakah simpanan hari tua anda sudah mencukupi untuk bersara tenang? Kongsi persediaan anda di ruangan komen sekarang, kerana persaraan bermaruah perlukan persediaan...
+
+Awal!`
+  },
+  {
+    id: 391,
+    siri: "Asas-01",
+    no: 7,
+    topik: "Keluarga",
+    tajuk: "Masa Terbaik Simpan Emas Untuk Anak",
+    tags: ["ringgit", "anak"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Bila sebenarnya masa paling terbaik untuk anda mula membina dana simpanan emas bagi anak-anak tersayang?
+
+Jawapannya adalah sepuluh tahun yang lalu sewaktu harga segram emas masih berada jauh di bawah dua ratus ringgit! Tetapi masa kedua terbaik untuk anda bertindak adalah hari ini juga. Ramai ibu bapa tersilap langkah kerana asyik menangguh dan menunggu harga emas turun sebelum mahu mula menabung.
+
+Hakikatnya, emas adalah aset bernilai tinggi yang akan sentiasa dianggap mahal oleh orang ramai dari tahun ke tahun. Apabila anak-anak melangkah ke menara gading kelak, kos sara hidup dan yuran pengajian sudah melambung tinggi. Mereka yang mendisiplinkan diri menyimpan satu gram sebulan sejak anak kecil tidak perlu runsing meminjam pinjaman pendidikan yang membebankan masa depan.
+
+Berapa umur anak anda sekarang dan sudahkah mereka ada simpanan emas? Nyatakan di ruangan komen sekarang, kerana masa depan anak-anak menuntut...
+
+Tindakan!`
+  },
+  {
+    id: 392,
+    siri: "Asas-01",
+    no: 8,
+    topik: "Public Gold & GAP",
+    tajuk: "Kenapa Public Gold Suka Anda Keluarkan Emas Fizikal?",
+    tags: ["syariah", "emas digital", "cawangan"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Kenapa syarikat pengeluar emas ini lebih suka anda mengeluarkan emas fizikal berbanding membiarkannya tersimpan digital?
+
+Kebanyakan platform pelaburan emas digital mahu anda terus membiarkan wang anda di dalam sistem mereka untuk mengaut keuntungan atas turun naik harga pasaran. Tetapi Public Gold mengadaptasi konsep akaun emas fizikal yang telah terbukti berjaya diguna pakai di negara Jepun selama lebih lima puluh tahun.
+
+Matlamat utamanya adalah memudahkan rakyat biasa memiliki emas fizikal sebenar, bukannya sekadar melihat angka terapung di skrin telefon pintar. Disahkan patuh syariah sepenuhnya dan disokong oleh lebih dua juta penyimpan dengan puluhan cawangan serata negara, anda mempunyai hak mutlak untuk menuntut kepingan emas fizikal ke tangan anda pada bila-bila masa.
+
+Pernahkah anda memegang sendiri jongkong emas pelaburan sembilan ratus sembilan puluh sembilan? Beritahu saya di ruangan komen, kerana keyakinan simpanan emas terbukti melalui...
+
+Fizikal!`
+  },
+  {
+    id: 393,
+    siri: "Asas-01",
+    no: 9,
+    topik: "Public Gold & GAP",
+    tajuk: "Taktik Kumpul 1 Dinar Guna RM100",
+    tags: ["gap", "gaji", "dinar", "ringgit", "tunai"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Bagaimana cara orang biasa yang bergaji kecil mampu memiliki sekeping syiling satu dinar emas tulen?
+
+Katakan anda berhasrat mahu menyimpan satu dinar yang nilainya kini melebihi dua ribu lima ratus ringgit, tetapi bajet tunai di tangan cuma ada tiga ratus ringgit. Jika anda menunggu sehingga duit tunai terkumpul cukup, biasanya wang tersebut akan habis bocor sebelum emas sempat dibeli!
+
+Melalui kemudahan Akaun Emas GAP, anda tidak perlu menunggu duit berkepuk. Anda boleh terus menukarkan wang tunai serendah seratus ringgit menjadi gram emas fizikal secara automatik. Kumpul baki gram sedikit demi sedikit setiap kali menerima gaji, dan apabila sudah mencukupi berat empat koma dua lima gram, anda boleh terus mengeluarkan kepingan satu dinar tersebut ke tangan.
+
+Siapa di sini yang ada impian nak miliki satu dinar pertama? Tulis 'Saya Nak' di komen sekarang, kerana mengumpul kekayaan bermula dengan langkah...
+
+Kecil!`
+  },
+  {
+    id: 394,
+    siri: "Asas-01",
+    no: 10,
+    topik: "Kewangan Peribadi",
+    tajuk: "Misteri Azam Kewangan Layu Bulan Mac",
+    tags: ["ringgit", "kecemasan", "psikologi"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Kenapa azam kewangan anda setiap kali masuk tahun baru selalu terkubur menjelang bulan Mac?
+
+Pakar psikologi membongkar fitrah manusia: kita bertindak bukan berlandaskan logik, tetapi emosi. Kuasa mengelak kesakitan adalah dua kali ganda lebih kuat berbanding mengejar keseronokan! Duit anda selalu bocor sebab anda belum rasa sakit bila simpanan keluarga kosong waktu kecemasan melanda.
+
+Kesilapan terbesar kita ialah menumpukan perubahan pada hasil luaran, bukan pada identiti diri. Orang yang gagal cuma berazam mahu kumpul sepuluh gram emas. Tetapi orang yang berjaya mengubah dirinya daripada dalam. Setiap gram emas yang anda simpan, setiap seratus ringgit yang anda ketepikan malam ini, adalah satu undi untuk mengesahkan identiti baharu anda sebagai pelindung kekayaan keluarga.
+
+Sebelum azam anda layu lagi tahun ini, taip di komen sekarang, anda nak simpan berapa gram? Ubah fokus daripada sekadar menyimpan wang kepada membina...
+
+Identiti!`
+  },
+  {
+    id: 395,
+    siri: "Asas-01",
+    no: 11,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Taktik Licik Scammer Dividen Emas",
+    tags: ["skim"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Kalau ada orang tawarkan beli emas dapat dividen bulanan lima peratus, tolong lari laju-laju!
+
+Fakta asas yang ramai terlepas pandang: simpanan emas fizikal langsung tiada pendapatan bulanan mahupun dividen tetap. Scammer sengaja menggunakan taktik beban kognitif yang membebankan fikiran mangsa. Mereka mereka-reka cerita rumit tentang teknologi kecerdasan buatan, pajakan lombong luar negara, dan pelaburan antarabangsa supaya otak anda keliru lalu menyerahkan duit simpanan.
+
+Ego kita mudah terpedaya kerana kita terlalu ingin mempercayai jalan pintas untuk kaya tanpa perlu berpeluh bekerja. Sains tabiat mengajar kita cara mematikan tabiat buruk: jadikan tawaran itu kelihatan menjijikkan dan tidak menarik. Emas hanya untung apabila nilainya meningkat dalam jangka masa panjang, bukannya dividen goyang kaki setiap bulan.
+
+Pernah tak kenalan anda hampir terjerat dengan skim dividen sebegini? Kongsi cerita anda di ruangan komen, dan sentiasa ingat bahawa janji manis dividen emas sebenarnya adalah...
+
+Racun!`
+  },
+  {
+    id: 396,
+    siri: "Asas-01",
+    no: 12,
+    topik: "Kenapa Emas",
+    tajuk: "Rahsia Di Sebalik Memegang Emas Fizikal",
+    tags: ["krisis", "disiplin", "tunai"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Beli emas tetapi kena tunggu berbulan-bulan baru dapat kepingan fizikal, itu bukan pelaburan tapi jerat!
+
+Sama ada anda seorang Guardian yang dahagakan keselamatan keluarga, ataupun Artisan yang perlukan fleksibiliti tunai segera, meletakkan wang pada angka digital atas skrin telefon langsung tidak mampu memberikan ketenangan jiwa sebenar. Bila krisis kewangan melanda, nombor di skrin telefon boleh membeku dalam sekelip mata.
+
+Sains tingkah laku membuktikan sesuatu tabiat hanya akan melekat kukuh apabila tindakan itu memberikan kepuasan yang nyata. Saat kepingan emas fizikal diletakkan di atas tapak tangan anda, deria sentuhan merasai berat dan sejuknya logam tulen. Otak anda serta-merta merembeskan hormon kepuasan dopamin yang mengunci disiplin untuk terus menabung pada masa hadapan.
+
+Anda jenis yang lebih tenang pegang emas sendiri atau biar sistem pegang? Beritahu saya di ruangan komen, kerana keselamatan aset bermula dengan kepuasan...
+
+Sentuhan!`
+  },
+  {
+    id: 397,
+    siri: "Asas-01",
+    no: 13,
+    topik: "Strategi Emas",
+    tajuk: "Fenomena Kiub Ais & Lembah Kekecewaan Emas",
+    tags: [],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Baru simpan emas sebulan dua tetapi sudah rasa rugi sebab harga nampak tidak naik?
+
+Apabila melihat jurang harga beli dan jual, otak limbik anda mula panik dan gelisah. Anda mula kerap membuka telefon menyemak carta harga setiap lima minit sambil menggosok tengkuk. Anda sebenarnya sedang terperangkap di dalam lembah kekecewaan.
+
+Bayangkan seketul kiub ais yang dipanaskan daripada suhu sejuk beku. Pada suhu tiga puluh satu darjah, rupa ais itu langsung tidak berubah. Namun tepat pada suhu tiga puluh dua darjah, kiub ais itu mencair dengan sangat pantas! Peningkatan suhu sebelumnya tidak pernah sia-sia, tetapi merupakan haba potensi terpendam yang disimpan rapi. Emas memerlukan masa sekurang-kurangnya dua tahun untuk melepasi jurang harga dan mencairkan keuntungan lumayan.
+
+Anda sanggup menunggu dua tahun atau mahu kaya esok? Tulis pandangan jujur anda di ruangan komen, kerana kunci keuntungan emas sebenar hanyalah...
+
+Sabar!`
+  },
+  {
+    id: 398,
+    siri: "Asas-01",
+    no: 14,
+    topik: "Strategi Emas",
+    tajuk: "Formula Matematik 1% Compounding vs Duit Kertas",
+    tags: ["inflasi", "sejarah", "tunai"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Formula matematik ini membongkar kenapa duit simpanan anda dalam akaun bank semakin hari semakin lenyap!
+
+Jika anda bertambah baik satu peratus setiap hari selama setahun, hasilnya berkembang tiga puluh tujuh kali ganda lebih hebat. Tetapi jika kuasa beli wang anda merosot satu peratus setiap hari, angkanya menjunam menjadi sifar koma sifar tiga. Simpanan anda hampir lenyap menjadi abu!
+
+Otak manusia mempunyai titik buta persepsi di mana kita sukar mengesan kemerosotan yang berlaku secara perlahan-lahan. Inflasi beberapa peratus setahun nampak kecil, namun ia sedang merompak nilai titik peluh anda secara senyap. Sejarah membuktikan harga emas fizikal meningkat secara purata sepuluh peratus setahun untuk melindungi kuasa beli wang anda daripada terus dimamah zaman.
+
+Adakah simpanan tunai anda sekarang sedang berkembang atau semakin mengecut? Cuba periksa dan kongsikan di komen, kerana emas memastikan nilai hasil kerja anda kekal...
+
+Utuh!`
+  },
+  {
+    id: 399,
+    siri: "Asas-01",
+    no: 15,
+    topik: "Kewangan Peribadi",
+    tajuk: "Penyakit Gaji Bocor & Perangkap 'Self-Reward'",
+    tags: ["gaji", "tunai"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Gaji baru masuk tiga hari tetapi baki akaun bank anda sudah tinggal dua angka?
+
+Punca utama masalah ini bukanlah saiz pendapatan anda, sebaliknya tiada sebarang geseran untuk berbelanja boros. Apabila kad debit dan imbasan kod QR sentiasa berada di hujung jari, wang tunai mengalir keluar tanpa rasa sakit. Ego anda pula pandai mencipta alasan suci kononnya pembaziran itu ganjaran penat bekerja.
+
+Sains tabiat membuktikan bahawa reka bentuk persekitaran jauh lebih berkuasa berbanding motivasi diri. Pada hari gaji diterima, tukarkan sebahagian tunai menjadi emas fizikal dengan segera. Anda tidak boleh mengimbas kepingan emas untuk membayar kopi mahal. Geseran fizikal yang tinggi inilah yang menyelamatkan wang simpanan anda daripada hangus dibelanjakan tanpa arah.
+
+Berapa hari gaji anda mampu bertahan sebelum habis sepenuhnya? Tulis secara jujur di ruangan komen, kerana apabila membeli emas, wang anda tidak lesap tetapi membeku menjadi...
+
+Aset!`
+  },
+  {
+    id: 400,
+    siri: "Asas-01",
+    no: 16,
+    topik: "Strategi Emas",
+    tajuk: "Bila Waktu Terbaik Beli Emas?",
+    tags: ["gap", "ringgit"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Berhenti menunggu harga emas jatuh ke paras lantai sebelum anda membuat keputusan untuk bermula!
+
+Ramai orang tersangkut dengan helah ego kononnya mahu mengumpul wang sehingga lima ribu ringgit dahulu baru membeli seketul jongkong emas besar. Akhirnya setahun berlalu, wang ribuan ringgit habis dibelanjakan dan emas satu gram pun tidak pernah wujud di tangan anda.
+
+Gunakan peraturan dua minit dalam sains tabiat: mulakan tabiat yang mengambil masa kurang daripada dua minit sahaja. Standardkan kehadiran tindakan sebelum cuba menyempurnakannya. Akaun GAP membolehkan anda memulakan tabiat menabung emas serendah seratus ringgit secara dalam talian dalam tempoh dua minit sahaja. Langkah kecil ini mencetuskan perubahan tabiat kekal untuk melindungi kekayaan keluarga.
+
+Adakah anda bersedia meluangkan masa dua minit malam ini untuk bermula? Taip 'Mula Sekarang' di ruangan komen, kerana kejayaan membina kekayaan bermula dengan satu...
+
+Tindakan!`
+  },
+  {
+    id: 401,
+    siri: "Asas-01",
+    no: 17,
+    topik: "Strategi Emas",
+    tajuk: "Tiga Waktu Halal Jual Emas",
+    tags: ["hutang", "haji", "anak", "kecemasan", "psikologi", "tunai"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Jangan sesekali menjual emas simpanan anda semata-mata kerana melihat harganya sedang melambung tinggi di pasaran!
+
+Ramai penyimpan mempunyai matlamat yang hebat, tetapi apabila melihat keuntungan sedikit, tangan mula gatal mahu menjual untuk membeli telefon baharu. Mereka kecundang kerana tidak mempunyai sistem kawalan pelepasan aset yang berdisiplin. Anda tidak naik ke tahap matlamat anda, sebaliknya jatuh ke tahap sistem pertahanan anda.
+
+Emas hanya wajar dijual dalam tiga keadaan khusus: menukarkannya kepada aset aliran tunai yang menguntungkan, mencapai matlamat besar seperti ibadah haji dan pendidikan anak, atau menghadapi kecemasan hidup yang mendesak. Mengikut piramid psikologi, emas fizikal merupakan kubu pertahanan keselamatan yang memelihara maruah keluarga anda daripada terpaksa menagih hutang kepada orang lain.
+
+Antara tiga keadaan tadi, apa matlamat utama simpanan emas anda? Kongsikan di ruangan komen, kerana emas fizikal merupakan perisai pertahanan...
+
+Maruah!`
+  },
+  {
+    id: 402,
+    siri: "Asas-01",
+    no: 18,
+    topik: "Strategi Emas",
+    tajuk: "Formula 'Never Miss Twice' & Pilihan 5 Tahun",
+    tags: ["krisis", "anak", "isteri"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Terlepas menyimpan wang sekali itu satu kemalangan, tetapi terlepas kali kedua adalah permulaan malapetaka!
+
+Sains tabiat menegaskan hukum yang sangat tegas: jangan sesekali terlepas dua kali berturut-turut. Jika bulan lalu anda terpaksa ponteng menyimpan emas kerana komitmen mendesak, ia dimaafkan. Namun jika bulan ini anda mengabaikannya lagi, anda secara rasmi sedang mengundi untuk membentuk tabiat buruk yang merosakkan masa depan keluarga anda sendiri.
+
+Bayangkan jika lima tahun dari sekarang ekonomi dunia dilanda ribut kemelesetan yang paling dahsyat. Adakah anda mahu memegang timbunan kertas wang yang nilainya menjunam laju, ataupun sekeping emas fizikal yang kukuh memayungi keselamatan anak isteri anda? Pilihan masa depan berada di tangan anda sekarang.
+
+Antara wang kertas dan emas fizikal ketika krisis melanda, mana satu pilihan anda? Nyatakan pilihan anda di ruangan komen sekarang, demi membina benteng kewangan keluarga yang...
+
+Kalis!`
+  },
+  {
+    id: 403,
+    siri: "Asas-01",
+    no: 19,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kaya Sebenar Adalah Apa Yang Orang Tak Nampak",
+    tags: ["gaji", "krisis"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Pernah tak anda terfikir sama ada anda bekerja keras setiap hari untuk membina kekayaan atau sekadar membayar reputasi di mata orang?
+
+Kestabilan hidup kebanyakan kita hari ini sebenarnya hanya tergantung pada seutas benang yang sangat halus. Satu musibah kesihatan mengejut, satu pembuangan kerja, atau krisis mata wang dunia mampu memutuskan benang tersebut dalam sekelip mata. Namun apabila keadaan tenang, kita sering berasa kebal dan menyangka gaji bulanan akan kekal wujud selamanya.
+
+Kekayaan sejati bukanlah tentang berapa banyak barang mewah yang anda tayangkan di hadapan kawan-kawan. Tetapi kekayaan sebenar adalah aset kukuh yang anda simpan secara berdisiplin tanpa disedari sesiapa. Emas fizikal adalah benteng penyelamat yang memadamkan rasa panik apabila ribut hidup melanda keluarga anda.
+
+Adakah simpanan anda sekarang mampu bertahan jika punca rezeki terputus esok? Nyatakan di ruangan komen, kerana kekayaan mutlak sentiasa dibina secara...
+
+Senyap!`
+  },
+  {
+    id: 404,
+    siri: "Asas-01",
+    no: 20,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Tragedi Jalan Pintas Skim Dividen Emas",
+    tags: ["ringgit", "skim"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Tahu tak bagaimana sekumpulan perintis Amerika berakhir dengan tragedi kanibalisme hanya kerana mempercayai jalan pintas ke California?
+
+Tahun seribu lapan ratus empat puluh enam, rombongan Donner Party memilih jalan pintas yang dijanjikan menjimatkan masa perjalanan. Malang sekali, mereka terkandas di pergunungan salji tebal sehingga gerabak musnah dan mereka terpaksa memakan daging mayat sendiri demi kelangsungan hidup! Perkara yang bernilai tinggi memang sepatutnya sukar dan memerlukan masa serta kesabaran.
+
+Skim pelaburan dividen emas hari ini adalah persis jalan pintas beracun tersebut. Penganjur menjanjikan pulangan pasif lima peratus sebulan tanpa sebarang usaha. Hakikatnya, emas adalah logam kaku yang tidak pernah beranak dividen di dalam almari. Apabila anda memaksa kekayaan membesar melebihi kelajuan semula jadinya, wang simpanan puluhan ribu ringgit anda pasti berakhir dengan kehancuran.
+
+Pernahkah kenalan anda terpikat dengan janji manis dividen emas goyang kaki? Kongsikan di ruangan komen, kerana mengejar jalan pintas menyebabkan modal...
+
+Lebur!`
+  },
+  {
+    id: 405,
+    siri: "Asas-01",
+    no: 21,
+    topik: "Kenapa Emas",
+    tajuk: "Perangkap Sistem Sempurna & Emas Anti-Flexing",
+    tags: ["krisis"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Pernah tak anda terfikir betapa rapuhnya kehidupan kita apabila seluruh duit simpanan hanya wujud sebagai nombor digital di skrin telefon?
+
+Pakar kewangan Morgan Housel mengingatkan bahawa sistem yang dioptimumkan seratus peratus serba digital tanpa penampan fizikal adalah sistem yang paling mudah musnah apabila berlaku krisis. Jika berlaku gangguan elektrik berskala besar atau akaun bank dibekukan, anda tidak mempunyai sebarang kuasa ke atas wang anda sendiri.
+
+Inilah sebabnya mengapa anda wajib memiliki emas fizikal di tangan sendiri. Emas fizikal tidak mempunyai risiko pihak ketiga dan tidak boleh dibekukan oleh sesiapa di dunia ini. Malah, kepingan emas mematikan nafsu menunjuk-nunjuk kerana anda menyimpannya rapi di tempat selamat demi membina kekayaan senyap tanpa perlu berhutang reputasi di media sosial.
+
+Anda lebih yakin memegang kepingan emas sendiri atau membiarkan nombor di skrin telefon? Nyatakan di komen, kerana keselamatan aset keluarga menuntut fizikal di...
+
+Tangan!`
+  },
+  {
+    id: 406,
+    siri: "Asas-01",
+    no: 22,
+    topik: "Strategi Emas",
+    tajuk: "Ujian Ribut Jangka Panjang & Piramid Tabungan",
+    tags: ["gaji", "anak", "kecemasan", "tunai"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Mengatakan diri anda seorang pelabur jangka panjang adalah sangat mudah sewaktu keadaan pasaran sedang tenang dan selesa!
+
+Namun apabila harga emas dunia mengalami pembetulan dan turun sedikit, mereka yang gopoh mula panik lalu menjual dalam kerugian. Jangka panjang bukanlah sekadar angka pada kalendar, tetapi tentang ketahanan emosi anda menghadapi ribut pasaran.
+
+Susun simpanan anda mengikut piramid kewangan yang betul. Dasar pertama adalah dana kecemasan tunai tiga bulan gaji di dalam bank untuk menampung perbelanjaan mendesak. Tingkat kedua barulah perlindungan kekayaan menggunakan emas fizikal untuk tempoh dua hingga lima tahun ke atas bagi dana persaraan dan pendidikan anak. Apabila asas tunai anda kukuh, anda tidak akan sesekali terdesak melelong emas sewaktu harganya sedang murah.
+
+Adakah anda sudah mempunyai simpanan tunai sebelum membuat keputusan membeli emas? Kongsi susunan simpanan anda di ruangan komen, kerana benteng kekayaan sebenar adalah...
+
+Emas!`
+  },
+  {
+    id: 407,
+    siri: "Asas-01",
+    no: 23,
+    topik: "Kenapa Emas",
+    tajuk: "Duit Kertas Makin Kurus & Red Queen Effect",
+    tags: ["inflasi", "gaji", "dinar"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Pernah tak anda rasa penat bekerja bertahun-tahun tetapi kuasa beli gaji anda terasa semakin hari semakin mengundur ke belakang?
+
+Dalam kisah klasik Alice in Wonderland, permaisuri Red Queen menegaskan bahawa anda terpaksa berlari sekuat hati semata-mata untuk kekal di tempat yang sama! Jika gaji anda meningkat tiga peratus setahun sedangkan inflasi sebenar mencecah tujuh peratus, anda sebenarnya sedang menuju kemiskinan secara senyap tanpa disedari.
+
+Bukan harga barang dapur yang sengaja dinaikkan, sebaliknya nilai titik peluh kita yang bocor apabila disimpan dalam bentuk kertas. Seribu empat ratus tahun dahulu pada zaman Rasulullah, sekeping satu dinar emas mampu membeli seekor kambing hidup. Hari ini, sekeping satu dinar yang sama masih mampu membeli seekor kambing di pasaran. Nilai emas fizikal meningkat purata sepuluh peratus setahun memelihara hasil kerja anda.
+
+Adakah simpanan gaji anda sedang membesar atau mengecut dimakan inflasi? Kongsikan di ruangan komen, kerana emas memastikan nilai keringat anda kekal...
+
+Utuh!`
+  },
+  {
+    id: 408,
+    siri: "Asas-01",
+    no: 24,
+    topik: "Kenapa Emas",
+    tajuk: "Ketenangan Palsu Akaun Bank (Calm Plants Crazy)",
+    tags: ["gaji", "palsu", "psikologi", "tunai"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Perasan tak setiap kali anda berniat mahu menyimpan wang dalam bank, baki tersebut tetap lesap sebelum hujung bulan tiba?
+
+Pakar kewangan Morgan Housel mendedahkan satu fenomena psikologi yang sangat mengejutkan: waktu akaun bank kita mempunyai baki tunai yang banyak, ketenangan palsu itu sebenarnya sedang menyemai kegilaan berbelanja! Kita berasa kaya dan mula mencipta alasan ganjaran penat bekerja, sehinggalah wang tersebut terbang keluar melalui transaksi imbasan kod QR yang terlalu mudah.
+
+Gunakan prinsip paksa dan lupa untuk menjinakkan nafsu berbelanja anda. Pada hari gaji diterima, tukarkan sebahagian tunai kepada gram emas fizikal dengan segera. Apabila wang sudah bertukar menjadi kepingan logam padat, minda anda secara automatik menganggap duit tersebut sudah tiada. Geseran fizikal emas yang liat dibelanjakan menyelamatkan simpanan anda daripada hangus ditelan nafsu boros.
+
+Berapa hari gaji anda mampu bertahan sebelum lesap sepenuhnya setiap bulan? Nyatakan secara jujur di ruangan komen, kerana emas menukar tunai menjadi aset...
+
+Kukuh!`
+  },
+  {
+    id: 409,
+    siri: "Asas-01",
+    no: 25,
+    topik: "Strategi Emas",
+    tajuk: "Penyakit Analysis Paralysis & Risiko Tersembunyi",
+    tags: ["ringgit", "tunai"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Berapa ramai antara kita yang asyik merenung graf harga emas setiap hari tetapi akhirnya satu gram pun tidak terbeli?
+
+Tahun dua ribu dua puluh sewaktu emas dua ratus enam puluh ringgit segram, anda kata mahal dan mahu menunggu harga lantai. Tahun dua ribu dua puluh tiga naik tiga ratus ringgit, anda masih menunggu. Hari ini harga emas melepasi empat ratus lima puluh ringgit segram, anda masih tercegat memandang skrin telefon sementara simpanan tunai semakin susut!
+
+Pakar kewangan Morgan Housel menegaskan risiko sebenar adalah apa yang tinggal selepas anda menyangka anda sudah mengkaji segalanya. Tiada siapa mampu meramal harga pasaran esok hari. Terlalu banyak menganalisis hanya menjadikan fikiran anda racun yang melumpuhkan tindakan. Waktu terbaik membeli emas adalah apabila anda mempunyai lebihan wang untuk simpanan jangka panjang.
+
+Adakah anda masih menunggu harga turun atau sudah sedia bermula? Beritahu saya di komen sekarang, kerana kejayaan masa depan bermula dengan...
+
+Tindakan!`
+  },
+  {
+    id: 410,
+    siri: "Asas-01",
+    no: 26,
+    topik: "Strategi Emas",
+    tajuk: "Membeli Kebebasan & Tiga Waktu Halal Jual Emas",
+    tags: ["anak", "kecemasan", "tunai"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Pernah tak anda terfikir kenapa guru emas melarang keras menjual simpanan emas semata-mata kerana harganya sedang melambung tinggi?
+
+Apabila anda menjual emas semata-mata untuk mengambil untung atas kertas, anda kembali memegang timbunan wang kertas yang mudah bocor dan akhirnya lesap dibelanjakan untuk perkara remeh. Parut trauma kejatuhan kewangan pada hari persaraan kelak adalah luka kekal yang sangat menyakitkan jika simpanan hari tua anda habis licin!
+
+Emas fizikal yang anda simpan hari ini adalah untuk membeli ketenangan jiwa. Ia hanya wajar dilepaskan untuk tiga keadaan sahaja: menukar kepada aset yang menjana aliran tunai, mencapai matlamat hidup besar seperti pendidikan anak, atau menghadapi kecemasan hidup sebenar. Emas disimpan agar anda tidak perlu merendahkan martabat meminjam wang daripada orang lain apabila ditimpa musibah.
+
+Antara tiga keadaan tadi, apa matlamat utama simpanan emas keluarga anda? Kongsikan di ruangan komen sekarang, kerana emas fizikal merupakan benteng penyelamat...
+
+Maruah!`
+  },
+  {
+    id: 411,
+    siri: "Asas-01",
+    no: 27,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kecilkan Circle & Cipta Kisah Kejayaan Anda",
+    tags: ["gap", "inflasi", "gaji", "ringgit", "syariah"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Kecilkan lingkungan kawan anda dan berhenti membuang masa bersama mereka yang asyik merungut tetapi tidak pernah mengambil tindakan!
+
+Penulis terkenal Morgan Housel menegaskan bahawa kisah hidup yang terbaiklah yang akan menang. Kisah masa depan anda tidak dinilai daripada impian di awang-awangan, sebaliknya dinilai daripada keputusan yang anda ambil pada malam ini. Adakah lima tahun dari sekarang kisah anda masih sama mengeluh gaji tidak cukup, atau anda tersenyum bangga kerana benteng emas keluarga anda sudah kukuh terbina?
+
+Jangan biarkan alasan ketiadaan modal ribuan ringgit menghalang langkah anda. Melalui akaun simpanan emas GAP patuh syariah, anda boleh memulakan simpanan pertama serendah seratus ringgit sahaja secara dalam talian. Seratus ringgit malam ini adalah permulaan kepada perlindungan masa depan keluarga anda daripada ancaman inflasi dunia.
+
+Bolehkah saya bantu anda membuka akaun simpanan emas pertama secara percuma malam ini? Taip 'Saya Nak Mula' di komen sekarang, kerana kisah kejayaan bermula dengan satu...
+
+Langkah!`
+  },
+  {
+    id: 412,
+    siri: "Asas-01",
+    no: 28,
+    topik: "Kenapa Emas",
+    tajuk: "Analogi Kapal Titanic & Sekoci Penyelamat",
+    tags: ["inflasi", "gaji", "krisis", "kecemasan"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Tahu tak kenapa ramai orang lemas bila krisis kewangan melanda hidup mereka secara tiba-tiba?
+
+Bayangkan anda berada di atas kapal mewah Titanic. Waktu bahagian bawah kapal mula dimasuki air mencurah-curah, penumpang di tingkat atas langsung tidak sedar sebab alunan muzik masih berkumandang merdu. Orang yang bijak tidak akan menunggu sehingga kapal senget menyembah laut baru kelam-kabut berebut bot penyelamat!
+
+Ekonomi dunia dan kuasa beli wang kertas kita hari ini persis pelayaran Titanic. Nilai duit simpanan anda sedang tenggelam perlahan-lahan dimamah inflasi. Mengharapkan gaji semata-mata tanpa perlindungan aset adalah satu kesilapan yang sangat berbahaya. Guru saya berpesan, emas fizikal adalah sekoci penyelamat yang wajib disiapkan sewaktu laut kewangan keluarga anda masih tenang.
+
+Adakah keluarga anda sudah mempunyai persediaan sekoci kecemasan hari ini? Tulis jawapan anda di ruangan komen, kerana penyelamat harta sebenar adalah...
+
+Sekoci!`
+  },
+  {
+    id: 413,
+    siri: "Asas-01",
+    no: 29,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Rahsia Mematahkan Skim Dividen Emas",
+    tags: ["ringgit", "palsu", "skim", "anak"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Bila ada orang bisik pada anda beli emas boleh dapat dividen lima peratus sebulan, buka mata luas-luas!
+
+Secara logik perniagaan, Bank Negara sendiri cuma mampu mengagihkan dividen purata sekitar empat hingga lima peratus setahun. Macam mana sebuah syarikat swasta yang tidak mempunyai lombong emas mampu menjanjikan pulangan setinggi itu setiap bulan? Duit keuntungan palsu itu sebenarnya datang daripada wang mangsa seterusnya yang baru mendaftar!
+
+Emas fizikal adalah logam kaku penyimpan nilai yang langsung tidak menghasilkan anak emas di dalam almari. Penganjur skim sengaja memanfaatkan sifat tamak kita yang mahukan wang pasif goyang kaki. Apabila tiada lagi ahli baharu yang menyertai, syarikat tersebut akan gulung tikar dan wang simpanan puluhan ribu ringgit anda lenyap sekelip mata.
+
+Pernahkah anda atau kenalan didekati ejen pelaburan dividen macam ini? Kongsi kisah anda di ruangan komen, kerana mengejar dividen palsu akan menyebabkan modal...
+
+Lebur!`
+  },
+  {
+    id: 414,
+    siri: "Asas-01",
+    no: 30,
+    topik: "Kenapa Emas",
+    tajuk: "Analogi Token Dobi & Kuasa Emas Fizikal",
+    tags: ["krisis"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Pernah tak anda terfikir bahawa duit kertas dalam dompet anda sebenarnya tidak ubah seperti token kedai dobi?
+
+Apabila anda memasukkan wang kertas ke dalam mesin kedai dobi layan diri, mesin mengeluarkan syiling token khas. Tetapi nilai token itu hanya laku di dalam kedai dobi tersebut sahaja. Jika anda cuba membawa token itu ke stesen minyak untuk mengisi petrol, juruwang pasti akan mencampakkannya kembali!
+
+Wang kertas hanya bernilai kerana kerajaan mengesahkannya. Apabila krisis peperangan atau hiperinflasi melanda sesebuah negara, wang kertas bertukar menjadi sampah jalanan. Sebaliknya, anda wajib menyimpan emas fizikal hari ini kerana ia tidak mempunyai risiko pihak ketiga. Nilai emas melekat secara mutlak pada zat tubuhnya dan diterima di seluruh dunia sejak ribuan tahun tanpa sebarang syarat.
+
+Anda lebih yakin memegang kepingan emas sendiri atau sekadar angka digital? Beritahu saya di komen, kerana jaminan kekayaan mutlak adalah...
+
+Fizikal!`
+  },
+  {
+    id: 415,
+    siri: "Asas-01",
+    no: 31,
+    topik: "Bisnes & Dealer",
+    tajuk: "Pokok Durian vs Sayur Bayam",
+    tags: ["tabung haji", "haji", "rumah", "anak", "kecemasan", "cukai", "durian"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Jangan sesekali membeli emas jika anda berhasrat mahu menggunakan kembali wang tersebut dalam tempoh beberapa bulan!
+
+Ramai orang tersilap langkah kerana menyamakan simpanan emas dengan menanam sayur bayam. Benih bayam ditanam hari ini, disiram tiga minggu, dan sudah boleh dituai untuk dijadikan lauk makan malam. Duit kecemasan jangka pendek untuk membayar cukai jalan atau sewa rumah itulah sayur bayam anda, yang patut disimpan di dalam bank atau Tabung Haji.
+
+Tetapi simpanan emas fizikal adalah persis menanam anak pokok durian Musang King! Pokok durian memerlukan tempoh matang sekurang-kurangnya dua hingga lima tahun untuk akarnya mencengkam bumi dengan gagah. Namun apabila ia mula berbuah lebat, hasilnya dinikmati berdekad-dekad lamanya. Jangan buang masa emas anda memantau turun naik harga harian.
+
+Anda jenis yang suka tanam sayur bayam atau sabar membela pokok durian? Kongsikan jawapan anda di ruangan komen, kerana emas adalah aset jangka panjang persis...
+
+Durian!`
+  },
+  {
+    id: 416,
+    siri: "Asas-01",
+    no: 32,
+    topik: "Kenapa Emas",
+    tajuk: "Kisah Karipap Mak Cik Bedah & 1 Dinar",
+    tags: ["inflasi", "dinar", "ringgit", "anak", "tunai"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Dulu masa kita sekolah rendah, bawa duit seringgit pergi gerai boleh dapat empat biji karipap panas yang montel!
+
+Hari ini anak kita bawa duit seringgit yang sama, cuma dapat sebiji karipap kempis yang intinya separuh angin. Bukan Mak Cik Bedah yang kedekut, sebaliknya kuasa beli duit kertas seringgit itu yang sudah merosot teruk dimamah inflasi.
+
+Tetapi cuba perhatikan keajaiban satu dinar emas tulen. Pada zaman Rasulullah seribu empat ratus tahun dahulu, sekeping syiling satu dinar mampu membeli seekor kambing hidup. Hari ini, nilai sekeping satu dinar masih bernilai sekitar dua ribu ringgit, iaitu harga yang sama untuk membeli seekor kambing di pasaran! Bahkan bank-bank pusat seluruh dunia kini memborong beratus-ratus tan emas fizikal kerana sedar wang kertas semakin hari semakin hilang taringnya.
+
+Adakah simpanan tunai anda mampu mengekalkan nilainya untuk tempoh sepuluh tahun lagi? Tulis di komen, kerana pelindung kuasa beli abadi hanyalah...
+
+Emas!`
+  },
+  {
+    id: 417,
+    siri: "Asas-01",
+    no: 33,
+    topik: "Kewangan Peribadi",
+    tajuk: "Rahsia Simpanan Paksa & Lupa (Forgotten Saving)",
+    tags: ["gap", "gaji", "ringgit", "tunai"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Punca utama anda selalu gagal membina simpanan bukan sebab gaji kecil, tapi sebab simpan duit dalam bentuk tunai cair!
+
+Bila duit gaji terbiar di dalam akaun bank, tangan kita sentiasa berasa gatal mahu berbelanja. Setiap kali hujung bulan tiba, baki akaun bank kembali kering tanpa sebarang kesan harta yang terkumpul.
+
+Untuk mematikan tabiat buruk ini, guru saya memperkenalkan satu formula yang sangat berkuasa: Simpanan Paksa dan Lupa. Setiap kali gaji masuk, aktifkan potongan automatik serendah seratus ringgit melalui kemudahan akaun emas GAP. Apabila wang tunai tersebut sudah bertukar menjadi gram emas, minda anda secara automatik akan menganggap duit itu sudah tiada. Hukum tiga puluh hari membuktikan apa yang anda asingkan hari ini menentukan kelangsungan hidup anda pada masa hadapan.
+
+Berapa gram emas yang anda sasarkan mahu simpan secara paksa setiap bulan? Kongsi sasaran anda di ruangan komen, kerana kekayaan dibina dengan teknik paksa dan...
+
+Lupa!`
+  },
+  {
+    id: 418,
+    siri: "Asas-01",
+    no: 34,
+    topik: "Strategi Emas",
+    tajuk: "Fokus Tambah Gram, Jangan Monitor Harga!",
+    tags: ["ringgit"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Berhenti membuang masa berjam-jam setiap hari merenung graf carta harga emas di skrin telefon anda!
+
+Ramai orang yang belum mula membeli emas asyik beralasan kononnya harga hari ini sedang melambung terlalu tinggi. Tahun dua ribu sembilan belas sewaktu emas dua ratus ringgit segram, mereka kata mahal. Tahun dua ribu dua puluh tiga cecah tiga ratus ringgit, mereka masih kata mahal. Hari ini bila emas melepasi empat ratus ringgit, mereka langsung tiada simpanan emas dalam tangan!
+
+Guru saya mengingatkan satu prinsip penting: waktu terbaik membeli emas adalah apabila kita mempunyai lebihan wang untuk simpanan jangka panjang. Jangan cuba meneka pasaran yang tiada siapa mampu ramal. Mereka yang berjaya tidak pernah sibuk memikirkan harga naik atau turun, sebaliknya mereka hanya fokus mengumpul gram secara konsisten.
+
+Adakah anda masih menunggu harga jatuh atau sudah mula menabung? Tulis jawapan anda di ruangan komen sekarang, kerana kunci kejayaan kita adalah fokus tambah...
+
+Gram!`
+  },
+  {
+    id: 419,
+    siri: "Asas-01",
+    no: 35,
+    topik: "Keluarga",
+    tajuk: "Sasaran 1 Kilogram Emas 1 Keluarga",
+    tags: ["haji", "hartanah", "anak", "kecemasan", "tunai"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Pernah tak anda terfikir bila sebenarnya waktu yang betul-betul halal untuk anda menjual kembali emas simpanan anda?
+
+Guru saya Tuan Mohd Zulkifli Shafie menetapkan hanya tiga keadaan sahaja: pertama, tukar kepada aset yang menjana aliran tunai seperti hartanah sewa. Kedua, apabila matlamat simpanan tercapai seperti menunaikan haji atau yuran universiti anak. Dan ketiga, apabila dilanda kecemasan hidup yang benar-benar mendesak.
+
+Selain daripada tiga sebab ini, jangan sesekali menjual emas semata-mata kerana harganya sedang naik! Jika anda jual, anda kembali memegang wang kertas yang mudah bocor. Itulah sebabnya komuniti kami meletakkan satu wawasan yang sangat jelas: sasarkan sekurang-kurangnya sepuluh peratus kekayaan bersih atau satu kilogram emas untuk setiap keluarga. Kepingan emas adalah benteng kebal yang memelihara kestabilan hidup tanpa perlu berhutang.
+
+Antara tiga syarat tadi, mana satu matlamat terbesar simpanan emas anda? Kongsikan di ruangan komen, kerana emas fizikal merupakan perisai pertahanan...
+
+Maruah!`
+  },
+  {
+    id: 420,
+    siri: "Asas-01",
+    no: 36,
+    topik: "Kewangan Peribadi",
+    tajuk: "Mantra Sebelas Perkataan & Satu Tindakan Ekstra",
+    tags: ["ringgit", "anak", "isteri", "syariah"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Sebelum anda menutup telefon dan masuk tidur malam ini, ada satu mantra penting yang mampu mengubah nasib kewangan anda!
+
+Pakar jualan antarabangsa Jeb Blount berkongsi satu prinsip agung yang dipanggil Mantra Sebelas Perkataan: 'Apabila tiba waktu untuk pulang berehat, lakukan satu tindakan ekstra lagi.' Kebanyakan orang hidup dalam penyesalan kerana mereka mendengar seribu nasihat kewangan yang baik, tetapi langsung tidak mengambil walau satu tindakan kecil untuk mengubah realiti hidup mereka.
+
+Malam ini, jangan biarkan perkongsian ilmu emas ini berlalu begitu sahaja. Ambil satu tindakan ekstra untuk melindungi masa depan anak isteri anda. Buka akaun simpanan emas patuh syariah secara percuma dan mulakan belian pertama serendah seratus ringgit sahaja. Langkah kecil seratus ringgit inilah yang akan membuka pintu kepada tabiat menabung emas seumur hidup.
+
+Adakah anda bersedia mengambil tindakan ekstra malam ini demi keluarga? Taip 'Bantu Saya Mula' di ruangan komen, kerana kejayaan masa depan menuntut satu tindakan...
+
+Ekstra!`
+  },
+  {
+    id: 421,
+    siri: "Asas-01",
+    no: 37,
+    topik: "Kewangan Peribadi",
+    tajuk: "Misteri Kutu Dalam Balang Kaca",
+    tags: ["gaji", "palsu"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Tahu tak kenapa seekor kutu yang boleh melompat setinggi tiga puluh sentimeter tiba-tiba terperangkap dalam balang rendah?
+
+Saintis memasukkan kutu ke dalam balang kaca bertutup. Setiap kali melompat, kepalanya terhantuk penutup kaca. Selepas tiga hari, saintis membuka penutup tersebut. Tetapi ajaibnya, tiada seekor pun kutu yang melompat keluar! Kutu tersebut melompat hanya setakat paras penutup lama kerana mindanya sudah terbiasa dengan had sempadan palsu.
+
+Ramai orang hari ini berperangai persis kutu dalam balang kaca. Bila sebut tentang simpanan emas, otak mereka automatik berbisik kononnya emas hanya untuk orang kaya dan gaji mereka tidak pernah cukup. Hakikatnya penutup kaca itu sudah lama tiada! Anda sendiri yang membataskan potensi kewangan keluarga kerana terbiasa hidup cukup-cukup makan.
+
+Adakah anda masih merasa diri tidak mampu menyimpan emas hari ini? Tulis secara jujur di ruangan komen, kerana kekayaan bermula dengan membebaskan...
+
+Minda!`
+  },
+  {
+    id: 422,
+    siri: "Asas-01",
+    no: 38,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Perangkap Minyak Ular Dividen Emas",
+    tags: ["palsu", "skim"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Pernah dengar dari mana datangnya istilah terkenal 'Penjual Minyak Ular' yang menipu jutaan mangsa di seluruh dunia?
+
+Pada tahun seribu lapan ratus sembilan puluh tiga di Chicago, seorang lelaki memerah minyak daripada ular orok-orok di hadapan khalayak ramai. Dia mendakwa minyak tersebut ubat ajaib penyembuh segala penyakit. Dua puluh tahun kemudian, ujian makmal membuktikan botol itu sembilan puluh sembilan peratus hanyalah minyak mineral murah tanpa secebis pun minyak ular!
+
+Kajian sains membuktikan apabila manusia melihat tawaran pulangan tetap tanpa risiko, bahagian logik otak terus terpadam. Skim dividen emas hari ini tidak ubah seperti botol minyak ular palsu. Emas dijadikan umpan hiasan, sedangkan dividen bulanan lima peratus diambil daripada wang mangsa seterusnya. Apabila tiada mangsa baharu, penganjur lari dan wang simpanan anda lenyap sekelip mata.
+
+Pernahkah kenalan anda terpedaya dengan janji dividen emas goyang kaki? Kongsi cerita anda di komen, kerana skim pulangan tetap sebenarnya adalah...
+
+Palsu!`
+  },
+  {
+    id: 423,
+    siri: "Asas-01",
+    no: 39,
+    topik: "Kewangan Peribadi",
+    tajuk: "Butang Backspace & Teori Tingkap Pecah",
+    tags: ["disiplin"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Tahu tak kenapa butang Backspace dan Delete dicipta pada papan kekunci komputer kita lebih seratus tahun dahulu?
+
+Perekacipta mesin taip mencipta dua butang ini sebagai penyelamat kesilapan manusia agar kita tidak perlu mengoyak kertas setiap kali salah mengeja. Dalam dunia kewangan yang serba mencabar, kepingan emas fizikal bertindak sebagai butang simpanan dan pemadam kesilapan ekonomi anda. Nilainya kekal utuh memelihara kekayaan keluarga.
+
+Namun, pastikan emas itu sentiasa berada di tangan sendiri. Eksperimen Teori Tingkap Pecah membuktikan apabila satu tingkap kereta yang elok dipecahkan, dalam beberapa jam sahaja keseluruhan kereta tersebut akan dijarah dan dibakar orang ramai! Apabila syarikat emas mula memecahkan satu disiplin dengan menangguhkan serahan emas menggunakan alasan tempoh matang, itu petanda integriti mereka sudah retak menanti masa untuk lebur.
+
+Anda lebih tenang simpan emas di tangan sendiri atau biar syarikat pegang? Nyatakan di komen, kerana keselamatan aset menuntut fizikal di...
+
+Tangan!`
+  },
+  {
+    id: 424,
+    siri: "Asas-01",
+    no: 40,
+    topik: "Kewangan Peribadi",
+    tajuk: "Rahsia Sebiji Gula-Gula Marshmallow",
+    tags: ["psikologi"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Bolehkah tindakan menahan sabar selama lima belas minit di hadapan sebiji gula-gula meramal kejayaan masa depan anda?
+
+Tahun seribu sembilan ratus tujuh puluh dua, Profesor Walter Mischel meletakkan sebiji marshmallow di hadapan kanak-kanak. Mereka diberitahu jika mampu menahan diri daripada memakannya selama lima belas minit, mereka akan dihadiahkan sebiji marshmallow tambahan. Kajian berpuluh tahun membuktikan kanak-kanak yang sabar mempunyai kerjaya cemerlang dan kestabilan kewangan yang jauh lebih kaya!
+
+Dalam sains psikologi, ini dipanggil kepuasan tertangguh. Simpanan emas fizikal adalah persis marshmallow kedua dalam hidup anda. Jika anda membeli emas hari ini tetapi tidak sabar mahu meraih untung pantas bulan hadapan, anda persis kanak-kanak gopoh yang gagal menahan nafsu. Emas memerlukan tempoh matang sekurang-kurangnya dua tahun ke atas agar kenaikan nilainya melepasi jurang harga belian.
+
+Adakah anda seorang yang penyabar demi masa depan atau mahukan ganjaran segera? Kongsi di ruangan komen, kerana kekayaan sejati menanti marshmallow...
+
+Kedua!`
+  },
+  {
+    id: 425,
+    siri: "Asas-01",
+    no: 41,
+    topik: "Kenapa Emas",
+    tajuk: "Menara Eiffel Mengembang & Katak Direbus",
+    tags: ["inflasi"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Tahukah anda bahawa Menara Eiffel di Paris bertambah tinggi sebanyak lima belas sentimeter setiap kali musim panas tiba?
+
+Fenomena fizik pengembangan terma menyebabkan atom besi menara menyerap haba matahari lalu mengembang tinggi. Tetapi ironinya, apa yang berlaku kepada wang kertas kita apabila suhu inflasi negara meningkat? Duit kertas kita tidak mengembang, sebaliknya kuasa belinya mengecut dan layu setiap tahun!
+
+Kebanyakan orang tidak menyedari perkara ini kerana mereka mengalami fenomena katak direbus. Jika katak dicampak ke dalam air mendidih, ia melompat keluar serta-merta. Tetapi jika diletakkan dalam air sejuk dan dipanaskan perlahan-lahan, katak berasa selesa sehinggalah ia mati direbus hidup-hidup tanpa sempat melawan! Inflasi tahunan adalah haba perlahan periuk air yang merebus simpanan anda. Emas fizikal meningkat purata sepuluh peratus setahun untuk melindungi kuasa beli anda.
+
+Adakah simpanan bank anda sedang direbus inflasi tanpa anda sedar? Tulis pandangan anda di komen, dan selamatkan nilai wang anda persis Menara...
+
+Eiffel!`
+  },
+  {
+    id: 426,
+    siri: "Asas-01",
+    no: 42,
+    topik: "Kewangan Peribadi",
+    tajuk: "Bahaya Serbuk Roti Misi Angkasa Lepas",
+    tags: ["gaji", "rumah", "anak", "tunai"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Tahu tak sebutir serbuk roti sandwich pernah mencetuskan panik besar di NASA dan hampir membakar kapal angkasa bilion dolar?
+
+Tahun seribu sembilan ratus enam puluh lima, seorang angkasawan menyeludup sandwich daging ke dalam kapal angkasa. Dalam graviti sifar, serbuk roti hancur dan terapung liar di seluruh kokpit. Pegawai misi panik kerana serbuk sekecil zarah itu berisiko masuk ke celah suis elektrik voltan tinggi, mencetuskan litar pintas dan membunuh semua anak kapal!
+
+Poket gaji kita hari ini bocor bukan kerana kita membeli rumah mewah, tetapi kerana serbuk-serbuk kecil kewangan. Serbuk kopi mahal, pembelian impulsif, dan barangan diskaun dalam talian terapung liar membakar gaji bulanan anda. Apabila anda menukarkan tunai kepada kepingan emas fizikal, anda sedang membekukan wang menjadi satu ketulan logam padat yang mustahil menghasilkan serbuk bocor.
+
+Berapa banyak belanja serbuk harian yang membakar gaji anda setiap bulan? Kongsi di ruangan komen, dan lindungi simpanan anda menjadi logam...
+
+Padat!`
+  },
+  {
+    id: 427,
+    siri: "Asas-01",
+    no: 43,
+    topik: "Strategi Emas",
+    tajuk: "Tiga Kotak Kod QR & Dilema Balang Jem",
+    tags: ["gap", "ringgit"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Pernah tak anda terfikir kenapa setiap Kod QR mesti mempunyai tiga kotak segi empat tepat pada sudut bucunya?
+
+Jurutera mencipta tiga kotak penanda itu supaya kamera pengimbas boleh membaca data sepantas kilat dari mana-mana arah tiga ratus enam puluh darjah, sama ada senget ataupun terbalik. Malangnya, ramai orang bila hendak membeli emas bersikap seperti pengimbas rosak yang menunggu posisi harga betul-betul tegak dan paling murah lantai.
+
+Eksperimen Universiti Columbia membuktikan apabila pembeli dihidangkan dua puluh empat jenis jem, otak mereka lumpuh dan jualan jatuh menjunam kepada tiga peratus sahaja. Terlalu banyak menganalisa graf dan ramalan pasaran hanya melumpuhkan tindakan anda! Simpanan emas tidak memerlukan perkiraan rumit. Mulakan langkah pertama serendah seratus ringgit secara dalam talian melalui akaun emas GAP untuk mengunci tanda aras simpanan anda.
+
+Anda jenis yang terus bertindak pantas atau suka mengkaji carta berbulan-bulan? Nyatakan di ruangan komen sekarang, kerana kejayaan kewangan hanya menuntut tindakan...
+
+Mula!`
+  },
+  {
+    id: 428,
+    siri: "Asas-01",
+    no: 44,
+    topik: "Kenapa Emas",
+    tajuk: "Burung Merpati Cher Ami Penyelamat Terakhir",
+    tags: ["anak", "kecemasan", "tunai"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Tahukah anda seekor burung merpati pos pernah dianugerahkan pingat keberanian tertinggi kerana menyelamatkan ratusan tentera yang hampir terkorban?
+
+Bulan Oktober tahun seribu sembilan ratus lapan belas, seramai lima ratus tentera Amerika terkepung di belakang garisan musuh dan dibedil meriam sekutu sendiri. Mejar Whittlesey melepaskan burung merpati terakhir bernama Cher Ami dengan nota koordinat di kakinya. Walaupun ditembak di dada dan buta sebelah mata, Cher Ami terbang sejauh dua puluh lima batu untuk menyampaikan mesej penyelamat tersebut!
+
+Simpanan emas fizikal adalah burung merpati Cher Ami dalam keluarga anda. Ia utusan pertahanan terakhir yang disimpan rapi. Jangan sesekali melepaskan emas semata-mata kerana mahu membeli gajet baharu atau percutian mewah. Emas hanya wajar dilepaskan untuk tiga perkara: aset aliran tunai, matlamat besar seperti pendidikan anak, atau kecemasan hidup sebenar.
+
+Antara tiga keadaan tadi, apa matlamat utama simpanan emas anda? Kongsi di ruangan komen, kerana emas adalah perisai agar keluarga sentiasa...
+
+Selamat!`
+  },
+  {
+    id: 429,
+    siri: "Asas-01",
+    no: 45,
+    topik: "Kewangan Peribadi",
+    tajuk: "Jangan Jadi Penonton Pasif (Bystander Effect)",
+    tags: ["gap", "ringgit", "kecemasan", "psikologi"],
+    hook: "V.I.R.A.L (Jenny Hoyos)",
+    teks: `Pernah tak anda mendengar tentang fenomena psikologi di mana mangsa dibiarkan mati walaupun disaksikan oleh puluhan orang ramai?
+
+Tahun seribu sembilan ratus enam puluh lapan, saintis membongkar fenomena The Bystander Effect. Apabila kecemasan berlaku di hadapan tiga puluh lapan saksi, tiada siapa tampil membantu kerana masing-masing menyangka orang lain akan bertindak menelefon polis. Akhirnya mangsa terkorban tanpa sebarang pembelaan!
+
+Jangan sesekali menjadi penonton pasif terhadap masa depan kewangan keluarga anda sendiri. Jangan mengharapkan bantuan kerajaan, jangan bergantung pada simpati majikan, dan jangan berharap saudara-mara akan menanggung hari persaraan anda. Kebocoran sekecil jarum lama-kelamaan mampu menenggelamkan kapal yang besar. Baiki kebocoran poket anda malam ini dengan membuka akaun emas GAP serendah seratus ringgit sahaja.
+
+Adakah anda bersedia mengambil tanggungjawab penuh ke atas simpanan keluarga malam ini? Taip 'Bantu Saya Mula' di komen sekarang, kerana perlindungan kewangan terletak di tangan...
+
+Sendiri!`
+  },
+  {
     id: 1,
     siri: "Script-01",
     no: 1,

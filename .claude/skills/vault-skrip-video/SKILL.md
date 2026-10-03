@@ -10,7 +10,7 @@ Perpustakaan peribadi skrip video pendek Taufik + teleprompter untuk rakam.
 - **Repo:** `taufikmusa/script-video` (branch kerja & default: yang sedia ada dalam repo — semak `git branch -a`)
 - **Live:** https://taufikmusa.github.io/script-video/
 - **Stack:** Vite + React (JS) → GitHub → GitHub Pages via GitHub Actions (`.github/workflows/deploy.yml`, Pages Source = "GitHub Actions")
-- **Kandungan (Sept 2026):** 384 skrip — Script-01 (12) + Script-02 hingga Script-06 (5 × 30) + Script-07 "Jual Emas" (30, gabungan 3 fail × 10) + Catchy-01 (12, id 223–234) + Catchy-02 (30, id 193–222) + Catchy-03 hingga Catchy-06 (CatchyScript Batch 2–5, topik 31–150, 4 × 30, id 235–354) + Catchy-07 "Jual Emas" (30, CatchyScript 3 fail Jual Emas Terpakai digabung: Jenama Lain → PG Jewel Hujung Minggu → 5 Checklist, id 355–384, slot harga). id global 1–384.
+- **Kandungan (Sept 2026):** 384 skrip — Script-01 (12) + Script-02 hingga Script-06 (5 × 30) + Script-07 "Jual Emas" (30, gabungan 3 fail × 10) + Catchy-01 (12, id 223–234) + Catchy-02 (30, id 193–222) + Catchy-03 hingga Catchy-06 (CatchyScript Batch 2–5, topik 31–150, 4 × 30, id 235–354) + Catchy-07 "Jual Emas" (30, CatchyScript 3 fail Jual Emas Terpakai digabung: Jenama Lain → PG Jewel Hujung Minggu → 5 Checklist, id 355–384, slot harga). id global 1–384. **Asas-01** (45, id 385–429) = 5 fail "Koleksi 9 Skrip Viral Short 60 Saat" (Live 01, 7 Asas, Batch 2, 4, 5) digabung — diletak di DEPAN array supaya chip & kad keluar paling depan.
 
 Folder `reference/` ada kod penuh yang berfungsi (salinan dari repo). Kalau repo dah ada, KERJA TERUS DALAM REPO — reference hanya untuk bina semula / projek baru.
 
@@ -67,6 +67,7 @@ Punchline!`              // babak dipisah SATU baris kosong; perenggan terakhir 
    - **Format batch** (paling biasa): heading `SKRIP NN: TAJUK HURUF BESAR`, jadual 1×3 selepasnya (Anggaran Masa | Gaya Hook | Kata Terakhir), senarai `Skrip NN: Tajuk [Punchline: X]` di awal (tajuk huruf biasa diambil dari sini), punchline `★ X! ★`.
    - **Format tab**: gaya "Title" (`Tab 1`, `Tab 2`) diikuti perenggan.
    - **Format angle** (siri Jual Emas): heading `Skrip NN: Angle Tajuk (...)`, jadual 1×1 meta bermula `⏱`, kemudian jadual 1×1 berisi skrip (satu baris = satu babak). Punchline melekat di ayat akhir `"...sehelai... Kertas!"` — converter pecahkan jadi perenggan `…sehelai...` + `Kertas!` supaya teleprompter besarkan kata terakhir sahaja. Prefix "Angle " dibuang dari tajuk. Jadual awal (penulis/kadar rujukan & ringkasan angle) diabaikan.
+   - **Format viral** ("Koleksi 9 Skrip Viral Short 60 Saat"): jadual ringkasan `Skrip N: Tajuk` di awal, heading `SKRIP N: ...`, jadual meta 3 baris, perenggan "🎙️ TEKS SKRIP BERSIH", kemudian jadual 1×1 berisi skrip (satu perenggan = satu babak). Punchline `...bermula dengan... Sabar!` dipecah. `hook: "V.I.R.A.L (Jenny Hoyos)"`.
    Converter auto-kesan (ada "Skrip NN: Angle" → angle; ada jadual → batch; tiada → tab).
 2. Jana blok:
    ```bash

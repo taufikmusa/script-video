@@ -129,7 +129,37 @@ def baca_angle(d):
     return skrip
 
 
+def baca_viral(d):
+    """Format D: 'Koleksi 9 Skrip Viral Short' — jadual ringkasan, heading SKRIP NN, jadual meta 3 baris,
+    kemudian jadual 1x1 berisi teks skrip (satu perenggan = satu babak)."""
+    jadual = list(d.tables)
+    tajuk_senarai = {}
+    for r in jadual[0].rows[1:]:
+        m = re.match(r"Skrip (\d+):\s*(.*)", r.cells[0].text.strip())
+        if m:
+            tajuk_senarai[int(m.group(1))] = m.group(2).strip()
+    jadual = iter(jadual)
+    skrip, semasa = [], None
+    for el in d.element.body.iterchildren():
+        tag = el.tag.split("}")[1]
+        if tag == "p":
+            m = re.match(r"SKRIP (\d+):\s*(.*)", teks_para(el))
+            if m:
+                n = int(m.group(1))
+                semasa = {"tajuk": tajuk_senarai.get(n, m.group(2).title()), "p": [],
+                          "hook": "V.I.R.A.L (Jenny Hoyos)"}
+                skrip.append(semasa)
+        elif tag == "tbl":
+            t = next(jadual)
+            if semasa is None or len(t.rows) != 1 or len(t.columns) != 1 or semasa["p"]:
+                continue
+            semasa["p"] = pisah_punchline([p.text.strip() for p in t.rows[0].cells[0].paragraphs if p.text.strip()])
+    return skrip
+
+
 def kesan_format(d):
+    if any("TEKS SKRIP BERSIH" in p.text for p in d.paragraphs):
+        return baca_viral(d)
     if any(re.match(r"Skrip \d+:\s*Angle", p.text.strip()) for p in d.paragraphs):
         return baca_angle(d)
     return baca_batch(d) if d.tables else baca_tab(d)
