@@ -63,3 +63,6 @@ export const namaSiri = {};
 
 // Harga lalai untuk slot {harga999} & {harga916}
 export const hargaLalai = { harga999: "542", harga916: "497", tarikh: "" };
+
+// Siri yang dapat tab sendiri; siri lain masuk tab "Archive"
+export const tabUtama = [];

@@ -11,6 +11,7 @@ Perpustakaan peribadi skrip video pendek Taufik + teleprompter untuk rakam.
 - **Live:** https://taufikmusa.github.io/script-video/
 - **Stack:** Vite + React (JS) → GitHub → GitHub Pages via GitHub Actions (`.github/workflows/deploy.yml`, Pages Source = "GitHub Actions")
 - **Kandungan (Sept 2026):** 384 skrip — Script-01 (12) + Script-02 hingga Script-06 (5 × 30) + Script-07 "Jual Emas" (30, gabungan 3 fail × 10) + Catchy-01 (12, id 223–234) + Catchy-02 (30, id 193–222) + Catchy-03 hingga Catchy-06 (CatchyScript Batch 2–5, topik 31–150, 4 × 30, id 235–354) + Catchy-07 "Jual Emas" (30, CatchyScript 3 fail Jual Emas Terpakai digabung: Jenama Lain → PG Jewel Hujung Minggu → 5 Checklist, id 355–384, slot harga). id global 1–384. **Asas-01** (45, id 385–429) = 5 fail "Koleksi 9 Skrip Viral Short 60 Saat" (Live 01, 7 Asas, Batch 2, 4, 5) digabung — diletak di DEPAN array supaya chip & kad keluar paling depan.
+- **Okt 2026: 519 skrip, susunan TAB.** Tab atas: `Listicle-01`, `Listicle-02`, `Listicle-03` (90 skrip listicle persona "5 ...", id 430–519) + `🗄 Archive` (SEMUA siri lain: Asas-01, Script-01..07, Catchy-01..07 = 429 skrip). Siri yang dapat tab sendiri disenaraikan dalam `export const tabUtama = [...]` di hujung `data.js`; siri yang tiada dalam senarai itu automatik masuk Archive. Bila Taufik minta set baru jadi tab sendiri → tambah nama siri dalam `tabUtama`. Bila dia minta "letak dalam archive" → buang dari `tabUtama`.
 
 Folder `reference/` ada kod penuh yang berfungsi (salinan dari repo). Kalau repo dah ada, KERJA TERUS DALAM REPO — reference hanya untuk bina semula / projek baru.
 
@@ -65,6 +66,7 @@ Punchline!`              // babak dipisah SATU baris kosong; perenggan terakhir 
 
 1. Kenal pasti format docx:
    - **Format batch** (paling biasa): heading `SKRIP NN: TAJUK HURUF BESAR`, jadual 1×3 selepasnya (Anggaran Masa | Gaya Hook | Kata Terakhir), senarai `Skrip NN: Tajuk [Punchline: X]` di awal (tajuk huruf biasa diambil dari sini), punchline `★ X! ★`.
+   - **Format listicle persona** ("30 KOLEKSI SKRIP VIRAL SHORT" / Listicle): jadual ringkasan `No | Sasaran Persona | Tajuk Hook Skrip 60s | Bil. Patah`, perenggan `SKRIP #NN: TAJUK`, jadual 1×1 meta, perenggan skrip (satu perenggan = satu babak), garis `———` tamat skrip. Tajuk diambil dari jadual ringkasan; persona disimpan sebagai medan `persona` (dipapar 🎯 pada kad, boleh dicari). Converter kesan `SKRIP #NN:` dahulu.
    - **Format tab**: gaya "Title" (`Tab 1`, `Tab 2`) diikuti perenggan.
    - **Format angle** (siri Jual Emas): heading `Skrip NN: Angle Tajuk (...)`, jadual 1×1 meta bermula `⏱`, kemudian jadual 1×1 berisi skrip (satu baris = satu babak). Punchline melekat di ayat akhir `"...sehelai... Kertas!"` — converter pecahkan jadi perenggan `…sehelai...` + `Kertas!` supaya teleprompter besarkan kata terakhir sahaja. Prefix "Angle " dibuang dari tajuk. Jadual awal (penulis/kadar rujukan & ringkasan angle) diabaikan.
    - **Format viral** ("Koleksi 9 Skrip Viral Short 60 Saat"): jadual ringkasan `Skrip N: Tajuk` di awal, heading `SKRIP N: ...`, jadual meta 3 baris, perenggan "🎙️ TEKS SKRIP BERSIH", kemudian jadual 1×1 berisi skrip (satu perenggan = satu babak). Punchline `...bermula dengan... Sabar!` dipecah. `hook: "V.I.R.A.L (Jenny Hoyos)"`.
@@ -90,10 +92,13 @@ Punchline!`              // babak dipisah SATU baris kosong; perenggan terakhir 
 
 ## 4. Ciri UI (jangan pecahkan bila ubah)
 
+- **Tab utama** (`TABS = [...tabUtama, "Archive"]`): butang besar bawah header, tab aktif disimpan localStorage key `tab`. Tukar tab reset siri/topik. Carian, chip topik, cadangan hari ni, kiraan dah rakam — semua dalam skop tab aktif. Chip siri hanya keluar bila tab ada >1 siri (Archive). Link `#skrip-<id>` auto pindah ke tab skrip tu.
+- **Chip siri & topik BALUT ke bawah (scroll menegak) di semua saiz skrin** — Taufik TAK mahu chip swipe mendatar. Jangan tambah `flex-wrap: nowrap`/`overflow-x` pada `.chips`.
+
 - **Slot harga buyback:** teks boleh ada `{harga999}` dan `{harga916}` (cth `emas 999 dibeli RM{harga999} segram`). App ganti dengan harga semasa di mana-mana — kad, Salin, teleprompter, carian. Kotak "💰 Harga buyback hari ni" (input 999 & 916 + tarikh dikemaskini) keluar bila senarai ditapis (siri/topik/carian) dan ada skrip bertanda harga. Nilai disimpan `localStorage` key `harga`; lalai dalam `export const hargaLalai` di hujung `data.js` (tukar lalai di sana kalau nak semua peranti dapat harga baru). **Batch Jual Emas baru: selepas jana blok, tukar harga RM999/916 yang tertulis (cth `RM542`, `RM497`) kepada `RM{harga999}` / `RM{harga916}`** — semak dengan grep, pastikan hanya nombor buyback yang ditukar.
 
 - **Cari:** semua kata mesti ada (AND) merentas `siri · no`, tajuk, teks, tags, topik, hook. `script-03 07` cari terus nombor. Klik `#tag` = cari tag tu.
-- **Chip siri** (border putus-putus) + **chip topik**; kiraan topik ikut siri dipilih. Di phone (≤480px) chip jadi satu baris swipe.
+- **Chip siri** (border putus-putus) + **chip topik**; kiraan topik ikut siri dipilih. Chip balut ke baris baru (bukan swipe).
 - **Checkbox "Belum rakam sahaja" / "Dah rakam sahaja"** — saling eksklusif (state `status`: semua|belum|dah). Kiraan kanan `x / N dah rakam (Script-NN)` ikut siri+topik semasa.
 - **Kad:** label `Script-NN · 01`, durasi `~59s · 163 patah` (165 patah/minit), badge topik, 🎣 gaya hook, hook italic (perenggan pertama), tags, "Baca skrip penuh", butang 🎬 Teleprompter, 📋 Salin, ✓ Dah rakam.
 - **Cadangan hari ni:** 1 skrip deterministik ikut tarikh, utamakan belum rakam.

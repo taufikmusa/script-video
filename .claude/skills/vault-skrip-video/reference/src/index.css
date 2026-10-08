@@ -22,6 +22,15 @@ button { font: inherit; }
 .logo { font-size: 28px; color: var(--emas); letter-spacing: .5px; }
 .tagline { margin-top: 6px; color: var(--pudar); font-size: 15px; }
 
+/* Tab utama */
+.tabs { display: flex; flex-wrap: wrap; gap: 8px; padding-top: 16px; }
+.tab { flex: 1 1 auto; padding: 11px 14px; border-radius: 10px; border: 1px solid var(--garis); background: var(--kad); color: var(--pudar); font-size: 15px; font-weight: 600; cursor: pointer; white-space: nowrap; }
+.tab .chip-n { margin-left: 6px; }
+.tab.aktif { background: var(--emas); border-color: var(--emas); color: #1a1814; }
+.tab-arkib { border-style: dashed; }
+.tab-arkib.aktif { border-style: solid; }
+.persona { color: var(--pudar); font-size: 13px; margin-bottom: 10px; }
+
 /* Kawalan */
 .kawalan { padding-top: 20px; padding-bottom: 8px; }
 .banner { display: flex; justify-content: space-between; align-items: center; gap: 14px; flex-wrap: wrap; background: linear-gradient(135deg, #241f15, #1a1712); border: 1px solid var(--emas); border-radius: 12px; padding: 14px 16px; margin-bottom: 16px; }
@@ -118,10 +127,6 @@ button { font: inherit; }
 
 @media (max-width: 480px) {
   .logo { font-size: 23px; }
-  /* Chip jadi satu baris boleh swipe, jimat ruang skrin */
-  .chips { flex-wrap: nowrap; overflow-x: auto; margin-left: -16px; margin-right: -16px; padding: 0 16px 4px; scrollbar-width: none; }
-  .chips::-webkit-scrollbar { display: none; }
-  .chip { flex: none; }
   .banner .btn { width: 100%; }
   .tp-teks { padding-left: 18px; padding-right: 18px; }
 }

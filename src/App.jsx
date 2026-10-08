@@ -1,15 +1,22 @@
 import { useState, useMemo, useEffect } from 'react'
-import { skrip as skripAsal, namaSiri, hargaLalai } from './data'
+import { skrip as skripAsal, namaSiri, hargaLalai, tabUtama } from './data'
 import Teleprompter from './Teleprompter'
 import { muat, simpan, salinKeClipboard, kiraPatah, anggarMasa, tarikhMelayu } from './util'
 
-const SIRI = ["Semua", ...Array.from(new Set(skripAsal.map(s => s.siri)))]
-const TOPIK = ["Semua", ...Array.from(new Set(skripAsal.map(s => s.topik)))]
+// Tab: setiap siri dalam tabUtama dapat tab sendiri, siri lain semua masuk "Archive"
+const ARKIB = "Archive"
+const TABS = [...tabUtama, ARKIB]
+const tabKe = siri => (tabUtama.includes(siri) ? siri : ARKIB)
+const unik = arr => Array.from(new Set(arr))
 const SLOT_HARGA = /\{(harga999|harga916)\}/g
 const nombor = s => `${s.siri} · ${String(s.no).padStart(2, "0")}`
 const HAD_AWAL = 30
 
 export default function App() {
+  const [tab, setTab] = useState(() => {
+    const t = muat("tab", { nama: TABS[0] }).nama
+    return TABS.includes(t) ? t : TABS[0]
+  })
   const [cari, setCari] = useState("")
   const [siri, setSiri] = useState("Semua")
   const [topik, setTopik] = useState("Semua")
@@ -41,28 +48,38 @@ export default function App() {
     const m = window.location.hash.match(/^#skrip-(\d+)$/)
     if (m) {
       const s = skrip.find(x => x.id === Number(m[1]))
-      if (s) setPrompter(s)
+      if (s) { setTab(tabKe(s.siri)); setPrompter(s) }
     }
   }, [])
 
-  const skripHariIni = useMemo(() => pilihHariIni(skrip, dahRakam), [skrip, dahRakam])
+  // Skrip dalam tab aktif sahaja
+  const skripTab = useMemo(() => skrip.filter(s => tabKe(s.siri) === tab), [skrip, tab])
+  const SIRI = useMemo(() => ["Semua", ...unik(skripTab.map(s => s.siri))], [skripTab])
+  const TOPIK = useMemo(() => ["Semua", ...unik(skripTab.map(s => s.topik))], [skripTab])
+
+  function tukarTab(t) {
+    setTab(t); setSiri("Semua"); setTopik("Semua"); setHad(HAD_AWAL)
+    simpan("tab", { nama: t })
+  }
+
+  const skripHariIni = useMemo(() => pilihHariIni(skripTab, dahRakam), [skripTab, dahRakam])
 
   const senaraiPenuh = useMemo(() => {
     const kata = cari.trim().toLowerCase().split(/\s+/).filter(Boolean)
-    return skrip.filter(s => {
+    return skripTab.filter(s => {
       if (siri !== "Semua" && s.siri !== siri) return false
       if (topik !== "Semua" && s.topik !== topik) return false
       if (status === "belum" && dahRakam[s.id]) return false
       if (status === "dah" && !dahRakam[s.id]) return false
       if (kata.length === 0) return true
-      const hay = [nombor(s), namaSiri[s.siri] || "", s.tajuk, s.teks, s.tags.join(" "), s.topik, s.hook || ""].join(" ").toLowerCase()
+      const hay = [nombor(s), namaSiri[s.siri] || "", s.tajuk, s.teks, s.tags.join(" "), s.topik, s.hook || "", s.persona || ""].join(" ").toLowerCase()
       return kata.every(k => hay.includes(k))   // semua kata kunci mesti ada
     })
-  }, [skrip, cari, siri, topik, status, dahRakam])
+  }, [skripTab, cari, siri, topik, status, dahRakam])
 
   const senarai = senaraiPenuh.slice(0, had)
   // Kiraan dah rakam ikut siri & topik yang sedang dipilih
-  const skop = skrip.filter(s => (siri === "Semua" || s.siri === siri) && (topik === "Semua" || s.topik === topik))
+  const skop = skripTab.filter(s => (siri === "Semua" || s.siri === siri) && (topik === "Semua" || s.topik === topik))
   const jumlahRakam = skop.filter(s => dahRakam[s.id]).length
   // Kotak harga keluar bila senarai ditapis (siri/topik/carian) dan ada skrip bertanda harga
   const adaHarga = (siri !== "Semua" || topik !== "Semua" || cari.trim() !== "") && senaraiPenuh.some(s => s.adaHarga)
@@ -99,6 +116,15 @@ export default function App() {
         </div>
       </header>
 
+      <nav className="tabs wrap">
+        {TABS.map(t => (
+          <button key={t} className={"tab" + (tab === t ? " aktif" : "") + (t === ARKIB ? " tab-arkib" : "")} onClick={() => tukarTab(t)}>
+            {t === ARKIB ? "🗄 " : ""}{t}{namaSiri[t] ? ` · ${namaSiri[t]}` : ""}
+            <span className="chip-n">{skrip.filter(s => tabKe(s.siri) === t).length}</span>
+          </button>
+        ))}
+      </nav>
+
       <div className="wrap kawalan">
         {skripHariIni && (
           <div className="banner">
@@ -113,21 +139,21 @@ export default function App() {
         <input
           className="search"
           type="search"
-          placeholder="🔍 Cari topik, kata kunci… (cth: zakat, 916, script-03 07)"
+          placeholder={`🔍 Cari dalam ${tab}… (cth: zakat, cikgu, ${tab === ARKIB ? "script-03 07" : "hutang"})`}
           value={cari}
           onChange={e => { setCari(e.target.value); setHad(HAD_AWAL) }}
         />
-        <div className="chips">
+        {SIRI.length > 2 && <div className="chips">
           {SIRI.map(k => (
             <button
               key={k}
               className={"chip chip-siri" + (siri === k ? " aktif" : "")}
               onClick={() => { setSiri(k); setHad(HAD_AWAL) }}
             >
-              {k}{namaSiri[k] ? ` · ${namaSiri[k]}` : ""} <span className="chip-n">{k === "Semua" ? skrip.length : skrip.filter(s => s.siri === k).length}</span>
+              {k}{namaSiri[k] ? ` · ${namaSiri[k]}` : ""} <span className="chip-n">{k === "Semua" ? skripTab.length : skripTab.filter(s => s.siri === k).length}</span>
             </button>
           ))}
-        </div>
+        </div>}
         <div className="chips">
           {TOPIK.map(k => (
             <button
@@ -135,7 +161,7 @@ export default function App() {
               className={"chip" + (topik === k ? " aktif" : "")}
               onClick={() => { setTopik(k); setHad(HAD_AWAL) }}
             >
-              {k} <span className="chip-n">{skrip.filter(s => (siri === "Semua" || s.siri === siri) && (k === "Semua" || s.topik === k)).length}</span>
+              {k} <span className="chip-n">{skripTab.filter(s => (siri === "Semua" || s.siri === siri) && (k === "Semua" || s.topik === k)).length}</span>
             </button>
           ))}
         </div>
@@ -167,7 +193,7 @@ export default function App() {
         </div>
         <div className="statbar">
           <span>Papar {senarai.length} dari {senaraiPenuh.length}</span>
-          <span>{jumlahRakam} / {skop.length} dah rakam{siri !== "Semua" ? ` (${siri})` : ""}</span>
+          <span>{jumlahRakam} / {skop.length} dah rakam ({siri !== "Semua" ? siri : tab})</span>
         </div>
       </div>
 
@@ -187,6 +213,7 @@ export default function App() {
                 <span className="badge">{s.topik}</span>
                 {s.hook && <span className="gaya">🎣 {s.hook}</span>}
               </div>
+              {s.persona && <div className="persona">🎯 {s.persona}</div>}
               <p className="hook">“{perenggan[0]}”</p>
               <div className="tags">
                 {s.tags.map(t => (

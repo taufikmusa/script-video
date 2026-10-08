@@ -157,7 +157,38 @@ def baca_viral(d):
     return skrip
 
 
+def baca_listicle(d):
+    """Format listicle persona: jadual ringkasan (No | Persona | Tajuk Hook | Patah),
+    perenggan 'SKRIP #NN: TAJUK', jadual 1x1 meta (persona), perenggan skrip, garis '———'."""
+    tajuk, persona = {}, {}
+    for t in d.tables:
+        if len(t.columns) >= 3 and t.rows[0].cells[0].text.strip() == "No":
+            for r in t.rows[1:]:
+                c = [x.text.strip() for x in r.cells]
+                m = re.match(r"#?(\d+)", c[0])
+                if m:
+                    persona[int(m.group(1))], tajuk[int(m.group(1))] = c[1], c[2]
+    skrip, semasa = [], None
+    for el in d.element.body.iterchildren():
+        if el.tag.split("}")[1] != "p":
+            continue
+        txt = teks_para(el)
+        m = re.match(r"SKRIP #(\d+):\s*(.*)", txt)
+        if m:
+            n = int(m.group(1))
+            semasa = {"tajuk": tajuk.get(n, m.group(2).title()), "p": [], "hook": "",
+                      "persona": persona.get(n, "")}
+            skrip.append(semasa)
+        elif semasa is not None and txt and not re.fullmatch(r"[—\-_]{5,}", txt):
+            semasa["p"].append(txt)
+        elif semasa is not None and txt:
+            semasa = None   # garis pemisah = tamat skrip
+    return skrip
+
+
 def kesan_format(d):
+    if any(re.match(r"SKRIP #\d+:", p.text.strip()) for p in d.paragraphs):
+        return baca_listicle(d)
     if any("TEKS SKRIP BERSIH" in p.text for p in d.paragraphs):
         return baca_viral(d)
     if any(re.match(r"Skrip \d+:\s*Angle", p.text.strip()) for p in d.paragraphs):
@@ -193,6 +224,8 @@ def blok_js(skrip, siri, mula, topik_tetap=None, no_mula=1):
             f"    tajuk: {json.dumps(s['tajuk'], ensure_ascii=False)},",
             f"    tags: {json.dumps(teka_tags(s['tajuk'], teks, topik), ensure_ascii=False)},",
         ]
+        if s.get("persona"):
+            medan.append(f"    persona: {json.dumps(s['persona'], ensure_ascii=False)},")
         if s.get("hook"):
             medan.append(f"    hook: {json.dumps(s['hook'], ensure_ascii=False)},")
         medan.append("    teks: `" + teks.replace("\\", "\\\\").replace("`", "\\`").replace("${", "\\${") + "`")
