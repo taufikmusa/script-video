@@ -16003,6 +16003,816 @@ Lima, sokongan komuniti berilmu sentiasa sedia membimbing perjalanan simpanan an
 Masa terbaik menanam pokok adalah dua puluh tahun lalu.
 
 Masa kedua terbaik adalah hari ini!`
+  },
+  {
+    id: 550,
+    siri: "Listicle-05",
+    no: 1,
+    topik: "Kewangan Peribadi",
+    tajuk: "Azam Tahun Baru: Gaji Naik Tapi Tak Kaya?",
+    tags: ["hutang", "gaji", "ringgit"],
+    teks: `Setiap kali masuk tahun baru, ramai orang pasang azam nak ubah nasib kewangan keluarga.
+
+Tapi kalau cara simpan duit masih sama macam tahun lepas, baki akaun tetap kering kontang.
+
+Ini 5 langkah penting jayakan azam simpanan emas tahun ini:
+
+Satu, ubah corak fikir. Gaji naik RM500 selalunya belanja pun naik RM600, kenaikan gaji tanpa simpanan ketat hanya menambah hutang gaya hidup.
+
+Dua, mulakan azam simpan satu gram sebulan sebagai tabung yang dilupakan tanpa perlu tunggu bajet besar.
+
+Tiga, gunakan potongan bulanan automatik pada hari gaji supaya wang tidak sempat nampak di mata untuk dibelanjakan.
+
+Empat, kumpul gram emas secara konsisten tanpa membuang masa meneka graf harga turun naik harian.
+
+Lima, semak pencapaian pada hujung tahun dan anda pasti terkejut melihat timbunan aset bernilai ribuan ringgit berjaya diselamatkan.
+
+Azam tanpa tindakan hanyalah angan-angan kosong.
+
+Kunci kekayaan sebenar dalam gram emas!`
+  },
+  {
+    id: 551,
+    siri: "Listicle-05",
+    no: 2,
+    topik: "Kewangan Peribadi",
+    tajuk: "Cara Kumpul RM100,000 Pertama Guna Emas",
+    tags: ["saham", "tunai"],
+    teks: `Ramai orang rasa mustahil nak kumpul simpanan tunai sampai RM100,000 dalam bank.
+
+Pantang nampak angka bertambah, tangan mula gatal nak korek beli barang kehendak.
+
+Ini 5 rahsia kumpul RM100,000 pertama jauh lebih pantas guna emas:
+
+Satu, emas sifar risiko bankrap. Saham syarikat boleh jatuh nilai jadi kosong, tetapi emas fizikal tidak pernah hilang nilai mutlak.
+
+Dua, purata kenaikan harga emas sepuluh peratus setahun membantu menggandakan nilai modal mengatasi kadar faedah bank.
+
+Tiga, bendung tabiat boros. Bila duit tunai bertukar jadi jongkong emas, timbul rasa sayang untuk menjualnya sesuka hati.
+
+Empat, menabung gram kecil secara konsisten serendah RM100 setiap minggu daripada lebihan belanja harian.
+
+Lima, sasarkan dua ratus lima puluh gram emas pertama yang kini bernilai lebih RM100,000 sebagai benteng kekayaan peribadi.
+
+Perjalanan seribu batu bermula dari langkah pertama.
+
+Kumpul gram emas pertama anda hari ini!`
+  },
+  {
+    id: 552,
+    siri: "Listicle-05",
+    no: 3,
+    topik: "Strategi Emas",
+    tajuk: "Elak Emas Kena Potong Harga 40% Bila Jual!",
+    tags: ["susut nilai", "beli balik", "resit", "spread"],
+    teks: `Ramai penyimpan emas terkejut besar bila nak jual balik emas di kedai biasa.
+
+Harga dipotong sampai empat puluh peratus semata-mata sebab resit asal hilang atau bungkusan terbuka!
+
+Ini 5 panduan elak rugi besar bila nak cairkan emas anda:
+
+Satu, fahami konsep susut nilai atau spread iaitu perbezaan antara harga belian dan harga jualan semula.
+
+Dua, kedai emas konvensional potong harga melampau jika tiada resit rasmi atau sarung plastik tercalar.
+
+Tiga, pilih platform dengan jaminan beli balik tetap tanpa perlu tunjuk resit belian bertahun-tahun lepas.
+
+Empat, bungkusan seal terbuka tetap diterima dengan kadar susut nilai rendah sekitar sepuluh peratus sahaja.
+
+Lima, manfaatkan komuniti penyimpan emas untuk menjual sesama rakan pada harga pasaran semasa bagi memaksimumkan keuntungan kedua-dua pihak.
+
+Beli emas biar pandai, jual emas biar untung.
+
+Pilih platform dengan jaminan beli balik telus!`
+  },
+  {
+    id: 553,
+    siri: "Listicle-05",
+    no: 4,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Terbeli Emas Curi, Tidur Dalam Lokap?",
+    tags: ["ringgit", "tunai"],
+    teks: `Nampak iklan jual emas murah luar biasa daripada orang tak dikenali di media sosial?
+
+Hati-hati, silap langkah anda boleh disumbat ke dalam lokap polis malam ini juga!
+
+Ini 5 bahaya besar beli emas sembarangan tanpa platform sah:
+
+Satu, risiko dituduh memiliki barang curi di bawah Kanun Keseksaan jika emas itu hasil rompakan jenayah.
+
+Dua, emas disita pihak berkuasa sebagai bahan bukti mahkamah, menyebabkan wang modal anda lesap begitu sahaja.
+
+Tiga, terjebak dalam siasatan penggubahan wang haram kerana sindiket jenayah kerap mencairkan wang kotor melalui jual beli emas tunai.
+
+Empat, pilih pengeluar sah yang mewajibkan pendaftaran kad pengenalan rasmi demi menjamin rekod transaksi bersih.
+
+Lima, utamakan ketenangan fikiran dengan memastikan setiap gram emas anda halal, tulen, dan bebas implikasi undang-undang.
+
+Jangan gadaikan maruah diri semata-mata nak jimat beberapa ringgit.
+
+Beli emas secara sah dan berdaftar!`
+  },
+  {
+    id: 554,
+    siri: "Listicle-05",
+    no: 5,
+    topik: "Kewangan Peribadi",
+    tajuk: "Gaji Kecil Tak Boleh Simpan Duit? Salah!",
+    tags: ["gaji", "ringgit", "psikologi"],
+    teks: `Ramai orang beri alasan gaji kecil punca utama langsung tak boleh menabung walaupun seringgit.
+
+Tapi peliknya, bila gaji dinaikkan dua kali ganda pun, baki akaun bank tetap sifar dan kering kontang.
+
+Ini 5 prinsip penting ubah nasib kewangan anda bermula hari ini:
+
+Satu, buang formula salah iaitu berbelanja dulu baru simpan baki, sebab nafsu manusia takkan pernah tinggalkan baki wang.
+
+Dua, amalkan formula betul iaitu simpan dulu minimum sepuluh peratus gaji sebaik sahaja duit masuk ke dalam akaun bank.
+
+Tiga, duit dalam bank terlalu mudah dikorek dengan kad bank dan imbasan kod bayaran telefon pintar.
+
+Empat, emas mengubah psikologi diri daripada suka berbelanja kepada ketagihan mengumpul kepingan gram aset fizikal.
+
+Lima, mula ikut kemampuan poket serendah RM100 tanpa perlu menunggu ada simpanan ribuan ringgit dalam tangan.
+
+Bukan berapa banyak wang yang anda dapat yang menentukan kekayaan.
+
+Tapi berapa banyak yang berjaya anda simpan!`
+  },
+  {
+    id: 555,
+    siri: "Listicle-05",
+    no: 6,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Tip Elak Terbeli Emas Bersadur Palsu",
+    tags: ["penipuan", "palsu", "syariah", "cawangan"],
+    teks: `Scammer sekarang makin licik buat jongkong emas tiruan bersadur tebal dengan sijil antarabangsa palsu.
+
+Mata kasar manusia langsung tak mampu bezakan mana logam asli dan mana tembaga tipu!
+
+Ini 5 tip kritikal selamatkan duit anda daripada sindiket penipuan emas:
+
+Satu, bungkusan jenama terkenal antarabangsa paling kerap dipalsukan menggunakan logam tungsten yang mempunyai berat seakan emas.
+
+Dua, ujian ketumpatan biasa gagal mengesan emas bersadur, hanya mesin imbasan sinar X makmal yang boleh membongkarnya.
+
+Tiga, elak terpedaya dengan tawaran diskaun murah tidak masuk akal kerana emas adalah komoditi harga standard dunia.
+
+Empat, beli terus daripada syarikat pengeluar bereputasi tinggi yang memiliki cawangan fizikal serta pengiktirafan syariah sah.
+
+Lima, pastikan ada jaminan ketulenan penuh sembilan ratus sembilan puluh sembilan perpuluhan sembilan peratus yang telus.
+
+Jangan biar titik peluh bertahun-tahun lebur sekelip mata.
+
+Beli emas fizikal daripada sumber terbukti sah!`
+  },
+  {
+    id: 556,
+    siri: "Listicle-05",
+    no: 7,
+    topik: "Strategi Emas",
+    tajuk: "Emas Kecil Banyak vs Seketul Besar: Mana Bagus?",
+    tags: ["susut nilai", "hartanah", "dinar", "pusaka", "kecemasan", "spread", "tunai"],
+    teks: `Bila ada modal nak simpan emas, mesti timbul dilema besar ini.
+
+Patut beli kepingan satu gram banyak-banyak, atau beli seketul besar seratus gram sekaligus?
+
+Ini 5 panduan tepat padankan saiz emas dengan matlamat anda:
+
+Satu, item kecil satu gram atau satu dinar sangat fleksibel untuk dicairkan sedikit demi sedikit waktu kecemasan tunai.
+
+Dua, item kecil memudahkan pembahagian harta pusaka, hadiah perkahwinan, dan maskahwin tanpa perlu dipotong.
+
+Tiga, jongkong besar seratus gram mempunyai kos premium tempaan yang jauh lebih murah bagi setiap gram.
+
+Empat, peratusan susut nilai atau spread item besar jauh lebih rendah membolehkan anda untung lebih pantas bila harga naik.
+
+Lima, gunakan item kecil sebagai dana kecemasan cair, dan gunakan jongkong besar untuk matlamat persaraan serta beli hartanah.
+
+Padankan saiz emas dengan fungsi kewangan anda.
+
+Kumpul aset ikut perancangan masa depan!`
+  },
+  {
+    id: 557,
+    siri: "Listicle-05",
+    no: 8,
+    topik: "Strategi Emas",
+    tajuk: "Emas Hilang Sebab Pencuri? Bukan!",
+    tags: ["rumah"],
+    teks: `Punca utama kehilangan emas di rumah rupa-rupanya bukan sebab pencuri masuk rumah.
+
+Tapi sebab tuan punya emas terlupa di mana dia menyorokkan emas tersebut bertahun-tahun lepas!
+
+Ini 5 tip praktikal simpan emas di rumah dengan hati tenang:
+
+Satu, sedari musuh utama adalah memori sendiri yang kerap lupa lokasi rahsia yang terlalu pelik.
+
+Dua, jangan sesekali simpan emas dalam almari pakaian, laci bilik, atau bawah tilam kerana itu sasaran pertama perompak.
+
+Tiga, wajib maklumkan lokasi simpanan kepada pasangan atau waris amanah supaya harta tidak tertimbus jika berlaku kematian mengejut.
+
+Empat, manfaatkan kemudahan simpanan percuma di bilik kebal pengeluar sah jika belum yakin simpan di rumah.
+
+Lima, sewa peti simpanan keselamatan bank berlesen sekiranya jumlah emas anda melebihi setengah kilogram.
+
+Menyimpan emas dengan ilmu membawa ketenangan jiwa.
+
+Kekayaan selamat, hati kekal tenang!`
+  },
+  {
+    id: 558,
+    siri: "Listicle-05",
+    no: 9,
+    topik: "Kewangan Peribadi",
+    tajuk: "Gembira Hari Gaji Bertahan 3 Hari Sahaja?",
+    tags: ["gaji", "rumah"],
+    teks: `Hari gaji sepatutnya menjadi hari paling membahagiakan selepas sebulan penat memerah keringat bekerja.
+
+Tapi bagi kebanyakan orang, rasa gembira itu cuma bertahan tiga hari sahaja sebelum baki poket kembali kering kontang.
+
+Ini 5 formula mudah untuk pastikan anda gembira sepanjang bulan:
+
+Satu, bayar diri sendiri dahulu minimum sepuluh peratus gaji sebelum membayar sewa rumah, pinjaman kereta, dan bil utiliti.
+
+Dua, tukarkan sepuluh peratus tersebut kepada kepingan gram emas fizikal dengan prinsip paksa simpan dan terus lupakan.
+
+Tiga, nikmati ketenangan jiwa melihat timbunan aset masa depan keluarga semakin bertambah kukuh saban bulan.
+
+Empat, belanjakan baki sembilan puluh peratus gaji untuk komitmen harian tanpa sebarang rasa bersalah atau bebanan emosi.
+
+Lima, tetapkan potongan simpanan automatik sehari selepas gaji masuk supaya tabiat menabung berjalan lancar tanpa perlu berfikir panjang.
+
+Jadikan hari gaji permulaan membina kekayaan peribadi.
+
+Bukan permulaan menghabiskan duit simpanan!`
+  },
+  {
+    id: 559,
+    siri: "Listicle-05",
+    no: 10,
+    topik: "Keluarga",
+    tajuk: "Selamatkan Duit Raya Anak Sebelum Lesap!",
+    tags: ["barang kemas", "susut nilai", "rumah", "ringgit", "anak", "kecemasan", "emas digital", "tunai"],
+    teks: `Musim perayaan anak-anak berjaya kumpul ratusan ringgit hasil pemberian sanak-saudara.
+
+Tapi bila simpan dalam sampul kertas, sedar-sedar duit anak terpakai oleh mak ayah atau habis beli mainan rosak.
+
+Ini 5 sebab wajib tukar duit raya anak kepada emas:
+
+Satu, elak duit anak terpinjam oleh ibu bapa untuk kecemasan sendiri yang akhirnya lupa diganti balik.
+
+Dua, jauhi barang kemas kanak-kanak yang mempunyai kos upah tinggi dan susut nilai mencecah empat puluh peratus.
+
+Tiga, emas adalah simpanan jangka panjang yang berkembang nilainya melebihi sepuluh peratus setahun mengalahkan dividen tunai.
+
+Empat, mulakan tabungan emas digital anak serendah RM100 seawal usia mereka sehari secara sah.
+
+Lima, bina dana pendidikan universiti atau deposit rumah pertama yang bernilai tinggi bila anak genap umur lapan belas tahun.
+
+Didik anak hargai aset sebenar sejak kecil.
+
+Selamatkan duit raya, wariskan kekayaan emas!`
+  },
+  {
+    id: 560,
+    siri: "Listicle-05",
+    no: 11,
+    topik: "Kewangan Peribadi",
+    tajuk: "Langsai Hutang Rumah RM160,000 Guna Emas!",
+    tags: ["hutang", "bonus", "rumah", "ringgit", "disiplin", "tunai"],
+    teks: `Hutang pinjaman perumahan tiga puluh tahun adalah bebanan paling memeritkan bagi kebanyakan keluarga kita.
+
+Tapi kisah benar seorang penyimpan emas membuktikan hutang ratusan ribu boleh selesai berpuluh tahun lebih awal!
+
+Ini 5 langkah bijak langsaikan pinjaman rumah menggunakan emas:
+
+Satu, tukarkan setiap duit bonus tahunan dan lebihan elaun terus kepada gram emas tanpa menaikkan taraf gaya hidup.
+
+Dua, disiplin menabung dengan konsep paksa dan lupakan kepingan emas tersebut selama bertahun-tahun di tempat selamat.
+
+Tiga, cairkan sebahagian simpanan emas bila harga melonjak tinggi untuk bayar baki prinsipal pinjaman rumah sebanyak RM160,000 tunai.
+
+Empat, jimat ratusan ribu ringgit faedah pinjaman bank yang sepatutnya dibayar sepanjang baki tempoh pinjaman.
+
+Lima, alihkan semula bayaran ansuran bulanan rumah untuk menabung emas secara konsisten setiap bulan.
+
+Kenaikan harga emas mempercepatkan impian bebas hutang.
+
+Bebaskan keluarga anda daripada belenggu pinjaman!`
+  },
+  {
+    id: 561,
+    siri: "Listicle-05",
+    no: 12,
+    topik: "Strategi Emas",
+    tajuk: "Harga Emas Dulu Murah, Sekarang Menyesal?",
+    tags: ["inflasi", "ringgit"],
+    teks: `Pernah dengar orang tua-tua mengeluh menyesal tak beli emas masa harga puluhan ringgit segram dulu?
+
+Hakikatnya, harga emas sentiasa rasa mahal waktu sekarang, tapi akan nampak sangat murah lima tahun akan datang.
+
+Ini 5 hakikat pergerakan harga emas yang wajib anda faham:
+
+Satu, dulu harga RM150 segram orang kata mahal, hari ini harga melepasi RM350 segram harga lama nampak macam mimpi.
+
+Dua, bukan emas yang semakin mahal, tapi kuasa beli wang kertas yang semakin jatuh mencair dimamah inflasi.
+
+Tiga, harga hari ini pasti nampak sangat murah bila anda toleh semula lima tahun dari sekarang.
+
+Empat, penyimpan emas yang bermula awal sentiasa tersenyum melihat nilai kekayaan mereka berganda dengan tenang.
+
+Lima, jangan buang masa menyesali harga masa silam kerana waktu terbaik menyimpan emas adalah hari ini.
+
+Masa tidak akan pernah berpatah balik.
+
+Beli emas hari ini, tersenyum kemudian!`
+  },
+  {
+    id: 562,
+    siri: "Listicle-05",
+    no: 13,
+    topik: "Bisnes & Dealer",
+    tajuk: "Sebar Manfaat Emas Tanpa Pening Kepala",
+    tags: ["gaji", "tunai"],
+    teks: `Ramai orang berniat murni nak bantu kawan-kawan dan adik-beradik mula menabung emas fizikal.
+
+Tapi timbul masalah besar bila diri sendiri terlalu sibuk dan langsung tiada masa nak uruskan sistem pendaftaran yang rumit.
+
+Ini 5 kelebihan bantu rakan menabung melalui Kempen Sebar Manfaat:
+
+Satu, elak beban tanggungjawab mengurus pelanggan sekiranya anda tidak mampu memberikan komitmen masa sepenuhnya setiap hari.
+
+Dua, nikmati ganjaran saguhati tunai bermula RM10 bagi setiap orang yang diperkenalkan kepada pengedar emas bertauliah.
+
+Tiga, urusan pendaftaran akaun, bimbingan ilmu, dan penghantaran emas fizikal diuruskan sepenuhnya oleh pakar yang terlatih.
+
+Empat, penyelesaian menang-menang di mana rakan anda mendapat khidmat terbaik dan anda menerima saguhati tanpa sebarang pening kepala.
+
+Lima, membantu masyarakat sekeliling menyelamatkan wang gaji daripada hangus dibelanjakan untuk perkara tidak berfaedah.
+
+Kebaikan yang disebarkan membawa pulangan berlipat ganda.
+
+Bantu orang lain selamatkan kekayaan mereka!`
+  },
+  {
+    id: 563,
+    siri: "Listicle-05",
+    no: 14,
+    topik: "Bisnes & Dealer",
+    tajuk: "Jangan Salah Pilih Pembimbing Simpanan Emas!",
+    tags: ["skim", "syariah"],
+    teks: `Ramai penyimpan emas terbiar tanpa arah tuju semata-mata sebab tersalah pilih pembimbing yang langsung tidak aktif.
+
+Bila berlaku masalah transaksi atau barang tertangguh, pembimbing ghaib dan panggilan telefon langsung tidak dijawab!
+
+Ini 5 ciri penting memilih pembimbing emas yang betul dan bertanggungjawab:
+
+Satu, komited hadir sesi latihan kepimpinan bulanan syarikat untuk menguasai prosedur operasi terkini dan ilmu kewangan mantap.
+
+Dua, menyediakan kumpulan sokongan bimbingan aktif untuk menjawab setiap kemusykilan pelanggan dengan pantas dan mesra.
+
+Tiga, mahir mengendalikan sistem bantuan rasmi syarikat bagi menyelesaikan sebarang masalah teknikal pelanggan dengan sangat cekap.
+
+Empat, berintegriti tinggi mendidik masyarakat tentang simpanan emas fizikal patuh syariah tanpa mempromosikan skim spekulasi berbahaya.
+
+Lima, ada kemudahan rasmi menukar pembimbing sekiranya akaun anda terbiar tidak dibimbing melebihi tempoh dua belas bulan.
+
+Bimbingan yang tepat menjamin perjalanan simpanan lancar.
+
+Pilih pembimbing terlatih demi keselamatan aset!`
+  },
+  {
+    id: 564,
+    siri: "Listicle-05",
+    no: 15,
+    topik: "Bisnes & Dealer",
+    tajuk: "Kenapa Pakar Kewangan Pilih Platform Ini?",
+    tags: ["palsu", "skim", "syariah", "cawangan", "tunai"],
+    teks: `Bila pakar kewangan nombor satu Malaysia membuat keputusan menyertai sebuah platform pengeluar emas, ia membuka mata ramai pihak.
+
+Seorang tokoh berwibawa yang menulis puluhan buku kewangan sudah tentu tidak akan mempertaruhkan reputasinya secara sebarangan.
+
+Ini 5 sebab utama di sebalik keyakinan pakar kewangan:
+
+Satu, beliau sendiri penyimpan emas fizikal tegar yang mengamalkan apa yang ditulis dalam buku-buku beliau sejak puluhan tahun.
+
+Dua, platform pengeluar emas terbesar dengan rekod kewangan bersih serta puluhan cawangan fizikal di seluruh negara.
+
+Tiga, hanya menjual emas fizikal sebenar yang bersandar logam tulen, bukan skim pelaburan kertas atas angin.
+
+Empat, disahkan patuh syariah sepenuhnya oleh penasihat bertauliah daripada sudut transaksi belian tunai mahupun secara ansuran.
+
+Lima, budaya syarikat yang mendidik para wakilnya menjadi pendidik kewangan yang merendah diri tanpa budaya menunjuk kemewahan palsu.
+
+Bila pakar kewangan terkemuka meletakkan kepercayaan penuh.
+
+Tiada ragu untuk simpanan keluarga anda!`
+  },
+  {
+    id: 565,
+    siri: "Listicle-05",
+    no: 16,
+    topik: "Bisnes & Dealer",
+    tajuk: "Kenali Pengasas Sebelum Bina Bisnes Anda",
+    tags: ["hutang", "penipuan", "bisnes", "anak"],
+    teks: `Sebelum letakkan masa dan tenaga membina perniagaan, perkara paling kritikal ialah menyemak integriti nakhoda di sebalik syarikat tersebut.
+
+Salah pilih syarikat yang tamak, penat lelah membina empayar boleh musnah begitu sahaja bila pengasas buat keputusan menindas.
+
+Ini 5 prinsip kepimpinan pengasas berwibawa yang wajib dicontohi:
+
+Satu, prinsip ketelusan mutlak beli emas mesti dapat kepingan fizikal tanpa sebarang helah penipuan atas kertas.
+
+Dua, diiktiraf di peringkat kebangsaan memimpin persatuan industri emas dan bekerjasama rapat dengan badan kawal selia negara.
+
+Tiga, memberikan hak pemilikan perniagaan seumur hidup yang diiktiraf sebagai aset peribadi dan boleh diwariskan kepada anak cucu.
+
+Empat, visi melahirkan satu juta penyimpan emas celik kewangan yang bebas daripada belenggu hutang gaya hidup.
+
+Lima, jaminan keselamatan aset yang memberi keyakinan mutlak kepada seluruh komuniti penyimpan emas.
+
+Perniagaan yang kukuh lahir daripada integriti pemimpin.
+
+Bina masa depan bersama syarikat berintegriti!`
+  },
+  {
+    id: 566,
+    siri: "Listicle-05",
+    no: 17,
+    topik: "Strategi Emas",
+    tajuk: "Harga Emas Naik Mencanak, Patut Jual Tak?",
+    tags: ["susut nilai", "haji", "rumah", "anak", "kecemasan", "tunai"],
+    teks: `Ramai orang gatal tangan nak jual emas bila nampak harga melonjak tinggi di media sosial.
+
+Hakikatnya, menjual emas kepada wang tunai tanpa arah tuju hanya menjatuhkan taraf aset mahal kepada wang kertas yang susut nilai.
+
+Ini 5 panduan bila waktu yang tepat untuk menjual emas:
+
+Satu, duit tunai hasil jualan emas pasti cepat bocor dan habis dibelanjakan untuk kehendak emosi yang tidak penting.
+
+Dua, hanya jual untuk ditukarkan kepada aset fizikal lain yang menjana pendapatan sewaan bulanan seperti tanah atau rumah sewa.
+
+Tiga, jual untuk melangsaikan matlamat kewangan asal seperti menunaikan ibadah haji, dana universiti anak, atau bayar baki pinjaman rumah.
+
+Empat, jual sewaktu kecemasan hidup sebenar selepas dana kecemasan tunai tiga bulan habis digunakan.
+
+Lima, penyimpan berilmu menaikkan taraf aset, bukan menurunkan kualiti simpanan kepada wang kertas semata-mata.
+
+Pegang emas anda dengan kemas dan berdisiplin.
+
+Jual hanya untuk naikkan taraf kewangan!`
+  },
+  {
+    id: 567,
+    siri: "Listicle-05",
+    no: 18,
+    topik: "Zakat & Syariah",
+    tajuk: "Panduan Mudah Kira Zakat Emas Anda",
+    tags: ["barang kemas", "zakat", "dinar", "wanita"],
+    teks: `Ramai orang takut nak simpan emas sebab bimbang pening kepala nak bayar zakat setiap tahun.
+
+Padahal menunaikan zakat emas adalah bukti kejayaan kewangan yang membersihkan harta dan menyuburkan keberkatan rezeki keluarga.
+
+Ini 5 panduan mudah fahami kiraan zakat simpanan emas:
+
+Satu, zakat emas simpanan seperti jongkong dan dinar dikenakan sebanyak dua perpuluhan lima peratus jika berat mencecah nisab lapan puluh lima gram.
+
+Dua, zakat barang kemas wanita yang dipakai hanya dikenakan sekiranya berat melebihi kadar uruf atau kebiasaan pemakaian negeri masing-masing.
+
+Tiga, kadar uruf berbeza mengikut fatwa negeri, contohnya lapan ratus gram di Selangor dan Johor lapan ratus lima puluh gram.
+
+Empat, sebahagian negeri mengira zakat atas lebihan berat uruf, manakala sebahagian negeri mengira keseluruhan nilai sebaik sahaja melepasi had.
+
+Lima, mampu membayar zakat membuktikan kewangan anda sudah melepasi tahap kecukupan untuk membantu masyarakat.
+
+Zakat tidak pernah mengurangkan harta simpanan.
+
+Tunaikan zakat, suburkan keberkatan rezeki anda!`
+  },
+  {
+    id: 568,
+    siri: "Listicle-05",
+    no: 19,
+    topik: "Public Gold & GAP",
+    tajuk: "Beli Balik Emas Terpakai RM70 Juta?",
+    tags: ["barang kemas", "ringgit", "kecemasan", "kilang", "beli balik", "patah", "tunai"],
+    teks: `Banyak kedai emas pandai menjual sahaja, tapi bila pelanggan nak jual balik, mereka tolak atau potong harga sesuka hati.
+
+Syarikat emas yang berwibawa terbukti apabila mampu melunaskan bayaran belian balik emas terpakai orang ramai puluhan juta ringgit dengan pantas.
+
+Ini 5 jaminan kecairan emas yang wajib anda tahu:
+
+Satu, menerima semua jenama emas terpakai dan barang kemas lama yang kerap ditolak oleh kedai emas biasa.
+
+Dua, emas kemek, patah, atau calar tetap diterima pada harga tinggi kerana nilainya dikira berdasarkan berat dan ketulenan logam.
+
+Tiga, kekuatan aliran tunai terbukti dengan rekod melunaskan belian balik bernilai RM70 juta dalam masa tiga hari bekerja sahaja.
+
+Empat, menjadi platform rujukan utama bagi majoriti peraih emas seluruh negara kerana kekuatan kilang penulenan sendiri.
+
+Lima, jaminan kecairan pantas bila-bila masa anda memerlukan wang tunai waktu kecemasan tanpa syarat yang menyusahkan.
+
+Simpan emas pada platform yang kukuh.
+
+Mudah dibeli, paling mudah dijual semula!`
+  },
+  {
+    id: 569,
+    siri: "Listicle-05",
+    no: 20,
+    topik: "Public Gold & GAP",
+    tajuk: "Kilang Penulenan Emas Terbesar di Malaysia",
+    tags: ["krisis", "ringgit", "kilang"],
+    teks: `Tahukah anda bahawa Malaysia kini memiliki kilang penulenan emas bertaraf dunia di Batu Kawan Pulau Pinang?
+
+Infrastruktur gergasi ini adalah benteng keselamatan ekonomi negara yang memproses logam berharga untuk rakyat tempatan.
+
+Ini 5 impak besar kilang penulenan emas kepada penyimpan:
+
+Satu, menulenkan emas lama dan skrap terpakai menjadi jongkong emas pelaburan gred tertinggi sembilan ratus sembilan puluh sembilan perpuluhan sembilan.
+
+Dua, kapasiti pemprosesan raksasa sehingga dua puluh tan emas setahun bagi menampung permintaan pasaran tempatan dan Asia Tenggara.
+
+Tiga, menghalang pengaliran keluar wang jutaan ringgit negara kerana proses penulenan kini tidak lagi perlu dihantar ke luar negara.
+
+Empat, melahirkan pakar metalurgi tempatan yang mahir dalam teknologi penulenan logam berharga bertaraf antarabangsa.
+
+Lima, menjamin bekalan stok emas fizikal sentiasa mencukupi untuk para penyimpan walau apa jua krisis bekalan dunia melanda.
+
+Simpan emas bersama peneraju industri berwibawa.
+
+Kekuatan industri menjamin keselamatan aset anda!`
+  },
+  {
+    id: 570,
+    siri: "Listicle-05",
+    no: 21,
+    topik: "Kewangan Peribadi",
+    tajuk: "Menabung Tak Boleh Tunggu Duit Lebih!",
+    tags: ["gaji", "disiplin", "tunai"],
+    teks: `Ramai orang gagal menabung bukan sebab tak ada niat, tapi sebab tunggu ada duit lebih baru nak mula.
+
+Sampai bila-bila duit takkan lebih kalau tidak dipaksa sejak awal, sama seperti kita dipaksa menggosok gigi masa kecil.
+
+Ini 5 rahsia paksa diri menabung sampai jadi tabiat:
+
+Satu, fahami analogi gosok gigi. Pada awalnya rasa terpaksa, tapi bila sudah terbiasa, sehari tak menabung rasa tidak selesa.
+
+Dua, paksa asingkan sepuluh peratus gaji sebaik duit masuk ke akaun bank sebelum sempat berbelanja untuk perkara lain.
+
+Tiga, menabung bukan tentang jumlah angka yang besar, tetapi tentang disiplin konsisten yang berterusan tanpa putus.
+
+Empat, hilangkan pilihan berbelanja dengan menukarkan tunai kepada kepingan emas fizikal yang sayang untuk dicairkan.
+
+Lima, gunakan alat potongan automatik bulanan pada hari gaji untuk memaksa tabiat simpanan berlaku tanpa perlu bergantung pada emosi.
+
+Paksa diri membina tabiat menabung hari ini.
+
+Kekayaan keluarga bermula daripada disiplin diri!`
+  },
+  {
+    id: 571,
+    siri: "Listicle-05",
+    no: 22,
+    topik: "Kewangan Peribadi",
+    tajuk: "Duit Kerap Dilihat Cepat Habis, Tapi Emas?",
+    tags: ["psikologi"],
+    teks: `Duit dalam akaun bank makin kerap dicek makin cepat habis, tapi peliknya kepingan emas makin kerap ditengok makin bertambah!
+
+Ada satu rahsia psikologi menarik yang dialami oleh hampir semua penyimpan emas fizikal tegar.
+
+Ini 5 kesan psikologi kenapa melihat emas membuatkan simpanan anda berganda:
+
+Satu, fitrah manusia memang tertarik kepada keindahan kilauan emas tulen yang mencetuskan rasa tenang dan selamat.
+
+Dua, kerap melihat baki angka di skrin bank mencetuskan idea berbelanja membeli barang promosi online.
+
+Tiga, membelek kepingan emas fizikal mencetuskan ketagihan positif untuk menambah kepingan seterusnya dalam album simpanan.
+
+Empat, timbul rasa berat hati untuk menjual emas bagi perkara remeh, memaksa diri mencari jalan lain waktu sesak.
+
+Lima, kuantiti gram emas keluarga tidak pernah berkurang, sebaliknya terus bertambah dan berkembang saban tahun.
+
+Keluarkan album simpanan emas anda hari ini.
+
+Tatap nilainya, gandakan aset kekayaan anda!`
+  },
+  {
+    id: 572,
+    siri: "Listicle-05",
+    no: 23,
+    topik: "Kenapa Emas",
+    tajuk: "Baki Akaun Sama Tapi Kenapa Makin Miskin?",
+    tags: ["inflasi", "dinar", "ringgit", "cukai"],
+    teks: `Dua puluh tahun dulu bawa duit RM50 ke pasar raya boleh bawa balik barang satu troli penuh sampai melimpah.
+
+Hari ini bawa duit yang sama, cuma dapat barang dalam satu beg plastik kecil sahaja!
+
+Ini 5 bukti duri inflasi sedang merompak kekayaan anda secara senyap:
+
+Satu, nombor dalam buku bank kekal sama, tapi kuasa beli wang kertas tersebut telah musnah dimamah zaman.
+
+Dua, inflasi bertindak seperti cukai tersembunyi apabila pencetakan wang berlebihan menyebabkan nilai setiap ringgit terus mencair.
+
+Tiga, pulangan dividen simpanan konvensional tidak mampu menyaingi kenaikan sebenar harga barangan makanan asas harian.
+
+Empat, kuasa beli satu dinar emas terbukti bertahan merentas seribu empat ratus tahun sejak zaman Rasulullah SAW hingga hari ini.
+
+Lima, tukarkan simpanan jangka panjang kepada emas fizikal untuk mengunci kuasa beli daripada terus dihakis inflasi.
+
+Jangan tertipu dengan nombor di skrin telefon.
+
+Pelihara kuasa beli sebenar dengan emas!`
+  },
+  {
+    id: 573,
+    siri: "Listicle-05",
+    no: 24,
+    topik: "Kewangan Peribadi",
+    tajuk: "Orang Biasa Simpan Nombor, Orang Kaya Simpan Nilai",
+    tags: ["gaji", "hartanah", "krisis", "kecemasan", "sejarah", "tunai"],
+    teks: `Orang kebanyakan berbangga melihat nombor angka di skrin telefon, tapi orang kaya sibuk mengumpul nilai fizikal di tangan.
+
+Inilah perbezaan paling besar antara mentaliti penyimpan biasa dengan golongan yang celik kewangan sebenar.
+
+Ini 5 perbezaan ketara antara penyimpan nombor dan penyimpan nilai:
+
+Satu, penyimpan nombor bergantung pada jaminan pihak ketiga yang nilainya boleh jatuh merudum bila krisis ekonomi melanda.
+
+Dua, penyimpan nilai memegang aset fizikal yang mempunyai nilai intrinsik kekal seperti emas, tanah, dan hartanah.
+
+Tiga, emas fizikal di tangan tidak memerlukan sebarang tandatangan atau geran pemilikan untuk diiktiraf di seluruh dunia.
+
+Empat, hadkan wang tunai sekadar tiga bulan gaji untuk kecemasan, selebihnya dialihkan kepada aset penyimpan nilai sebenar.
+
+Lima, wang kertas kerajaan silam kini hanya tinggal kenangan sejarah, tetapi syiling emas zaman dahulu kekal bernilai tinggi hari ini.
+
+Berhentilah sekadar mengumpul nombor atas kertas.
+
+Kumpul nilai sebenar dalam tangan anda!`
+  },
+  {
+    id: 574,
+    siri: "Listicle-05",
+    no: 25,
+    topik: "Kenapa Emas",
+    tajuk: "Penyimpan Emas Jangka Panjang Takkan Rugi?",
+    tags: ["saham", "kecemasan", "sejarah", "tunai"],
+    teks: `Ramai orang bimbang nak mula simpan emas sebab takut menanggung kerugian bila tengok harga pasaran turun.
+
+Hakikatnya, penyimpan emas fizikal jangka panjang terbukti selamat daripada kerugian modal berdasarkan rekod sejarah logam berharga.
+
+Ini 5 fakta kukuh kenapa penyimpan emas tegar sentiasa untung:
+
+Satu, harga emas sah-sah meningkat dalam jangka panjang didorong oleh kejatuhan kuasa beli wang kertas secara berterusan.
+
+Dua, emas adalah tunai kukuh yang sangat mudah dicairkan bila-bila masa anda memerlukan wang kecemasan segera.
+
+Tiga, emas bertindak sebagai pelindung kekayaan mutlak yang meningkat nilainya setara dengan kenaikan harga barangan pasaran.
+
+Empat, nilai emas fizikal mustahil jatuh menjadi sifar berbeza dengan saham syarikat yang boleh muflis sekelip mata.
+
+Lima, syarat utamanya ialah mendisiplinkan diri menyimpan untuk tempoh minimum dua tahun ke atas, bukan berjudi spekulasi harian.
+
+Kawal emosi daripada panik turun naik harga.
+
+Emas fizikal penyimpan nilai paling selamat!`
+  },
+  {
+    id: 575,
+    siri: "Listicle-05",
+    no: 26,
+    topik: "Kewangan Peribadi",
+    tajuk: "Cara Bangkit Keluar Dari Kesempitan Hidup",
+    tags: ["seminar"],
+    teks: `Masalah kesempitan wang tidak akan selesai dengan mengeluh atau menyalahkan keadaan ekonomi semata-mata.
+
+Penyelesaian sebenar bermula dengan membetulkan ilmu kewangan, menjaga adab, dan memperbaiki hubungan dengan Pencipta serta ibu bapa.
+
+Ini 5 asas penting untuk keluar daripada kemelut kesempitan wang:
+
+Satu, rajin membaca buku kewangan setiap hari bagi mengubah corak pemikiran dan keluar daripada mentaliti kemiskinan.
+
+Dua, bergaul dengan lingkaran orang berjaya dan hadir seminar ilmu perniagaan untuk membina strategi baharu.
+
+Tiga, pelihara hubungan rapat dengan Tuhan dan utamakan syariat dalam setiap urusan rezeki harian anda.
+
+Empat, berbakti kepada ibu bapa dengan mengasingkan wang nafkah bulanan secara konsisten demi menjemput keberkatan doa mereka.
+
+Lima, kukuhkan benteng simpanan emas fizikal daripada lebihan pendapatan agar wang tidak bocor kepada perkara sia-sia.
+
+Rezeki melimpah bermula daripada adab dan ilmu.
+
+Bina semula kekuatan kewangan keluarga anda!`
+  },
+  {
+    id: 576,
+    siri: "Listicle-05",
+    no: 27,
+    topik: "Kenapa Emas",
+    tajuk: "Duit Jadi Sampah, Kancing Emas Kekal Berharga",
+    tags: ["perang", "sejarah"],
+    teks: `Sejarah membuktikan berkali-kali bahawa wang kertas ciptaan manusia boleh hancur menjadi sampah sekelip mata bila kuasa pemerintah runtuh.
+
+Kisah benar seorang saudagar yang jatuh miskin dua kali membuka mata kita tentang kerapuhan wang kertas penjajah.
+
+Ini 5 pengajaran sejarah wang kertas versus kancing emas:
+
+Satu, bermula berniaga sampan di Sungai Kelantan berbekalkan sekeping kancing baju emas pound peninggalan ibunya.
+
+Dua, perniagaan berkembang maju menjadi saudagar kaya raya yang berjaya mengumpul berguni-guni duit kertas pokok pisang tentera Jepun.
+
+Tiga, sebaik tentera Jepun kalah perang pada tahun 1945, duit pokok pisang hilang nilai serta-merta dan hanya layak dibuang di umbi pisang.
+
+Empat, kancing emas pound Amerika kekal bernilai tinggi dan laku digunakan merentas dua era pemerintahan yang berbeza.
+
+Lima, jangan sesekali sandarkan seluruh masa depan pada wang kertas yang tiada sebarang nilai intrinsik di sebaliknya.
+
+Duit kertas jatuh nilainya menjadi kertas biasa.
+
+Emas bila jatuh harganya tetap emas!`
+  },
+  {
+    id: 577,
+    siri: "Listicle-05",
+    no: 28,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Padah Beli Logam Murah Tanpa Platform Sah",
+    tags: ["susut nilai", "beli balik", "cawangan"],
+    teks: `Harga paling murah waktu beli belum tentu paling menguntungkan bila tiba masa anda nak jual balik.
+
+Ramai orang terjerat membeli syiling dan jongkong perak luar negara di media sosial semata-mata terpikat dengan rekaan cantik.
+
+Ini 5 pengajaran mahal sebelum melabur dalam logam berharga:
+
+Satu, terpedaya dengan tawaran murah penjual individu di Facebook tanpa memikirkan kecairan jualan semula pada masa depan.
+
+Dua, kesukaran mencari pembeli bila pasaran merosot kerana kedai biasa enggan menerima logam jenama tidak dikenali.
+
+Tiga, terpaksa menanggung kerugian besar dengan menjual pada potongan harga diskaun melebihi lima puluh peratus.
+
+Empat, nasib yang sama pasti menimpa pembeli emas jenama kecil yang tiada rangkaian cawangan fizikal sah.
+
+Lima, pilih platform kukuh yang menjamin kemudahan jualan balik dengan kadar susut nilai telus dan adil.
+
+Beli logam berharga biar berpandangan jauh.
+
+Pilih platform dengan jaminan beli balik sah!`
+  },
+  {
+    id: 578,
+    siri: "Listicle-05",
+    no: 29,
+    topik: "Kewangan Peribadi",
+    tajuk: "Rahsia Simpanan Dilupakan: Auto Kaya!",
+    tags: ["gaji", "rumah", "ringgit", "tunai"],
+    teks: `Ramai orang gagal mengumpul harta sebab asyik teringat-ingat baki duit simpanan yang ada dalam akaun bank.
+
+Bila tahu ada baki beberapa ribu ringgit, otak mula ligat mencari jalan nak beli telefon baharu atau tukar aksesori kereta.
+
+Ini 5 kehebatan amalkan konsep simpanan emas untuk dilupakan:
+
+Satu, sedari duit tunai dalam bank sentiasa menggoda nafsu berbelanja selagi ia mudah diakses dengan kad bank.
+
+Dua, tukarkan duit simpanan kepada gram emas fizikal pada hari gaji dan anggap wang tersebut sudah tiada.
+
+Tiga, jongkong emas fizikal tidak akan dibawa ke pasar raya untuk membeli barang kehendak harian yang remeh.
+
+Empat, simpanan emas bertahan bertahun-tahun di tempat selamat tanpa bocor dimamah nafsu boros peribadi.
+
+Lima, aset bernilai ratusan ribu ringgit tersedia rapi bila tiba masanya untuk deposit rumah pertama atau dana persaraan.
+
+Kunci kekayaan adalah simpan dan lupakan.
+
+Biarkan emas membina masa depan anda!`
+  },
+  {
+    id: 579,
+    siri: "Listicle-05",
+    no: 30,
+    topik: "Strategi Emas",
+    tajuk: "Jangan Bazir Emosi Tengok Graf Emas Tiap Hari!",
+    tags: ["hutang", "haji", "rumah", "ringgit"],
+    teks: `Menatap graf harga emas setiap dua puluh minit di telefon tidak akan mengubah pergerakan pasaran dunia walau sedikit pun.
+
+Penyimpan emas amatur kerap membuang masa dan memenatkan otak dengan risau perkara yang berada di luar kawalan mereka.
+
+Ini 5 panduan mengurus emosi dan waktu tepat memantau harga emas:
+
+Satu, fahami bahawa harga emas ditentukan oleh faktor ekonomi global dan mustahil bergerak mengikut kehendak emosi kita.
+
+Dua, pantau harga hanya bila ada modal besar untuk membeli jongkong emas seratus gram atau sekilogram sekaligus.
+
+Tiga, semak harga bila sudah tiba masa untuk mencairkan emas bagi mencapai matlamat pelunasan hutang rumah atau menunaikan haji.
+
+Empat, bagi tabungan bulanan kecil, terus beli secara konsisten tanpa perlu pening memikirkan perbezaan beberapa ringgit.
+
+Lima, kawal emosi anda, fokus tingkatkan pendapatan kerjaya, dan biarkan emas menjalankan fungsinya melindungi nilai kekayaan.
+
+Pelaburan terbaik adalah yang memberi ketenangan jiwa.
+
+Simpan emas dengan ilmu, hidup tenang!`
   }
 ];
 
@@ -16017,4 +16827,4 @@ export const namaSiri = {
 export const hargaLalai = { harga999: "542", harga916: "497", tarikh: "27 September 2026" };
 
 // Siri yang dapat TAB sendiri (ikut susunan). Semua siri lain masuk tab "Archive".
-export const tabUtama = ["Listicle-01", "Listicle-02", "Listicle-03", "Listicle-04"];
+export const tabUtama = ["Listicle-01", "Listicle-02", "Listicle-03", "Listicle-04", "Listicle-05"];
