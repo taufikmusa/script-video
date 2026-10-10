@@ -158,28 +158,37 @@ def baca_viral(d):
 
 
 def baca_listicle(d):
-    """Format listicle persona: jadual ringkasan (No | Persona | Tajuk Hook | Patah),
-    perenggan 'SKRIP #NN: TAJUK', jadual 1x1 meta (persona), perenggan skrip, garis '———'."""
+    """Format listicle: jadual ringkasan (No | ... | Tajuk Hook ... | ...), perenggan
+    'SKRIP #NN: TAJUK' atau 'SKRIP 61: Tajuk', jadual 1x1 meta, perenggan skrip,
+    garis '———' / '────' = tamat skrip. Persona diambil dari kolum 'Persona'/'Sudut' (jika ada)."""
     tajuk, persona = {}, {}
     for t in d.tables:
-        if len(t.columns) >= 3 and t.rows[0].cells[0].text.strip() == "No":
-            for r in t.rows[1:]:
-                c = [x.text.strip() for x in r.cells]
-                m = re.match(r"#?(\d+)", c[0])
-                if m:
-                    persona[int(m.group(1))], tajuk[int(m.group(1))] = c[1], c[2]
+        kepala = [c.text.strip().lower() for c in t.rows[0].cells]
+        if len(kepala) < 3 or not kepala[0].startswith("no"):
+            continue
+        i_tajuk = next((i for i, k in enumerate(kepala) if "tajuk hook" in k), None)
+        i_persona = next((i for i, k in enumerate(kepala) if "persona" in k or "sudut" in k), None)
+        if i_tajuk is None:
+            continue
+        for r in t.rows[1:]:
+            c = [x.text.strip() for x in r.cells]
+            m = re.match(r"#?(\d+)", c[0])
+            if m:
+                tajuk[int(m.group(1))] = c[i_tajuk]
+                if i_persona is not None:
+                    persona[int(m.group(1))] = c[i_persona]
     skrip, semasa = [], None
     for el in d.element.body.iterchildren():
         if el.tag.split("}")[1] != "p":
             continue
         txt = teks_para(el)
-        m = re.match(r"SKRIP #(\d+):\s*(.*)", txt)
+        m = re.match(r"SKRIP #?(\d+):\s*(.*)", txt)
         if m:
             n = int(m.group(1))
-            semasa = {"tajuk": tajuk.get(n, m.group(2).title()), "p": [], "hook": "",
+            semasa = {"tajuk": tajuk.get(n, m.group(2).strip()), "p": [], "hook": "",
                       "persona": persona.get(n, "")}
             skrip.append(semasa)
-        elif semasa is not None and txt and not re.fullmatch(r"[—\-_]{5,}", txt):
+        elif semasa is not None and txt and not re.fullmatch(r"[—─\-_]{5,}", txt):
             semasa["p"].append(txt)
         elif semasa is not None and txt:
             semasa = None   # garis pemisah = tamat skrip
@@ -187,7 +196,8 @@ def baca_listicle(d):
 
 
 def kesan_format(d):
-    if any(re.match(r"SKRIP #\d+:", p.text.strip()) for p in d.paragraphs):
+    if any(re.match(r"SKRIP #\d+:", p.text.strip()) for p in d.paragraphs) or any(
+            "tajuk hook" in c.text.lower() for t in d.tables for c in t.rows[0].cells):
         return baca_listicle(d)
     if any("TEKS SKRIP BERSIH" in p.text for p in d.paragraphs):
         return baca_viral(d)
