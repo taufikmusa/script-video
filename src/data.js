@@ -17623,6 +17623,816 @@ Lima, teruskan menyampaikan ilmu celik wang agar lebih ramai keluarga di sekelil
 Kekayaan sejati adalah ketenangan di hati.
 
 Capai kebebasan kewangan, sebarkan manfaat hidup!`
+  },
+  {
+    id: 610,
+    siri: "Listicle-07",
+    no: 1,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kenapa Ramai Orang Gagal Bebas Hutang?",
+    tags: ["hutang", "kad kredit", "gaji", "kecemasan"],
+    teks: `Ramai orang gagal langsaikan hutang bukan sebab gaji kecil, tapi sebab mereka bayar hutang tanpa ada simpanan beku.
+
+Bila ada lebihan duit gaji, terus guna bayar hutang, tapi akhirnya terpaksa berhutang semula bila berlaku kecemasan!
+
+Ini 5 langkah putuskan rantaian hutang jahat selamanya:
+
+Satu, sedari perangkap bayar hutang tanpa tabung kecemasan yang memaksa anda menggesek kad kredit semula bila kereta rosak.
+
+Dua, fokus melangsaikan prinsipal pokok, bukan sekadar membayar kadar minimum bulanan yang memerangkap faedah bank.
+
+Tiga, kunci sebahagian wang simpanan ke dalam emas fizikal agar wang tersebut tidak terbelanja sebelum cukup jumlah pelunasan pukal.
+
+Empat, gunakan kenaikan harga emas untuk mencairkan sebahagian gram simpanan bagi melunaskan hutang terkecil sekaligus.
+
+Lima, alihkan seratus peratus bayaran bulanan hutang yang telah langsai untuk menambah simpanan gram emas secara konsisten.
+
+Hentikan kitaran gali lubang tutup lubang.
+
+Bina masa depan bebas hutang!`
+  },
+  {
+    id: 611,
+    siri: "Listicle-07",
+    no: 2,
+    topik: "Kewangan Peribadi",
+    tajuk: "Emas vs ASB Financing: Mana Lebih Selamat?",
+    tags: ["hutang", "gaji", "asb", "ringgit", "tunai"],
+    teks: `Ramai orang tergiur membuat pinjaman bank ratusan ribu ringgit untuk pembiayaan ASB semata-mata mengejar dividen tahunan.
+
+Tapi bila kadar faedah bank terapung naik, ansuran bulanan mencekik leher sedangkan dividen belum tentu bertambah!
+
+Ini 5 sebab kenapa simpanan emas fizikal lebih menenangkan jiwa:
+
+Satu, bebas risiko kenaikan kadar faedah bank kerana simpanan emas tunai tiada sebarang komitmen ansuran bulanan.
+
+Dua, tiada risiko lelongan atau tunggakan sekiranya anda hilang punca pendapatan atau perniagaan merosot secara tiba-tiba.
+
+Tiga, beli ikut kemampuan serendah RM100 tanpa sebarang ikatan kontrak pinjaman yang membebankan slip gaji.
+
+Empat, purata kenaikan harga emas fizikal melebihi sepuluh peratus setahun terbukti mengatasi pulangan dividen bersih pembiayaan.
+
+Lima, pegang pemilikan aset hakiki seratus peratus di tangan sendiri tanpa dicagar kepada mana-mana institusi perbankan.
+
+Melaburlah dengan wang tunai sendiri.
+
+Pilih ketenangan jiwa bebas hutang!`
+  },
+  {
+    id: 612,
+    siri: "Listicle-07",
+    no: 3,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kenapa Doktor & Jurutera Simpan Emas?",
+    tags: ["inflasi", "gaji", "saham", "ringgit"],
+    teks: `Golongan profesional bergaji besar seperti doktor, jurutera, dan peguam selalunya mempunyai kekangan masa yang sangat terhad.
+
+Mereka tiada masa terluang untuk memantau carta pasaran saham harian, malah terdedah kepada perangkap inflasi gaya hidup mewah.
+
+Ini 5 sebab golongan profesional memilih emas fizikal:
+
+Satu, simpanan pasif terbaik yang tidak mengganggu tumpuan dan fokus terhadap kerjaya utama harian di tempat kerja.
+
+Dua, membendung penyakit inflasi gaya hidup di mana gaji puluhan ribu ringgit dikunci selamat ke dalam aset beku.
+
+Tiga, aset pelindung nilai penuh privasi yang tidak tertakluk kepada risiko audit atau pembekuan sistem kewangan.
+
+Empat, kemudahan potongan bulanan automatik pada hari gaji membolehkan pengumpulan gram berlaku secara konsisten tanpa perlu berfikir.
+
+Lima, membina dana persaraan mewah yang memastikan taraf hidup kekal selesa walaupun selepas tamat tempoh perkhidmatan.
+
+Kerja keras bertahun-tahun wajar dilindungi.
+
+Kunci kekayaan kerjaya dalam emas!`
+  },
+  {
+    id: 613,
+    siri: "Listicle-07",
+    no: 4,
+    topik: "Kewangan Peribadi",
+    tajuk: "Tukar Kopi Mahal Jadi 100 Gram Emas!",
+    tags: ["ringgit", "disiplin", "tunai"],
+    teks: `Ramai orang merungut tiada duit untuk menyimpan emas, tapi peliknya mampu membakar RM20 sehari untuk kopi viral dan rokok!
+
+Duit kecil yang dianggap remeh itu sebenarnya bernilai seketul jongkong emas seratus gram jika diuruskan dengan betul.
+
+Ini 5 kiraan matematik mudah yang membuka mata kita:
+
+Satu, RM20 sehari bersamaan RM600 sebulan atau lebih RM7,000 wang tunai yang hangus terbakar setiap tahun.
+
+Dua, RM600 sebulan mampu membeli hampir dua gram emas fizikal secara konsisten mengikut harga pasaran semasa.
+
+Tiga, dalam masa lima tahun, tabiat menukar duit kopi menghasilkan jongkong seratus gram bernilai puluhan ribu ringgit.
+
+Empat, kesihatan tubuh badan dan kesihatan kewangan keluarga meningkat serentak bila tabiat membazir berjaya dihentikan.
+
+Lima, kuasa perubahan tabiat kecil membuktikan kejayaan kewangan lahir daripada disiplin pengorbanan harian yang konsisten.
+
+Hentikan pembaziran wang untuk perkara sia-sia.
+
+Tukarkan tabiat harian jadi emas!`
+  },
+  {
+    id: 614,
+    siri: "Listicle-07",
+    no: 5,
+    topik: "Keluarga",
+    tajuk: "Simpan Emas: Rahsia Rumahtangga Harmoni",
+    tags: ["gaji", "bonus", "rumah", "isteri"],
+    teks: `Ketiadaan ketelusan dalam pengurusan wang gaji adalah racun utama yang kerap merosakkan keharmonian pasangan suami isteri.
+
+Bila ada matlamat simpanan emas bersama, kewangan keluarga menjadi telus dan rasa saling mempercayai bertambah kukuh.
+
+Ini 5 manfaat simpanan emas dalam merapatkan hubungan rumahtangga:
+
+Satu, menetapkan matlamat kewangan bersama yang jelas seperti mengumpul lima puluh gram emas untuk dana deposit rumah impian.
+
+Dua, mengelakkan tabiat menyimpan senyap-senyap yang boleh mencetuskan rasa curiga atau salah faham antara pasangan.
+
+Tiga, suami menghadiahkan kepingan emas fizikal sempena ulang tahun perkahwinan sebagai simbol kasih sayang yang kekal bernilai.
+
+Empat, isteri yang celik emas bertindak sebagai benteng mengingatkan suami mengunci lebihan bonus sebelum habis berbelanja.
+
+Lima, menjamin masa depan dan dana perlindungan anak-anak sentiasa selamat sekiranya berlaku sebarang musibah luar jangka.
+
+Keluarga bahagia bermula daripada persefahaman kewangan.
+
+Kukuhkan rumahtangga dengan tabungan emas!`
+  },
+  {
+    id: 615,
+    siri: "Listicle-07",
+    no: 6,
+    topik: "Zakat & Syariah",
+    tajuk: "Emas: Harta Pusaka Bebas Cukai",
+    tags: ["hutang", "rumah", "ringgit", "anak", "isteri", "pusaka", "faraid", "kecemasan"],
+    teks: `Banyak harta pusaka konvensional seperti rumah dan tanah menuntut kos peguam, duti setem, dan cukai sebelum boleh dituntut waris.
+
+Akibatnya, berbilion ringgit harta pusaka di Malaysia terbiar beku bertahun-tahun kerana waris tiada tunai untuk membayar kos pentadbiran mahkamah!
+
+Ini 5 kelebihan emas fizikal dalam perancangan harta pusaka:
+
+Satu, bebas sepenuhnya daripada sebarang cukai pusaka memastikan waris menerima seratus peratus nilai kekayaan yang ditinggalkan.
+
+Dua, pemindahan pemilikan serta-merta tanpa perlu menunggu proses perintah mahkamah atau probet yang memakan masa bertahun-tahun.
+
+Tiga, mengelakkan masalah aset beku yang kerap menimpa akaun bank si mati selepas kematian berlaku.
+
+Empat, sangat fleksibel dibahagikan secara adil mengikut timbangan gram faraid kepada setiap anak dan isteri.
+
+Lima, menyediakan tunai kecemasan pantas untuk waris melunaskan hutang arwah demi ketenteraman rohnya.
+
+Tinggalkan harta yang memudahkan urusan waris.
+
+Rancang pusaka keluarga dengan emas!`
+  },
+  {
+    id: 616,
+    siri: "Listicle-07",
+    no: 7,
+    topik: "Strategi Emas",
+    tajuk: "Bahaya 'FOMO' Beli Emas Ikut Emosi",
+    tags: ["fomo"],
+    teks: `Bila tengok harga emas melambung tinggi dan orang berebut-rebut membeli, jangan sesekali terjebak membeli kerana takut ketinggalan!
+
+Membeli mengikut emosi panik FOMO selalunya memerangkap anda membeli pada harga paling puncak sebelum berlaku pembetulan pasaran.
+
+Ini 5 pesanan penting elak perangkap emosi dalam emas:
+
+Satu, emosi tamak dan panik sering membawa penyesalan bila harga mengalami penurunan sementara jangka pendek.
+
+Dua, sedari bahawa simpanan emas adalah larian maraton jangka panjang, bukan perlumbaan pecut seratus meter untuk kaya kilat.
+
+Tiga, amalkan strategi belian konsisten setiap bulan untuk mematikan emosi tamak dan mendapatkan purata harga terbaik.
+
+Empat, jangan sesekali membuat pinjaman bank semata-mata kerana terburu-buru mengejar kenaikan harga pasaran harian.
+
+Lima, fokus pada pelan kewangan peribadi sendiri mengikut bajet poket tanpa terpengaruh dengan apa yang ditayangkan orang lain.
+
+Simpan emas dengan ilmu dan ketenangan.
+
+Jauhi emosi tamak, melaburlah bijak!`
+  },
+  {
+    id: 617,
+    siri: "Listicle-07",
+    no: 8,
+    topik: "Strategi Emas",
+    tajuk: "5 Perkara Berlaku Bila Simpan 1 Gram Sebulan",
+    tags: ["ringgit"],
+    teks: `Menyimpan satu gram emas setiap bulan nampak macam langkah kecil yang biasa pada peringkat permulaan.
+
+Tetapi impak psikologinya sangat dahsyat dan bakal mengubah corak hidup serta kewangan keluarga anda secara luar biasa!
+
+Ini 5 transformasi besar bila anda konsisten simpan satu gram:
+
+Satu, nafsu boros berbelanja terkunci secara automatik kerana fokus otak beralih kepada menambah gram simpanan bulan hadapan.
+
+Dua, baki simpanan bersih meningkat mencecah puluhan gram bernilai ribuan ringgit tanpa menjejaskan keperluan dapur keluarga.
+
+Tiga, keyakinan diri dan ketenangan jiwa meningkat kerana sedar keluarga mempunyai benteng aset fizikal yang kukuh di tangan.
+
+Empat, minda mula terbuka mencari jalan menambah kemahiran dan meneroka peluang perniagaan baharu untuk gandakan simpanan.
+
+Lima, menjadi contoh teladan celik kewangan terbaik yang dihormati dan dicontohi oleh anak-anak sejak kecil.
+
+Langkah kecil yang konsisten melahirkan kejayaan gergasi.
+
+Mulakan satu gram pertama anda!`
+  },
+  {
+    id: 618,
+    siri: "Listicle-07",
+    no: 9,
+    topik: "Keluarga",
+    tajuk: "Emas: Perisai Maruah Ibu Tunggal",
+    tags: ["susut nilai", "inflasi", "ar-rahnu", "anak", "ibu tunggal"],
+    teks: `Ibu tunggal memikul tanggungjawab besar membesarkan anak-anak sendirian tanpa tempat bergantung harap.
+
+Keselamatan kewangan adalah keutamaan mutlak, dan emas fizikal bertindak sebagai benteng pertahanan maruah keluarga yang paling kukuh.
+
+Ini 5 sebab kenapa emas fizikal sangat penting untuk ibu tunggal:
+
+Satu, aset peribadi penuh privasi yang menjadi hak milik mutlak untuk menyara zuriat tanpa campur tangan pihak lain.
+
+Dua, kecairan sangat pantas bila berlaku musibah anak sakit atau yuran sekolah dengan memajak di Ar-Rahnu.
+
+Tiga, kalis inflasi dan memelihara kuasa beli wang belanja persekolahan anak daripada susut nilai dimakan masa.
+
+Empat, boleh dimulakan sendiri secara fleksibel serendah RM100 tanpa memerlukan modal besar yang membebankan poket.
+
+Lima, membina kekuatan emosi dan kemandirian diri bahawa masa depan anak-anak sentiasa mempunyai sandaran kukuh.
+
+Lindungi masa depan anak-anak tercinta dengan berani.
+
+Emas fizikal perisai maruah anda!`
+  },
+  {
+    id: 619,
+    siri: "Listicle-07",
+    no: 10,
+    topik: "Kenapa Emas",
+    tajuk: "Jangan Simpan Duit Tunai Lebih 2 Tahun!",
+    tags: ["susut nilai", "inflasi", "ringgit", "tunai"],
+    teks: `Ramai orang berbangga melihat ratusan ribu ringgit wang tunai terbiar bertahun-tahun di dalam akaun simpanan bank konvensional.
+
+Hakikatnya, siapa yang menyimpan wang tunai lebih dua tahun sebenarnya sedang menaja keuntungan bank dan menanggung kerugian inflasi!
+
+Ini 5 risiko besar menyimpan tunai melebihi dua tahun:
+
+Satu, kuasa beli wang kertas pasti merosot melebihi sepuluh peratus dalam masa dua tahun akibat kenaikan harga barangan.
+
+Dua, kadar faedah bank yang rendah langsung tidak mampu menampung kenaikan kos sara hidup harian yang melambung tinggi.
+
+Tiga, godaan menghabiskan wang tunai sangat tinggi untuk membeli kenderaan baharu atau barang kehendak yang susut nilai.
+
+Empat, menukarkan lebihan tunai kepada emas memastikan modal anda berkembang mengikut kenaikan purata harga emas jangka panjang.
+
+Lima, formula bijak ialah hadkan simpanan tunai sekadar tiga bulan belanja, dan selebihnya ditukarkan kepada emas fizikal.
+
+Selamatkan titik peluh anda daripada terus mencair.
+
+Kunci kekayaan dalam emas fizikal!`
+  },
+  {
+    id: 620,
+    siri: "Listicle-07",
+    no: 11,
+    topik: "Keluarga",
+    tajuk: "Buka Akaun Emas Seawal Bayi Lahir!",
+    tags: ["ringgit", "anak"],
+    teks: `Hadiah paling bernilai untuk menyambut kelahiran cahaya mata baharu bukan mainan mahal, tapi benteng kebebasan kewangan masa depan mereka.
+
+Membuka akaun simpanan emas seawal hari pertama kelahiran adalah tindakan paling bijak untuk masa depan anak anda.
+
+Ini 5 kelebihan membuka akaun emas anak sejak bayi:
+
+Satu, membina dana pendidikan universiti bebas pinjaman dengan mengumpul gram emas secara konsisten sehingga anak berumur lapan belas tahun.
+
+Dua, tempat paling selamat mengumpulkan wang hadiah kelahiran dan duit raya anak daripada terpakai secara tidak sengaja.
+
+Tiga, proses pengurusan mudah di mana ibu bapa bertindak sebagai pemegang amanah rasmi menguruskan simpanan secara dalam talian.
+
+Empat, mendidik anak menghargai nilai aset fizikal sebenar sejak di bangku sekolah berbanding membazir membeli barangan mainan.
+
+Lima, aset bernilai puluhan ribu ringgit sedia diserahkan bila anak dewasa sebagai modal berdikari memulakan kehidupan.
+
+Hadiahkan legasi kekayaan bermakna untuk zuriat tercinta.
+
+Mulakan simpanan emas anak hari ini!`
+  },
+  {
+    id: 621,
+    siri: "Listicle-07",
+    no: 12,
+    topik: "Zakat & Syariah",
+    tajuk: "Dana Tabung Masjid Susut Kuasa Beli?",
+    tags: ["ringgit", "syariah", "masjid", "tunai"],
+    teks: `Banyak jawatankuasa masjid dan institusi kebajikan mengumpul dana pembangunan projek selama bertahun-tahun sebelum memulakan pembinaan fizikal.
+
+Bila dana disimpan dalam bentuk tunai, kuasa beli duit sumbangan tersebut mencair ditelan kenaikan kos bahan binaan!
+
+Ini 5 sebab kenapa tabung institusi patut mengunci dana dalam emas:
+
+Satu, kenaikan kos simen, besi, dan upah kontraktor saban tahun menyebabkan dana tunai tidak lagi cukup membina bangunan dirancang.
+
+Dua, nilai emas meningkat seiring dengan kenaikan kos komoditi binaan, memastikan nilai dana projek kekal mencukupi.
+
+Tiga, patuh syariah sepenuhnya dan telus menjamin keselamatan serta integriti pengurusan dana wakaf dan infaq orang ramai.
+
+Empat, fleksibel dicairkan secara berperingkat mengikut tuntutan bayaran fasa kemajuan pembinaan kontraktor di tapak projek.
+
+Lima, memelihara amanah para penderma dengan memastikan setiap ringgit sumbangan kekal bernilai penuh sehingga projek siap.
+
+Pelihara amanah sumbangan orang ramai dengan bijak.
+
+Kunci dana institusi dalam emas!`
+  },
+  {
+    id: 622,
+    siri: "Listicle-07",
+    no: 13,
+    topik: "Strategi Emas",
+    tajuk: "Penyimpan Emas Emosi vs Berilmu: Anda Mana?",
+    tags: ["ringgit"],
+    teks: `Apakah perbezaan besar antara orang yang berjaya membina kekayaan emas dengan mereka yang sentiasa tertekan melihat pasaran?
+
+Penyimpan emosi sibuk tengok graf dan gelabah bila harga turun, tapi penyimpan berilmu sibuk menambah gram dan tidur lena!
+
+Ini 5 perbezaan ketara antara kedua-dua golongan ini:
+
+Satu, bila harga naik, penyimpan emosi tamak menyesal tak beli banyak, manakala penyimpan berilmu bersyukur dan kekal tenang.
+
+Dua, bila harga turun, penyimpan emosi panik menjual rugi, manakala penyimpan berilmu gembira dapat membeli pada harga diskaun.
+
+Tiga, penyimpan emosi mengira untung rugi dalam angka ringgit harian, penyimpan berilmu mengira pertambahan jumlah kepingan gram fizikal.
+
+Empat, penyimpan emosi mahu kaya dalam masa dua bulan, penyimpan berilmu menyimpan untuk matlamat jangka panjang bertahun-tahun.
+
+Lima, penyimpan emosi keletihan menatap skrin telefon, penyimpan berilmu menikmati hidup kerana simpanan berjalan secara automatik.
+
+Tinggalkan emosi panik dalam pasaran.
+
+Simpan emas dengan ilmu, hidup tenang!`
+  },
+  {
+    id: 623,
+    siri: "Listicle-07",
+    no: 14,
+    topik: "Zakat & Syariah",
+    tajuk: "Dinar Emas: Mata Wang Sunnah Tanpa Riba",
+    tags: ["inflasi", "zakat", "dinar", "penipuan", "sejarah"],
+    teks: `Sejarah kegemilangan tamadun Islam terbukti kukuh dan adil apabila sistem muamalat disandarkan pada timbangan dinar emas dan dirham perak.
+
+Dinar emas adalah mata wang sunnah berdaulat yang menegakkan keadilan ekonomi tanpa sebarang unsur penipuan riba dan manipulasi wang kertas.
+
+Ini 5 keistimewaan dinar emas dalam muamalat Islam:
+
+Satu, standard timbangan rasmi Khalifah Umar Al-Khattab seberat empat perpuluhan dua puluh lima gram emas tulen sembilan ratus sembilan puluh sembilan.
+
+Dua, bebas daripada penipuan sistem riba dan pencetakan wang berlebihan yang merompak kuasa beli masyarakat melalui inflasi.
+
+Tiga, alat penetapan kadar zakat dan maskahwin yang adil merentas zaman tanpa terjejas oleh kejatuhan mata wang.
+
+Empat, keadilan urus niaga antarabangsa di mana nilainya diterima di seluruh dunia tanpa spekulasi kadar pertukaran wang.
+
+Lima, menghidupkan kembali kesedaran muamalat Islam dalam membina benteng keselamatan kekayaan keluarga moden hari ini.
+
+Kembalikan keadilan kewangan dalam keluarga anda.
+
+Miliki kepingan dinar emas sunnah!`
+  },
+  {
+    id: 624,
+    siri: "Listicle-07",
+    no: 15,
+    topik: "Kewangan Peribadi",
+    tajuk: "Penjawat Awam: Gaji Masuk Terus Habis?",
+    tags: ["hutang", "gaji", "skim"],
+    teks: `Kakitangan kerajaan mempunyai kelebihan besar kerana menerima gaji tetap pada tarikh dua puluh lima hari bulan setiap bulan.
+
+Tapi tanpa benteng simpanan automatik, gaji tetap tersebut selalunya habis ditelan bayaran komitmen dan jerat pinjaman peribadi!
+
+Ini 5 sebab penjawat awam patut aktifkan simpanan emas automatik:
+
+Satu, manfaatkan tarikh gaji tetap dengan menetapkan potongan automatik sehari selepas gaji masuk supaya wang tidak sempat dibelanjakan.
+
+Dua, membendung tabiat membuat pinjaman peribadi baharu kerana lebihan pendapatan telah dikunci selamat ke dalam gram emas.
+
+Tiga, membina tabung persaraan kedua luar daripada skim pencen untuk menampung kos sara hidup dan perubatan hari tua.
+
+Empat, persediaan dana pelunasan baki pinjaman perumahan kerajaan agar anda dapat bersara dengan tenang tanpa hutang.
+
+Lima, peluang menjana pendapatan sampingan yang sah sebagai usahawan emas secara fleksibel tanpa melanggar peraturan perkhidmatan awam.
+
+Manfaatkan kestabilan gaji anda dengan bijak.
+
+Kunci gaji kakitangan awam dalam emas!`
+  },
+  {
+    id: 625,
+    siri: "Listicle-07",
+    no: 16,
+    topik: "Kenapa Emas",
+    tajuk: "Bila Internet Lumpuh, Duit Anda Jadi Apa?",
+    tags: ["rumah"],
+    teks: `Bila sistem pelayan bank tergendala atau sambungan internet terputus, wang di dalam aplikasi telefon langsung tak boleh digunakan.
+
+Kebergantungan seratus peratus kepada perbankan digital dan imbasan kod QR mendedahkan kita kepada risiko kelumpuhan teknologi bila berlaku bencana.
+
+Ini 5 sebab emas fizikal adalah aset sejati luar talian:
+
+Satu, kekal laku dan diterima sebagai alat pertukaran sah walaupun berlaku gangguan bekalan elektrik atau talian telekomunikasi lumpuh.
+
+Dua, tiada risiko terkunci daripada harta sendiri bila aplikasi bank sedang diselenggara atau akaun disekat tiba-tiba.
+
+Tiga, aset fizikal hakiki yang boleh disentuh, ditimbang, dan disimpan sendiri tanpa bergantung pada server pihak ketiga.
+
+Empat, gabungan terbaik ialah beli secara digital di aplikasi, dan simpan kepingan fizikal di rumah sebagai rizab luar talian.
+
+Lima, memberikan ketenangan jiwa menghadapi sebarang kegagalan sistem siber dan ketidaktentuan teknologi global.
+
+Jangan simpan semua kekayaan dalam alam maya.
+
+Pegang sendiri aset fizikal anda!`
+  },
+  {
+    id: 626,
+    siri: "Listicle-07",
+    no: 17,
+    topik: "Strategi Emas",
+    tajuk: "Bina Tabung 'Pecah Kaca Jika Cemas' Guna Emas",
+    tags: ["rumah", "dinar", "krisis", "anak", "isteri", "kecemasan", "tunai"],
+    teks: `Setiap rumah wajib mempunyai tabung kecemasan mutlak sebagai talian hayat terakhir keluarga sekiranya berlaku malapetaka luar jangka.
+
+Jangan tunggu akaun bank dibekukan atau krisis ekonomi melanda baru kelam-kabut mencari jalan menyelamatkan anak isteri.
+
+Ini 5 langkah membina tabung kecemasan mutlak berasaskan emas:
+
+Satu, peruntukkan lima hingga sepuluh keping dinar atau kepingan lima gram yang mudah dicairkan secara berperingkat bila terdesak.
+
+Dua, pilih lokasi simpanan rahsia kalis api dan elakkan tempat biasa seperti almari baju yang mudah dihidu pencuri.
+
+Tiga, maklumkan kewujudan tabung dan tatacara penggunaannya kepada pasangan agar harta tidak tertimbus jika berlaku musibah mengejut.
+
+Empat, tetapkan syarat ketat bahawa tabung ini hanya boleh diusik untuk kecemasan hidup mati selepas tunai habis.
+
+Lima, ganti semula kepingan gram emas yang telah digunakan sebaik sahaja keadaan kewangan pulih seperti sediakala.
+
+Sediakan payung sebelum ribut musibah melanda.
+
+Tabung emas penyelamat keluarga anda!`
+  },
+  {
+    id: 627,
+    siri: "Listicle-07",
+    no: 18,
+    topik: "Kewangan Peribadi",
+    tajuk: "Orang Banyak Alasan Paling Rugi Dalam Emas!",
+    tags: ["susut nilai", "inflasi", "rumah"],
+    teks: `Banyak alasan tunggu harga turun, tunggu ada duit banyak, dan tunggu faham seratus peratus sebelum mula menabung emas.
+
+Akhirnya bertahun-tahun masa berlalu, harga emas melambung tinggi dan wang kertas anda semakin susut nilai dimakan inflasi!
+
+Ini 5 alasan popular yang memiskinkan orang ramai daripada menyimpan emas:
+
+Satu, tunggu harga murah sejak bertahun lalu akhirnya terpaksa membeli pada paras harga yang jauh lebih mahal hari ini.
+
+Dua, alasan tiada duit beribu padahal simpanan emas boleh dimulakan serendah RM100 sahaja mengikut bajet poket.
+
+Tiga, tunggu faham seratus peratus sedangkan cara terbaik faham emas ialah beli satu gram pertama dan pegang di tangan.
+
+Empat, takut emas dicuri di rumah padahal ada kemudahan simpanan percuma dalam bilik kebal pengeluar sah.
+
+Lima, asyik bertangguh bulan depan sedangkan orang berjaya terus bertindak pantas hari ini tanpa alasan.
+
+Hapuskan semua alasan yang merugikan anda.
+
+Mula bertindak simpan gram pertama!`
+  },
+  {
+    id: 628,
+    siri: "Listicle-07",
+    no: 19,
+    topik: "Public Gold & GAP",
+    tajuk: "Resit Hilang Pun Emas Tetap Laku!",
+    tags: ["susut nilai", "ar-rahnu", "rumah", "beli balik", "resit", "tunai"],
+    teks: `Banyak kedai emas konvensional enggan membeli balik emas atau memotong harga sehingga empat puluh peratus semata-mata sebab resit belian hilang.
+
+Platform pengeluar emas berwibawa menjamin belian balik semua produk keluarannya mengikut harga pasaran semasa walaupun tanpa resit belian asal.
+
+Ini 5 kelebihan polisi beli balik tanpa resit yang telus:
+
+Satu, pengiktirafan rasmi berasaskan nombor siri, cop timbangan, dan ketulenan standard antarabangsa yang tertera pada produk.
+
+Dua, menghapuskan birokrasi menyimpan kertas resit bertahun-tahun yang mudah pudar, koyak, atau hilang semasa berpindah rumah.
+
+Tiga, kadar susut nilai dipaparkan secara langsung dua puluh empat jam di laman web rasmi tanpa caj tersembunyi.
+
+Empat, menerima emas walaupun bungkusan seal telah dibuka untuk ujian ketulenan atau selepas ditebus dari Ar-Rahnu.
+
+Lima, memberi ketenangan fikiran mutlak bahawa aset emas anda sentiasa mudah dicairkan kepada tunai bila-bila masa.
+
+Simpan emas pada platform yang telus.
+
+Mudah dibeli, paling mudah dijual semula!`
+  },
+  {
+    id: 629,
+    siri: "Listicle-07",
+    no: 20,
+    topik: "Strategi Emas",
+    tajuk: "Guna Emas Beli Rumah Lelong Bawah Harga Pasaran",
+    tags: ["ar-rahnu", "hartanah", "rumah", "tunai"],
+    teks: `Peluang keemasan membeli hartanah diskaun sehingga lima puluh peratus di bawah harga pasaran menuntut kecairan tunai deposit dalam masa singkat.
+
+Pelabur hartanah bijak tidak membiarkan modal tunai mencair di bank, sebaliknya menggunakan emas sebagai rizab pantas menyambar peluang lelongan.
+
+Ini 5 strategi pelabur hartanah menggunakan emas fizikal:
+
+Satu, kumpul modal dalam bentuk emas fizikal agar nilainya tidak susut sementara menunggu tawaran hartanah terbaik muncul.
+
+Dua, cairkan emas di Ar-Rahnu dalam masa tiga puluh minit untuk menyediakan draf bank deposit lelongan sepuluh peratus.
+
+Tiga, berjaya memiliki hartanah diskaun tanpa perlu menjual pemilikan kepingan emas fizikal kesayangan anda.
+
+Empat, tebus semula emas menggunakan lebihan hasil penstrukturan semula pinjaman atau keuntungan sewaan bulanan rumah tersebut.
+
+Lima, strategi berganda yang membolehkan anda memiliki aset hartanah sambil mengekalkan pemilikan aset emas fizikal serentak.
+
+Kuasai strategi pengurusan aset pelabur bijak.
+
+Gunakan emas kunci keuntungan hartanah!`
+  },
+  {
+    id: 630,
+    siri: "Listicle-07",
+    no: 21,
+    topik: "Kewangan Peribadi",
+    tajuk: "Tabiat Simpan Emas Kalahkan Kenaikan Gaji!",
+    tags: ["inflasi", "gaji", "disiplin"],
+    teks: `Bukan kenaikan gaji yang mengubah nasib kewangan keluarga kita, tetapi tabiat menyimpan aset kecil secara konsisten setiap bulan.
+
+Perubahan kecil satu peratus setiap hari menghasilkan impak kejayaan gergasi yang menewaskan mereka yang bergaji besar tetapi boros berbelanja!
+
+Ini 5 kuasa tabiat kompaun simpanan emas fizikal:
+
+Satu, menabung satu gram sebulan membina identiti diri sebagai penyimpan tegar yang berdisiplin mengumpul aset bernilai.
+
+Dua, kuasa penggandaan gram menghasilkan enam puluh gram dalam lima tahun dan ratusan gram tanpa terasa bebanan kewangan.
+
+Tiga, nilai harga emas yang meningkat jangka panjang menggandakan hasil titik peluh dan menewaskan kadar inflasi tahunan.
+
+Empat, membina disiplin hidup yang mengalir ke dalam aspek pengurusan masa, perniagaan, dan kerjaya harian anda.
+
+Lima, pekerja bergaji sederhana yang konsisten menyimpan emas terbukti lebih kaya berbanding mereka yang bergaji besar tetapi tiada simpanan.
+
+Mulakan tabiat kecil yang membina kekayaan.
+
+Disiplin konsisten mengalahkan gaji besar!`
+  },
+  {
+    id: 631,
+    siri: "Listicle-07",
+    no: 22,
+    topik: "Keluarga",
+    tajuk: "Hadiah Ulang Tahun Perkahwinan Paling Bernilai",
+    tags: ["kecemasan"],
+    teks: `Bunga akan layu dan beg tangan berjenama akan lusuh dimakan zaman, tetapi kepingan emas kekal berkilau dan bernilai selamanya.
+
+Mencari hadiah ulang tahun perkahwinan yang bermakna dan tidak membazir kini lebih mudah dengan menghadiahkan kepingan emas fizikal kepada pasangan.
+
+Ini 5 sebab emas hadiah ulang tahun perkahwinan terbaik:
+
+Satu, simbol cinta abadi yang tidak pernah berkarat atau pudar, mencerminkan ikatan rumahtangga yang teguh dan berkekalan.
+
+Dua, hadiah yang nilainya semakin meningkat tinggi menjelang sambutan ulang tahun perkahwinan ke-10 atau ke-20 nanti.
+
+Tiga, membina tabung rizab kecemasan dan persaraan bersama pasangan hasil daripada koleksi hadiah tahunan yang dikumpul.
+
+Empat, pilihan rekaan kad emas tema kasih sayang yang membolehkan catatan ucapan manis diabadikan bersama kepingan emas.
+
+Lima, mendidik pasangan bersama-sama menghargai simpanan aset dan membina masa depan keluarga yang bebas daripada pembaziran.
+
+Hadiahkan kenangan yang mekar sepanjang hayat.
+
+Emas fizikal simbol cinta abadi!`
+  },
+  {
+    id: 632,
+    siri: "Listicle-07",
+    no: 23,
+    topik: "Zakat & Syariah",
+    tajuk: "Elak Adik-Beradik Bergaduh Harta Pusaka",
+    tags: ["ringgit", "anak", "pusaka", "faraid", "tunai"],
+    teks: `Berapa banyak keluarga berpecah-belah dan adik-beradik bermusuh sampai ke anak cucu hanya kerana berebut sebidang tanah pusaka!
+
+Pertelingkahan harta pusaka sering berlaku bila aset peninggalan sukar dibahagikan secara sama rata dan menuntut kos guaman yang mahal.
+
+Ini 5 kelebihan emas fizikal memelihara silaturahim waris:
+
+Satu, timbangan gram yang sangat tepat membolehkan pembahagian faraid dibuat secara adil tanpa sebarang pertikaian nilai.
+
+Dua, tiada isu perebutan lokasi kerana setiap kepingan emas mempunyai kualiti ketulenan yang sama diiktiraf antarabangsa.
+
+Tiga, tidak memerlukan pelantikan peguam atau prosedur mahkamah yang menelan belanja ribuan ringgit wang simpanan waris.
+
+Empat, kecairan segera membolehkan waris yang memerlukan wang tunai menjual bahagian emas mereka tanpa perlu persetujuan adik-beradik lain.
+
+Lima, memastikan hubungan persaudaraan dan kasih sayang keluarga kekal utuh selepas ketiadaan ibu bapa tercinta.
+
+Tinggalkan harta pusaka yang menyatukan keluarga.
+
+Wariskan emas, pelihara ikatan silaturahim!`
+  },
+  {
+    id: 633,
+    siri: "Listicle-07",
+    no: 24,
+    topik: "Bisnes & Dealer",
+    tajuk: "Peniaga SME: Kawal Aliran Tunai Guna Emas",
+    tags: ["ar-rahnu", "bisnes", "tunai"],
+    teks: `Peniaga kecil kerap kali gagal dan gulung tikar bukan sebab tiada jualan, tapi sebab duit untung bisnes bercampur dengan belanja peribadi.
+
+Aliran tunai adalah nadi perniagaan, dan mengunci sebahagian keuntungan ke dalam emas fizikal adalah benteng menyelamatkan syarikat.
+
+Ini 5 strategi peniaga SME kawal aliran tunai guna emas:
+
+Satu, asingkan keuntungan bersih bulanan terus ke dalam akaun emas untuk membekukan modal daripada dibelanjakan sesuka hati.
+
+Dua, elak godaan menggunakan duit syarikat untuk membeli barang kehendak peribadi yang tiada kaitan dengan operasi perniagaan.
+
+Tiga, bertindak sebagai tabung penampan musim gawat yang menampung kos operasi syarikat sewaktu jualan pasaran perlahan.
+
+Empat, kemudahan memajak di Ar-Rahnu untuk pusingan stok segera tanpa perlu menjual pemilikan aset simpanan syarikat.
+
+Lima, membina nilai bersih perniagaan yang kukuh dan meningkatkan kredibiliti syarikat di mata pihak pembekal.
+
+Kawal aliran tunai perniagaan anda secara profesional.
+
+Kunci keuntungan bisnes dalam emas!`
+  },
+  {
+    id: 634,
+    siri: "Listicle-07",
+    no: 25,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kuasa Menahan Diri Daripada Menunjuk Kemewahan",
+    tags: ["hutang", "palsu"],
+    teks: `Dunia media sosial hari ini mendesak orang ramai berlumba-lumba mempamerkan kemewahan palsu semata-mata demi memburu pujian orang luar.
+
+Kekayaan sebenar bukan pada kereta import dan pakaian berjenama yang dibeli dengan hutang, tetapi pada aset senyap dan kebebasan masa.
+
+Ini 5 pesanan hikmah membina kekayaan senyap keluarga:
+
+Satu, bezakan antara nampak kaya dengan kaya sebenar di mana jutawan sejati hidup bersederhana dengan aset melimpah.
+
+Dua, menunjuk kemewahan hanya mengundang pandangan hasad dengki, penyakit riya', dan ancaman keselamatan keluarga yang tidak perlu.
+
+Tiga, amalkan prinsip penggandaan senyap dengan mengumpul jongkong emas di dalam bilik kebal tanpa perlu diketahui umum.
+
+Empat, nikmati kebebasan menguruskan masa sendiri bersama keluarga tercinta tanpa terikat dengan tekanan kerja membayar hutang.
+
+Lima, fokus mencari keredhaan Tuhan dan salurkan kelebihan rezeki untuk berbakti membantu masyarakat yang memerlukan.
+
+Kalahkan keinginan menunjuk-nunjuk kepada manusia.
+
+Bina kekayaan senyap, nikmati ketenangan!`
+  },
+  {
+    id: 635,
+    siri: "Listicle-07",
+    no: 26,
+    topik: "Bisnes & Dealer",
+    tajuk: "Rahsia Konsisten Hadir Seminar Emas Bulanan",
+    tags: ["inflasi", "disiplin", "seminar"],
+    teks: `Penyimpan emas tegar dan usahawan berjaya tidak pernah melepaskan peluang menghadiri seminar ilmu emas setiap bulan.
+
+Menghadiri majlis ilmu bukan sekadar belajar perkara baharu, tetapi menyerap aura positif komuniti yang membakar semangat menabung secara berterusan!
+
+Ini 5 kebaikan istiqamah menghadiri seminar ilmu emas:
+
+Satu, mengekalkan momentum dan disiplin menyimpan emas agar tidak hanyut kembali ke dalam tabiat boros berbelanja.
+
+Dua, mendapatkan analisis terkini tentang pergerakan mata wang, inflasi global, dan hala tuju pasaran emas dunia.
+
+Tiga, membina jaringan hubungan bersama barisan usahawan hebat yang sudi berkongsi tip kejayaan kewangan secara percuma.
+
+Empat, peluang memenangi cabutan bertuah kepingan emas fizikal percuma yang disediakan khas kepada para peserta seminar.
+
+Lima, cara paling mudah mendidik pasangan dan sahabat handai memahami kebaikan simpanan emas melalui kupasan penceramah berpengalaman.
+
+Dekatkan diri dengan majlis ilmu dan komuniti positif.
+
+Ilmu yang betul memandu kejayaan!`
+  },
+  {
+    id: 636,
+    siri: "Listicle-07",
+    no: 27,
+    topik: "Bisnes & Dealer",
+    tajuk: "Kunci Menghadapi Ujian & Penolakan Bisnes",
+    tags: ["penipuan", "skim", "bisnes"],
+    teks: `Dalam menyebarkan ilmu dan kebaikan, kita pasti akan diuji dengan penolakan, salah faham, dan ejekan orang sekeliling.
+
+Membina komuniti ratusan ribu penyimpan emas menuntut ketabahan jiwa yang luar biasa dan prinsip perjuangan yang tidak mudah goyah.
+
+Ini 5 teladan ketabahan menghadapi cabaran hidup dan bisnes:
+
+Satu, hadapi penolakan dan sindiran dengan senyuman serta doa tanpa membalas dengan emosi kemarahan atau perbalahan sia-sia.
+
+Dua, kekal berpegang teguh pada prinsip kejujuran dan syariat Islam tanpa berkompromi dengan skim penipuan keuntungan singkat.
+
+Tiga, ujian besar pembekuan akaun dihadapi dengan penuh sabar di mana simpanan emas fizikal membuktikan fungsinya sebagai penyelamat keluarga.
+
+Empat, fokus memberi nilai dan manfaat kepada masyarakat secara ikhlas tanpa mengharapkan sebarang balasan kebendaan segera.
+
+Lima, melahirkan barisan pemimpin berakhlak mulia yang merendah diri dan sentiasa sedia membantu memajukan sesama insan.
+
+Ujian adalah proses mematangkan jiwa pejuang.
+
+Sabar dan istiqamah kunci kejayaan!`
+  },
+  {
+    id: 637,
+    siri: "Listicle-07",
+    no: 28,
+    topik: "Kenapa Emas",
+    tajuk: "Emas: Sahabat Karib Terbaik Waktu Gawat",
+    tags: ["ar-rahnu", "hartanah", "saham", "krisis", "sejarah", "tunai"],
+    teks: `Sejarah krisis ekonomi membuktikan bahawa bila pasaran saham jatuh dan mata wang merudum, emas fizikal sentiasa menunjukkan kekuatannya.
+
+Ketika semua orang panik melihat nilai wang simpanan mencair, penyimpan emas fizikal kekal tenang kerana memegang aset yang melonjak naik nilainya!
+
+Ini 5 sebab kenapa emas fizikal sahabat setia waktu krisis:
+
+Satu, harga emas melonjak naik secara automatik mengimbangi kejatuhan nilai mata wang kertas tempatan sewaktu krisis ekonomi.
+
+Dua, memberi kuasa beli luar biasa di mana pemilik emas mampu membeli hartanah dan saham pada harga diskaun murah.
+
+Tiga, aset paling mudah dicairkan kepada tunai segera di kaunter Ar-Rahnu tanpa sebarang sekatan sistem perbankan.
+
+Empat, menyelamatkan keluarga daripada terdesak membuat pinjaman faedah tinggi atau terjerat dengan ceti haram yang memeras ugut.
+
+Lima, membina daya tahan kewangan keluarga yang kebal mengharungi tempoh kegawatan ekonomi bertahun-tahun dengan maruah terpelihara.
+
+Binalah persahabatan dengan emas fizikal ketika aman.
+
+Emas sahabat sejati waktu gawat!`
+  },
+  {
+    id: 638,
+    siri: "Listicle-07",
+    no: 29,
+    topik: "Kewangan Peribadi",
+    tajuk: "5 Pesanan Emas Untuk Anak Muda Baru Bekerja",
+    tags: ["hutang", "kad kredit", "gaji", "skim", "anak"],
+    teks: `Gaji pertama adalah penentu masa depan kewangan anda sama ada bakal menikmati kebebasan atau terperangkap dalam jerat hutang.
+
+Melangkah ke alam pekerjaan adalah fasa kritikal untuk membina tabiat menyimpan aset sebelum terpedaya membeli pelbagai liabiliti gaya hidup.
+
+Ini 5 pesanan penting untuk anak muda baru menerima gaji:
+
+Satu, tangguhkan pembelian kereta import mewah dan gunakan kenderaan asas bagi mengelak komitmen ansuran bank sembilan tahun.
+
+Dua, paksa asingkan sepuluh hingga dua puluh peratus gaji untuk membeli satu gram emas pertama sebagai hadiah diri sendiri.
+
+Tiga, jauhi perangkap kad kredit dan skim ansuran mudah gaya hidup yang mengikat pendapatan masa depan anda.
+
+Empat, berbakti kepada kedua ibu bapa dengan memberikan wang nafkah bulanan secara konsisten demi menjemput keberkatan rezeki.
+
+Lima, melabur masa membaca buku kewangan berkualiti untuk membina asas ilmu pelaburan yang kukuh sejak usia muda.
+
+Bina asas kewangan kukuh di usia muda.
+
+Masa depan cerah bermula hari ini!`
+  },
+  {
+    id: 639,
+    siri: "Listicle-07",
+    no: 30,
+    topik: "Zakat & Syariah",
+    tajuk: "Menabung Emas: Amal Jariah Membina Ummah",
+    tags: ["inflasi", "gaji", "anak"],
+    teks: `Menyebarkan ilmu simpanan emas bukan sekadar urusan perniagaan, tetapi amanah amal jariah untuk menyelamatkan ekonomi keluarga dan ummah.
+
+Mengembalikan masyarakat kepada pemilikan aset emas fizikal adalah usaha murni membebaskan keluarga daripada belenggu riba dan kejatuhan mata wang kertas.
+
+Ini 5 hikmah agung perjuangan mendidik masyarakat menyimpan emas:
+
+Satu, menyelamatkan ummah daripada kezaliman inflasi wang kertas dengan membina benteng simpanan nilai yang adil merentas zaman.
+
+Dua, melahirkan generasi keluarga yang kuat, berdikari, dan terpelihara maruah kewangannya tanpa bergantung kepada bantuan pihak luar.
+
+Tiga, menjadikan setiap gram emas yang disimpan sebagai ibadah dan jambatan mencari keredhaan Tuhan demi nafkah keluarga.
+
+Empat, amanah berkongsi ilmu dan kebaikan kepada sahabat handai agar mereka turut sama terselamat daripada kebocoran wang gaji.
+
+Lima, membina legasi amal jariah yang terus mengalirkan manfaat pahala kepada generasi anak cucu di hari kemudian.
+
+Kekayaan sejati adalah ketenangan jiwa dan keberkatan.
+
+Bina kebebasan kewangan, sebarkan kebaikan ummah!`
   }
 ];
 
@@ -17637,4 +18447,4 @@ export const namaSiri = {
 export const hargaLalai = { harga999: "542", harga916: "497", tarikh: "27 September 2026" };
 
 // Siri yang dapat TAB sendiri (ikut susunan). Semua siri lain masuk tab "Archive".
-export const tabUtama = ["Listicle-01", "Listicle-02", "Listicle-03", "Listicle-04", "Listicle-05", "Listicle-06"];
+export const tabUtama = ["Listicle-01", "Listicle-02", "Listicle-03", "Listicle-04", "Listicle-05", "Listicle-06", "Listicle-07"];
