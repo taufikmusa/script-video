@@ -179,6 +179,10 @@ Remaining words: Punchy yellow/orange lettering.
 
 
 
+Use the exact words and spelling of the TITLE below in Bahasa Melayu — do not add, remove, translate or change any word. Render every letter correctly and legibly, with no gibberish or misspelled text.
+
+
+
 TITLE:
 
 {TAJUK}`;
