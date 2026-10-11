@@ -1,6 +1,7 @@
 import { useState, useMemo, useEffect } from 'react'
 import { skrip as skripAsal, namaSiri, hargaLalai, tabUtama } from './data'
 import Teleprompter from './Teleprompter'
+import { buatPromptStiker } from './prompt'
 import { muat, simpan, salinKeClipboard, kiraPatah, anggarMasa, tarikhMelayu } from './util'
 
 // Tab: setiap siri dalam tabUtama dapat tab sendiri, siri lain semua masuk "Archive"
@@ -26,6 +27,7 @@ export default function App() {
   const [dahRakam, setDahRakam] = useState(() => muat("dahRakam", {}))
   const [had, setHad] = useState(HAD_AWAL)
   const [disalin, setDisalin] = useState(null)
+  const [disalinPrompt, setDisalinPrompt] = useState(null)
   const [prompter, setPrompter] = useState(null)   // skrip yang sedang dibuka dalam teleprompter
   const [kembang, setKembang] = useState({})       // kad mana yang dibuka penuh
   const [harga, setHarga] = useState(() => muat("harga", hargaLalai))
@@ -87,6 +89,12 @@ export default function App() {
   const adaHarga = (siri !== "Semua" || topik !== "Semua" || cari.trim() !== "") && senaraiPenuh.some(s => s.adaHarga)
   const tukarStatus = (nilai, on) => { setStatus(on ? nilai : "semua"); setHad(HAD_AWAL) }
 
+  function salinPrompt(s) {
+    salinKeClipboard(buatPromptStiker(teksPenuh(s))).then(() => {
+      setDisalinPrompt(s.id)
+      setTimeout(() => setDisalinPrompt(null), 1500)
+    })
+  }
   function salin(s) {
     salinKeClipboard(teksPenuh(s)).then(() => {
       setDisalin(s.id)
@@ -235,6 +243,9 @@ export default function App() {
                   {dahRakam[s.id] ? "↩ Belum rakam" : "✓ Dah rakam"}
                 </button>
               </div>
+              <button className={"btn btn-prompt" + (disalinPrompt === s.id ? " ok" : "")} onClick={() => salinPrompt(s)}>
+                {disalinPrompt === s.id ? "✓ Prompt disalin!" : "🎨 Copy Prompt Image (Sticker)"}
+              </button>
               {dahRakam[s.id] && <div className="cap-rakam">✓ Dah rakam</div>}
             </article>
           )
