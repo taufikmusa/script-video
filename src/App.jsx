@@ -9,6 +9,8 @@ const TABS = [...tabUtama, ARKIB]
 const tabKe = siri => (tabUtama.includes(siri) ? siri : ARKIB)
 const unik = arr => Array.from(new Set(arr))
 const SLOT_HARGA = /\{(harga999|harga916)\}/g
+// Teks penuh untuk salin & paparan: tajuk di baris pertama, terus diikuti skrip
+const teksPenuh = s => `${s.tajuk}\n${s.teks}`
 const nombor = s => `${s.siri} · ${String(s.no).padStart(2, "0")}`
 const HAD_AWAL = 30
 
@@ -86,7 +88,7 @@ export default function App() {
   const tukarStatus = (nilai, on) => { setStatus(on ? nilai : "semua"); setHad(HAD_AWAL) }
 
   function salin(s) {
-    salinKeClipboard(s.teks).then(() => {
+    salinKeClipboard(teksPenuh(s)).then(() => {
       setDisalin(s.id)
       setTimeout(() => setDisalin(null), 1500)
     })
@@ -220,7 +222,7 @@ export default function App() {
                   <button key={t} className="tag" onClick={() => { setCari(t); setHad(HAD_AWAL) }}>#{t}</button>
                 ))}
               </div>
-              {buka && <div className="teks">{s.teks}</div>}
+              {buka && <div className="teks"><strong className="teks-tajuk">{s.tajuk}</strong>{"\n"}{s.teks}</div>}
               <button className="btn-link" onClick={() => setKembang(k => ({ ...k, [s.id]: !k[s.id] }))}>
                 {buka ? "▲ Tutup skrip" : "▼ Baca skrip penuh"}
               </button>

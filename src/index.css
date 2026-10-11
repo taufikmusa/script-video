@@ -77,6 +77,7 @@ button { font: inherit; }
 .tag { font-size: 12px; color: var(--lagi-pudar); background: #15130f; padding: 3px 8px; border-radius: 5px; border: none; cursor: pointer; }
 .tag:hover { color: var(--emas); }
 .teks { white-space: pre-wrap; word-break: break-word; font-size: 14px; line-height: 1.6; color: #cfc9bb; background: #15130f; padding: 12px; border-radius: 8px; margin-bottom: 8px; }
+.teks-tajuk { color: #fff; font-weight: 700; }
 .btn-link { background: none; border: none; color: var(--emas); font-size: 13px; cursor: pointer; text-align: left; padding: 4px 0 10px; margin-top: auto; }
 .cap-rakam { text-align: center; color: var(--emas); font-size: 12px; margin-top: 8px; font-weight: 600; }
 

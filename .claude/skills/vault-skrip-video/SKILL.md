@@ -94,6 +94,8 @@ Punchline!`              // babak dipisah SATU baris kosong; perenggan terakhir 
 
 ## 4. Ciri UI (jangan pecahkan bila ubah)
 
+- **Tajuk masuk dalam skrip (Salin & Baca skrip penuh):** `teksPenuh(s) = tajuk + "\n" + teks` — tajuk di baris pertama, TERUS diikuti perenggan pertama (satu newline, bukan baris kosong), kemudian babak dipisah baris kosong macam biasa. Ini dibuat dalam App.jsx, BUKAN dalam data.js — jangan tambah tajuk ke `teks` dalam data (nanti berganda). Teleprompter kekal baca `teks` sahaja (tanpa tajuk) kecuali Taufik minta.
+
 - **Tab utama** (`TABS = [...tabUtama, "Archive"]`): butang besar bawah header, tab aktif disimpan localStorage key `tab`. Tukar tab reset siri/topik. Carian, chip topik, cadangan hari ni, kiraan dah rakam — semua dalam skop tab aktif. Chip siri hanya keluar bila tab ada >1 siri (Archive). Link `#skrip-<id>` auto pindah ke tab skrip tu.
 - **Chip siri & topik BALUT ke bawah (scroll menegak) di semua saiz skrin** — Taufik TAK mahu chip swipe mendatar. Jangan tambah `flex-wrap: nowrap`/`overflow-x` pada `.chips`.
 
