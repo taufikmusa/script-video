@@ -144,23 +144,43 @@ export function buatPromptStiker(skripPenuh) {
 }
 
 // Template prompt thumbnail TikTok (butang 🖼️ pada setiap kad).
-// {TAJUK} diganti dengan tajuk skrip. Background & headline ikut tajuk tu.
-export const PROMPT_THUMBNAIL = `A TikTok grid thumbnail (3:4 aspect ratio) featuring an anime-style main character integrated into a vibrant 3D Chibi miniature background.
+// {TAJUK} diganti dengan tajuk skrip (versi B&W 1980s retro + watak flat berwarna).
+export const PROMPT_THUMBNAIL = `A TikTok grid thumbnail (3:4 aspect ratio) with a thick WHITE border. The main character is in full color on the right, contrasting against a black-and-white background.
 
-1. FOREGROUND - ANIME STYLE CHARACTER:
-Transform the uploaded reference photo into a high-quality, modern 2D anime-style character. Retain the original person's hairstyle, clothing, and pose, but render the face and body completely in anime art style. Position the character in the lower-middle, leaving space for text.
 
-2. BACKGROUND - CHIBI 3D STYLE:
-A playful 3D "chibi" miniature world that visually represents the topic of the TITLE at the bottom of this prompt. Render in soft edges and vibrant colors. Include tiny 3D props, mini scenes and tiny chibi characters that clearly relate to the title's subject (for example: houses, cars, stacks of Ringgit money, gold bars, a bank, bills, calculators, family or office scenes) — choose only the elements that genuinely fit the title. Give the tiny chibi characters reactions that match the title's emotion (shocked, worried, happy, relieved, thinking).
 
-3. HEADLINE DESIGN:
-At the top in the negative space, use bold, high-contrast Malaysian TikTok typography built from the TITLE below. Use the title's exact words and spelling in Bahasa Melayu (UPPERCASE), without adding or changing words. Split it into 2–3 stacked lines:
-- The first key hook (number or most dramatic keyword) in massive yellow/red font with a thick black outline.
-- The next line in big white letters with a black stroke.
-- The remaining words in punchy yellow/orange lettering.
-Stack the text clearly and ensure it fits well within the 3:4 frame. Render every letter correctly and legibly — no gibberish or misspelled text. Do not cover the character's face. No pig/pork-related imagery.
+FOREGROUND - FLAT DESIGN CHARACTER (FULL COLOR, RIGHT SIDE):
+
+2D flat vector character in vibrant colors. The character MUST wear glasses. Add a thick white outline and dark drop shadow for a 3D paper cut-out effect. Position on the LOWER-RIGHT.
+
+
+
+BACKGROUND - BLACK & WHITE 1980s RETRO:
+
+Photorealistic 1980s retro background rendered entirely in BLACK AND WHITE (grayscale) to make the text pop. Secondary characters MUST observe perfect modesty (hijabs, long sleeves). Include floating retro props (money, gold bars, calculators). NO piggy bank imagery.
+
+
+
+HEADLINE DESIGN (DEAD CENTER, VIBRANT COLORS):
+
+Placed perfectly in the CENTER. Bold, premium TikTok typography (UPPERCASE) that pops against the B&W background. Split into center-aligned lines:
+
+
+
+First hook: Massive yellow/red font with a thick black outline.
+
+
+
+Next line: Big white letters with a black stroke.
+
+
+
+Remaining words: Punchy yellow/orange lettering.
+
+
 
 TITLE:
+
 {TAJUK}`;
 
 export function buatPromptThumbnail(tajuk) {
