@@ -129,3 +129,27 @@ Use the following script as the creative direction for the nine stickers. Analys
 export function buatPromptStiker(skripPenuh) {
   return PROMPT_STIKER.replace("{SKRIP}", () => skripPenuh);
 }
+
+// Template prompt thumbnail TikTok (butang 🖼️ pada setiap kad).
+// {TAJUK} diganti dengan tajuk skrip. Background & headline ikut tajuk tu.
+export const PROMPT_THUMBNAIL = `A TikTok grid thumbnail (3:4 aspect ratio) featuring an anime-style main character integrated into a vibrant 3D Chibi miniature background.
+
+1. FOREGROUND - ANIME STYLE CHARACTER:
+Transform the uploaded reference photo into a high-quality, modern 2D anime-style character. Retain the original person's hairstyle, clothing, and pose, but render the face and body completely in anime art style. Position the character in the lower-middle, leaving space for text.
+
+2. BACKGROUND - CHIBI 3D STYLE:
+A playful 3D "chibi" miniature world that visually represents the topic of the TITLE at the bottom of this prompt. Render in soft edges and vibrant colors. Include tiny 3D props, mini scenes and tiny chibi characters that clearly relate to the title's subject (for example: houses, cars, stacks of Ringgit money, gold bars, a bank, bills, calculators, family or office scenes) — choose only the elements that genuinely fit the title. Give the tiny chibi characters reactions that match the title's emotion (shocked, worried, happy, relieved, thinking).
+
+3. HEADLINE DESIGN:
+At the top in the negative space, use bold, high-contrast Malaysian TikTok typography built from the TITLE below. Use the title's exact words and spelling in Bahasa Melayu (UPPERCASE), without adding or changing words. Split it into 2–3 stacked lines:
+- The first key hook (number or most dramatic keyword) in massive yellow/red font with a thick black outline.
+- The next line in big white letters with a black stroke.
+- The remaining words in punchy yellow/orange lettering.
+Stack the text clearly and ensure it fits well within the 3:4 frame. Render every letter correctly and legibly — no gibberish or misspelled text. Do not cover the character's face. No pig/pork-related imagery.
+
+TITLE:
+{TAJUK}`;
+
+export function buatPromptThumbnail(tajuk) {
+  return PROMPT_THUMBNAIL.replace("{TAJUK}", () => tajuk);
+}

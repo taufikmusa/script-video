@@ -1,7 +1,7 @@
 import { useState, useMemo, useEffect } from 'react'
 import { skrip as skripAsal, namaSiri, hargaLalai, tabUtama } from './data'
 import Teleprompter from './Teleprompter'
-import { buatPromptStiker } from './prompt'
+import { buatPromptStiker, buatPromptThumbnail } from './prompt'
 import { muat, simpan, salinKeClipboard, kiraPatah, anggarMasa, tarikhMelayu } from './util'
 
 // Tab: setiap siri dalam tabUtama dapat tab sendiri, siri lain semua masuk "Archive"
@@ -89,9 +89,10 @@ export default function App() {
   const adaHarga = (siri !== "Semua" || topik !== "Semua" || cari.trim() !== "") && senaraiPenuh.some(s => s.adaHarga)
   const tukarStatus = (nilai, on) => { setStatus(on ? nilai : "semua"); setHad(HAD_AWAL) }
 
-  function salinPrompt(s) {
-    salinKeClipboard(buatPromptStiker(teksPenuh(s))).then(() => {
-      setDisalinPrompt(s.id)
+  function salinPrompt(s, jenis) {
+    const teks = jenis === "thumb" ? buatPromptThumbnail(s.tajuk) : buatPromptStiker(teksPenuh(s))
+    salinKeClipboard(teks).then(() => {
+      setDisalinPrompt(s.id + jenis)
       setTimeout(() => setDisalinPrompt(null), 1500)
     })
   }
@@ -243,8 +244,11 @@ export default function App() {
                   {dahRakam[s.id] ? "↩ Belum rakam" : "✓ Dah rakam"}
                 </button>
               </div>
-              <button className={"btn btn-prompt" + (disalinPrompt === s.id ? " ok" : "")} onClick={() => salinPrompt(s)}>
-                {disalinPrompt === s.id ? "✓ Prompt disalin!" : "🎨 Copy Prompt Image (Sticker)"}
+              <button className={"btn btn-prompt" + (disalinPrompt === s.id + "stiker" ? " ok" : "")} onClick={() => salinPrompt(s, "stiker")}>
+                {disalinPrompt === s.id + "stiker" ? "✓ Prompt disalin!" : "🎨 Copy Prompt Image (Sticker)"}
+              </button>
+              <button className={"btn btn-prompt" + (disalinPrompt === s.id + "thumb" ? " ok" : "")} onClick={() => salinPrompt(s, "thumb")}>
+                {disalinPrompt === s.id + "thumb" ? "✓ Prompt disalin!" : "🖼️ Copy Prompt Thumbnail"}
               </button>
               {dahRakam[s.id] && <div className="cap-rakam">✓ Dah rakam</div>}
             </article>
