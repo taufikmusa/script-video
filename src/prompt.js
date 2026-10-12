@@ -144,48 +144,83 @@ export function buatPromptStiker(skripPenuh) {
 }
 
 // Template prompt thumbnail TikTok (butang 🖼️ pada setiap kad).
-// {TAJUK} diganti dengan tajuk skrip (versi B&W 1980s retro + watak flat berwarna).
-export const PROMPT_THUMBNAIL = `A TikTok grid thumbnail (3:4 aspect ratio) with a thick WHITE border. The main character is in full color on the right, contrasting against a black-and-white background.
+// {TAJUK} diganti dengan tajuk skrip (versi foto realistik subjek lelaki + background B&W 1980s editorial).
+export const PROMPT_THUMBNAIL = `@Create image Create a high-impact TikTok grid thumbnail in 3:4 aspect ratio, featuring a thick, clean WHITE border around the entire image.
 
+Use the attached reference photo of the male subject as the identity reference. The final image must preserve his real facial identity, facial proportions, skin tone, hairstyle, eyes, nose, smile, and other distinctive facial features as accurately as possible.
 
+IMPORTANT: The subject must look like a REAL HUMAN photographed with a professional camera, NOT a cartoon, NOT a chibi, NOT a 2D vector illustration, and NOT a digitally illustrated character.
 
-FOREGROUND - FLAT DESIGN CHARACTER (FULL COLOR, RIGHT SIDE):
+The subject’s face must remain photorealistic and recognisably consistent with the attached reference photo. His outfit, body pose, hand gestures, expression, and surrounding environment may change to suit the topic of the thumbnail.
 
-2D flat vector character in vibrant colors. The character MUST wear glasses. Add a thick white outline and dark drop shadow for a 3D paper cut-out effect. Position on the LOWER-RIGHT.
+Do not automatically retain the original outfit or pose. Choose the most appropriate styling and composition based on the TITLE. Keep the subject’s identity consistent across all thumbnails.
 
+FOREGROUND — PHOTOREALISTIC MAIN SUBJECT
 
+Position the real human subject prominently on the LOWER-RIGHT side of the thumbnail.
 
-BACKGROUND - BLACK & WHITE 1980s RETRO:
+* Preserve the subject’s actual facial identity using the attached reference photo.
+* Use realistic skin texture, natural facial details, believable lighting, and professional photographic quality.
+* Select an outfit, pose, facial expression, and hand gesture that naturally match the topic.
+* Allow natural wardrobe changes when appropriate, while keeping the subject’s identity unchanged.
+* Add a thick WHITE cut-out outline around the subject, with a subtle dark drop shadow to create a premium sticker-like separation from the background.
+* Keep the subject visually dominant without obscuring the headline.
+* Maintain realistic human anatomy, natural hands, correct proportions, and believable fabric textures.
 
-Photorealistic 1980s retro background rendered entirely in BLACK AND WHITE (grayscale) to make the text pop. Secondary characters MUST observe perfect modesty (hijabs, long sleeves). Include floating retro props (money, gold bars, calculators). NO piggy bank imagery.
+BACKGROUND — BLACK-AND-WHITE EDITORIAL RETRO
 
+Create a photorealistic background inspired by 1980s editorial photography, adapted to the topic of the TITLE.
 
+Render the background entirely in BLACK AND WHITE or grayscale, with cinematic contrast, subtle film grain, and layered visual depth.
 
-HEADLINE DESIGN (DEAD CENTER, VIBRANT COLORS):
+Select appropriate environmental details, props, and secondary elements based on the TITLE. These may include financial documents, calculators, money, gold bars, vehicles, office equipment, tools, urban environments, or other relevant objects.
 
-Placed perfectly in the CENTER. Bold, premium TikTok typography (UPPERCASE) that pops against the B&W background. Split into center-aligned lines:
+Keep the background visually interesting but slightly subdued so the headline remains easy to read.
 
+Any human figures in the background must be contextually appropriate and dressed modestly, with hijabs and long sleeves where applicable.
 
+Avoid irrelevant objects, distracting details, and visual clichés that do not support the topic. NO piggy banks.
 
-First hook: Massive yellow/red font with a thick black outline.
+HEADLINE DESIGN — CENTERED, BOLD AND HIGH-CONTRAST
 
+Place the headline prominently in the CENTER of the composition, using bold, premium TikTok thumbnail typography.
 
+Use uppercase lettering where appropriate, with strong visual hierarchy and tight, professional line spacing.
 
-Next line: Big white letters with a black stroke.
+Typography treatment:
 
+* Primary hook: MASSIVE YELLOW and/or RED lettering with a thick BLACK outline.
+* Secondary line: LARGE WHITE lettering with a strong BLACK stroke.
+* Remaining words: PUNCHY YELLOW or ORANGE lettering with clear contrast.
+* Use a bold condensed display font similar to Anton, Bebas Neue, or Impact.
+* Ensure the headline remains readable on a mobile phone screen.
+* Arrange the text in balanced, center-aligned lines without covering the subject’s face.
 
+Use the exact TITLE provided below in Bahasa Melayu. Do not add, remove, translate, paraphrase, or change any words. Preserve the original spelling and punctuation.
 
-Remaining words: Punchy yellow/orange lettering.
+Render all text as accurately and legibly as possible. No gibberish, duplicated words, misspellings, or decorative lettering that compromises readability.
 
+COMPOSITION AND QUALITY
 
+* Aspect ratio: 3:4.
+* Thick WHITE outer border.
+* Photorealistic human subject on the LOWER-RIGHT.
+* Black-and-white topic-relevant background.
+* Bold, colourful central headline.
+* Professional cut-out outline and subtle drop shadow around the subject.
+* High contrast, premium editorial finish, crisp details, and strong visual hierarchy.
+* Optimise the layout for a TikTok profile grid and mobile viewing.
+* Keep the subject, headline, and background visually distinct.
 
-Use the exact words and spelling of the TITLE below in Bahasa Melayu — do not add, remove, translate or change any word. Render every letter correctly and legibly, with no gibberish or misspelled text.
+TITLE
 
+{TAJUK}
 
+FINAL IDENTITY RULE
 
-TITLE:
+The attached photo determines WHO the subject is. The TITLE determines WHAT he is wearing, HOW he poses, WHAT expression he makes, and WHERE the scene takes place.
 
-{TAJUK}`;
+Change the scene and styling to fit the topic. Never replace the real person with a cartoon or invent a different face.`;
 
 export function buatPromptThumbnail(tajuk) {
   return PROMPT_THUMBNAIL.replace("{TAJUK}", () => tajuk);
