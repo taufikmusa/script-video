@@ -144,187 +144,413 @@ export function buatPromptStiker(skripPenuh) {
 }
 
 // Template prompt thumbnail TikTok (butang 🖼️ pada setiap kad).
-// {TAJUK} diganti dengan tajuk skrip (versi 9:16 Reels/TikTok, foto realistik, wardrobe ikut topik, safe zone 3:4).
-export const PROMPT_THUMBNAIL = `GENERIC SOCIAL MEDIA THUMBNAIL PROMPT — TIKTOK, INSTAGRAM REELS & FACEBOOK REELS
+// {TAJUK} diganti dengan tajuk skrip (versi Full Colour Viral Edition 9:16).
+export const PROMPT_THUMBNAIL = `GENERIC SOCIAL MEDIA THUMBNAIL PROMPT — FULL COLOUR VIRAL EDITION
+
+TikTok • Instagram Reels • Facebook Reels
 
 @Create image
 
-Create a high-impact social media thumbnail in 9:16 vertical aspect ratio (1080 × 1920 pixels), featuring a thick, premium WHITE outer frame with a subtle dimensional effect.
+ROLE & OBJECTIVE
 
-The design must work for TikTok videos, Instagram Reels, Facebook Reels, and social media profile grids.
+Act as a world-class social media thumbnail designer, creative director, commercial photographer, and viral content visual strategist.
 
-IMPORTANT: Keep the original 9:16 canvas. Do not generate a 3:4 image, stretch the composition, or crop the original canvas to fit another aspect ratio.
+Create a premium, high-impact vertical social media thumbnail inspired by the attached visual reference.
 
-Prioritise a crop-safe composition so the headline, subject’s face, and essential visual elements remain visible across different social media previews.
+The design should feature:
 
-1. REFERENCE PHOTO — PRESERVE REAL IDENTITY
+* An oversized, bold headline dominating the upper and middle sections.
+* A photorealistic portrait of the male subject positioned prominently in the lower-right.
+* A vibrant, full-colour background that tells the story of the topic.
+* Relevant props, environmental details, and cinematic commercial photography.
+* Thick black typography outlines, vivid accent colours, energetic brush strokes, and a premium white outer frame.
 
-Use the attached reference photo of the male subject as the identity reference.
+The finished thumbnail should look like a professionally art-directed viral social media poster, not a generic AI-generated image.
 
-Preserve his real facial identity, facial proportions, skin tone, hairstyle, eyes, nose, smile, and distinctive facial features as accurately as possible.
+The attached thumbnail is the DESIGN reference. The attached selfie is the IDENTITY reference. The TITLE determines the entire creative direction.
 
-The subject must look like a REAL HUMAN photographed with a professional camera. NOT a cartoon, NOT a chibi, NOT a 2D vector illustration, and NOT a digitally illustrated character.
+⸻
 
-His face must remain photorealistic and recognisably consistent with the attached reference photo.
+1. CANVAS & FORMAT — KEEP THE ORIGINAL SIZE
 
-IMPORTANT DISTINCTION: Preserve the person’s identity, NOT his original outfit or pose.
+Create a vertical thumbnail in a 9:16 aspect ratio, targeting 1080 × 1920 pixels.
 
-The attached photo determines WHO the subject is. The TITLE determines his clothing, pose, facial expression, hand gestures, and surrounding environment.
+IMPORTANT:
 
-Do not automatically reproduce the navy suit, brown shirt, black tie, original hand gesture, or original body pose from the reference photo.
+* Preserve the original 9:16 canvas.
+* Do not generate a 3:4 image.
+* Do not stretch, squeeze, or crop the canvas into another aspect ratio.
+* Design for TikTok, Instagram Reels, and Facebook Reels.
+* Keep the subject, headline, and important details within comfortable internal margins.
 
-2. TOPIC-BASED WARDROBE TRANSFORMATION — CRITICAL
+The composition should resemble the supplied example: a powerful headline at the top and middle, with the main human subject occupying the lower-right and the environment filling the remaining space.
 
-Choose a new outfit specifically for the TITLE and visual storyline of each thumbnail.
+⸻
 
-Analyse the topic before deciding what the subject should wear. The clothing must feel natural, believable, and relevant to the scene rather than looking like the same portrait pasted into every design.
+2. REFERENCE SELFIE — PRESERVE MY REAL IDENTITY
 
-Wardrobe selection guidelines:
+Use the attached selfie or portrait as the primary identity reference for the male subject.
 
-* Personal finance and financial planning: Smart casual clothing, a well-fitted shirt, a lightweight blazer, or professional business-casual attire.
-* Gold savings and wealth building: A premium dark blazer, elegant black shirt, refined business attire, or a sophisticated outfit that complements gold accents.
-* Family, marriage, and household finances: A neat smart-casual shirt, relaxed blazer, or approachable family-friendly outfit.
-* Retirement and future planning: Mature business-casual clothing, a refined shirt, or a comfortable professional outfit.
-* Riders, freelancers, and gig workers: A practical casual jacket, neat polo shirt, or contemporary smart-casual clothing appropriate to the working environment.
-* Business and entrepreneurship: Modern business attire, a fitted blazer, or confident professional casual wear.
-* Education and tutorials: A clean polo shirt, casual button-up shirt, or approachable trainer-style outfit.
-* Emergency funds and financial hardship: Understated smart-casual clothing that suits a serious, realistic financial discussion.
+Preserve his real facial identity as accurately as possible, including:
 
-These are creative references, not fixed uniforms. Select the most appropriate outfit based on the exact TITLE and scene.
+* Facial structure and proportions.
+* Skin tone and complexion.
+* Eyes, eyebrows, nose, and mouth.
+* Hairstyle and hairline.
+* Recognisable smile and distinctive facial features.
 
-Wardrobe rules
+The subject must look like the same real person in every thumbnail.
 
-* Change the shirt, jacket, outerwear, and other appropriate clothing elements when the topic calls for it.
-* Vary colours, materials, layering, and styling across thumbnails.
-* Choose clothing colours that complement the background and improve subject separation.
-* Keep the outfit modest, professional where appropriate, and realistic for Malaysian cultural settings.
-* Men must always wear long trousers when their lower body is visible.
-* Use realistic fabric textures, natural folds, correct garment construction, and believable lighting.
-* Avoid costumes, exaggerated fashion, random accessories, and clothing unrelated to the topic.
-* Do not change the subject’s face, hairstyle, skin tone, or recognisable identity to match the wardrobe.
-* Do not reuse the exact same outfit by default. Repeat an outfit only when it genuinely suits the new topic.
+Use photorealistic commercial photography. Do not turn the subject into a cartoon, illustration, anime character, or artificial CGI person.
 
-FINAL WARDROBE RULE: Every thumbnail must make a deliberate, topic-specific wardrobe choice. The subject should look like he belongs in that particular scene.
+Critical distinction
 
-3. POSE, EXPRESSION AND HAND GESTURES
+The reference selfie determines WHO I am, NOT WHAT I wear or HOW I pose.
 
-Choose the subject’s body pose, facial expression, and hand gestures based on the TITLE.
+Do not automatically copy the original selfie outfit, shirt colour, jacket, tie, body posture, hand position, or plain background.
+
+Treat the selfie as an identity reference only.
+
+The wardrobe, pose, expression, hand gestures, props, and environment must be creatively redesigned to match the TITLE.
+
+Do not change my facial identity to fit the creative concept.
+
+⸻
+
+3. TOPIC-BASED WARDROBE TRANSFORMATION — VERY IMPORTANT
+
+For every new thumbnail, analyse the TITLE and deliberately select a different suitable outfit whenever the topic allows.
+
+The subject must look naturally dressed for the specific scene, not like the same photograph pasted into different backgrounds.
+
+Use the following as creative guidance, not fixed uniforms.
+
+Personal finance and financial mistakes
+
+* Smart-casual shirt, fitted blazer, or contemporary business-casual attire.
+* Appropriate colours such as charcoal, navy, beige, olive, or muted blue.
+
+Gold savings and wealth building
+
+* Elegant dark blazer, black shirt, cream shirt, or premium business attire.
+* Complementary gold accents where appropriate.
+
+Unexpected money, bonuses, or sudden wealth
+
+* Modern smart-casual clothing, a different coloured shirt, or a relaxed blazer.
+* Choose an outfit and expression that suit the emotional storyline.
+
+Debt, financial pressure, or money problems
+
+* Understated smart-casual clothing.
+* Muted colours and realistic styling appropriate to a serious topic.
+
+Fresh graduates and first jobs
+
+* Modern office-casual clothing, a polo shirt, or a contemporary button-up shirt.
+* Dress the subject appropriately for a young professional or working adult.
+
+Family and household finances
+
+* Approachable smart-casual clothing with a relaxed, trustworthy appearance.
+
+Business and entrepreneurship
+
+* Contemporary professional clothing, a fitted blazer, or business-casual attire.
+
+Education and tutorials
+
+* A neat polo shirt, casual button-up shirt, or approachable trainer-style outfit.
+
+These examples are not mandatory. Select the outfit that best fits the exact TITLE.
+
+Wardrobe variation rules
+
+* Change shirt colours, jacket styles, layering, and fabrics across thumbnails.
+* Do not automatically reuse the navy blazer, brown shirt, and black tie from the reference selfie.
+* Avoid using the same clothing combination in consecutive thumbnails unless it genuinely suits the topic.
+* Match the wardrobe to the background lighting and colour palette.
+* Keep the outfit realistic, modest, and appropriate for Malaysian cultural settings.
+* Men must wear long trousers whenever their lower body is visible.
+* Use realistic fabric textures, garment construction, folds, and lighting.
+
+Do not add random accessories, costumes, or exaggerated fashion elements.
+
+FINAL RULE: Preserve my face, but reinvent my outfit to suit each new thumbnail.
+
+⸻
+
+4. POSE, FACIAL EXPRESSION & BODY LANGUAGE
+
+Choose the subject’s pose, facial expression, and hand gestures according to the TITLE.
+
+Do not automatically reproduce the pose in the reference selfie.
 
 Examples:
 
-* Educational topic: Confident, approachable expression with a natural explanatory gesture.
-* Financial warning: Serious, thoughtful expression with a relevant pointing gesture.
-* Savings and wealth building: Calm confidence, a subtle smile, and a natural gesture towards a relevant prop.
-* Family finance: Warm, reassuring expression and a relaxed, approachable pose.
-* Business topic: Confident posture with a professional expression.
-* Numbered list such as five tips: Show an appropriate number of fingers only if it looks natural and anatomically correct.
+* Unexpected money: Surprised, intrigued, excited, or thoughtfully evaluating the situation.
+* Financial mistakes: Concerned, serious, reflective, or gesturing towards a relevant object.
+* Gold savings: Calm confidence, a natural smile, or holding a relevant gold-related prop.
+* Debt management: Thoughtful or concerned, with a realistic expression.
+* Financial education: Confident, approachable, and engaging.
+* Business: Assertive, composed, and professional.
 
-Do not use the same pointing gesture or raised-hand pose for every thumbnail.
+Vary the pose between thumbnails to create visual diversity.
 
-Maintain natural anatomy, realistic fingers, believable posture, and consistent facial identity.
+The subject may hold a relevant object, interact with the environment, or use a natural hand gesture when it strengthens the story.
 
-4. PREMIUM WHITE FRAME
+Maintain realistic anatomy, correct finger counts, natural proportions, and believable body language.
 
-Create a thick, clean WHITE outer frame around all four edges.
+Expressions must look authentic rather than exaggerated or cartoonish.
 
-* Use a visibly thick white border.
-* Add a subtle light-grey inner bevel, gentle highlights, and a soft dark-grey inner shadow.
-* Create a raised, dimensional premium editorial-poster appearance.
-* Keep the frame consistent on all four sides.
-* Keep all text, outlines, shadows, brush strokes, and subject details inside the inner edge of the frame.
-* Do not allow important elements to touch or cross the frame.
-* Avoid exaggerated metallic or glossy plastic effects.
+⸻
 
-5. FOREGROUND — PHOTOREALISTIC MAIN SUBJECT
+5. MAIN SUBJECT PLACEMENT — LOWER-RIGHT HERO PORTRAIT
 
-Position the real human subject prominently in the LOWER-RIGHT portion of the composition.
+Position the main subject prominently in the LOWER-RIGHT portion of the thumbnail, following the attached design reference.
 
-* Preserve his real facial identity using the attached reference photo.
-* Apply the topic-specific wardrobe transformation described above.
-* Use realistic skin texture, professional lighting, natural facial details, and believable fabric textures.
-* Add a thick WHITE cut-out outline around the subject.
-* Add a subtle dark drop shadow for separation from the background.
-* Keep his face fully visible and comfortably inside the central safe zone.
-* Keep the subject visually prominent without obscuring the headline.
-* Ensure natural anatomy, realistic hands, and correct body proportions.
-* Keep the subject’s clothing, pose, and expression consistent with the topic.
+The subject should generally occupy approximately 35–50% of the composition, depending on the title length.
 
-6. BACKGROUND — BLACK-AND-WHITE RETRO EDITORIAL
+Requirements:
 
-Create a photorealistic background inspired by 1980s editorial photography, adapted to the TITLE.
+* Show the face clearly and preserve recognisable identity.
+* Use a medium close-up or waist-up portrait where appropriate.
+* Allow the shoulders and upper body to extend towards the lower edge without awkward cropping.
+* Keep the face away from the outer frame.
+* Add a clean, thick WHITE cut-out outline around the subject.
+* Add a subtle dark drop shadow for separation.
+* Match the subject’s lighting and colour temperature to the environment.
+* Integrate the subject naturally with the foreground and background.
 
-Render the background entirely in BLACK AND WHITE or grayscale, with cinematic contrast, subtle film grain, dramatic lighting, and layered visual depth.
+The subject may overlap the lower portion of the headline slightly only when the words remain completely readable.
 
-Choose relevant environmental details and props based on the topic. These may include financial documents, calculators, money, gold bars, vehicles, office equipment, family settings, houses, or other appropriate objects.
+The headline must never cover the eyes, nose, mouth, or other essential facial features.
 
-Keep the background slightly subdued so the colourful headline and photorealistic subject stand out.
+If the subject holds books, gold bars, documents, or other relevant props, make them realistic and proportionate.
 
-Any human figures in the background must be dressed modestly. Women must wear hijabs and modest clothing where applicable. Men must wear long trousers.
+Do not force the subject to hold anything when the TITLE does not call for it.
 
-Avoid irrelevant objects, distracting details, and visual clichés.
+⸻
 
-NO PIGGY BANKS.
+6. BACKGROUND — FULL COLOUR, REALISTIC & TOPIC-DRIVEN
 
-7. HEADLINE DESIGN — BOLD AND HIGH-CONTRAST
+The background MUST use full colour.
 
-Place the headline prominently in the CENTER-LEFT area of the composition, with the subject on the lower-right.
+Do not default to black-and-white photography or grayscale environments.
 
-* Primary hook: Massive YELLOW and/or RED lettering with a thick BLACK outline.
-* Secondary line: Large WHITE lettering with a strong BLACK stroke.
-* Remaining words: Punchy YELLOW or ORANGE lettering.
-* Use a bold condensed display font similar to Anton, Bebas Neue, or Impact.
-* Use restrained red brush-stroke accents and subtle shadows.
-* Arrange the headline into balanced lines with professional spacing.
-* Keep all text readable on a mobile phone screen.
+Create a visually rich, photorealistic setting based on the TITLE. The environment should communicate the subject matter at a glance.
 
-Use the exact TITLE provided below in Bahasa Melayu. Do not add, remove, translate, paraphrase, or change any words. Preserve the original spelling and punctuation.
+Examples of possible visual environments:
 
-If the title is long, use additional lines or reduce the font size slightly rather than allowing text to extend towards the edges.
+* Financial mistakes: A desk with banknotes, a calculator, bills, a wallet, or credit cards.
+* Unexpected money: Malaysian ringgit banknotes, a modern home, an attractive city environment, or a premium lifestyle setting.
+* Gold savings: Realistic gold bars, gold coins, sophisticated surfaces, and warm golden reflections.
+* Fresh graduates: Modern office buildings, graduation surroundings, work documents, or salary paperwork.
+* Debt management: Financial statements, payment reminders, credit cards, and a realistic workspace.
+* Retirement: A comfortable home, family environment, retirement documents, or peaceful lifestyle imagery.
+* Business: A contemporary office, business district, workspace, or professional environment.
+* Family finance: A realistic home interior, household documents, or relatable family setting.
 
-8. CRITICAL SAFE ZONE — REELS AND PROFILE GRID
+These are examples only. Choose relevant objects and locations according to the actual TITLE.
 
-Keep the original 9:16 canvas at 1080 × 1920 pixels.
+Background quality
 
-Design all essential elements — headline, subject’s face, and key props — inside the CENTRAL 3:4 area, corresponding to the middle 75% of the canvas height.
+Use:
 
-* Central profile-grid safe zone: approximately 1080 × 1440 pixels.
-* Top background-only area: approximately 240 pixels.
-* Bottom background-only area: approximately 240 pixels.
-* Keep the headline, subject’s face, and other essential content inside the central 1440-pixel-high region.
-* Leave the top and bottom background-only areas free of headline text and the subject’s face.
-* Keep the headline within the central 60–65% of the canvas width.
-* Leave at least 8% horizontal margin on both sides between the text and the inner edge of the frame.
-* Keep all letters, outlines, shadows, brush strokes, and decorative effects within the safe zone.
-* Do not crop, stretch, or distort any text or facial features.
+* Rich full-colour cinematic photography.
+* Natural environmental lighting.
+* Strong visual depth and perspective.
+* Realistic reflections and textures.
+* Professional colour grading.
+* A clear distinction between foreground, middle-ground, and background.
+* Controlled depth of field.
+* Visually interesting but believable details.
 
-The background may extend throughout the full canvas.
+The background should be vibrant enough to attract attention but must not compete excessively with the headline or portrait.
 
-9. COMPOSITION AND IMAGE QUALITY
+Avoid random luxury cars, piles of cash, gold bars, or other objects that have no meaningful connection to the topic.
 
-* Original 9:16 vertical canvas, 1080 × 1920 pixels.
-* Thick, dimensional WHITE outer frame.
-* Topic-specific wardrobe and pose for every thumbnail.
-* Photorealistic subject positioned on the lower-right.
-* Black-and-white editorial background.
-* Bold yellow, white, red, and orange headline.
-* White cut-out outline and subtle drop shadow around the subject.
-* Strong contrast, cinematic lighting, crisp details, and premium editorial quality.
-* Balanced spacing between the headline, subject, and background.
-* No cropped words, distorted hands, duplicated fingers, or unnatural facial features.
+Use only props that reinforce the story.
 
-10. TITLE
+Do not include piggy banks, piggy-bank illustrations, or piggy-bank imagery.
 
-{TAJUK}
+Any background human figures must be dressed modestly. Women must wear hijabs and modest clothing where applicable. Men must wear long trousers.
 
-11. FINAL IDENTITY AND STYLING RULE
+⸻
 
-The attached photo determines WHO the subject is.
+7. COLOUR PALETTE — ADAPT TO EVERY TITLE
 
-The TITLE determines WHAT he wears, HOW he poses, WHAT expression he makes, WHAT gesture he performs, and WHERE the scene takes place.
+Use a deliberate, high-impact colour palette based on the TITLE and its emotional tone.
 
-Preserve the subject’s real facial identity while allowing creative changes to his wardrobe, pose, and environment.
+Do not force every thumbnail to use the same background colour.
 
-FINAL PRIORITY: Accurate facial identity, topic-specific wardrobe transformation, professional photorealism, a balanced 9:16 composition, and complete headline visibility inside the central 3:4 safe zone.`;
+Possible combinations include:
+
+* Yellow + red + black: Financial mistakes, warnings, and attention-grabbing educational topics.
+* Gold + black + cream: Wealth, gold savings, and premium finance.
+* Blue + white + yellow: Trust, education, and financial planning.
+* Green + black + white: Growth, progress, and financial stability.
+* Orange + navy + white: Energy, opportunity, and personal development.
+* Red + white + black: Risk, mistakes, and strong warnings.
+* Teal + orange + navy: Modern, vibrant, professional storytelling.
+
+Use one dominant palette with two or three supporting accent colours.
+
+The background, clothing, headline, and graphic accents must complement one another.
+
+Use colour contrast to separate the subject from the environment.
+
+The final thumbnail should be colourful, bold, and cohesive, not a random mixture of saturated colours.
+
+⸻
+
+8. HEADLINE DESIGN — LARGE, BOLD & DOMINANT
+
+The TITLE is the main graphic element and must dominate the UPPER and MIDDLE sections of the thumbnail.
+
+Use the exact wording provided in the TITLE section at the end of this prompt.
+
+Headline styling
+
+Use:
+
+* Oversized bold condensed typography inspired by Anton, Bebas Neue, Impact, or similar display fonts.
+* Thick BLACK outlines around the letters.
+* Strong but controlled drop shadows.
+* High-contrast YELLOW, WHITE, RED, or ORANGE lettering.
+* Dynamic red brush strokes or paint splashes behind selected words.
+* Selective distressed textures where appropriate.
+* Strong line breaks and balanced text alignment.
+
+Make the most important word or number significantly larger where suitable.
+
+For example, a title beginning with a number such as “5” may feature a huge yellow numeral with a thick black outline.
+
+Use different colours to create a clear hierarchy:
+
+* Main keyword: Yellow.
+* Supporting phrase: White.
+* Important emphasis: Yellow or orange.
+* Optional background accent: Red.
+
+These are guidelines, not fixed rules. Adjust the typography and palette to complement the particular background.
+
+Headline positioning
+
+* Place the headline primarily in the UPPER-LEFT and MIDDLE-LEFT portions.
+* Allow the headline to occupy approximately 45–65% of the canvas height when the title requires it.
+* Arrange the title into multiple bold, balanced lines.
+* Use the available space aggressively without making the design feel cramped.
+* Keep the headline visually separate from the subject’s face.
+* Ensure all words remain readable on a mobile screen.
+
+IMPORTANT: Do not place the title in a dedicated panel at the bottom. Do not reserve the bottom of the image as an empty text area.
+
+The headline must be part of the main composition, similar to the attached example.
+
+The subject remains in the lower-right, and the background fills the remaining space.
+
+⸻
+
+9. EXACT TITLE TEXT — DO NOT REWRITE
+
+Use the following TITLE exactly as written.
+
+TITLE: {TAJUK}
+
+Rules:
+
+* Preserve the original Bahasa Melayu wording.
+* Do not translate the title.
+* Do not add promotional phrases or extra words.
+* Do not remove words.
+* Do not change spelling or punctuation.
+* Do not invent a subtitle.
+* Do not add watermarks, logos, or unrelated text.
+* Do not allow letters to be cut off by the frame.
+
+You may change the line breaks, text alignment, font size, and colour emphasis to achieve the best visual result.
+
+If the title is long, distribute the words over more lines and simplify the decorative graphics where necessary.
+
+Never shrink the entire headline excessively just to fit it into one or two lines.
+
+The full title must remain readable.
+
+⸻
+
+10. PREMIUM WHITE OUTER FRAME
+
+Create a thick, clean WHITE outer frame around all four edges of the thumbnail.
+
+The frame must be clearly visible, similar to a premium printed poster.
+
+Include:
+
+* Consistent white borders.
+* A subtle grey inner bevel.
+* Soft inner shadows.
+* Gentle dimensional highlights.
+* Clean, straight edges.
+
+Keep all typography, outlines, shadows, brush strokes, and subject details inside the inner edge of the frame.
+
+Do not allow the frame to cover any part of the headline or face.
+
+Maintain the same frame treatment across the thumbnail series to create consistent visual branding.
+
+⸻
+
+11. MOBILE READABILITY & COMPOSITION
+
+Preserve the full 9:16 canvas and ensure the design remains effective on mobile devices.
+
+Keep:
+
+* The headline in the upper and middle-left.
+* The face in the lower-right.
+* Important props visible without overcrowding the composition.
+* Adequate spacing between the headline and face.
+* Comfortable internal margins around the frame.
+* The main facial features away from extreme top and bottom edges.
+
+Use the available vertical space effectively.
+
+Do not sacrifice the visual hierarchy simply to make the composition symmetrical.
+
+The image should feel dynamic, with the headline and subject working together as one unified design.
+
+⸻
+
+12. FINAL QUALITY CONTROL
+
+Before finalising the thumbnail, ensure that:
+
+* The original 9:16 canvas is preserved.
+* The reference subject remains recognisable.
+* The outfit is deliberately changed when appropriate.
+* The pose and expression match the TITLE.
+* The background is full colour and relevant to the topic.
+* The main headline occupies the upper and middle-left.
+* The subject occupies the lower-right.
+* The title is reproduced accurately and remains readable.
+* The white outer frame is consistent.
+* The colours are bold, coordinated, and visually appealing.
+* The subject is integrated naturally into the scene.
+* No piggy banks appear.
+* There are no unnecessary objects, misspelled words, distorted hands, or unnatural facial features.
+
+FINAL CREATIVE DIRECTION
+
+Use the attached thumbnail as the composition and design reference.
+
+Use the attached selfie as the identity reference only.
+
+Create a different, topic-specific outfit, pose, expression, environment, and colour palette for each new TITLE.
+
+Keep the same overall design language: bold headline on the upper and middle-left, photorealistic subject on the lower-right, vibrant full-colour storytelling, and a premium white outer frame.
+
+The result must feel like a new, professionally designed thumbnail every time, while maintaining consistent visual branding across the series.`;
 
 export function buatPromptThumbnail(tajuk) {
   return PROMPT_THUMBNAIL.replace("{TAJUK}", () => tajuk);
