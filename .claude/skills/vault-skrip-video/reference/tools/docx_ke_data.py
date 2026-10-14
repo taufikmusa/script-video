@@ -167,7 +167,8 @@ def baca_listicle(d):
         if len(kepala) < 3 or not kepala[0].startswith("no"):
             continue
         i_tajuk = next((i for i, k in enumerate(kepala) if "tajuk hook" in k), None)
-        i_persona = next((i for i, k in enumerate(kepala) if "persona" in k or "sudut" in k), None)
+        KUNCI = ("persona", "sudut", "tema", "kerjaya", "umur", "aktiviti", "judul", "filem")
+        i_persona = next((i for i, k in enumerate(kepala) if any(x in k for x in KUNCI)), None)
         if i_tajuk is None:
             continue
         for r in t.rows[1:]:
@@ -182,7 +183,7 @@ def baca_listicle(d):
         if el.tag.split("}")[1] != "p":
             continue
         txt = teks_para(el)
-        m = re.match(r"SKRIP #?(\d+):\s*(.*)", txt)
+        m = re.match(r"SKRIP #?(\d+)\s*(?:\[[^\]]*\])?\s*:\s*(.*)", txt, re.I)
         if m:
             n = int(m.group(1))
             semasa = {"tajuk": tajuk.get(n, m.group(2).strip()), "p": [], "hook": "",
