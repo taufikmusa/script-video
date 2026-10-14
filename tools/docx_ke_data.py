@@ -167,8 +167,11 @@ def baca_listicle(d):
         if len(kepala) < 3 or not kepala[0].startswith("no"):
             continue
         i_tajuk = next((i for i, k in enumerate(kepala) if "tajuk hook" in k), None)
-        KUNCI = ("persona", "sudut", "tema", "kerjaya", "umur", "aktiviti", "judul", "filem")
-        i_persona = next((i for i, k in enumerate(kepala) if any(x in k for x in KUNCI)), None)
+        # Kolum "persona" = kolum label pertama selain No / Tajuk Hook / Patah / Durasi
+        # (cth Persona, Kerjaya, Peringkat Umur, Judul Filem, Ikon / Fenomena Global, Golongan Sasaran)
+        BUKAN = ("tajuk hook", "patah", "perkataan", "durasi", "topik asal")
+        i_persona = next((i for i, k in enumerate(kepala)
+                          if i > 0 and k != "sasaran" and not any(x in k for x in BUKAN)), None)
         if i_tajuk is None:
             continue
         for r in t.rows[1:]:
