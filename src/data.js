@@ -26233,6 +26233,744 @@ Lima, konsisten kumpul gram emas dan tebus jongkong fizikal ke tangan sebagai ta
 Jangan biarkan anak isteri merempat di tepi timbunan harta yang beku.
 
 Mulakan simpanan emas fizikal demi masa depan waris sekarang!`
+  },
+  {
+    id: 940,
+    siri: "GPT-Asas-01",
+    no: 1,
+    topik: "Kenapa Emas",
+    tajuk: "Bila Sistem Bank Tergendala, Apa Jadi Pada Simpanan Kita?",
+    tags: ["gap", "hartanah", "ringgit"],
+    teks: `Pernah tak kita terfikir, kalau satu hari nanti sistem bank tergendala, apa jadi pada akses kita terhadap duit dan aset yang kita simpan?
+
+Sebab itu saya tertarik dengan satu kelebihan emas fizikal. Nilainya tak bergantung pada janji mana-mana individu atau institusi semata-mata.
+
+Berbeza dengan hartanah yang memerlukan proses dokumentasi untuk dipindah milik, emas fizikal boleh dimiliki dan dibawa bersama kita. Nilainya pula ditentukan antaranya oleh berat, ketulenan dan harga pasaran.
+
+Tapi jangan salah faham. Emas pun ada risiko turun naik harga, dan kita tetap kena jaga keselamatannya.
+
+Bagi saya, emas bukan sekadar tentang keuntungan. Ia juga tentang memiliki aset yang kita boleh pegang sendiri, tanpa bergantung sepenuhnya pada sistem digital.
+
+Kalau nak mula menyimpan, Akaun GAP Public Gold membolehkan kita kumpul emas sedikit demi sedikit, bermula serendah seratus ringgit. Cuma, fahami juga cara akaun ini berfungsi dan hak penebusan emas fizikal.
+
+Akhirnya, bukan soal kita percaya teknologi atau tidak. Yang penting, jangan letakkan semua simpanan pada satu tempat sahaja.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 941,
+    siri: "GPT-Asas-01",
+    no: 2,
+    topik: "Kewangan Peribadi",
+    tajuk: "Berapa Lama Keluarga Mampu Bertahan Tanpa Gaji?",
+    tags: ["gap", "gaji", "ringgit", "kecemasan"],
+    teks: `Kalau esok kita hilang kerja, berapa lama keluarga kita masih boleh hidup seperti biasa tanpa gaji bulanan?
+
+Hakikatnya, orang makan gaji ada dua kemungkinan yang kita tak boleh elak. Sama ada kita sendiri memilih untuk berhenti kerja, atau satu hari nanti majikan yang membuat keputusan untuk memberhentikan kita.
+
+Selagi gaji masuk setiap bulan, kita rasa semuanya terkawal. Tapi bila syarikat buat restructuring, ekonomi merosot atau kita tiba-tiba hilang pekerjaan, barulah kita sedar betapa pentingnya simpanan.
+
+Sebab itu, kekayaan sebenar bukan sekadar berapa besar gaji kita. Tapi berapa lama kita mampu bertahan tanpa gaji.
+
+Mulakan dengan bina dana kecemasan, idealnya tiga hingga enam bulan perbelanjaan. Bila asas kewangan dah kukuh, barulah kita fikirkan simpanan jangka panjang seperti emas.
+
+Kalau nak mula kumpul emas tanpa perlu keluarkan modal besar, Akaun GAP Public Gold membolehkan kita bermula serendah seratus ringgit.
+
+Jangan tunggu sampai hilang pendapatan, baru nak fikir tentang simpanan.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 942,
+    siri: "GPT-Asas-01",
+    no: 3,
+    topik: "Kewangan Peribadi",
+    tajuk: "Miskin Di Usia Tua Itu Satu Penjara",
+    tags: ["gap", "ringgit", "kecemasan"],
+    teks: `Pernah tak kita bayangkan, satu hari nanti kita dah tak mampu bekerja, tapi bil masih perlu dibayar, makan minum masih perlukan duit, dan kesihatan pula makin memerlukan perhatian?
+
+Guru saya, Tuan Mohd Zulkifli Shafie, pernah berkongsi satu pesanan yang cukup mendalam. Miskin di usia muda itu satu pengalaman, tetapi miskin di usia tua itu satu penjara.
+
+Sebab waktu muda, kita masih ada tenaga untuk mencari duit. Tapi bila usia meningkat, tenaga makin berkurang. Kalau masa tu kita tak ada simpanan, pilihan kita pun makin terhad.
+
+Sebab itu, jangan tunggu nak bersara baru nak fikir tentang simpanan hari tua.
+
+Bina dana persaraan sedikit demi sedikit. Sediakan juga dana kecemasan dan rancang kewangan keluarga supaya kita tak terlalu bergantung pada anak-anak apabila tua nanti.
+
+Kalau nak bina simpanan jangka panjang, emas boleh menjadi salah satu pilihan. Melalui GAP Public Gold, kita boleh mula menyimpan serendah seratus ringgit, ikut kemampuan sendiri.
+
+Ingat, kita bukan sekadar bekerja untuk hidup hari ini. Kita juga sedang menyediakan kehidupan untuk diri kita pada masa depan.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 943,
+    siri: "GPT-Asas-01",
+    no: 4,
+    topik: "Keluarga",
+    tajuk: "Masa Terbaik Simpan Emas Untuk Anak",
+    tags: ["ringgit", "anak"],
+    teks: `Bila sebenarnya masa paling terbaik untuk anda mula membina dana simpanan emas bagi anak-anak tersayang?
+
+Jawapannya adalah sepuluh tahun yang lalu sewaktu harga segram emas masih berada jauh di bawah dua ratus ringgit! Tetapi masa kedua terbaik untuk anda bertindak adalah hari ini juga. Ramai ibu bapa tersilap langkah kerana asyik menangguh dan menunggu harga emas turun sebelum mahu mula menabung.
+
+Hakikatnya, emas adalah aset bernilai tinggi yang akan sentiasa dianggap mahal oleh orang ramai dari tahun ke tahun. Apabila anak-anak melangkah ke menara gading kelak, kos sara hidup dan yuran pengajian sudah melambung tinggi. Mereka yang mendisiplinkan diri menyimpan satu gram sebulan sejak anak kecil tidak perlu runsing meminjam pinjaman pendidikan yang membebankan masa depan.
+
+Berapa umur anak anda sekarang dan sudahkah mereka ada simpanan emas? Nyatakan di ruangan komen sekarang, kerana masa depan anak-anak menuntut...
+
+Tindakan!`
+  },
+  {
+    id: 944,
+    siri: "GPT-Asas-01",
+    no: 5,
+    topik: "Public Gold & GAP",
+    tajuk: "Kenapa Perlu Tebus Emas Fizikal Dari Akaun?",
+    tags: ["gap", "ringgit"],
+    teks: `Pernah tak kita terfikir, kalau kita dah kumpul emas dalam akaun, kenapa pula kita digalakkan untuk keluarkan emas fizikal?
+
+Bagi saya, perkara paling penting dalam simpanan emas ialah kita faham apa yang kita miliki.
+
+Melalui GAP Public Gold, kita mengumpul emas berdasarkan gram dalam akaun. Bila simpanan dah mencukupi, kita boleh memilih untuk menebusnya dalam bentuk emas fizikal, tertakluk pada denominasi, caj dan terma yang ditetapkan.
+
+Kenapa ini penting?
+
+Sebab matlamat simpanan emas bukan sekadar tengok angka dalam telefon bertambah. Kita nak membina aset sebenar untuk jangka panjang.
+
+Emas fizikal membolehkan kita memegang sendiri aset tersebut. Tapi jangan lupa, kita juga bertanggungjawab menjaga keselamatannya. Dan kalau nak jual semula, harga belian balik mungkin berbeza daripada harga yang kita bayar.
+
+Jadi, sebelum menyimpan, fahami cara akaun berfungsi, hak penebusan dan kos yang terlibat.
+
+Kalau nak mula kumpul emas sedikit demi sedikit, GAP Public Gold membolehkan kita bermula serendah seratus ringgit.
+
+Simpan dengan ilmu, bukan sekadar ikut orang.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 945,
+    siri: "GPT-Asas-01",
+    no: 6,
+    topik: "Public Gold & GAP",
+    tajuk: "Cara Kumpul Dinar Emas Pertama Bermula RM100",
+    tags: ["gap", "dinar", "ringgit", "disiplin"],
+    teks: `Pernah teringin nak miliki sekeping dinar emas, tapi bila tengok harga lebih dua ribu ringgit, terus rasa macam tak mampu?
+
+Sebenarnya, kita tak semestinya perlu ada duit beribu-ribu ringgit sekaligus untuk mula mengumpul emas.
+
+Katakan bajet kita cuma seratus ringgit setiap kali menyimpan. Melalui Akaun Emas GAP Public Gold, kita boleh mula kumpul emas sedikit demi sedikit mengikut kemampuan.
+
+Setiap kali ada lebihan duit, kita tambah simpanan. Lama-lama, gram emas kita pun bertambah.
+
+Apabila jumlah simpanan mencukupi empat perpuluhan dua lima gram, kita boleh menebus emas fizikal dalam bentuk satu dinar, tertakluk pada terma penebusan dan caj yang berkenaan.
+
+Cuma ingat, harga emas berubah-ubah. Jadi, tempoh untuk cukupkan satu dinar bergantung pada jumlah simpanan dan harga semasa.
+
+Tak perlu tunggu kaya baru nak menyimpan. Mulakan dengan apa yang kita mampu, kemudian bina disiplin untuk terus konsisten.
+
+Siapa yang ada impian nak miliki dinar emas pertama? Tulis “Saya Nak” di ruangan komen.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 946,
+    siri: "GPT-Asas-01",
+    no: 7,
+    topik: "Kewangan Peribadi",
+    tajuk: "Azam Kewangan Tahun Baru Yang Hilang Sebelum Mac",
+    tags: ["gap", "ringgit", "disiplin"],
+    teks: `Pernah tak kita masuk tahun baru dengan semangat nak betulkan kewangan, tapi baru masuk bulan Mac, semuanya dah kembali macam biasa?
+
+Awal tahun, kita berazam nak menyimpan. Tapi bila ada sale, makan luar atau komitmen tak dijangka, duit simpanan pula yang kita usik dulu.
+
+Masalahnya, kita terlalu fokus pada target, tapi lupa membina disiplin.
+
+Kalau kita nak ubah kewangan, kita kena mula melihat diri kita dengan cara berbeza. Bukan sekadar nak kumpul sepuluh gram emas, tetapi menjadi seseorang yang konsisten membina simpanan untuk masa depan keluarga.
+
+Setiap kali kita asingkan duit sebelum berbelanja, kita sedang membina tabiat yang baharu.
+
+Tak perlu tunggu ada duit banyak. Melalui GAP Public Gold, kita boleh mula menyimpan emas serendah seratus ringgit, ikut kemampuan.
+
+Cuba tetapkan satu sasaran kecil bulan ini. Yang penting, jangan sekadar berazam. Bina sistem supaya kita boleh terus konsisten walaupun semangat dah hilang.
+
+Sebab kewangan yang kukuh bukan dibina dalam sehari, tetapi melalui tindakan kecil yang kita ulang setiap bulan.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 947,
+    siri: "GPT-Asas-01",
+    no: 8,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Emas Dividen 5% Sebulan: Duit Tu Datang Dari Mana?",
+    tags: ["gap", "ringgit", "skim"],
+    teks: `Kalau ada orang tawarkan pelaburan emas dengan dividen tetap lima peratus setiap bulan, satu soalan yang kita wajib tanya: duit tu datang daripada mana?
+
+Ramai orang terpedaya bukan sebab mereka tak bijak, tetapi sebab tawaran itu nampak terlalu menarik. Modal kononnya selamat, emas ada, setiap bulan pula dapat pulangan.
+
+Kemudian mula keluar cerita tentang AI, lombong emas luar negara dan pelaburan antarabangsa. Bunyi canggih, sampai kita sendiri segan nak bertanya macam mana keuntungan itu sebenarnya dijana.
+
+Hakikatnya, memiliki emas bukan bermaksud kita akan menerima dividen bulanan. Keuntungan daripada emas biasanya bergantung pada perubahan harga jual beli, dan harga emas juga boleh jatuh.
+
+Sebab itu, kalau ada pihak menjanjikan pulangan tetap yang tinggi, jangan terus percaya. Semak syarikat, fahami model perniagaan dan jangan serahkan duit hanya berdasarkan testimoni atau janji manis.
+
+Kalau nak menyimpan emas, pilih kaedah yang kita faham. GAP Public Gold membolehkan kita mula mengumpul emas serendah seratus ringgit, tetapi ia bukan skim dividen dan nilai emas tetap turun naik mengikut pasaran.
+
+Ingat, jangan kejar pulangan sampai modal sendiri jadi taruhan.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 948,
+    siri: "GPT-Asas-01",
+    no: 9,
+    topik: "Public Gold & GAP",
+    tajuk: "Dah Bayar, Tapi Emas Masih Tak Ada Dalam Tangan?",
+    tags: ["gap", "ringgit", "penipuan"],
+    teks: `Pernah tak kita beli sesuatu, duit dah keluar, tapi barangnya masih tak ada dalam tangan?
+
+Sebab itu, bila bercakap tentang simpanan emas, kita kena faham apa yang kita miliki dan bagaimana kita boleh mendapatkan emas fizikal tersebut.
+
+Bagi saya, ada satu kepuasan bila kita dapat pegang sendiri emas yang kita kumpulkan hasil titik peluh kita. Kita bukan sekadar tengok angka dalam telefon, tetapi ada aset fizikal yang boleh kita simpan dan jaga sendiri.
+
+Tapi jangan salah faham. Simpanan emas dalam akaun tak semestinya satu penipuan. Yang penting, kita faham terma akaun, proses penebusan, caj dan tempoh yang diperlukan untuk mendapatkan emas fizikal.
+
+Melalui GAP Public Gold, kita boleh kumpul emas sedikit demi sedikit, bermula serendah seratus ringgit. Apabila gram mencukupi, kita boleh membuat penebusan emas fizikal tertakluk pada syarat yang ditetapkan.
+
+Cuma ingat, emas fizikal pun ada risiko kehilangan dan turun naik harga.
+
+Akhirnya, simpanlah dengan ilmu supaya kita tahu apa yang kita miliki.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 949,
+    siri: "GPT-Asas-01",
+    no: 10,
+    topik: "Strategi Emas",
+    tajuk: "Baru 2 Bulan Simpan Emas Dah Rasa Rugi?",
+    tags: ["gap", "ringgit", "disiplin", "spread"],
+    teks: `Baru dua bulan simpan emas, tapi bila tengok harga jual balik, kita dah rasa macam rugi. Pernah alami situasi macam ni?
+
+Sebenarnya, ramai yang mula menyimpan emas dengan harapan harga akan terus naik. Bila tengok harga tak banyak berubah, mula gelisah. Hari-hari buka telefon, semak harga, sampai akhirnya rasa nak jual semula.
+
+Saya nak kita bayangkan kiub ais. Kita panaskan sedikit demi sedikit, tapi pada awalnya bentuknya masih sama. Kita mungkin rasa macam tak ada perubahan, sedangkan haba terus terkumpul.
+
+Simpanan emas pun perlukan kesabaran, cuma kita kena faham satu perkara. Harga emas tak semestinya naik setiap tahun, dan tak ada tempoh tertentu yang menjamin keuntungan.
+
+Sebab itu, sebelum membeli emas, tetapkan matlamat jangka panjang dan fahami spread antara harga beli dengan harga jual balik.
+
+Kalau nak mula menyimpan, GAP Public Gold membolehkan kita bermula serendah seratus ringgit. Kumpul ikut kemampuan, bukan sebab nak kejar harga setiap hari.
+
+Ingat, jangan ukur kejayaan simpanan hanya berdasarkan perubahan harga hari ini. Bina disiplin dan beri masa kepada perancangan kita.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 950,
+    siri: "GPT-Asas-01",
+    no: 11,
+    topik: "Kenapa Emas",
+    tajuk: "Duit Dalam Bank Banyak, Tapi Makin Sedikit Boleh Beli",
+    tags: ["gap", "inflasi", "ringgit", "kecemasan", "tunai"],
+    teks: `Pernah tak kita rasa duit dalam bank masih banyak, tapi bila berbelanja, makin lama makin sedikit barang yang kita mampu beli?
+
+Inilah kesan inflasi yang ramai orang tak sedar.
+
+Dalam matematik, kalau kita berkembang satu peratus setiap hari selama setahun, kesannya sangat besar. Tapi kalau kuasa beli merosot satu peratus setiap hari, duit kita hampir kehilangan seluruh nilainya.
+
+Mujurlah inflasi sebenar biasanya tak berlaku sepantas itu. Tetapi walaupun kenaikan harga barang cuma beberapa peratus setahun, dalam tempoh sepuluh atau dua puluh tahun, kesannya tetap terasa.
+
+Sebab itu, menyimpan duit sahaja mungkin tak cukup untuk matlamat jangka panjang. Kita juga perlu fikir bagaimana nak mengekalkan kuasa beli simpanan kita.
+
+Emas boleh menjadi salah satu pilihan untuk mempelbagaikan simpanan. Melalui GAP Public Gold, kita boleh mula kumpul emas serendah seratus ringgit.
+
+Cuma ingat, harga emas juga turun naik dan pulangannya tak dijamin. Jadi, seimbangkan simpanan tunai untuk kecemasan dengan aset jangka panjang mengikut kemampuan.
+
+Jangan hanya fikir berapa banyak duit kita ada. Fikir juga apa yang duit itu mampu beli pada masa depan.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 951,
+    siri: "GPT-Asas-01",
+    no: 12,
+    topik: "Kewangan Peribadi",
+    tajuk: "Gaji Baru Masuk 3 Hari, Duit Dah Pergi Mana?",
+    tags: ["gap", "gaji", "ringgit", "kecemasan", "disiplin", "tunai"],
+    teks: `Gaji baru masuk tiga hari, tapi bila semak akaun bank, kita dah mula tertanya-tanya… duit pergi mana?
+
+Kadang-kadang bukan sebab gaji kita terlalu kecil. Tapi sebab setiap kali penat bekerja, kita rasa kita layak untuk reward diri sendiri.
+
+Beli kopi mahal, checkout barang online, makan sedap sikit. Semua nampak kecil. Tapi bila dibuat berulang kali, hujung bulan kita juga yang sesak.
+
+Sebab itu, jangan bergantung pada disiplin semata-mata. Kita kena bina sistem kewangan yang membantu kita menyimpan.
+
+Bila gaji masuk, asingkan dulu duit untuk komitmen, dana kecemasan dan simpanan. Baki barulah kita gunakan untuk berbelanja.
+
+Kalau nak bina simpanan jangka panjang, emas boleh jadi salah satu pilihan. Melalui GAP Public Gold, kita boleh mula mengumpul emas serendah seratus ringgit.
+
+Cuma jangan sampai semua duit ditukar kepada emas. Kita tetap perlukan tunai untuk kecemasan dan perbelanjaan harian.
+
+Ingat, reward diri itu tak salah. Tapi jangan sampai kita seronok hari ini, kemudian tertekan sepanjang hujung bulan.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 952,
+    siri: "GPT-Asas-01",
+    no: 13,
+    topik: "Strategi Emas",
+    tajuk: "Sampai Bila Nak Tunggu Harga Emas Jatuh?",
+    tags: ["gap", "ringgit"],
+    teks: `Sampai bila kita nak tunggu harga emas jatuh, baru nak mula menyimpan?
+
+Ramai orang ada niat nak beli emas. Ada yang tunggu harga murah, ada yang nak kumpul duit sampai lima ribu ringgit dulu, barulah nak membeli jongkong besar.
+
+Tapi sedar tak? Kadang-kadang kita terlalu sibuk merancang, sampai langsung tak bermula.
+
+Akhirnya, duit yang kita kumpul sedikit demi sedikit tu habis digunakan untuk perkara lain. Tahun berganti tahun, niat masih sama, tapi simpanan emas masih kosong.
+
+Sebenarnya, kita tak perlu bermula dengan jumlah yang besar. Kita cuma perlu bina satu tabiat kecil yang mampu kita kekalkan.
+
+Kalau nak mula menyimpan emas, Akaun GAP Public Gold membolehkan kita bermula serendah seratus ringgit. Tak perlu tunggu kaya, dan tak perlu tunggu harga paling rendah.
+
+Cuma pastikan kita guna duit lebihan dan faham bahawa harga emas boleh naik atau turun.
+
+Ingat, langkah kecil yang dibuat secara konsisten lebih bermakna daripada perancangan besar yang tak pernah dimulakan.
+
+Kalau dah lama berniat nak menyimpan emas, mungkin malam ini masa untuk kita mula.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 953,
+    siri: "GPT-Asas-01",
+    no: 14,
+    topik: "Strategi Emas",
+    tajuk: "Harga Emas Naik, Patut Terus Jual?",
+    tags: ["gap", "haji", "ringgit", "anak", "kecemasan"],
+    teks: `Bila harga emas naik dan kita nampak dah ada keuntungan, patut ke kita terus jual?
+
+Sebenarnya, sebelum kita beli emas, kita kena tahu satu perkara. Apa tujuan kita menyimpan emas ni?
+
+Kalau setiap kali harga naik kita rasa nak jual, kemudian guna duit tu untuk beli telefon baharu atau barang yang kita tak perlukan, akhirnya simpanan kita tak pernah berkembang.
+
+Bagi saya, ada tiga keadaan kita boleh pertimbangkan untuk menjual emas.
+
+Pertama, apabila kita nak tukarkan simpanan kepada aset lain yang sesuai dengan perancangan kewangan kita.
+
+Kedua, apabila kita dah capai matlamat penting, seperti membiayai pendidikan anak atau menunaikan haji.
+
+Ketiga, apabila berlaku kecemasan dan kita benar-benar perlukan wang.
+
+Sebab itu, emas bukan sekadar tentang harga naik atau turun. Ia tentang bagaimana kita merancang dan menggunakan aset yang kita kumpul.
+
+Kalau nak mula menyimpan, Akaun GAP Public Gold membolehkan kita bermula serendah seratus ringgit. Bina simpanan ikut kemampuan dan tetapkan matlamat dari awal.
+
+Jangan simpan emas tanpa tujuan, dan jangan jual tanpa perancangan.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 954,
+    siri: "GPT-Asas-01",
+    no: 15,
+    topik: "Kewangan Peribadi",
+    tajuk: "Never Miss Twice: Bila Terlepas Simpan Sebulan",
+    tags: ["gap", "ringgit", "kecemasan"],
+    teks: `Pernah tak kita terlepas menyimpan bulan ini, kemudian bulan depan pun kita ulang perkara yang sama?
+
+Dalam buku Atomic Habits, ada satu prinsip yang saya suka: Never Miss Twice. Maksudnya, kalau kita terlepas buat sesuatu sekali, jangan biarkan ia menjadi dua kali berturut-turut.
+
+Contohnya, bulan lepas kita tak dapat menyimpan emas sebab ada komitmen kecemasan. Tak mengapa. Kita faham, hidup ni ada turun naiknya.
+
+Tapi bila keadaan dah kembali stabil, cuba sambung semula. Jangan sampai satu bulan terlepas, akhirnya setahun berlalu tanpa sebarang simpanan.
+
+Bayangkan lima tahun dari sekarang. Kita mungkin berdepan perubahan ekonomi, kos sara hidup yang meningkat atau keperluan keluarga yang tak dijangka.
+
+Sebab itu, penting untuk kita bina simpanan yang sesuai dengan matlamat dan kemampuan sendiri.
+
+Kalau nak kumpul emas sedikit demi sedikit, Akaun GAP Public Gold membolehkan kita bermula serendah seratus ringgit. Tak perlu paksa diri, dan tak perlu abaikan dana kecemasan.
+
+Ingat, kita tak perlu sempurna setiap bulan. Kita cuma perlu belajar untuk kembali konsisten selepas terhenti.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 955,
+    siri: "GPT-Asas-01",
+    no: 16,
+    topik: "Kewangan Peribadi",
+    tajuk: "Nampak Kaya vs Betul-Betul Bersedia",
+    tags: ["gap", "gaji", "ringgit", "kecemasan"],
+    teks: `Pernah tak kita nampak seseorang hidup mewah, kereta besar, telefon mahal, tapi kita tak tahu sebenarnya berapa lama dia mampu bertahan kalau esok gaji dah tak masuk?
+
+Kadang-kadang kita terlalu sibuk nampak kaya di mata orang, sampai terlupa membina kekayaan untuk diri sendiri.
+
+Kita bekerja keras setiap bulan. Tapi bila gaji masuk, sebahagian besar habis untuk komitmen dan gaya hidup. Simpanan pula sekadar apa yang tinggal.
+
+Cuba bayangkan kalau esok kita hilang pekerjaan atau berdepan kecemasan besar. Berapa lama simpanan kita mampu menampung kehidupan keluarga?
+
+Bagi saya, kaya sebenar bukan tentang apa yang orang nampak. Tapi tentang persediaan yang kita bina secara senyap, supaya bila hidup menguji kita, kita masih ada pilihan.
+
+Mulakan dengan dana kecemasan. Kemudian bina simpanan jangka panjang mengikut kemampuan. Emas boleh menjadi salah satu pilihan untuk mempelbagaikan aset, dan melalui GAP Public Gold, kita boleh mula serendah seratus ringgit.
+
+Tak perlu orang tahu berapa banyak kita simpan. Yang penting, kita tahu kita sedang bersedia.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 956,
+    siri: "GPT-Asas-01",
+    no: 17,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Donner Party & Bahaya Jalan Pintas Skim Dividen Emas",
+    tags: ["gap", "ringgit", "skim"],
+    teks: `Pernah dengar orang sanggup kehilangan segala-galanya hanya kerana terlalu percaya pada jalan pintas?
+
+Pada tahun seribu lapan ratus empat puluh enam, Donner Party, sekumpulan perintis Amerika, memilih laluan alternatif untuk sampai ke California dengan lebih cepat. Tapi mereka akhirnya terperangkap dalam salji tebal di pergunungan, sehingga terpaksa berdepan keadaan yang sangat mengerikan untuk terus hidup.
+
+Apa pengajarannya? Jalan pintas yang nampak menarik tak semestinya membawa kita ke destinasi yang kita impikan.
+
+Begitu juga dengan skim dividen emas yang menjanjikan pulangan tetap lima peratus setiap bulan.
+
+Kita kena faham, emas fizikal tak menghasilkan dividen dengan sendirinya. Kalau ada pihak menjanjikan pulangan tinggi dan tetap, kita perlu persoalkan dari mana keuntungan itu datang dan bagaimana risikonya dikawal.
+
+Jangan sampai kerana terlalu mengejar keuntungan cepat, simpanan yang kita kumpul bertahun-tahun hilang begitu sahaja.
+
+Kalau nak menyimpan emas, pilih kaedah yang kita faham. Melalui GAP Public Gold, kita boleh mula mengumpul emas serendah seratus ringgit, tetapi harga emas tetap boleh naik dan turun.
+
+Ingat, bina kekayaan perlukan ilmu, kesabaran dan perancangan, bukan janji manis.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 957,
+    siri: "GPT-Asas-01",
+    no: 18,
+    topik: "Kenapa Emas",
+    tajuk: "Kalau Tak Boleh Akses Akaun Bank, Berapa Duit Kita Ada?",
+    tags: ["gap", "ringgit", "kecemasan", "tunai"],
+    teks: `Pernah tak kita terfikir, kalau satu hari nanti kita tak boleh akses akaun bank, berapa banyak duit yang kita masih boleh gunakan?
+
+Hari ini, hampir semua urusan kewangan kita bergantung pada sistem digital. Bayar guna QR, pindah duit melalui aplikasi, malah simpanan pun kita tengok dalam bentuk angka di skrin telefon.
+
+Memang mudah. Tapi kemudahan tak bermaksud kita tak perlu ada pelan alternatif.
+
+Sebab itu, bagi saya, penting untuk kita mempelbagaikan simpanan. Sediakan wang tunai untuk keperluan kecemasan, pastikan ada simpanan yang mudah diakses, dan pertimbangkan aset fizikal seperti emas untuk matlamat jangka panjang.
+
+Emas fizikal ada kelebihan kerana kita boleh memegang dan menyimpannya sendiri. Tapi ia tetap ada risiko, termasuk kehilangan, kecurian dan turun naik harga.
+
+Kalau kita menyimpan emas melalui GAP Public Gold, kita boleh mula serendah seratus ringgit. Cuma kena faham, emas dalam akaun bukan sama seperti emas yang sudah berada di tangan kita. Penebusan fizikal tertakluk pada terma dan caj yang ditetapkan.
+
+Akhirnya, bukan soal digital atau fizikal semata-mata. Yang penting, jangan bergantung pada satu bentuk simpanan sahaja.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 958,
+    siri: "GPT-Asas-01",
+    no: 19,
+    topik: "Strategi Emas",
+    tajuk: "Piramid Kewangan Sebelum Simpan Emas",
+    tags: ["gap", "rumah", "ringgit", "anak", "kecemasan", "tunai"],
+    teks: `Ramai orang kata mereka menyimpan emas untuk jangka panjang. Tapi bila harga jatuh sedikit, terus panik dan rasa nak jual.
+
+Sebenarnya, cabaran menyimpan untuk jangka panjang bukan sekadar tentang harga emas. Tapi tentang sejauh mana kita bersedia dari segi kewangan sebelum mula menyimpan.
+
+Sebab itu, saya suka gunakan konsep piramid kewangan.
+
+Paling bawah, kita kukuhkan dulu dana kecemasan dalam bentuk tunai yang mudah diakses. Sebagai panduan, sasarkan sekurang-kurangnya tiga hingga enam bulan perbelanjaan, mengikut komitmen dan keadaan keluarga.
+
+Bila asas itu dah kukuh, barulah kita pertimbangkan emas sebagai salah satu aset untuk matlamat jangka panjang, seperti persaraan atau pendidikan anak.
+
+Kenapa susunan ini penting?
+
+Supaya apabila berlaku kecemasan, kita tak terpaksa menjual emas semata-mata untuk membayar bil atau menampung belanja harian.
+
+Kalau nak mula kumpul emas, GAP Public Gold membolehkan kita bermula serendah seratus ringgit. Tapi gunakan duit lebihan dan fahami bahawa harga emas boleh turun naik.
+
+Ingat, jangan bina bumbung sebelum asas rumah kukuh. Kewangan yang baik bermula dengan susunan yang betul.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 959,
+    siri: "GPT-Asas-01",
+    no: 20,
+    topik: "Kenapa Emas",
+    tajuk: "Red Queen Effect: Gaji Naik Tapi Hidup Makin Sempit",
+    tags: ["gap", "inflasi", "gaji", "ringgit"],
+    teks: `Pernah tak kita rasa, gaji makin naik setiap tahun, tapi hidup tetap rasa makin sempit?
+
+Dulu dengan seratus ringgit, banyak benda kita boleh beli. Sekarang, barang yang sama mungkin perlukan duit yang lebih banyak.
+
+Inilah kesan inflasi. Dalam kisah Alice in Wonderland, ada konsep Red Queen Effect. Kita terpaksa berlari semakin laju hanya untuk kekal di tempat yang sama.
+
+Begitu juga dengan kewangan kita. Kalau pendapatan naik tiga peratus, tetapi kos sara hidup meningkat lebih tinggi, kuasa beli kita sebenarnya semakin mengecil.
+
+Sebab itu, jangan hanya fikir macam mana nak tambah pendapatan. Kita juga perlu fikir bagaimana nak melindungi nilai simpanan untuk jangka panjang.
+
+Emas boleh menjadi salah satu pilihan untuk mempelbagaikan aset kerana nilainya berubah mengikut pasaran dan sejarahnya menunjukkan ia boleh membantu mengekalkan kuasa beli dalam tempoh tertentu. Tapi harga emas juga boleh jatuh dan pulangannya tidak dijamin.
+
+Kalau nak mula menyimpan emas, GAP Public Gold membolehkan kita bermula serendah seratus ringgit.
+
+Jangan sekadar bekerja keras kumpul duit. Belajar juga mengurus dan melindungi hasil titik peluh kita.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 960,
+    siri: "GPT-Asas-01",
+    no: 21,
+    topik: "Kewangan Peribadi",
+    tajuk: "Simpan Dulu, Baru Berbelanja",
+    tags: ["gap", "gaji", "ringgit", "kecemasan", "disiplin", "tunai"],
+    teks: `Pernah tak kita perasan, bila baki akaun bank banyak, kita rasa tenang. Tapi peliknya, makin banyak duit dalam akaun, makin banyak pula benda yang kita rasa nak beli.
+
+Nampak barang menarik, kita beli. Penat bekerja, kita reward diri. Sekali imbas QR, duit dah keluar. Bila hujung bulan, kita mula tertanya-tanya, duit pergi mana?
+
+Sebab itu, jangan bergantung pada disiplin semata-mata. Kita kena bina sistem yang membantu kita menyimpan sebelum duit sempat dibelanjakan.
+
+Bila gaji masuk, asingkan dulu duit untuk komitmen, dana kecemasan dan simpanan jangka panjang.
+
+Kalau kita nak gunakan emas sebagai salah satu cara menyimpan, Akaun GAP Public Gold membolehkan kita mula mengumpul emas serendah seratus ringgit.
+
+Bila sebahagian duit dah diperuntukkan untuk simpanan, kita tak mudah tergoda untuk menggunakannya bagi perkara yang bukan keutamaan.
+
+Cuma jangan sampai semua duit ditukar kepada emas. Kita tetap perlukan tunai untuk kecemasan dan perbelanjaan harian.
+
+Ingat, jangan tunggu duit berbaki baru nak menyimpan. Simpan dulu, barulah berbelanja.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 961,
+    siri: "GPT-Asas-01",
+    no: 22,
+    topik: "Strategi Emas",
+    tajuk: "Analysis Paralysis: Asyik Tunggu Harga Turun",
+    tags: ["gap", "ringgit"],
+    teks: `Berapa lama kita nak tunggu harga emas turun sebelum berani nak membeli? Setahun? Dua tahun? Atau sampai akhirnya kita langsung tak pernah mula menyimpan?
+
+Inilah yang dipanggil analysis paralysis. Kita terlalu banyak berfikir, terlalu kerap tengok graf harga, sampai akhirnya tak buat apa-apa.
+
+Kita nak beli pada harga paling murah. Tapi masalahnya, siapa sebenarnya tahu bila harga paling rendah akan berlaku?
+
+Pesan yang saya nak kongsikan, kita tak perlu jadi pakar meramal harga untuk mula membina simpanan. Kita cuma perlu ada matlamat yang jelas, faham risiko dan gunakan duit lebihan yang tak diperlukan dalam masa terdekat.
+
+Kalau matlamat kita menyimpan emas untuk jangka panjang, kita boleh pertimbangkan pembelian secara berkala mengikut kemampuan, tanpa perlu meneka pergerakan harga setiap hari.
+
+Melalui GAP Public Gold, kita boleh mula mengumpul emas serendah seratus ringgit. Tapi ingat, harga emas boleh naik dan turun, dan keuntungan tak dijamin.
+
+Jangan terlalu sibuk mencari masa yang sempurna sampai terlepas peluang membina tabiat menyimpan.
+
+Buat keputusan berdasarkan ilmu, bukan ketakutan.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 962,
+    siri: "GPT-Asas-01",
+    no: 23,
+    topik: "Strategi Emas",
+    tajuk: "Jual Emas Bila Untung, Tapi Duit Habis Ke Mana?",
+    tags: ["gap", "ringgit", "anak", "kecemasan"],
+    teks: `Pernah tak kita jual emas sebab harga dah naik, rasa seronok dapat keuntungan, tapi akhirnya duit tu habis entah ke mana?
+
+Sebab itu, sebelum kita menyimpan emas, kita kena jelas tentang satu perkara. Apa sebenarnya tujuan kita kumpul emas?
+
+Bagi saya, emas bukan sekadar untuk mengejar keuntungan apabila harga naik. Ia boleh menjadi sebahagian daripada perancangan kewangan keluarga untuk jangka panjang.
+
+Ada tiga keadaan kita boleh pertimbangkan untuk menjual emas.
+
+Pertama, apabila kita nak menukarkan simpanan kepada aset lain yang sesuai dengan matlamat kewangan kita.
+
+Kedua, apabila kita dah mencapai matlamat penting, seperti membiayai pendidikan anak atau persediaan persaraan.
+
+Ketiga, apabila berlaku kecemasan yang benar-benar memerlukan wang.
+
+Sebab itu, jangan beli emas tanpa matlamat, dan jangan jual hanya kerana emosi melihat harga naik atau turun.
+
+Kalau nak mula membina simpanan emas, GAP Public Gold membolehkan kita bermula serendah seratus ringgit, mengikut kemampuan.
+
+Ingat, tujuan kita menyimpan bukan sekadar nak nampak kaya. Kita nak bina kewangan yang memberi lebih banyak pilihan apabila kehidupan menguji kita.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 963,
+    siri: "GPT-Asas-01",
+    no: 24,
+    topik: "Kewangan Peribadi",
+    tajuk: "Lima Tahun Berlalu, Masalah Kewangan Masih Sama",
+    tags: ["gap", "gaji", "ringgit", "kecemasan"],
+    teks: `Pernah tak kita perasan, lima tahun berlalu, tapi masalah kewangan kita masih sama?
+
+Kita masih mengeluh gaji tak cukup, kos hidup makin tinggi, dan susah nak menyimpan. Tapi bila tengok balik, mungkin kita masih belum mengubah cara kita mengurus duit.
+
+Saya percaya, persekitaran kita sedikit sebanyak mempengaruhi keputusan yang kita buat. Kalau setiap hari kita hanya bercakap tentang masalah tanpa mencari jalan keluar, sampai bila pun kita akan berada di tempat yang sama.
+
+Cuba mula dengan satu perubahan kecil. Tetapkan matlamat kewangan, asingkan duit simpanan setiap kali gaji masuk dan belajar bina aset untuk jangka panjang.
+
+Kalau berminat nak menyimpan emas, tak semestinya perlu ada modal ribuan ringgit. Melalui GAP Public Gold, kita boleh mula serendah seratus ringgit, mengikut kemampuan.
+
+Yang penting, jangan sampai kita abaikan dana kecemasan atau komitmen bulanan semata-mata nak membeli emas.
+
+Bayangkan lima tahun dari sekarang. Kita boleh terus mengeluh tentang keadaan yang sama, atau mula membina perubahan dari hari ini.
+
+Pilihan itu bermula dengan tindakan kecil yang kita ambil sekarang.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 964,
+    siri: "GPT-Asas-01",
+    no: 25,
+    topik: "Kewangan Peribadi",
+    tajuk: "Sekoci Titanic: Bina Persediaan Sebelum Ribut",
+    tags: ["gap", "gaji", "rumah", "krisis", "ringgit", "kecemasan", "tunai"],
+    teks: `Bayangkan esok kita hilang pekerjaan, pendapatan terputus, tapi bil rumah, ansuran kereta dan belanja anak-anak tetap berjalan. Apa persediaan kita?
+
+Saya teringat kisah kapal Titanic. Ketika kapal itu mula tenggelam, penumpang yang tak bersedia terpaksa berdepan situasi yang sangat mencemaskan.
+
+Dalam kewangan pun begitu. Waktu semuanya masih stabil, kita rasa gaji bulanan dah cukup untuk menjamin kehidupan. Tapi bila berlaku krisis, kehilangan kerja atau kecemasan keluarga, barulah kita sedar betapa pentingnya persediaan awal.
+
+Sebab itu, kita perlukan sekoci kewangan sebelum ribut melanda.
+
+Pertama, bina dana kecemasan dalam bentuk tunai yang mudah diakses. Kemudian, apabila asas kewangan dah kukuh, kita boleh pertimbangkan aset jangka panjang seperti emas untuk mempelbagaikan simpanan.
+
+Melalui GAP Public Gold, kita boleh mula mengumpul emas serendah seratus ringgit. Tapi ingat, emas bukan pengganti dana kecemasan kerana harganya boleh turun naik dan proses penebusan fizikal mungkin mengambil masa.
+
+Jangan tunggu kapal mula tenggelam baru nak cari sekoci.
+
+Bina persediaan ketika keadaan masih tenang, demi ketenangan keluarga kita.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 965,
+    siri: "GPT-Asas-01",
+    no: 26,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Kira Dividen 5% Sebulan: Tanda Amaran Skim",
+    tags: ["gap", "ringgit", "skim"],
+    teks: `Kalau ada orang janji beli emas boleh dapat dividen lima peratus setiap bulan, jangan terus teruja. Tanya dulu, keuntungan itu sebenarnya datang dari mana?
+
+Bayangkan, kalau kita laburkan sepuluh ribu ringgit, lima peratus sebulan bermakna lima ratus ringgit setiap bulan. Setahun, jumlah yang dijanjikan mencecah enam ribu ringgit, belum termasuk modal asal.
+
+Persoalannya, macam mana pulangan sebesar itu boleh dibayar secara konsisten? Apa aktiviti perniagaan yang menjana keuntungan tersebut?
+
+Kita kena faham, emas fizikal tak menghasilkan dividen dengan sendirinya. Keuntungan daripada emas biasanya bergantung pada perubahan harga jual beli, dan harga itu boleh naik atau turun.
+
+Kalau ada skim yang menjanjikan pulangan tetap tinggi, lebih-lebih lagi jika kita perlu mencari ahli baharu untuk mendapat bayaran, itu tanda amaran yang serius.
+
+Jangan serahkan duit hanya kerana tengok testimoni atau percaya pada kenalan. Semak latar belakang syarikat, fahami model perniagaan dan jangan abaikan risiko kehilangan modal.
+
+Kalau nak menyimpan emas, pilih kaedah yang kita faham. GAP Public Gold membolehkan kita mula serendah seratus ringgit, tetapi ia bukan skim dividen dan harga emas tetap berubah mengikut pasaran.
+
+Ingat, jangan sampai kerana mengejar keuntungan, simpanan bertahun-tahun lebur dalam sekelip mata.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 966,
+    siri: "GPT-Asas-01",
+    no: 27,
+    topik: "Kenapa Emas",
+    tajuk: "Token Dobi, Duit Kertas & Emas",
+    tags: ["gap", "inflasi", "ringgit", "tunai"],
+    teks: `Pernah tak kita fikir, kenapa token dobi tak boleh digunakan untuk beli barang di kedai lain, sedangkan duit kertas boleh digunakan hampir di mana-mana?
+
+Token dobi hanya ada nilai dalam sistem tertentu. Duit kertas pula diterima secara meluas kerana ia merupakan mata wang yang diiktiraf dan disokong oleh sistem kewangan sesebuah negara.
+
+Tapi ada satu perkara yang kita perlu faham. Nilai duit boleh terjejas apabila inflasi meningkat, manakala emas juga ada turun naik harga pasaran.
+
+Sebab itu, saya melihat emas fizikal sebagai salah satu pilihan untuk mempelbagaikan simpanan. Emas mempunyai nilai pasaran tersendiri dan telah digunakan sebagai aset bernilai sejak sekian lama.
+
+Bezanya, bila kita memiliki emas fizikal, kita boleh memegang dan menyimpannya sendiri. Cuma kita juga bertanggungjawab menjaga keselamatannya, dan emas bukan pengganti wang tunai yang kita perlukan untuk perbelanjaan harian.
+
+Kalau nak mula mengumpul emas, Akaun GAP Public Gold membolehkan kita bermula serendah seratus ringgit. Kita kumpul sedikit demi sedikit mengikut kemampuan, kemudian boleh menebus emas fizikal tertakluk pada terma dan caj yang ditetapkan.
+
+Akhirnya, jangan letakkan semua simpanan dalam satu bentuk sahaja. Fahami fungsi setiap aset dan bina kewangan dengan perancangan.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 967,
+    siri: "GPT-Asas-01",
+    no: 28,
+    topik: "Kewangan Peribadi",
+    tajuk: "Labur Bila Ada Duit Lebih, Bukan Bila Terdesak",
+    tags: ["gap", "rumah", "ringgit", "kecemasan"],
+    teks: `Pernah tak kita rasa nak cepat kaya sampai sanggup ambil risiko yang sebenarnya kita sendiri tak mampu tanggung?
+
+Hari ini, buka media sosial saja, macam-macam peluang pelaburan muncul. Ada yang tunjuk keuntungan besar, ada yang janji pulangan cepat. Sampai kita rasa takut terlepas peluang.
+
+Tapi pesan guru saya, mengejar kekayaan itu bagus. Cuma, jauh lebih penting untuk kita mengelakkan diri daripada jatuh miskin.
+
+Sebab itu, saya suka satu prinsip ini: melabur bila kita ada duit lebih, bukan melabur sebab kita terdesak nak cari duit lebih.
+
+Sebelum fikir nak beli emas atau aset lain, pastikan komitmen bulanan terkawal dan dana kecemasan dah tersedia. Jangan gunakan duit sewa rumah, duit belanja keluarga atau berhutang semata-mata nak melabur.
+
+Kalau kewangan dah stabil dan ada lebihan, barulah kita pertimbangkan simpanan jangka panjang seperti emas.
+
+Melalui GAP Public Gold, kita boleh mula mengumpul emas serendah seratus ringgit. Tapi ingat, harga emas boleh turun naik dan keuntungan tak dijamin.
+
+Tak perlu terburu-buru nak kaya. Bina asas kewangan yang kukuh dahulu.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 968,
+    siri: "GPT-Asas-01",
+    no: 29,
+    topik: "Kewangan Peribadi",
+    tajuk: "Setahun Menyimpan, Yang Tinggal Cuma Resit",
+    tags: ["gap", "gaji", "ringgit", "kecemasan", "resit", "tunai"],
+    teks: `Pernah tak kita kumpul duit sikit-sikit setiap bulan, tapi bila hujung tahun, yang tinggal cuma resit pembelian?
+
+Kita sebenarnya ada niat nak menyimpan. Setiap bulan cuba asingkan duit, tapi bila nampak barang menarik, ada sale atau rasa penat bekerja, kita mula usik simpanan sendiri.
+
+Akhirnya, duit yang sepatutnya jadi bekalan masa depan bertukar menjadi barang yang mungkin kita dah tak ingat pun kita beli.
+
+Sebab itu, kita bukan sekadar perlu belajar menyimpan. Kita juga perlu belajar bagaimana nak mempertahankan simpanan daripada kehendak sendiri.
+
+Salah satu caranya ialah asingkan duit simpanan sebaik sahaja gaji masuk. Pastikan dana kecemasan tersedia, kemudian pertimbangkan aset jangka panjang seperti emas mengikut kemampuan.
+
+Melalui GAP Public Gold, kita boleh mula mengumpul emas serendah seratus ringgit. Bila sebahagian duit dah diperuntukkan untuk simpanan, kita ada satu lagi sebab untuk berfikir sebelum membelanjakannya.
+
+Cuma jangan lupa, emas bukan pengganti wang tunai kecemasan dan harganya boleh turun naik.
+
+Jangan biarkan hasil titik peluh kita habis untuk perkara yang kita sendiri tak ingat. Biar sedikit, asalkan ada yang berjaya kita simpan.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 969,
+    siri: "GPT-Asas-01",
+    no: 30,
+    topik: "Kenapa Emas",
+    tajuk: "RM100 Di Pasar Raya Makin Tak Cukup",
+    tags: ["gap", "inflasi", "ringgit", "kecemasan", "tunai"],
+    teks: `Pernah tak kita bawa duit seratus ringgit pergi pasar raya, tapi bila sampai kaunter, barang dalam troli pun tak banyak?
+
+Dulu rasa macam seratus ringgit boleh beli macam-macam. Sekarang, barang dapur beberapa jenis pun dah boleh habiskan duit tu.
+
+Inilah kesan inflasi. Duit kita masih seratus ringgit, tapi kuasa belinya semakin berkurang apabila harga barang meningkat.
+
+Sebab itu, kita tak boleh sekadar fikir berapa banyak duit yang kita simpan. Kita juga kena fikir, sepuluh atau dua puluh tahun akan datang, apa yang duit itu masih mampu beli?
+
+Salah satu cara untuk mempelbagaikan simpanan ialah dengan memiliki emas. Sejak sekian lama, emas digunakan sebagai penyimpan nilai, walaupun harganya tetap turun naik dan tidak menjamin keuntungan.
+
+Kalau nak mula mengumpul emas, Akaun GAP Public Gold membolehkan kita bermula serendah seratus ringgit, mengikut kemampuan.
+
+Tak perlu tinggalkan simpanan tunai. Dana kecemasan tetap penting. Kita cuma perlu merancang supaya tak bergantung pada satu bentuk simpanan sahaja.
+
+Ingat, duit yang kita kumpul hari ini perlu membantu kehidupan kita pada masa depan juga.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
   }
 ];
 
@@ -26247,4 +26985,4 @@ export const namaSiri = {
 export const hargaLalai = { harga999: "542", harga916: "497", tarikh: "27 September 2026" };
 
 // Siri yang dapat TAB sendiri (ikut susunan). Semua siri lain masuk tab "Archive".
-export const tabUtama = ["Listicle-02", "Listicle-03", "Listicle-04", "Listicle-05", "Listicle-06", "Listicle-07", "Listicle-08", "Listicle-09", "Listicle-10", "Listicle-11", "Listicle-12", "Listicle-13", "Listicle-14", "Listicle-15", "Listicle-16", "Listicle-17"];
+export const tabUtama = ["GPT-Asas-01", "Listicle-03", "Listicle-04", "Listicle-05", "Listicle-06", "Listicle-07", "Listicle-08", "Listicle-09", "Listicle-10", "Listicle-11", "Listicle-12", "Listicle-13", "Listicle-14", "Listicle-15", "Listicle-16", "Listicle-17"];
