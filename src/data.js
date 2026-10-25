@@ -29221,6 +29221,756 @@ Melalui Akaun GAP Public Gold, mulakanlah langkah membina dana masa depan itu se
 Semoga setiap gram emas yang kita simpan dengan ilmu dan kesabaran hari ini menjadi asbab ketenangan hidup kita sekeluarga pada masa hadapan.
 
 Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1060,
+    siri: "Mentor-04",
+    no: 1,
+    topik: "Keluarga",
+    tajuk: "Kesilapan Kewangan Tahun Pertama Pengantin Baru",
+    tags: ["gap", "susut nilai", "hutang", "gaji", "rumah", "ringgit", "anak", "isteri"],
+    teks: `Bagi pasangan muda yang baru sahaja mendirikan rumah tangga, apakah kesilapan kewangan paling kerap berlaku pada tahun pertama perkahwinan?
+
+Selalunya selepas selesai majlis perkahwinan, pasangan muda teruja nak melengkapkan rumah baharu dengan perabot mewah, televisyen besar dan pelbagai kelengkapan secara ansuran.
+
+Tanpa disedari, belum pun sempat anak pertama lahir, gaji bulanan suami dan isteri sudah pun terikat dengan pelbagai komitmen hutang barangan susut nilai.
+
+Sebab itu, guru saya, Tuan Mohd Zulkifli Shafie, menasihatkan pasangan yang baru berkahwin supaya memulakan tabiat membina simpanan emas sejak bulan pertama perkahwinan lagi.
+
+Bersabarlah menggunakan kelengkapan rumah sekadar apa yang perlu dahulu, dan utamakan usaha membina dana kecemasan serta rizab emas keluarga.
+
+Melalui Akaun GAP Public Gold, pasangan suami isteri boleh mula mengumpul emas bersama-sama bermula serendah seratus ringgit setiap bulan.
+
+Apabila asas simpanan keluarga sudah kukuh sejak awal perkahwinan, perjalanan menyambut kelahiran cahaya mata nanti akan menjadi jauh lebih tenang.
+
+Cuma pastikan simpanan tunai kecemasan tiga bulan gaji turut disediakan kerana harga emas boleh turun naik dalam jangka pendek.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1061,
+    siri: "Mentor-04",
+    no: 2,
+    topik: "Strategi Emas",
+    tajuk: "Harga Emas Naik Waktu Perang, Turun Bila Reda",
+    tags: ["gap", "inflasi", "krisis", "perang", "ringgit"],
+    teks: `Pernah tak kita tengok harga emas melonjak tinggi waktu berlaku krisis perang atau ketegangan dunia, tapi bila keadaan kembali reda, harganya turun semula sedikit?
+
+Bagi penyimpan baharu yang belum memahami cara pasaran berfungsi, penurunan selepas krisis itu kadangkala membuatkan mereka rasa cemas.
+
+Guru saya, Tuan Mohd Zulkifli Shafie, menjelaskan bahawa kita perlu membezakan antara lonjakan harga jangka pendek akibat sentimen ketakutan dengan kenaikan harga jangka panjang akibat inflasi.
+
+Apabila berlaku krisis geopolitik, pelabur besar dunia berlumba-lumba membeli emas sebagai tempat berlindung, menyebabkan harganya naik mendadak dalam masa singkat.
+
+Apabila krisis tersebut reda, harga emas akan membuat pembetulan semula ke paras yang lebih stabil.
+
+Namun dalam tempoh jangka panjang lima hingga sepuluh tahun ke atas, aliran harga emas tetap cenderung meningkat kerana kuasa beli wang kertas semakin menyusut dimakan inflasi.
+
+Sebab itu apabila kita menabung di dalam Akaun GAP Public Gold serendah seratus ringgit, kita tidak perlu terikut-ikut dengan emosi berita harian.
+
+Fokuskan pandangan kita kepada matlamat jangka panjang keluarga dan gunakan wang lebihan yang tidak diperlukan dalam masa terdekat.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1062,
+    siri: "Mentor-04",
+    no: 3,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Jangan Uji Emas Dengan Gores, Gigit Atau Bakar",
+    tags: ["gap", "susut nilai", "rumah", "dinar", "ringgit", "kilang"],
+    teks: `Pernah tak kita tengok video di media sosial yang tunjuk cara uji ketulenan emas dengan cara menggores, menggigit atau membakar kepingan emas sendiri di rumah?
+
+Jangan sesekali kita tiru perbuatan tersebut ke atas jongkong emas atau syiling dinar simpanan kita.
+
+Menurut peringatan guru saya, Tuan Mohd Zulkifli Shafie, emas berketulenan sembilan sembilan sembilan perpuluhan sembilan mempunyai sifat logam yang agak lembut.
+
+Jika kita menggores, membengkokkan atau membakar kepingan emas tersebut secara sembarangan, ia boleh mencacatkan rupa bentuk asal dan merosakkan bungkusan perlindungannya.
+
+Walaupun emas yang kemek atau tercalar itu masih tulen dan tetap diterima untuk jualan balik, ia mungkin tertakluk kepada potongan susut nilai yang lebih tinggi seperti emas terpakai.
+
+Sebenarnya, jika kita membeli emas terus daripada pengeluar rasmi yang diiktiraf seperti Public Gold, setiap kepingan emas sudah pun disertakan dengan sijil pengesahan ketulenan.
+
+Melalui Akaun GAP Public Gold yang bermula serendah seratus ringgit, emas yang kita tebus dijamin ketulenannya terus daripada kilang tanpa perlu kita ragui.
+
+Simpanlah kepingan emas fizikal kita di dalam keadaan baik dan elakkan sebarang ujian kasar yang boleh merugikan diri sendiri.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1063,
+    siri: "Mentor-04",
+    no: 4,
+    topik: "Kenapa Emas",
+    tajuk: "Beza Emas 916 & 999",
+    tags: ["gap", "barang kemas", "susut nilai", "dinar", "ringgit", "916", "999"],
+    teks: `Bila kita pergi ke kedai emas atau baca tentang simpanan emas, kita selalu nampak nombor sembilan satu enam dan sembilan sembilan sembilan. Apa sebenarnya maksud nombor-nombor ni?
+
+Bagi mereka yang baru berjinak-jinak dengan dunia emas, memahami perbezaan ketulenan ini adalah ilmu asas yang sangat penting seperti yang dikongsikan oleh guru saya, Tuan Mohd Zulkifli Shafie.
+
+Emas sembilan satu enam, atau dikenali sebagai emas dua puluh dua karat, bermaksud kandungannya terdiri daripada sembilan puluh satu perpuluhan enam peratus emas tulen, manakala bakinya dicampur dengan logam lain seperti perak atau tembaga.
+
+Campuran logam lain itu bertujuan mengeraskan sedikit struktur emas supaya ia tahan lasak apabila ditempa menjadi barang kemas perhiasan.
+
+Sebaliknya, emas sembilan sembilan sembilan perpuluhan sembilan atau dua puluh empat karat pula adalah emas tulen hampir seratus peratus yang digunakan khusus untuk menghasilkan jongkong emas dan syiling dinar.
+
+Untuk tujuan simpanan dan pelaburan jangka panjang, emas berketulenan sembilan sembilan sembilan perpuluhan sembilan adalah pilihan terbaik kerana ia tidak melibatkan kos upah pertukangan dan mempunyai susut nilai yang rendah.
+
+Melalui Akaun GAP Public Gold, setiap ringgit yang kita tabungkan bermula serendah seratus ringgit diwakili oleh emas tulen sembilan sembilan sembilan perpuluhan sembilan.
+
+Pastikan kita memilih jenis ketulenan emas yang tepat mengikut matlamat simpanan keluarga kita.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1064,
+    siri: "Mentor-04",
+    no: 5,
+    topik: "Barang Kemas",
+    tajuk: "Barang Kemas Bertatah Batu: Elak Untuk Simpanan",
+    tags: ["gap", "barang kemas", "susut nilai", "dinar", "ringgit", "kecemasan", "resit"],
+    teks: `Kalau kita nak beli barang kemas sambil berniat nak jadikannya sebagai simpanan kecemasan masa depan, apakah satu jenis reka bentuk yang wajib kita elakkan?
+
+Jawapannya ialah barang kemas yang mempunyai tatahan batu permata, manik atau campuran bahan bukan emas yang banyak.
+
+Guru saya, Tuan Mohd Zulkifli Shafie, sering menerangkan perkara ini supaya pembeli tidak terkejut apabila mahu menjual semula barang kemas mereka di kemudian hari.
+
+Semasa kita membeli cincin atau gelang yang mempunyai batu permata di kedai, harga batu dan kos pemasangannya dikira sekali di dalam resit belian kita.
+
+Tetapi apabila kita membawa semula barang kemas tersebut untuk dijual atau dipajak, pihak kedai hanya akan menilai berat logam emasnya sahaja, manakala batu permata tadi langsung tidak diambil kira.
+
+Akibatnya, kita mengalami kerugian dua kali ganda, iaitu daripada potongan susut nilai barang kemas dan juga daripada harga batu permata yang hangus begitu sahaja.
+
+Jika matlamat utama kita adalah untuk menyimpan nilai harta keluarga, kumpullah jongkong emas atau dinar tulen melalui Akaun GAP Public Gold serendah seratus ringgit.
+
+Biar kita jelas membezakan antara perhiasan untuk gaya dengan aset tulen untuk masa depan, sambil memahami risiko turun naik pasaran.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1065,
+    siri: "Mentor-04",
+    no: 6,
+    topik: "Kewangan Peribadi",
+    tajuk: "Ketagihan Beli-Belah Online Waktu Malam",
+    tags: ["gap", "gaji", "rumah", "ringgit", "kecemasan"],
+    teks: `Pernah tak waktu malam sebelum tidur, kita buka telefon pintar sekadar nak tengok-tengok aplikasi beli-belah, tapi sedar-sedar kita dah tertekan butang bayar untuk barang yang tak dirancang?
+
+Tabiat membeli-belah secara impulsif pada waktu malam ini sebenarnya adalah antara punca terbesar mengapa gaji bulanan kita bocor secara senyap.
+
+Walaupun harga satu barang itu cuma dua puluh atau tiga puluh ringgit, apabila dikumpulkan sepanjang bulan, jumlahnya boleh mencecah ratusan ringgit.
+
+Guru saya, Tuan Mohd Zulkifli Shafie, mencadangkan satu cara mudah untuk menggantikan tabiat ini dengan tabiat yang menguntungkan masa depan.
+
+Oleh sebab sistem Akaun Emas GAP Public Gold beroperasi dua puluh empat jam sehari di hujung jari, kita boleh menukar keseronokan membeli barang kepada keseronokan membeli aset.
+
+Setiap kali datang rasa bosan atau keinginan mahu berbelanja perkara yang tidak perlu, cuba alihkan wang seratus ringgit itu untuk menambah baki gram emas kita.
+
+Esok pagi apabila kita bangun tidur, wang kita tidak hilang menjadi barang yang memenuhi ruang rumah, sebaliknya kekal tersimpan dalam bentuk berat emas.
+
+Cuma pastikan kita menggunakan wang lebihan sahaja dan tidak mengusik bajet keperluan dapur serta dana kecemasan keluarga.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1066,
+    siri: "Mentor-04",
+    no: 7,
+    topik: "Kewangan Peribadi",
+    tajuk: "Gaji Sederhana Tapi Konsisten Simpan Emas",
+    tags: ["gap", "hutang", "kad kredit", "gaji", "ringgit", "disiplin"],
+    teks: `Kenapa ada orang yang gajinya sederhana sahaja, tetapi setiap bulan dia mampu menyimpan emas dengan sangat konsisten tanpa rasa tertekan?
+
+Apabila kita selidik latar belakang kewangan mereka, rahsianya hampir sentiasa sama: mereka sudah berjaya membebaskan diri daripada belenggu hutang-hutang jahat.
+
+Guru saya, Tuan Mohd Zulkifli Shafie, sentiasa menekankan bahawa musuh utama tabungan keluarga bukanlah gaji yang kecil, tetapi potongan ansuran hutang kehendak yang memakan gaji setiap bulan.
+
+Bayangkan jika seseorang terpaksa membayar lima ratus ringgit sebulan untuk pinjaman peribadi dan tiga ratus ringgit lagi untuk ansuran perabot atau kad kredit.
+
+Lapan ratus ringgit daripada titik peluhnya hilang begitu sahaja setiap bulan kepada pihak pemberi pinjaman.
+
+Tetapi sebaik sahaja kesemua hutang jahat itu dilangsaikan, wang lapan ratus ringgit tadi serta-merta menjadi milik penuh keluarganya semula untuk ditukarkan kepada simpanan emas.
+
+Sambil kita berusaha menyusun penyelesaian hutang, kita boleh membina disiplin menabung secara kecil-kecilan serendah seratus ringgit di dalam Akaun GAP Public Gold.
+
+Fokuslah melangsaikan hutang yang membebankan satu demi satu, kerana kebebasan hutang adalah pemecut terbaik untuk membina kekayaan.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1067,
+    siri: "Mentor-04",
+    no: 8,
+    topik: "Kewangan Peribadi",
+    tajuk: "Gaji Naik RM100: Ke Mana Patut Pergi?",
+    tags: ["gap", "gaji", "ringgit", "kecemasan", "auto-debit", "tunai"],
+    teks: `Setiap tahun bila majikan umumkan kenaikan gaji tahunan sebanyak seratus atau dua ratus ringgit sebulan, macam mana cara terbaik untuk kita manfaatkan kenaikan tersebut?
+
+Kebanyakan orang secara tidak sedar akan terus menyerap kenaikan gaji itu ke dalam perbelanjaan harian. Makan di tempat lebih mahal sedikit, atau langgan pakej internet yang lebih laju.
+
+Akhirnya, walaupun gaji dah naik saban tahun, jumlah simpanan bulanan tetap berada di takuk yang lama.
+
+Guru saya, Tuan Mohd Zulkifli Shafie, berkongsi satu tip yang sangat praktikal: anggaplah kenaikan gaji tahunan itu seolah-olah tidak wujud untuk perbelanjaan kita.
+
+Maksudnya, jika sebelum ini kita mampu hidup dengan gaji asal, kekalkan sahaja gaya hidup dan perbelanjaan bulanan pada tahap yang sama.
+
+Manakala keseluruhan jumlah kenaikan gaji yang baharu itu pula terus kita salurkan secara tetap ke dalam tabungan emas setiap bulan.
+
+Melalui kemudahan GAP atau GAP Auto-Debit Public Gold, tambahan seratus atau dua ratus ringgit sebulan itu boleh ditukarkan terus kepada gram emas tanpa kita rasa sebarang pengurangan pada bajet sedia ada.
+
+Dengan cara ini, simpanan jangka panjang keluarga kita berkembang dengan pesat seiring peningkatan kerjaya, sambil kita tetap menjaga dana kecemasan tunai.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1068,
+    siri: "Mentor-04",
+    no: 9,
+    topik: "Zakat & Syariah",
+    tajuk: "Dah Dapat Giliran Haji, Jangan Keluarkan Duit Tabung Haji",
+    tags: ["gap", "susut nilai", "tabung haji", "haji", "ringgit"],
+    teks: `Kalau kita dah dapat surat tawaran giliran menunaikan haji pada tahun hadapan, patut ke kita keluarkan duit daripada Tabung Haji sekarang untuk beli emas dulu?
+
+Jawapannya: jangan sesekali buat begitu. Ini adalah peringatan yang sangat penting daripada guru saya, Tuan Mohd Zulkifli Shafie, tentang kesesuaian tempoh masa sesuatu aset.
+
+Kita wajib faham bahawa emas adalah instrumen simpanan untuk jangka masa sederhana dan panjang, iaitu sekurang-kurangnya tiga hingga lima tahun ke atas.
+
+Ini kerana di dalam tempoh yang singkat seperti enam bulan atau setahun, harga emas boleh mengalami turun naik pasaran dan terdapat kos susut nilai apabila kita menjualnya semula.
+
+Sekiranya giliran menunaikan ibadah haji kita sudah pun hampir dalam masa setahun dua lagi, tempat paling tepat untuk wang tersebut adalah kekal di dalam akaun Tabung Haji.
+
+Emas hanya sesuai digunakan sebagai dana membina tabungan haji bagi mereka yang tempoh menunggu gilirannya masih jauh, contohnya lima atau sepuluh tahun akan datang.
+
+Bagi tujuan jangka panjang itu, barulah sesuai kita mengumpul gram emas sedikit demi sedikit melalui Akaun GAP Public Gold serendah seratus ringgit.
+
+Gunakanlah setiap instrumen kewangan mengikut tempoh matlamat yang betul supaya rancangan besar kita tidak terjejas.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1069,
+    siri: "Mentor-04",
+    no: 10,
+    topik: "Strategi Emas",
+    tajuk: "Kumpul Deposit Rumah Pertama Dalam 5 Tahun",
+    tags: ["gap", "gaji", "rumah", "ringgit", "tunai"],
+    teks: `Bagi orang muda yang merancang nak beli rumah pertama dalam tempoh empat atau lima tahun lagi, macam mana cara nak kumpul duit deposit rumah supaya tak terpakai?
+
+Untuk membeli sebuah rumah, kita biasanya memerlukan wang pendahuluan dan kos guaman sekitar sepuluh hingga lima belas peratus daripada harga rumah tersebut.
+
+Cabarannya ialah apabila kita cuba mengumpul wang puluhan ribu ringgit itu di dalam bentuk tunai biasa selama lima tahun, godaan untuk menggunakannya bagi tujuan lain adalah sangat tinggi.
+
+Guru saya, Tuan Mohd Zulkifli Shafie, mencadangkan supaya mereka yang mempunyai sasaran membeli rumah dalam tempoh tiga hingga lima tahun ke atas membina dana deposit tersebut di dalam bentuk emas.
+
+Setiap bulan, asingkan sebahagian gaji untuk mengumpul gram emas secara berdisiplin.
+
+Apabila wang deposit itu disimpan dalam bentuk emas, ia bukan sahaja terselamat daripada nafsu berbelanja, malah nilainya berpotensi berkembang seiring kenaikan harga pasaran dalam tempoh lima tahun tersebut.
+
+Melalui Akaun GAP Public Gold, kita boleh memulakan tabung deposit rumah ini serendah seratus ringgit mengikut kemampuan bulanan.
+
+Cuma apabila tempoh membeli rumah sudah semakin hampir dan jumlah sasaran sudah tercapai, cairkanlah kepada tunai pada waktu harga yang sesuai.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1070,
+    siri: "Mentor-04",
+    no: 11,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Awas Teknik Pajak Ar-Rahnu Berkali-Kali",
+    tags: ["gap", "ar-rahnu", "pajak", "hutang", "ringgit"],
+    teks: `Pernah tak ada orang ajak kita beli emas, kemudian suruh kita pajak emas tu di Ar-Rahnu untuk beli lagi emas baharu berkali-kali kononnya boleh cepat kaya?
+
+Teknik yang sering digelar sebagai teknik manipulasi pajak gadai ini nampak sangat mengujakan apabila diterangkan oleh pihak yang tidak bertanggungjawab.
+
+Tetapi guru saya, Tuan Mohd Zulkifli Shafie, sejak dahulu lagi sentiasa menasihatkan masyarakat supaya menjauhi perangkap berhutang secara berlapis-lapis seperti ini.
+
+Kita perlu sedar bahawa setiap kali kita memajak emas di Ar-Rahnu, kita sebenarnya sedang membuat pinjaman yang mempunyai kos upah simpan bulanan.
+
+Jika kita memajak emas sehingga lapan atau sembilan lapis, jumlah hutang dan kos upah simpan yang perlu ditanggung menjadi sangat besar.
+
+Sekiranya harga emas tidak naik seperti yang diramalkan dalam tempoh enam bulan atau setahun, kita akan tersepit untuk membayar upah simpan dan akhirnya kesemua emas tersebut terpaksa dilelong.
+
+Simpanan emas yang sebenar sepatutnya membuatkan tidur malam kita lena, bukannya membuatkan kita berhutang keliling pinggang.
+
+Menabunglah secara tenang menggunakan wang lebihan sendiri di dalam Akaun GAP Public Gold serendah seratus ringgit tanpa sebarang beban hutang.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1071,
+    siri: "Mentor-04",
+    no: 12,
+    topik: "Public Gold & GAP",
+    tajuk: "Macam Mana Nak Jual Balik Emas Dalam Akaun GAP?",
+    tags: ["gap", "ringgit", "cawangan", "tunai"],
+    teks: `Waktu nak beli emas dalam Akaun GAP memang senang, tekan-tekan di telefon dah siap. Tapi macam mana pula kalau satu hari nanti kita nak jual semula emas tu sebab nak guna duit?
+
+Soalan ini sangat bagus, kerana kemudahan mencairkan semula aset adalah perkara yang wajib kita tahu sebelum mula menyimpan.
+
+Menurut panduan guru saya, Tuan Mohd Zulkifli Shafie, salah satu kelebihan utama Akaun Emas GAP Public Gold ialah kita bukan sahaja boleh membeli secara dalam talian, malah boleh menjual semula gram emas secara dalam talian juga.
+
+Sekiranya kita memerlukan wang tunai dan belum menebus emas tersebut menjadi fizikal, kita tidak perlu bersusah payah pergi ke cawangan.
+
+Kita hanya perlu membuka aplikasi rasmi, menyemak harga belian balik semasa, dan memasukkan jumlah gram yang ingin dijual.
+
+Hasil jualan tersebut akan dimasukkan terus ke dalam akaun bank peribadi kita yang telah didaftarkan di dalam sistem dalam tempoh hari bekerja yang ditetapkan.
+
+Manakala baki gram yang tidak dijual pula akan kekal tersimpan dengan selamat di dalam akaun kita.
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung serendah seratus ringgit dengan tenang kerana proses keluar dan masuknya sangat jelas serta telus.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1072,
+    siri: "Mentor-04",
+    no: 13,
+    topik: "Public Gold & GAP",
+    tajuk: "Kenapa Duit Jualan GAP Hanya Masuk Akaun Sendiri",
+    tags: ["gap", "ringgit", "cawangan"],
+    teks: `Kenapa bila kita jual balik emas di dalam Akaun GAP, pihak syarikat hanya benarkan duit hasil jualan itu dimasukkan ke dalam akaun bank atas nama kita sendiri sahaja?
+
+Mungkin ada yang bertanya, kenapa tak boleh masukkan terus ke dalam akaun bank kawan atau akaun bank orang lain?
+
+Guru saya, Tuan Mohd Zulkifli Shafie, menerangkan bahawa syarat ketat ini sebenarnya adalah ciri keselamatan yang sangat penting untuk melindungi harta penyimpan sendiri.
+
+Bayangkan sekiranya telefon pintar kita tercicir atau kata laluan akaun kita diceroboh oleh pihak yang tidak bertanggungjawab.
+
+Walaupun pencuri tersebut cuba menekan butang jual balik emas di dalam akaun kita, wang hasil jualan itu tetap tidak boleh dipindahkan ke akaun bank milik pencuri berkenaan.
+
+Sebaliknya, wang tersebut hanya akan mengalir masuk ke dalam akaun bank peribadi atas nama pemilik asal yang sah sahaja.
+
+Begitu juga apabila kita ingin menebus emas fizikal di cawangan, hanya pemilik akaun yang membawa kad pengenalan asal dibenarkan mengambil emas tersebut.
+
+Sebab itu, mulakanlah tabungan emas serendah seratus ringgit melalui Akaun GAP Public Gold dengan keyakinan bahawa sistem keselamatannya dibina untuk menjaga hak kita.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1073,
+    siri: "Mentor-04",
+    no: 14,
+    topik: "Strategi Emas",
+    tajuk: "Dinar Bulat vs Jongkong Petak: Mana Lebih Baik?",
+    tags: ["gap", "dinar", "ringgit", "cukai"],
+    teks: `Selalu penyimpan baharu tanya saya: antara syiling dinar emas yang bentuk bulat dengan jongkong emas yang bentuk petak, mana satu sebenarnya yang lebih untung untuk kita simpan?
+
+Jawapan yang sering diberikan oleh guru saya, Tuan Mohd Zulkifli Shafie, ialah kedua-duanya mempunyai kualiti dan nilai simpanan yang sama baik.
+
+Di Public Gold, baik syiling dinar mahupun jongkong emas kedua-duanya ditempa menggunakan emas tulen berketulenan sembilan sembilan sembilan perpuluhan sembilan dan diiktiraf bebas daripada cukai barang.
+
+Perbezaan antara kedua-duanya hanyalah pada bentuk dan piawaian timbangan beratnya sahaja.
+
+Jongkong emas menggunakan timbangan gram yang genap seperti satu gram, sepuluh gram, lima puluh gram dan seratus gram.
+
+Manakala syiling dinar pula mengikut timbangan tradisi Islam iaitu satu dinar bersamaan empat perpuluhan dua lima gram, selain terdapat juga saiz setengah dinar, lima dinar dan sepuluh dinar.
+
+Yang menariknya, apabila kita menabung di dalam Akaun GAP Public Gold bermula serendah seratus ringgit, kita bebas memilih sama ada mahu menebus baki gram kita menjadi jongkong emas ataupun syiling dinar.
+
+Jadi tak perlu pening memilih. Fokus sahaja mengumpul berat gram mengikut kemampuan dan fahami risiko turun naik pasaran jangka panjang.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1074,
+    siri: "Mentor-04",
+    no: 15,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Bahaya Kutu Emas Dengan Orang Tak Dikenali",
+    tags: ["gap", "ringgit", "syariah"],
+    teks: `Pernah tak kita diajak masuk kumpulan main kutu emas di media sosial dengan orang yang kita langsung tak kenal secara peribadi?
+
+Pada zaman dahulu, permainan kutu emas secara tradisional dalam kalangan ahli keluarga atau rakan sepejabat yang dipercayai memang sering dilakukan.
+
+Tetapi pada hari ini, guru saya, Tuan Mohd Zulkifli Shafie, menasihatkan orang ramai supaya sangat berhati-hati dan mengelakkan kumpulan kutu emas yang dianjurkan secara terbuka oleh individu tidak dikenali.
+
+Ini kerana sudah banyak kes berlaku apabila tiba giliran peserta terakhir hendak menerima emas, penganjur kutu tersebut tiba-tiba menghilangkan diri bersama wang terkumpul.
+
+Persoalannya, mengapa kita perlu mengambil risiko menyerahkan wang bulanan kita kepada orang asing sedangkan kita sudah mempunyai kemudahan menabung secara terus dengan syarikat?
+
+Melalui Akaun Emas GAP Public Gold, kita boleh menyimpan seratus ringgit setiap bulan terus ke dalam akaun atas nama kita sendiri.
+
+Setiap kali kita masukkan seratus ringgit, ia terus ditukarkan kepada berat gram emas pada hari itu juga tanpa perlu menunggu giliran orang lain.
+
+Pilihlah cara menabung yang selamat, patuh syariah dan berada di bawah kawalan kita sendiri sepenuhnya.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1075,
+    siri: "Mentor-04",
+    no: 16,
+    topik: "Kewangan Peribadi",
+    tajuk: "Simpan Emas Bila Pendapatan Tak Tetap",
+    tags: ["gap", "ringgit", "kecemasan", "disiplin", "tunai"],
+    teks: `Kalau pendapatan kita bergantung kepada kerja kontrak, komisen jualan atau projek bermusim yang tak tetap setiap bulan, macam mana cara terbaik nak urus simpanan?
+
+Cabaran utama bagi mereka yang berpendapatan bermusim ialah ada bulannya rezeki masuk mencurah-curah, dan ada bulannya pula pendapatan menjadi sangat perlahan.
+
+Jika pada bulan yang mewah kita berbelanja mengikut selera besar, kita akan menghadapi kesempitan yang teruk apabila tiba musim kemarau projek.
+
+Guru saya, Tuan Mohd Zulkifli Shafie, menyarankan supaya golongan berpendapatan tidak tetap mengamalkan disiplin menyimpan secara agresif sewaktu bulan pendapatan tinggi.
+
+Pastikan terlebih dahulu dana kecemasan tunai di dalam bank mencukupi sekurang-kurangnya enam bulan perbelanjaan asas keluarga.
+
+Kemudian, setiap kali menerima bayaran projek atau komisen yang besar, segera tukarkan sebahagian besar lebihan tersebut kepada simpanan emas sebelum sempat dibelanjakan.
+
+Melalui Akaun GAP Public Gold, tiada had maksimum dan tiada komitmen tetap; kita boleh menyimpan serendah seratus ringgit pada bulan biasa dan menyimpan jumlah lebih besar pada bulan rezeki lebih.
+
+Cuma pastikan kita merancang aliran tunai dengan teliti kerana harga emas ada turun naik pasaran.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1076,
+    siri: "Mentor-04",
+    no: 17,
+    topik: "Public Gold & GAP",
+    tajuk: "Takut Buka Plastik Jongkong Emas?",
+    tags: ["gap", "susut nilai", "dinar", "ringgit"],
+    teks: `Pernah tak kita rasa takut nak pegang jongkong emas yang berbalut plastik sebab dengar cerita kalau plastik tu terbuka sedikit, emas tu dah tak laku atau kena potong harga banyak?
+
+Kerisauan ini memang berasas jika kita membeli sesetengah jenama emas yang mengenakan syarat bungkusan mesti kekal tertutup rapat selama-lamanya.
+
+Tetapi menurut penjelasan guru saya, Tuan Mohd Zulkifli Shafie, salah satu kelebihan menyimpan bersama Public Gold ialah polisi belian baliknya yang sangat mesra penyimpan.
+
+Bagi jongkong emas dan dinar keluaran Public Gold, nilai utamanya terletak pada berat dan ketulenan logam emas itu sendiri, bukannya pada sarung plastik pembungkusnya.
+
+Malah bagi sesetengah reka bentuk jongkong dan dinar, kita memang boleh membuka sarungnya untuk merasai sendiri kepingan emas tersebut di tangan.
+
+Sekiranya kita ingin menjualnya semula kepada syarikat, ia tetap dibeli balik pada kadar susut nilai biasa yang telus asalkan emas tersebut tulen, cukup berat dan tidak bengkok atau rosak.
+
+Bagi yang suka menabung secara fleksibel, kita boleh mula mengumpul emas di dalam Akaun GAP Public Gold serendah seratus ringgit sebelum menebusnya menjadi fizikal.
+
+Walaupun syaratnya mesra pengguna, jagalah keadaan fizikal emas kita dengan baik supaya nilainya sentiasa terpelihara.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1077,
+    siri: "Mentor-04",
+    no: 18,
+    topik: "Strategi Emas",
+    tajuk: "Panduan Simpan Dinar & Jongkong Di Rumah",
+    tags: ["gap", "rumah", "dinar", "ringgit"],
+    teks: `Kalau kita dah tebus beberapa keping dinar atau jongkong emas kecil dan memilih untuk menyimpannya sendiri di rumah, apakah langkah keselamatan yang wajib kita amalkan?
+
+Guru saya, Tuan Mohd Zulkifli Shafie, sering berkongsi beberapa panduan praktikal bagi memastikan emas fizikal yang disimpan sendiri berada dalam keadaan selamat.
+
+Langkah pertama dan paling utama ialah kunci mulut. Jangan sesekali bercerita kepada rakan, jiran mahupun saudara-mara bahawa kita menyimpan emas fizikal di dalam rumah.
+
+Langkah kedua, jangan simpan kesemua kepingan emas di dalam satu bekas atau satu lokasi yang sama.
+
+Elakkan tempat-tempat yang terlalu biasa dijangka oleh pencuri seperti di dalam laci meja solek, di dalam almari pakaian utama atau di bawah tilam.
+
+Sebaliknya, pecahkan simpanan tersebut kepada beberapa bahagian kecil di tempat yang berbeza dan hanya diketahui oleh kita serta pasangan sahaja.
+
+Sekiranya jumlah emas kita sudah semakin banyak dan kita rasa tidak lagi tenteram menyimpannya di rumah, gunakanlah peti simpanan selamat berdaftar atau biarkan sahaja di dalam Akaun GAP Public Gold yang boleh dimulakan serendah seratus ringgit.
+
+Ketenangan tidur malam kita adalah keutamaan, jadi pilihlah kaedah penyimpanan yang paling sesuai dengan tahap keselamatan masing-masing.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1078,
+    siri: "Mentor-04",
+    no: 19,
+    topik: "Kewangan Peribadi",
+    tajuk: "Pandai Kira Tapi Masih Gagal Simpan",
+    tags: ["gap", "gaji", "ringgit", "disiplin"],
+    teks: `Pernah tak kita terfikir, kenapa ada orang yang sangat pandai mengira dan tahu pelbagai teori pelaburan, tetapi masih gagal membina simpanan yang kukuh?
+
+Ini kerana di dalam dunia kewangan peribadi, kejayaan jarang sekali ditentukan oleh kepintaran matematik semata-mata, sebaliknya ditentukan oleh keupayaan kita mengawal emosi dan tingkah laku.
+
+Guru saya, Tuan Mohd Zulkifli Shafie, selalu mengingatkan bahawa ilmu mengumpul emas sebenarnya sangat mudah sehingga tidak memerlukan sebarang pengiraan yang rumit.
+
+Apa yang sukar bukanlah mengira harga segram emas, tetapi menahan diri daripada terpengaruh dengan emosi tamak ketika harga naik dan emosi takut ketika harga turun.
+
+Juga menahan emosi kehendak apabila melihat rakan sebaya membeli barang mewah sedangkan kita sedang berusaha membina dana masa depan keluarga.
+
+Orang yang berjaya mengumpul banyak emas hanyalah orang biasa yang berjaya mengawal emosinya untuk terus menyimpan secara berdisiplin setiap bulan.
+
+Melalui Akaun GAP Public Gold, sesiapa sahaja boleh melatih disiplin emosi ini dengan mula menabung serendah seratus ringgit setiap kali menerima gaji.
+
+Fahami bahawa harga emas tetap turun naik mengikut pasaran, namun ketenangan emosi kitalah yang akan memastikan simpanan itu bertahan lama.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1079,
+    siri: "Mentor-04",
+    no: 20,
+    topik: "Kewangan Peribadi",
+    tajuk: "Simpan Emas Bukan Urusan Mak Cik Je",
+    tags: ["gap", "gaji", "ringgit", "anak"],
+    teks: `Pernah tak orang muda umur dua puluhan rasa bahawa simpanan emas ini hanyalah urusan orang-orang tua atau mak cik-mak cik di kampung sahaja?
+
+Anggapan bahawa emas hanya sesuai untuk golongan berusia adalah satu kerugian besar bagi generasi muda hari ini.
+
+Menurut guru saya, Tuan Mohd Zulkifli Shafie, golongan yang sebenarnya paling beruntung jika mula menyimpan emas ialah anak muda yang baru melangkah ke alam pekerjaan.
+
+Kenapa orang muda mempunyai kelebihan yang sangat besar? Kerana mereka mempunyai satu modal yang tidak lagi dimiliki oleh golongan berusia, iaitu modal masa yang panjang.
+
+Pada usia awal dua puluhan, komitmen keluarga selalunya masih belum besar dan mereka mempunyai tempoh sepuluh hingga dua puluh tahun di hadapan.
+
+Jika seorang anak muda mendisiplinkan diri menyimpan satu gram atau seratus ringgit sebulan sejak gaji pertama, menjelang usia tiga puluh tahun mereka sudah mempunyai asas aset yang sangat kukuh.
+
+Melalui aplikasi Akaun GAP Public Gold yang serba moden, orang muda boleh menabung emas serendah seratus ringgit terus daripada telefon pintar mereka.
+
+Jangan tunggu usia sudah lanjut baru mahu menghargai nilai emas. Mulakan sejak muda dengan wang lebihan dan ilmu yang betul.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1080,
+    siri: "Mentor-04",
+    no: 21,
+    topik: "Keluarga",
+    tajuk: "Hadiah Emas Untuk Bayi, Kejayaan & Ulang Tahun",
+    tags: ["gap", "ringgit", "anak"],
+    teks: `Setiap kali kita nak bagi hadiah sempena kelahiran bayi kawan rapat, kecemerlangan anak atau ulang tahun perkahwinan, apakah hadiah yang nilainya makin lama makin diingati?
+
+Selalunya kita membeli hamper pakaian, permainan atau barangan perhiasan yang selepas beberapa bulan sahaja sudah tidak lagi muat dipakai atau rosak.
+
+Guru saya, Tuan Mohd Zulkifli Shafie, menggalakkan kita membudayakan pemberian hadiah dalam bentuk kepingan emas kecil atau tabungan emas kepada insan tersayang.
+
+Hari ini, terdapat pelbagai pilihan jongkong emas kecil seberat setengah gram atau satu gram yang hadir dengan kad ucapan menarik mengikut tema majlis.
+
+Bayangkan apabila seorang anak menerima hadiah sekeping emas sejak kecil, hadiah itu bukan sahaja tidak rosak dimakan usia, malah nilainya kekal bertahan sehingga dia dewasa.
+
+Lebih penting lagi, pemberian sekeping emas itu secara tidak langsung membuka mata dan mendidik penerima tentang kepentingan menghargai aset sebenar.
+
+Bagi anak-anak sendiri pula, kita boleh menghadiahkan tambahan gram terus ke dalam Akaun GAP Junior Public Gold bermula serendah seratus ringgit.
+
+Walaupun nilai emas ada turun naik pasaran, hadiah dalam bentuk emas sentiasa membawa nilai ingatan dan manfaat jangka panjang yang tersendiri.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1081,
+    siri: "Mentor-04",
+    no: 22,
+    topik: "Strategi Emas",
+    tajuk: "Jongkong Bercorak Cantik, Tapi Potongan Jual Balik?",
+    tags: ["gap", "susut nilai", "dinar", "ringgit", "spread"],
+    teks: `Pernah tak kita nampak jongkong emas yang dijual dengan corak yang sangat cantik, tetapi bila kita nak jual balik, potongan harganya sampai dua puluh atau tiga puluh peratus?
+
+Dalam ilmu simpanan emas yang diajarkan oleh guru saya, Tuan Mohd Zulkifli Shafie, perkara pertama yang wajib disemak pada mana-mana jongkong emas bukanlah kecantikan ukirannya, tetapi berapakah kadar susut nilai atau spread emas tersebut.
+
+Spread ialah perbezaan peratusan antara harga kita membeli daripada syarikat dengan harga syarikat membeli semula emas itu daripada kita pada waktu yang sama.
+
+Kenapa peratusan susut nilai ini sangat penting untuk penyimpan?
+
+Katakan kita membeli emas yang mempunyai susut nilai dua puluh lima peratus. Ini bermakna kita terpaksa menunggu harga emas dunia naik melebihi dua puluh lima peratus dahulu barulah kita mula mendapat semula modal asal.
+
+Sebaliknya, jongkong emas dan dinar simpanan Public Gold mempunyai kadar susut nilai yang nipis dan telus, iaitu sekitar enam hingga sembilan peratus sahaja mengikut berat.
+
+Melalui Akaun GAP Public Gold, kita boleh mula mengumpul emas simpanan berkualiti ini serendah seratus ringgit mengikut kemampuan.
+
+Semaklah kadar susut nilai sebelum membeli, supaya setiap kenaikan harga emas pasaran dapat memberi manfaat kepada simpanan kita dengan lebih cepat.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1082,
+    siri: "Mentor-04",
+    no: 23,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kekal Yakin Bila Orang Sekeliling Memperlekeh",
+    tags: ["gap", "ringgit", "penipuan", "skim"],
+    teks: `Macam mana cara kita nak kekal yakin menyimpan emas walaupun orang di sekeliling kita memberi pelbagai pandangan yang mengelirukan?
+
+Jawapan paling mudah ialah kita perlu membina benteng ilmu di dalam diri kita sendiri melalui tabiat suka membaca.
+
+Guru saya, Tuan Mohd Zulkifli Shafie, sendiri telah menulis beberapa buah buku panduan kewangan dan simpanan emas yang sangat mudah difahami oleh masyarakat awam.
+
+Apabila kita meluangkan masa membaca sebuah buku kewangan yang baik, kita sebenarnya sedang meminjam pengalaman puluhan tahun penulis tersebut hanya dalam masa beberapa jam sahaja.
+
+Orang yang membaca dan memahami falsafah sebenar di sebalik emas tidak akan mudah goyang apabila mendengar khabar angin atau melihat turun naik harga pasaran.
+
+Mereka tahu mengapa mereka menyimpan, bila masa untuk membeli, bila masa untuk menjual dan bagaimana mengelakkan perangkap skim penipuan.
+
+Sambil kita menambah pembacaan ilmu kewangan, kita boleh terus mempraktikkan langkah simpanan melalui Akaun GAP Public Gold serendah seratus ringgit.
+
+Jangan biarkan diri kita menyimpan dalam kegelapan tanpa ilmu. Bacalah dan fahamilah, kerana ilmu adalah pelindung terbaik kepada harta yang kita kumpul.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1083,
+    siri: "Mentor-04",
+    no: 24,
+    topik: "Kenapa Emas",
+    tajuk: "Emas vs Kripto & Saham Yang Naik Berlipat",
+    tags: ["gap", "inflasi", "saham", "krisis", "ringgit"],
+    teks: `Pernah tak orang membandingkan emas dengan aset digital atau saham yang boleh naik berlipat kali ganda dalam masa singkat, lalu mengatakan emas ini terlalu perlahan?
+
+Untuk menjawab persoalan ini, guru saya, Tuan Mohd Zulkifli Shafie, mengajak kita memahami peranan setiap pemain di atas padang bola sepak.
+
+Dalam sesebuah pasukan, ada pemain penyerang yang tugasnya menjaringkan gol, dan ada pemain pertahanan serta penjaga gol yang tugasnya memastikan pintu gol tidak bolos.
+
+Begitu jugalah di dalam portfolio kewangan keluarga kita. Instrumen perniagaan atau pelaburan berisiko tinggi mungkin bertindak sebagai penyerang, tetapi risikonya untuk kehilangan modal juga sangat besar.
+
+Emas fizikal pula bukanlah pemain penyerang untuk menjadikan kita kaya sekelip mata, sebaliknya emas adalah penjaga gol dan pertahanan terakhir keluarga kita.
+
+Fungsinya adalah untuk memastikan nilai kekayaan yang telah kita kumpul dengan penat lelah tidak bolos dimakan inflasi atau lebur sepenuhnya ketika krisis.
+
+Melalui Akaun GAP Public Gold, kita boleh membina barisan pertahanan kewangan ini sedikit demi sedikit bermula serendah seratus ringgit.
+
+Jangan paksa penjaga gol menjadi penyerang. Fahami fungsi emas sebagai pelindung nilai yang stabil, sambil sedar bahawa harganya tetap bergerak mengikut pasaran.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1084,
+    siri: "Mentor-04",
+    no: 25,
+    topik: "Strategi Emas",
+    tajuk: "Baru Beli Semalam, Hari Ni Harga Turun",
+    tags: ["gap", "ringgit"],
+    teks: `Pernah tak baru sahaja semalam kita beli emas dengan penuh semangat, tiba-tiba pagi ini bila kita buka aplikasi, tengok harga emas turun beberapa ringgit segram?
+
+Bagi penyimpan baharu, situasi ini kadangkala menimbulkan rasa ralat: kalaulah aku tunggu hari ini baru beli, mesti dapat murah sikit.
+
+Guru saya, Tuan Mohd Zulkifli Shafie, menasihatkan kita supaya tidak membiarkan perasaan ralat jangka pendek itu merosakkan kegembiraan kita memulakan tabungan.
+
+Tanyakan semula kepada diri kita: adakah emas yang kita beli semalam itu kita rancang hendak jual semula pada minggu hadapan?
+
+Sudah tentu tidak. Kita membeli emas tersebut untuk kegunaan lima, sepuluh atau dua puluh tahun akan datang.
+
+Apabila kita melihat semula harga belian kita pada sepuluh tahun akan datang, perbezaan turun naik beberapa ringgit pada hari ini langsung tidak memberi kesan yang besar.
+
+Apa yang jauh lebih bernilai ialah kita telah berjaya menyelamatkan wang tersebut daripada habis dibelanjakan untuk perkara yang sia-sia.
+
+Melalui Akaun GAP Public Gold, teruskanlah menabung secara konsisten serendah seratus ringgit dengan menggunakan wang lebihan dan hati yang tenang.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1085,
+    siri: "Mentor-04",
+    no: 26,
+    topik: "Keluarga",
+    tajuk: "Ajak Pasangan Sokong Simpan Emas",
+    tags: ["gap", "rumah", "dinar", "ringgit", "kecemasan", "tunai"],
+    teks: `Macam mana kita nak ajak pasangan kita sama-sama menyokong usaha menyimpan emas kalau pasangan kita masih ragu-ragu dan takut duit keluarga terikat?
+
+Dalam rumah tangga, sebarang keputusan kewangan yang melibatkan tabungan keluarga memang sangat baik jika mendapat persefahaman kedua-dua belah pihak.
+
+Menurut panduan guru saya, Tuan Mohd Zulkifli Shafie, cara terbaik untuk meyakinkan pasangan bukanlah dengan berdebat atau memaksa, tetapi dengan menunjukkan fakta dan teladan yang menenangkan.
+
+Pertama, buktikan kepada pasangan bahawa kita tidak mengusik wang belanja dapur atau dana kecemasan tunai keluarga untuk membeli emas.
+
+Kedua, mulakan dengan jumlah yang kecil dahulu seperti seratus ringgit di dalam Akaun GAP Public Gold menggunakan wang lebihan peribadi kita.
+
+Ketiga, apabila baki gram sudah mencukupi sekeping satu gram atau satu dinar, tebuslah emas fizikal tersebut dan tunjukkan kepada pasangan supaya mereka dapat melihat serta memegang sendiri hasilnya.
+
+Apabila pasangan melihat sendiri bahawa wang keluarga sebenarnya tidak hilang, malah bertukar menjadi aset fizikal yang bernilai dan mudah dicairkan, keraguan mereka akan beransur-ansur hilang.
+
+Binalah kepercayaan melalui tindakan yang berhemah dan berilmu demi kebaikan keluarga bersama.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1086,
+    siri: "Mentor-04",
+    no: 27,
+    topik: "Kewangan Peribadi",
+    tajuk: "Dapat Duit Pampasan Atau Jual Tanah Pusaka",
+    tags: ["gap", "ringgit", "pusaka", "tunai"],
+    teks: `Pernah tak kita tengok seseorang menerima wang pampasan atau hasil jualan tanah pusaka berjumlah puluhan ribu ringgit, tetapi dalam masa setahun sahaja duit itu habis tanpa nampak hasilnya?
+
+Guru saya, Tuan Mohd Zulkifli Shafie, sering mengingatkan bahawa wang tunai dalam jumlah besar yang datang secara tiba-tiba mempunyai sifat sangat mudah mengalir keluar jika tidak segera dikunci nilainya.
+
+Apabila wang itu dibiarkan di dalam akaun bank biasa, akan timbul seribu satu idea perbelanjaan yang sebelum ini tidak pernah pun kita fikirkan.
+
+Untuk mengelakkan wang hasil jualan aset atau pampasan itu lesap menjadi perbelanjaan hangus, langkah paling selamat ialah menukarkannya kepada bentuk aset lain yang sukar dibocorkan.
+
+Salah satu cara yang pantas adalah dengan mengalihkan sebahagian daripada wang tersebut kepada simpanan emas fizikal sementara kita merancang kegunaan jangka panjang yang betul.
+
+Apabila wang itu sudah berada di dalam bentuk berat gram emas, kita mempunyai masa untuk berfikir dengan tenang tanpa diganggu oleh nafsu berbelanja.
+
+Melalui Akaun GAP Public Gold, kita boleh menyimpan daripada jumlah kecil serendah seratus ringgit hinggalah kepada jumlah yang lebih besar mengikut keperluan.
+
+Pastikan sebahagian tunai tetap disimpan untuk keperluan cair dan fahami risiko turun naik harga emas pasaran.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1087,
+    siri: "Mentor-04",
+    no: 28,
+    topik: "Strategi Emas",
+    tajuk: "Kekalkan Motivasi Dengan Sasaran Anak Tangga",
+    tags: ["gap", "dinar", "ringgit", "anak", "kecemasan", "tunai"],
+    teks: `Macam mana cara nak kekalkan motivasi menyimpan emas selama bertahun-tahun supaya kita tak rasa jemu di pertengahan jalan?
+
+Rahsianya ialah dengan menyusun sasaran simpanan kita mengikut anak tangga atau fasa pencapaian yang jelas.
+
+Guru saya, Tuan Mohd Zulkifli Shafie, mencadangkan supaya setiap penyimpan baharu membina peta perjalanan gram emas mereka secara berperingkat.
+
+Anak tangga pertama, mulakan dengan membuka akaun dan mencukupkan satu gram pertama.
+
+Anak tangga kedua, sasarkan pula untuk mencukupkan empat perpuluhan dua lima gram bagi memiliki sekeping satu dinar emas yang pertama.
+
+Selepas berjaya memegang satu dinar, naikkan sasaran ke anak tangga ketiga iaitu sepuluh gram, kemudian lima puluh gram, seratus gram dan akhirnya menuju sasaran besar satu kilogram untuk satu keluarga.
+
+Melalui Akaun GAP Public Gold, setiap belian serendah seratus ringgit membawa kita selangkah lebih dekat kepada anak tangga sasaran yang seterusnya.
+
+Cuma ingat, bergeraklah mengikut kelajuan dan kemampuan kewangan sendiri tanpa mengabaikan dana kecemasan tunai.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1088,
+    siri: "Mentor-04",
+    no: 29,
+    topik: "Keluarga",
+    tajuk: "Simpan Emas Senyap-Senyap, Perlu Ke Pasangan Tahu?",
+    tags: ["gap", "ringgit"],
+    teks: `Kalau kita rajin menyimpan emas secara senyap untuk kejutan masa depan keluarga, perlukah pasangan kita tahu sekurang-kurangnya di mana kita menyimpan?
+
+Menyimpan secara senyap daripada pengetahuan orang luar memang sangat digalakkan demi keselamatan.
+
+Tetapi guru saya, Tuan Mohd Zulkifli Shafie, mengingatkan satu perkara penting: jangan sesekali merahsiakan kewujudan akaun simpanan emas kita sehingga pasangan atau waris terdekat langsung tidak tahu apa-apa.
+
+Bayangkan jika kita telah mengumpul puluhan gram emas di dalam akaun secara dalam talian, namun apabila berlaku musibah kepada diri kita, tiada seorang pun ahli keluarga yang tahu kita mempunyai akaun tersebut.
+
+Akibatnya, harta yang kita kumpul dengan penuh kasih sayang untuk keluarga akhirnya terbiar tanpa dituntut.
+
+Sebab itu, sediakanlah satu nota rekod peribadi yang selamat untuk pengetahuan pasangan, menyatakan nombor kod penyimpan kita di dalam Akaun GAP Public Gold.
+
+Sertakan juga nama dan nombor telefon pengedar pembimbing kita supaya pasangan tahu siapakah individu yang boleh dihubungi untuk mendapatkan panduan urusan tuntutan waris.
+
+Menabunglah serendah seratus ringgit dengan penuh tanggungjawab supaya setiap gram emas benar-benar sampai kepada keluarga yang kita cintai.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1089,
+    siri: "Mentor-04",
+    no: 30,
+    topik: "Kewangan Peribadi",
+    tajuk: "Perubahan Diri Selepas Konsisten Simpan Emas",
+    tags: ["gap", "gaji", "ringgit", "kecemasan", "tunai"],
+    teks: `Pernah tak kita perasan, apakah perubahan paling besar yang berlaku kepada seseorang selepas dia konsisten menyimpan emas selama setahun dua?
+
+Perubahan paling berharga sebenarnya bukanlah semata-mata pada berapakah jumlah gram emas yang telah berjaya dikumpulkan.
+
+Tetapi seperti yang sering diperhatikan oleh guru saya, Tuan Mohd Zulkifli Shafie, perubahan paling besar berlaku pada cara berfikir dan ketenangan hidup penyimpan itu sendiri.
+
+Orang yang dahulunya pantang nampak jualan murah terus membeli, kini sudah pandai menilai harga sesuatu barang di dalam kiraan gram emas.
+
+Orang yang dahulunya sentiasa resah setiap kali menunggu hari gaji, kini hidup lebih tenang kerana tahu keluarganya sudah mempunyai dana kecemasan dan rizab emas yang semakin bertambah.
+
+Emas telah mendidik kita menjadi insan yang lebih berdisiplin, lebih menghargai hasil titik peluh dan lebih bertanggungjawab terhadap masa depan keluarga.
+
+Segala perubahan positif ini boleh bermula dengan satu langkah kecil serendah seratus ringgit sahaja melalui Akaun GAP Public Gold.
+
+Teruskanlah menuntut ilmu, jaga keseimbangan antara tunai dan emas, serta nikmatilah ketenangan membina kewangan yang lebih kukuh dari hari ke hari.
+
+Dulu ragu, kini tahu. Jom simpan emas.`
   }
 ];
 
@@ -29235,4 +29985,4 @@ export const namaSiri = {
 export const hargaLalai = { harga999: "542", harga916: "497", tarikh: "27 September 2026" };
 
 // Siri yang dapat TAB sendiri (ikut susunan). Semua siri lain masuk tab "Archive".
-export const tabUtama = ["Mentor-01", "Mentor-02", "Mentor-03", "GPT-Asas-01", "Listicle-03", "Listicle-04", "Listicle-05", "Listicle-06", "Listicle-07", "Listicle-08", "Listicle-09", "Listicle-10", "Listicle-11", "Listicle-12", "Listicle-13", "Listicle-14", "Listicle-15", "Listicle-16", "Listicle-17"];
+export const tabUtama = ["Mentor-01", "Mentor-02", "Mentor-03", "Mentor-04", "GPT-Asas-01", "Listicle-03", "Listicle-04", "Listicle-05", "Listicle-06", "Listicle-07", "Listicle-08", "Listicle-09", "Listicle-10", "Listicle-11", "Listicle-12", "Listicle-13", "Listicle-14", "Listicle-15", "Listicle-16", "Listicle-17"];
