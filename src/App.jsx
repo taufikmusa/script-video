@@ -62,28 +62,30 @@ export default function App() {
   const TOPIK = useMemo(() => ["Semua", ...unik(skripTab.map(s => s.topik))], [skripTab])
 
   function tukarTab(t) {
-    setTab(t); setSiri("Semua"); setTopik("Semua"); setHad(HAD_AWAL)
+    setTab(t); setSiri("Semua"); setTopik("Semua"); setCari(""); setHad(HAD_AWAL)
     simpan("tab", { nama: t })
   }
 
   const skripHariIni = useMemo(() => pilihHariIni(skripTab, dahRakam), [skripTab, dahRakam])
 
+  // Bila ada carian: cari dalam SEMUA skrip (semua tab + Archive), abaikan tab/siri/topik
+  const mencari = cari.trim() !== ""
   const senaraiPenuh = useMemo(() => {
     const kata = cari.trim().toLowerCase().split(/\s+/).filter(Boolean)
-    return skripTab.filter(s => {
-      if (siri !== "Semua" && s.siri !== siri) return false
-      if (topik !== "Semua" && s.topik !== topik) return false
+    return (kata.length ? skrip : skripTab).filter(s => {
+      if (!kata.length && siri !== "Semua" && s.siri !== siri) return false
+      if (!kata.length && topik !== "Semua" && s.topik !== topik) return false
       if (status === "belum" && dahRakam[s.id]) return false
       if (status === "dah" && !dahRakam[s.id]) return false
       if (kata.length === 0) return true
       const hay = [nombor(s), namaSiri[s.siri] || "", s.tajuk, s.teks, s.tags.join(" "), s.topik, s.hook || "", s.persona || ""].join(" ").toLowerCase()
       return kata.every(k => hay.includes(k))   // semua kata kunci mesti ada
     })
-  }, [skripTab, cari, siri, topik, status, dahRakam])
+  }, [skrip, skripTab, cari, siri, topik, status, dahRakam])
 
   const senarai = senaraiPenuh.slice(0, had)
   // Kiraan dah rakam ikut siri & topik yang sedang dipilih
-  const skop = skripTab.filter(s => (siri === "Semua" || s.siri === siri) && (topik === "Semua" || s.topik === topik))
+  const skop = mencari ? senaraiPenuh : skripTab.filter(s => (siri === "Semua" || s.siri === siri) && (topik === "Semua" || s.topik === topik))
   const jumlahRakam = skop.filter(s => dahRakam[s.id]).length
   // Kotak harga keluar bila senarai ditapis (siri/topik/carian) dan ada skrip bertanda harga
   const adaHarga = (siri !== "Semua" || topik !== "Semua" || cari.trim() !== "") && senaraiPenuh.some(s => s.adaHarga)
@@ -150,11 +152,17 @@ export default function App() {
         <input
           className="search"
           type="search"
-          placeholder={`🔍 Cari dalam ${tab}… (cth: zakat, cikgu, ${tab === ARKIB ? "script-03 07" : "hutang"})`}
+          placeholder={`🔍 Cari semua ${skrip.length} skrip… (cth: zakat, cikgu, mentor-01 05)`}
           value={cari}
           onChange={e => { setCari(e.target.value); setHad(HAD_AWAL) }}
         />
-        {SIRI.length > 2 && <div className="chips">
+        {mencari && (
+          <div className="cari-nota">
+            🔎 Mencari dalam <b>semua tab + Archive</b>
+            <button className="btn-link" onClick={() => { setCari(""); setHad(HAD_AWAL) }}>✕ Kosongkan carian</button>
+          </div>
+        )}
+        {!mencari && SIRI.length > 2 && <div className="chips">
           {SIRI.map(k => (
             <button
               key={k}
@@ -165,7 +173,7 @@ export default function App() {
             </button>
           ))}
         </div>}
-        <div className="chips">
+        {!mencari && <div className="chips">
           {TOPIK.map(k => (
             <button
               key={k}
@@ -175,7 +183,7 @@ export default function App() {
               {k} <span className="chip-n">{skripTab.filter(s => (siri === "Semua" || s.siri === siri) && (k === "Semua" || s.topik === k)).length}</span>
             </button>
           ))}
-        </div>
+        </div>}
         {adaHarga && (
           <div className="harga">
             <div className="harga-tajuk">💰 Harga buyback hari ni <span>auto masuk dalam skrip</span></div>
@@ -204,7 +212,7 @@ export default function App() {
         </div>
         <div className="statbar">
           <span>Papar {senarai.length} dari {senaraiPenuh.length}</span>
-          <span>{jumlahRakam} / {skop.length} dah rakam ({siri !== "Semua" ? siri : tab})</span>
+          <span>{jumlahRakam} / {skop.length} dah rakam ({mencari ? "hasil carian" : siri !== "Semua" ? siri : tab})</span>
         </div>
       </div>
 

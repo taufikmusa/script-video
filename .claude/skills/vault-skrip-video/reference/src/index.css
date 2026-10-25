@@ -53,6 +53,9 @@ button { font: inherit; }
 .harga-baris input:focus { border-color: var(--emas); }
 .harga-baris small { color: var(--lagi-pudar); }
 .harga-nota { margin-top: 8px; color: var(--lagi-pudar); font-size: 12px; }
+.cari-nota { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px; margin-top: 12px; padding: 10px 12px; border: 1px dashed var(--emas); border-radius: 10px; color: var(--pudar); font-size: 13px; }
+.cari-nota b { color: var(--emas); }
+.cari-nota .btn-link { padding: 0; margin: 0; }
 .toggles { display: flex; flex-wrap: wrap; gap: 6px 22px; margin-top: 14px; }
 .toggle { display: flex; align-items: center; gap: 8px; color: var(--pudar); font-size: 14px; cursor: pointer; }
 .statbar { display: flex; justify-content: space-between; margin-top: 14px; color: var(--lagi-pudar); font-size: 13px; border-top: 1px solid #2a261d; padding-top: 12px; }
