@@ -166,10 +166,10 @@ def baca_listicle(d):
         kepala = [c.text.strip().lower() for c in t.rows[0].cells]
         if len(kepala) < 3 or not kepala[0].startswith("no"):
             continue
-        i_tajuk = next((i for i, k in enumerate(kepala) if "tajuk hook" in k), None)
+        i_tajuk = next((i for i, k in enumerate(kepala) if "tajuk" in k and "hook" in k), None)
         # Kolum "persona" = kolum label pertama selain No / Tajuk Hook / Patah / Durasi
         # (cth Persona, Kerjaya, Peringkat Umur, Judul Filem, Ikon / Fenomena Global, Golongan Sasaran)
-        BUKAN = ("tajuk hook", "patah", "perkataan", "durasi", "topik asal")
+        BUKAN = ("tajuk", "patah", "perkataan", "durasi", "topik asal")
         i_persona = next((i for i, k in enumerate(kepala)
                           if i > 0 and k != "sasaran" and not any(x in k for x in BUKAN)), None)
         if i_tajuk is None:
@@ -200,8 +200,8 @@ def baca_listicle(d):
 
 
 def kesan_format(d):
-    if any(re.match(r"SKRIP #\d+:", p.text.strip()) for p in d.paragraphs) or any(
-            "tajuk hook" in c.text.lower() for t in d.tables for c in t.rows[0].cells):
+    if any(re.match(r"SKRIP #\d+:", p.text.strip(), re.I) for p in d.paragraphs) or any(
+            "tajuk" in c.text.lower() and "hook" in c.text.lower() for t in d.tables for c in t.rows[0].cells):
         return baca_listicle(d)
     if any("TEKS SKRIP BERSIH" in p.text for p in d.paragraphs):
         return baca_viral(d)

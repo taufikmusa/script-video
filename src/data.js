@@ -30721,6 +30721,1686 @@ Semuanya bermula dengan kita sendiri mendisiplinkan diri menabung serendah serat
 Mari kita ubah masa depan kewangan keluarga kita hari ini, dan jadilah insan yang turut memberi manfaat kepada orang lain.
 
 Dulu ragu, kini tahu. Jom simpan emas.`
+  },
+  {
+    id: 1120,
+    siri: "PG1S-01",
+    no: 1,
+    topik: "Kewangan Peribadi",
+    tajuk: "Perasaan Jumaat Petang vs Ahad Malam",
+    tags: ["gaji"],
+    persona: "Impian & Kebebasan Masa — Kerja Membebaskan vs Membebankan + Bina Dana Kebebasan Emas",
+    teks: `Pernah tak perasan kenapa perasaan kita waktu Jumaat petang sangat berbeza dengan Ahad malam?
+
+Jumaat petang hati rasa lapang macam burung lepas sangkar.
+
+Tapi bila masuk Ahad malam, dada mula rasa sempit sebab esok kena hadap kesesakan jalan raya semula.
+
+Kalau itu yang kita rasa setiap minggu, maksudnya kerja kita sedang membebankan hidup, bukan membebaskan masa kita.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kebanyakan impian hidup memerlukan dua perkara iaitu duit dan masa.
+
+Masalahnya, ramai orang habiskan puluhan tahun cari duit, tapi hujung bulan gaji tetap habis tanpa satu gram aset pun di tangan.
+
+Kalau nak keluar daripada kitaran ini, mula tukar sebahagian gaji jadi emas fizikal setiap bulan sebagai dana kebebasan diri.
+
+Bila simpanan emas dah kukuh, kita bekerja kerana pilihan, bukan kerana terpaksa.
+
+Cuba jujur dekat komen, Ahad malam anda rasa tenang atau tertekan?
+
+Jawapannya menentukan masa depan keluarga kita, jadi mulakan langkah pertama sekarang!`
+  },
+  {
+    id: 1121,
+    siri: "PG1S-01",
+    no: 2,
+    topik: "Kewangan Peribadi",
+    tajuk: "Rahsia Jurutera Bina Exit Plan Pukul 9 Malam",
+    tags: ["gaji", "rumah"],
+    persona: "Pengurusan Masa Selepas Waktu Kerja — Kisah Jurutera (9:00 - 11:00 Malam) + Bina Aset Sambil Makan Gaji",
+    teks: `Macam mana seorang jurutera yang keluar rumah pukul tujuh pagi dan balik pukul tujuh malam masih mampu bina benteng kewangan kukuh?
+
+Ramai orang bagi alasan tak sempat urus kewangan atau cari pendapatan kedua sebab penat bekerja.
+
+Hakikatnya, nasib kewangan kita tidak ditentukan dari pukul lapan pagi sampai lima petang.
+
+Tetapi ditentukan oleh apa yang kita buat dari pukul sembilan hingga sebelas malam.
+
+Sahabat jurutera saya gunakan waktu lepas isyak ini untuk baca buku kewangan dan berkongsi ilmu simpanan emas secara konsisten.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kita tak perlu berhenti kerja makan gaji untuk bina masa depan bebas.
+
+Cukup disiplinkan diri dua jam setiap malam untuk bina aset dan tambah ilmu kewangan.
+
+Tutup televisyen, letak tepi hiburan kosong, dan bina tabung emas keluarga sedikit demi sedikit.
+
+Kongsikan di komen, apa aktiviti anda setiap malam lepas pukul sembilan?
+
+Urus dua jam itu betul-betul, kerana di situlah terletaknya tiket kebebasan anda!`
+  },
+  {
+    id: 1122,
+    siri: "PG1S-01",
+    no: 3,
+    topik: "Keluarga",
+    tajuk: "Andaikan Doktor Bagi Masa 6 Bulan Lagi",
+    tags: ["isteri", "pusaka", "kecemasan", "tunai"],
+    persona: "Refleksi Kematian & Perlindungan Keluarga — Senario 6 Bulan Terakhir + Benteng Kecemasan Emas Keluarga",
+    teks: `Bayangkan hari ini doktor panggil masuk bilik dan sahkan kita cuma ada enam bulan sahaja lagi untuk hidup.
+
+Tarik nafas dalam-dalam dan tanya diri sendiri satu soalan paling jujur.
+
+Macam mana keadaan isteri dan anak-anak kita pada hari pertama kita sudah tiada nanti?
+
+Ramai ketua keluarga bekerja keras siang malam, tapi terlupa sediakan payung kecemasan yang boleh dicairkan segera.
+
+Bila berlaku kematian mengejut, akaun bank boleh dibekukan berbulan-bulan sementara menunggu urusan pusaka selesai.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, setiap keluarga wajib ada dana kecemasan dalam bentuk emas fizikal.
+
+Sebab emas fizikal berada di tangan kita sendiri, tiada siapa boleh bekukan, dan boleh ditukar jadi tunai bila-bila masa.
+
+Jangan tunggu sakit baru nak beringat, kerana waktu sihat inilah masa terbaik mengumpul gram demi gram.
+
+Cuba tulis dekat komen, berapa bulan kos hidup keluarga yang dah anda sediakan?
+
+Bina benteng emas hari ini demi senyuman insan tersayang!`
+  },
+  {
+    id: 1123,
+    siri: "PG1S-01",
+    no: 4,
+    topik: "Kewangan Peribadi",
+    tajuk: "Hidup Kita Hari Ini Ialah Keputusan 5 Tahun Lepas",
+    tags: ["ringgit"],
+    persona: "Hukum Masa 5 Tahun — Keputusan 5 Tahun Lepas vs 5 Tahun Akan Datang + Simpanan GAP",
+    teks: `Tengok baki akaun bank kita hari ini. Itu sebenarnya hasil keputusan yang kita buat lima tahun lepas.
+
+Kalau lima tahun lepas kita suka ikut nafsu berbelanja dan bertangguh menabung, inilah hasilnya sekarang.
+
+Dan berita baiknya, rupa kehidupan kita lima tahun akan datang bergantung sepenuhnya pada apa yang kita buat hari ini.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jangan tunggu duit lebih baru nak menabung sebab duit takkan pernah rasa cukup.
+
+Lima tahun lepas, harga satu gram emas baru sekitar dua ratus ringgit lebih.
+
+Orang yang simpan satu gram sebulan waktu itu, hari ini tersenyum tengok nilai tabungan mereka melonjak berkali ganda.
+
+Manakala orang yang masih tunggu harga turun, sampai hari ini belum ada walau setengah gram.
+
+Lima tahun dari sekarang tetap akan tiba sama ada kita menabung atau tidak.
+
+Kongsikan di komen, berapa gram emas yang anda sasarkan dalam lima tahun?
+
+Mulakan serendah seratus ringgit hari ini supaya anda tidak menyesal lagi!`
+  },
+  {
+    id: 1124,
+    siri: "PG1S-01",
+    no: 5,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kenapa Otak Manusia Tiada Butang 'Delete'",
+    tags: ["gaji"],
+    persona: "Kuasa Kata-Kata & Minda Bawah Sedar — Minda Tiada Butang Padam + Tukar Alat Simpanan Kepada Emas",
+    teks: `Tahukah anda, otak manusia merakam setiap perkataan yang keluar dari mulut kita, dan bahayanya ia tiada butang padam?
+
+Setiap kali kita merungut 'gaji aku kecil' atau 'aku tak pandai simpan duit', minda bawah sedar terima ayat itu sebagai arahan.
+
+Akhirnya tanpa sedar, tindakan kita sendiri yang memastikan poket kita sentiasa bocor setiap bulan.
+
+Sebab itu kita kena berhati-hati dengan apa yang kita bisikkan pada diri sendiri.
+
+Tukar ayat 'saya gagal menabung' kepada 'saya belum jumpa cara menabung yang betul'.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, ramai orang gagal simpan duit kertas sebab fitrah manusia memang suka belanjakan nombor.
+
+Jadi jangan salahkan diri sendiri, sebaliknya tukar alat simpanan daripada duit kertas kepada emas fizikal.
+
+Bila duit bertukar menjadi gram emas, nafsu nak berbelanja automatik tertutup rapat.
+
+Cuba komen di bawah, apa tabiat kewangan baru yang anda nak mulakan bulan ini?
+
+Jaga kata-kata kita, kerana setiap bicara positif adalah doa untuk kekayaan kita!`
+  },
+  {
+    id: 1125,
+    siri: "PG1S-01",
+    no: 6,
+    topik: "Kewangan Peribadi",
+    tajuk: "Bila Impian Besar, Masalah Jadi Kecil",
+    tags: ["gap", "hutang", "gaji", "ringgit", "disiplin"],
+    persona: "Kuasa Impian Beremosi — Impian Ditulis & Dilihat Setiap Hari + Matlamat Bebas Hutang & Haji",
+    teks: `Kenapa ada orang baru diuji kenaikan harga barang terus rasa nak putus asa, tapi orang lain tetap tenang melangkah?
+
+Rahsianya bukan pada besarnya gaji mereka, tetapi pada besarnya impian yang mereka pegang.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, bila impian kita besar, masalah sebesar mana pun akan nampak kecil.
+
+Sebelum sesuatu impian menjadi realiti di dunia nyata, ia mesti jelas dalam fikiran kita dahulu.
+
+Jangan simpan impian sekadar di mulut; tulis atas kertas dan tampal di tempat yang mata nampak setiap pagi.
+
+Tulis jelas bila nak langsaikan hutang, bila nak bawa ibu bapa ke Tanah Suci, dan berapa gram emas nak dikumpul.
+
+Bila mata hari-hari nampak matlamat itu, hati takkan mudah tergoda dengan jualan murah yang merosakkan bajet.
+
+Setiap seratus ringgit dalam Akaun Emas GAP adalah satu batu bata menuju impian tersebut.
+
+Cuba tulis dekat komen, apakah satu impian terbesar yang sedang anda kejar sekarang?
+
+Kunci impian itu kemas-kemas dengan disiplin simpanan emas bermula hari ini!`
+  },
+  {
+    id: 1126,
+    siri: "PG1S-01",
+    no: 7,
+    topik: "Kewangan Peribadi",
+    tajuk: "20 Minit Lepas Subuh Yang Ubah Hidup Setahun",
+    tags: ["inflasi", "hutang", "ringgit", "skim"],
+    persona: "Tabiat Membaca & Ilmu Kewangan — Baca 20 Minit Sehari = 121.7 Jam Setahun + Ilmu Emas Sebenar",
+    teks: `Kalau kita baca buku kewangan cuma dua puluh minit setiap pagi selepas Subuh, berapa jam ilmu kita dapat setahun?
+
+Seratus dua puluh satu jam! Itu bersamaan lebih tiga minggu waktu bekerja penuh.
+
+Ramai orang hilang puluhan ribu ringgit dalam skim cepat kaya bukan sebab tamak semata-mata.
+
+Tetapi sebab malas luangkan dua puluh minit sehari untuk membaca ilmu kewangan yang betul.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, ilmu hari ini menentukan kualiti keputusan kewangan kita pada hari esok.
+
+Bila baca buku seperti Wang Emas dan Misi Bebas Hutang, mata kita akan terbuka luas tentang rahsia inflasi.
+
+Kita akan faham kenapa menyimpan wang kertas semata-mata membuatkan kuasa beli makin mengecil setiap tahun.
+
+Orang berilmu tidak mudah panik bila harga emas turun naik, malah tahu bila masa terbaik menambah gram.
+
+Kongsikan di komen, apakah tajuk buku terakhir yang anda baca tahun ini?
+
+Laburkan dua puluh minit setiap pagi, kerana ilmu adalah pelindung harta paling kebal!`
+  },
+  {
+    id: 1127,
+    siri: "PG1S-01",
+    no: 8,
+    topik: "Kewangan Peribadi",
+    tajuk: "Makan Bayar Asing-Asing, Jangan Pinjam Duit Kawan",
+    tags: ["ar-rahnu", "anak", "kecemasan", "tunai"],
+    persona: "Etika Wang & Persahabatan — Jangan Pinjam Duit Sesama Kawan + Bina Tabung Kecemasan Sendiri",
+    teks: `Nak tahu cara paling cepat untuk hilang kawan baik atau renggangkan hubungan adik-beradik?
+
+Pinjamkan duit kepada mereka, atau kita sendiri yang meminjam duit daripada mereka.
+
+Masa nak pinjam, ayat manis mengalahkan madu; bila nak tuntut balik, pemberi pinjam pula terpaksa mengemis macam orang bersalah.
+
+Sebab itu kalau keluar makan ramai-ramai, biasakan bayar asing-asing dan elakkan berhutang sesama kawan.
+
+Tetapi bagaimana kalau tiba-tiba kereta rosak atau anak masuk hospital dan kita terdesak perlukan tunai?
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jangan jadikan kawan kita sebagai tabung kecemasan kita.
+
+Sebaliknya, binalah tabung kecemasan sendiri dalam bentuk emas fizikal sedikit demi sedikit.
+
+Bila berlaku kecemasan, kita tak perlu tebalkan muka menagih simpati sesiapa, cukup gadaikan emas sendiri di Ar-Rahnu dengan bermaruah.
+
+Pernah tak anda hilang kawan disebabkan isu pinjam duit? Cuba cerita dekat komen.
+
+Jaga maruah diri dan persahabatan kita dengan membina rizab emas sendiri!`
+  },
+  {
+    id: 1128,
+    siri: "PG1S-01",
+    no: 9,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kenapa Ramai Tewas Pada Cubaan Kedua",
+    tags: ["gap", "gaji", "ringgit"],
+    persona: "Ketabahan & Kuasa Ulangan — 80% Kejayaan Selepas Cubaan Ke-5 + Konsisten Menabung",
+    teks: `Kajian menunjukkan lapan puluh peratus kejayaan besar hanya berlaku selepas cubaan atau langkah yang kelima.
+
+Tetapi menyedihkan, majoriti manusia berhenti dan angkat bendera putih seawal cubaan pertama atau kedua!
+
+Situasi ini berlaku sebiji dalam bab membina tabungan keluarga.
+
+Bulan pertama menabung, terpaksa korek balik sebab tayar pecah; bulan kedua cuba lagi, bocor pula sebab barang dapur naik.
+
+Masuk bulan ketiga, terus putus asa dan cakap 'aku memang ditakdirkan tak boleh menyimpan'.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kalau gagal menyimpan dengan cara biasa, jangan hentikan matlamat itu, tetapi tukar strateginya.
+
+Jangan simpan baki hujung bulan, sebaliknya alihkan terus seratus ringgit ke Akaun Emas GAP sebaik sahaja gaji masuk.
+
+Buat secara berulang selama lima bulan berturut-turut tanpa peduli apa yang berlaku.
+
+Cuba tulis dekat komen, dah berapa kali anda cuba bina semula tabung simpanan tahun ini?
+
+Jangan berhenti pada cubaan kedua, kerana kejayaan sebenar menunggu di langkah kelima!`
+  },
+  {
+    id: 1129,
+    siri: "PG1S-01",
+    no: 10,
+    topik: "Kewangan Peribadi",
+    tajuk: "Tukar Gaji Aktif Jadi Aset Yang Bekerja Sendiri",
+    tags: ["gaji", "rumah", "tunai"],
+    persona: "Pendapatan Aktif vs Aset Pasif — Jual Masa Untuk Duit vs Tukar Gaji Kepada Aset Emas & Hartanah",
+    teks: `Selagi kita terpaksa bangun pagi dan menukar masa dengan gaji, selagi itulah kita belum benar-benar selamat.
+
+Bayangkan kalau esok kita diuji hilang keupayaan bekerja, berapa lama dapur rumah kita boleh terus berasap?
+
+Ramai orang bekerja keras mencari pendapatan aktif, tetapi lupa menukar gaji tersebut menjadi aset yang kekal.
+
+Habis gaji bulan ini, tunggu pula gaji bulan depan selama tiga puluh tahun.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, fungsi sebenar emas adalah jambatan mengumpul modal membeli aset yang menjana pendapatan pasif.
+
+Kalau kumpul tunai di bank untuk beli rumah sewa atau tanah, duit itu selalunya bocor di tengah jalan.
+
+Tetapi bila kita kumpul dalam bentuk gram emas, nilainya terkunci rapat dan berkembang seiring masa.
+
+Cukup sahaja jumlah gram yang disasarkan, barulah emas itu ditukar kepada aset yang memberi aliran tunai bulanan.
+
+Kongsikan di komen, apakah aset impian yang anda nak miliki melalui simpanan emas?
+
+Berhenti sekadar bekerja untuk duit, dan biarlah aset bekerja untuk kita!`
+  },
+  {
+    id: 1130,
+    siri: "PG1S-01",
+    no: 11,
+    topik: "Keluarga",
+    tajuk: "Apa Jadi Pada Kewangan Keluarga Bila Kita Tiada?",
+    tags: ["inflasi", "hutang", "gaji", "anak", "isteri"],
+    persona: "Warisan & Kesinambungan Harta — Gaji Berhenti Bila Meninggal Dunia vs Warisan Emas Fizikal",
+    teks: `Pernah tak terfikir, jawatan hebat kita di pejabat hari ini langsung tidak boleh diwariskan kepada anak dan isteri?
+
+Sehebat mana pun pangkat kita, sebaik sahaja kita menutup mata buat selamanya, gaji bulanan akan terhenti serta-merta.
+
+Iklan kerja kosong untuk menggantikan tempat kita mungkin keluar lebih cepat daripada rumput tumbuh di pusara kita.
+
+Tetapi kos makan minum, yuran sekolah anak-anak, dan bil keluarga tidak pernah ikut berhenti.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, binalah harta simpanan yang tidak akan menjadi kosong walaupun kita sudah tiada.
+
+Warisan paling mudah dan selamat untuk ditinggalkan kepada pasangan ialah kepingan emas fizikal dan akaun simpanan emas.
+
+Nilainya diiktiraf seluruh dunia, tidak susut dimakan inflasi, dan sangat mudah diuruskan oleh waris.
+
+Setiap gram yang diketepikan hari ini adalah bukti kasih sayang yang terus melindungi keluarga kita.
+
+Cuba komen di bawah, sudahkah anda maklumkan pasangan tentang simpanan yang anda ada?
+
+Tinggalkan keluarga kita dengan perlindungan aset, bukannya bebanan hutang!`
+  },
+  {
+    id: 1131,
+    siri: "PG1S-01",
+    no: 12,
+    topik: "Kewangan Peribadi",
+    tajuk: "Perangkap 'Comfort Zone' Sebenar Bukan Bilik Aircond",
+    tags: ["ringgit"],
+    persona: "Zon Selesa & Tindakan Segera — Comfort Zone Ialah Mindset Puas Hati + Mula Sekarang Serendah RM100",
+    teks: `Ramai orang salah faham; mereka ingat zon selesa itu maksudnya duduk di kerusi empuk dalam bilik berhawa dingin.
+
+Sebenarnya bukan! Zon selesa ialah apabila fikiran kita sudah berpuas hati dengan tahap kewangan yang sekadar cukup makan.
+
+Walaupun setiap hujung bulan terpaksa ikat perut, kita tetap malas ubah tabiat sebab dah terbiasa begitu.
+
+Kemajuan hidup hanya bermula saat kita berani melangkah keluar daripada zon selesa tersebut.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, ada dua langkah paling penting untuk berjaya dalam kewangan.
+
+Pertama, ambil langkah bermula sekarang tanpa tunggu sempurna; kedua, jangan sesekali mengalah di pertengahan jalan.
+
+Kalau selama ini tiada simpanan emas, pecahkan tembok zon selesa itu dengan menabung seratus ringgit pertama hari ini.
+
+Selagi tidak berani memulakan gram pertama, selagi itulah kita kekal di takuk lama.
+
+Cuba tulis dekat komen, apakah alasan terbesar yang pernah menghalang anda mula menyimpan?
+
+Runtuhkan alasan itu sekarang dan mulakan langkah pertama anda!`
+  },
+  {
+    id: 1132,
+    siri: "PG1S-01",
+    no: 13,
+    topik: "Kewangan Peribadi",
+    tajuk: "Falsafah 10,000 Tendangan Bruce Lee Dalam Menabung",
+    tags: ["gaji", "saham", "disiplin"],
+    persona: "Konsistensi vs Skim Cepat Kaya — 1 Tendangan Dilatih 10,000 Kali + Disiplin 1 Gram 1 Bulan",
+    teks: `Bruce Lee pernah berkata, dia tidak takut kepada lawan yang tahu sepuluh ribu jenis tendangan berbeza.
+
+Tetapi dia sangat gerun kepada orang yang berlatih satu tendangan yang sama sebanyak sepuluh ribu kali!
+
+Dalam dunia kewangan hari ini, ramai orang sibuk melompat-lompat mencari sepuluh ribu teknik pelaburan cepat kaya.
+
+Kejap ikut trend saham, kejap masuk kripto tanpa ilmu, akhirnya modal habis melebur.
+
+Sedangkan orang yang berjaya membina kekayaan sebenar hanya mengamalkan satu tabiat mudah secara berulang-ulang.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, formula paling terbukti untuk orang kebanyakan ialah konsisten simpan satu gram satu bulan.
+
+Tak perlu pening kepala meneka harga naik turun, dan tak perlu jadi pakar ekonomi.
+
+Cukup ulang satu tabiat kecil itu setiap kali dapat gaji selama bertahun-tahun.
+
+Kongsikan di komen, anda suka cuba macam-macam pelaburan atau fokus satu cara sampai berjaya?
+
+Kuasai satu disiplin simpanan emas ini demi masa depan yang tenang!`
+  },
+  {
+    id: 1133,
+    siri: "PG1S-01",
+    no: 14,
+    topik: "Kewangan Peribadi",
+    tajuk: "Penat Itu Biasa: Berehat Sebentar, Jangan Berhenti",
+    tags: [],
+    persona: "Ketahanan Emosi Menyimpan — Rest, Don't Quit + Jangan Jual Emas Kerana Emosi Sementara",
+    teks: `Pernah tak rasa penat sangat mengikat perut dan menabung, sampai terdetik nak habiskan semua simpanan untuk puaskan hati?
+
+Perasaan penat membina kewangan itu normal, sebab kita sedang melawan arus nafsu berbelanja.
+
+Tetapi ingat satu peraturan emas ini: bila rasa penat, berehatlah sebentar, bukannya berhenti atau meruntuhkan apa yang dah dibina!
+
+Ramai orang bila diuji tekanan emosi sedikit, terus jual semua simpanan emas untuk beli benda tak perlu.
+
+Lepas barang dibeli, seronoknya cuma bertahan tiga hari, tetapi rasa menyesal hilang simpanan berlarutan bertahun-tahun.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jadikan simpanan emas kita sebagai simpanan yang dilupakan terus.
+
+Kalau bulan ini bajet sempit, rehat sekejap daripada menambah belian besar, tetapi jangan usik gram yang sudah terkumpul.
+
+Biarkan emas itu terus menjadi benteng masa depan kita dalam diam.
+
+Cuba komen di bawah, apa cara anda kawal diri bila teringin berbelanja mewah?
+
+Kalau penat, tarik nafas dan berehat, tetapi jangan sesekali berpatah balik!`
+  },
+  {
+    id: 1134,
+    siri: "PG1S-01",
+    no: 15,
+    topik: "Kewangan Peribadi",
+    tajuk: "Pinjam 'Cermin Mata' Orang Yang Dah Sampai Puncak",
+    tags: ["gaji"],
+    persona: "Kepentingan Mentor & Blind Spot — Kesan Blind Spot Kewangan + Belajar Daripada Yang Terbukti Berjaya",
+    teks: `Kenapa pemandu kereta paling cekap sekalipun tetap memerlukan cermin sisi dan bantuan orang lain?
+
+Sebab setiap manusia mempunyai titik buta atau kelemahan yang mata sendiri tidak mampu nampak!
+
+Begitu jugalah dalam urusan mengurus gaji dan membina harta.
+
+Ramai orang sangka cara mereka urus duit sudah betul, rupa-rupanya penuh kebocoran halus yang memakan diri.
+
+Bila kita hanya minta nasihat kewangan daripada kawan yang sama-sama pokai tengah bulan, kita akan dapat hasil yang sama.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kalau nak selamatkan masa dan duit daripada hangus, belajarlah daripada orang yang terbukti berjaya.
+
+Pinjam pengalaman mereka yang sudah mencapai kebebasan kewangan melalui simpanan emas dan aset sebenar.
+
+Mereka sudah lalui segala lubang kerugian, jadi kita hanya perlu ikut laluan selamat yang disediakan.
+
+Cuba tulis dekat komen, siapa tokoh kewangan yang paling banyak ubah cara fikir anda?
+
+Rendahkan ego untuk belajar, kerana bimbingan yang betul menjimatkan puluhan tahun kesilapan!`
+  },
+  {
+    id: 1135,
+    siri: "PG1S-01",
+    no: 16,
+    topik: "Keluarga",
+    tajuk: "Buat Cepat Penat, Buat Lambat Pun Penat",
+    tags: [],
+    persona: "Jangan Bertangguh Bina Benteng — Sama-Sama Penat + Kejar Sasaran 1 Keluarga 1 Kilogram Emas",
+    teks: `Dengar ayat ini baik-baik: bina simpanan sekarang memang terasa penat, tapi hidup tanpa simpanan di hari tua seribu kali lebih penat!
+
+Buat cepat pun penat, buat lambat pun tetap penat.
+
+Bezanya, kalau kita mendisiplinkan diri sekarang, kita penat ketika kudrat masih kuat dan akhirnya dapat berehat awal.
+
+Tetapi kalau kita memilih bersenang-lenang ikut nafsu hari ini, kita terpaksa membanting tulang ketika usia sudah lanjut.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, sasarkan setiap keluarga membina benteng simpanan sehingga satu kilogram emas.
+
+Jangan terkejut mendengar angka satu kilogram itu, kerana perjalanan jauh sentiasa bermula dengan langkah pertama.
+
+Mula dahulu dengan sasaran sepuluh gram, kemudian seratus gram, dan teruskan melangkah dengan sabar.
+
+Alang-alang kedua-dua pilihan tetap memenatkan, pilihlah kepenatan yang menghadiahkan ketenangan di hujung jalan.
+
+Kongsikan di komen, apakah sasaran gram emas terdekat yang sedang anda kejar tahun ini?
+
+Hadapi sedikit kepenatan menyimpan hari ini demi kebebasan mutlak pada hari esok!`
+  },
+  {
+    id: 1136,
+    siri: "PG1S-01",
+    no: 17,
+    topik: "Kenapa Emas",
+    tajuk: "Nak Bina Makan Tahun, Nak Runtuhkan Sekelip Mata",
+    tags: ["ringgit", "palsu", "tunai"],
+    persona: "Bahaya Sikap Negatif & Hutang — Bina Simpanan Makan Masa, Leburkan Hanya Sekelip Mata + Kunci Dalam Emas",
+    teks: `Membina sebuah bangunan kukuh memakan masa bertahun-tahun, tetapi meruntuhkannya hanya mengambil masa sekelip mata.
+
+Situasi yang sama berlaku kepada tabungan wang tunai yang kita kumpul dengan penuh jerih perih.
+
+Kita ikat perut menabung seratus ringgit sebulan selama tiga tahun di dalam akaun bank.
+
+Tetapi bila datang godaan tukar telefon baru atau terpedaya pelaburan palsu, duit tiga tahun itu lesap dalam lima minit!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, wang tunai di bank sangat rapuh kerana terlalu mudah dibelanjakan dengan satu klik.
+
+Untuk elakkan usaha bertahun-tahun runtuh sekelip mata, bekukan nilai simpanan jangka panjang di dalam bentuk emas fizikal.
+
+Bila hendak menjual emas, kita perlukan masa berfikir panjang, dan tempoh bertenang itulah yang menyelamatkan harta daripada emosi.
+
+Lindungi titik peluh anda daripada musnah dek keputusan terburu-buru.
+
+Pernah tak simpanan yang anda kumpul berbulan-bulan habis licin dalam sehari? Kongsikan di komen.
+
+Tukar tunai kepada emas fizikal supaya harta anda kekal bertahan!`
+  },
+  {
+    id: 1137,
+    siri: "PG1S-01",
+    no: 18,
+    topik: "Kenapa Emas",
+    tajuk: "Waktu Itu Umpama Pedang: Rahsia 24 Jam Yang Sama",
+    tags: ["inflasi", "dinar", "ringgit"],
+    persona: "Amanah Masa & Inflasi — Petikan Imam Al-Ghazali + Masa & Inflasi Memotong Nilai Wang Kertas",
+    teks: `Imam Al-Ghazali pernah berpesan, waktu itu ibarat sebilah pedang; jika kita tidak memotongnya, pedang itulah yang akan memotong kita.
+
+Ramai tidak sedar bahawa dalam dunia kewangan, masa yang berlalu sedang memotong nilai duit kertas kita setiap hari melalui inflasi.
+
+Cuba ingat semula, sepuluh tahun lepas dengan duit lima puluh ringgit, penuh satu troli barang dapur boleh dibawa balik.
+
+Hari ini, lima puluh ringgit yang sama cuma dapat beli beberapa barang asas sahaja di pasar raya.
+
+Nombor pada kertas tidak berubah, tetapi kuasa belinya telah terhiris tajam oleh peredaran masa.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, sejak seribu empat ratus tahun dahulu, satu dinar emas kekal mampu membeli seekor kambing.
+
+Emas adalah satu-satunya mata wang yang menjadikan masa sebagai kawan, bukannya lawan.
+
+Semakin lama kita menyimpan emas fizikal, semakin kukuh kuasa beli yang dipertahankan.
+
+Cuba tulis dekat komen, barang apa paling ketara naik harga berbanding sepuluh tahun lepas?
+
+Jangan biarkan masa menghiris titik peluh anda, selamatkan nilainya dengan emas!`
+  },
+  {
+    id: 1138,
+    siri: "PG1S-01",
+    no: 19,
+    topik: "Kewangan Peribadi",
+    tajuk: "Siapa Boleh Kumpul 10 Gram, Dia Boleh Capai 1,000 Gram",
+    tags: ["gaji"],
+    persona: "Kuasa Ulangan & Keyakinan Diri — Formula 10 ke 100 ke 1,000 + Proses Yang Sama Diulang",
+    teks: `Ramai orang rasa mustahil bila dengar ada orang makan gaji biasa mampu memiliki seribu gram emas fizikal.
+
+Sebenarnya rahsia mereka sangat mudah dan boleh ditiru oleh sesiapa sahaja.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, sesiapa yang berjaya mengumpul sepuluh gram emas pertama, dia mampu mencapai seribu gram!
+
+Kenapa? Kerana proses dan tabiatnya tetap sama, yang berbeza hanyalah tempoh ulangannya sahaja.
+
+Orang yang berjaya kumpul sepuluh gram sudah membuktikan dia mampu mengawal nafsu belanja dan berdisiplin setiap bulan.
+
+Bila dah capai sepuluh gram, ulang sahaja proses yang sama sehingga menjadi lima puluh gram, seratus gram, dan seterusnya.
+
+Jangan sibuk tenung puncak gunung yang tinggi sehingga kaki takut nak melangkah.
+
+Fokus sahaja cukupkan satu gram demi satu gram di hadapan mata setiap bulan.
+
+Kongsikan di komen, berapakah sasaran gram pertama yang anda nak capai tahun ini?
+
+Mulakan dengan gram pertama hari ini, dan ulang prosesnya sampai berjaya!`
+  },
+  {
+    id: 1139,
+    siri: "PG1S-01",
+    no: 20,
+    topik: "Kewangan Peribadi",
+    tajuk: "Jangan Percaya Cakap Orang Sebelum Cuba Sendiri",
+    tags: ["gap", "ringgit", "durian"],
+    persona: "Pengalaman Sendiri & Keyakinan — Cuba Sendiri Beli, Keluarkan & Pegang Emas Fizikal",
+    teks: `Kita takkan tahu rasa sebenar buah durian kalau sekadar mendengar cerita orang lain tanpa merasainya sendiri.
+
+Begitu jugalah dengan tabiat menyimpan emas fizikal.
+
+Selagi kita hanya mendengar cakap-cakap orang di kedai kopi, selagi itulah hati penuh dengan seribu satu keraguan.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, ubat paling mujarab menghilangkan rasa takut ialah mencuba sendiri menggunakan modal kecil.
+
+Cuba menabung seratus ringgit pertama di Akaun Emas GAP, dan bila cukup satu gram, keluarkan sendiri kepingan emas itu ke tangan.
+
+Saat jari menyentuh sendiri kepingan emas tulen itu, satu perasaan tenang dan yakin akan muncul secara semula jadi.
+
+Kita akan faham betapa mudahnya proses menyimpan, mengeluarkan, dan mencairkan emas apabila diperlukan.
+
+Pengalaman memegang satu gram pertama itulah yang mengubah cara kita melihat duit buat selamanya.
+
+Cuba komen di bawah, anda dah pernah rasa pengalaman pegang jongkong emas sendiri atau belum?
+
+Jangan sekadar jadi pemerhati, rasai sendiri aura menyimpan emas hari ini!`
+  },
+  {
+    id: 1140,
+    siri: "PG1S-01",
+    no: 21,
+    topik: "Strategi Emas",
+    tajuk: "Kenapa Ramai Gagal Sebab Tunggu Faham Semua?",
+    tags: ["ringgit"],
+    persona: "Buat Dulu, Faham Kemudian — Kelumpuhan Analisis (Analysis Paralysis) + Mula RM100 Sambil Belajar",
+    teks: `Tahukah anda kenapa ramai orang bijak pandai masih gagal mempunyai simpanan emas walaupun sudah bertahun-tahun mengkaji?
+
+Sebab mereka terkena penyakit mahu tunggu faham seratus peratus semua perkara, barulah nak mula bertindak!
+
+Mereka kaji graf siang malam dan baca semua ramalan ekonomi, tetapi satu sen pun belum ditukar menjadi emas.
+
+Akhirnya selepas tiga tahun mengkaji, harga emas sudah naik jauh meninggalkan mereka di belakang.
+
+Dalam membina tabiat kewangan, prinsipnya mudah: buat dahulu langkah asas yang selamat, dan kefahaman mendalam akan datang kemudian.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kita tidak perlu tunggu jadi pakar emas baru nak mula menabung satu gram.
+
+Mula sahaja dengan seratus ringgit pertama, kerana bila duit kita sudah berada dalam emas, hati automatik rajin belajar.
+
+Tindakan kecil hari ini jauh lebih bernilai daripada seribu perancangan atas kertas.
+
+Kongsikan di komen, berapa lama dah anda perhatikan harga emas sebelum mula membeli?
+
+Berhenti bertangguh kerana terlalu banyak berfikir, dan mulakan simpanan anda sekarang!`
+  },
+  {
+    id: 1141,
+    siri: "PG1S-01",
+    no: 22,
+    topik: "Strategi Emas",
+    tajuk: "Beza Penyimpan Emas Dengan Pelabur Yang Selalu Rugi",
+    tags: ["ringgit", "anak"],
+    persona: "Mindset Penyimpan vs Spekulator — Penyimpan Fokus Gram Jangka Panjang vs Pelabur Tenung Harga Harian",
+    teks: `Kenapa ada orang tidur lena setiap malam walaupun harga emas turun naik, manakala orang lain hidup dalam kerisauan?
+
+Perbezaannya terletak pada niat asal: adakah mereka penyimpan emas, ataupun pelabur spekulasi yang mahu untung cepat?
+
+Pelabur spekulasi sentiasa resah menenung graf harga setiap hari kerana memikirkan untung rugi dalam tempoh sebulan dua.
+
+Sebaliknya, penyimpan emas sejati langsung tidak kisah tentang turun naik harga jangka pendek.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kekayaan penyimpan emas diukur pada pertambahan jumlah gram di tangan, bukannya nombor ringgit harian.
+
+Kalau harga emas naik, kita senyum sebab nilai kekayaan bertambah.
+
+Kalau harga emas turun pula, kita lagi seronok sebab dengan modal sama, kita dapat kumpul lebih banyak gram!
+
+Tetapkan matlamat simpanan untuk tempoh dua tahun ke atas seperti dana pendidikan anak atau persaraan.
+
+Cuba tulis dekat komen, waktu harga emas turun anda rasa takut atau nak tambah gram?
+
+Jadilah penyimpan emas yang bijak supaya hati sentiasa tenang!`
+  },
+  {
+    id: 1142,
+    siri: "PG1S-01",
+    no: 23,
+    topik: "Kewangan Peribadi",
+    tajuk: "Teknik 'Potong Dan Lupa' Selama 5 Tahun",
+    tags: ["gap", "gaji", "ringgit", "auto-debit"],
+    persona: "Simpanan Paksa & Lupa (Auto-Debit) — Ubat Penyakit Tangan Gatal + GAP Auto-Debit 5 Tahun",
+    teks: `Kalau kita pantang nampak baki duit lebih dalam bank, mesti tangan gatal nak membeli-belah dalam talian, ini ubatnya.
+
+Jangan lawan nafsu itu dengan semangat semata-mata, tetapi lawanlah menggunakan sistem automatik!
+
+Ramai orang gagal menabung sebab cuba menyimpan secara manual setiap bulan.
+
+Bulan ini ingat, bulan depan terlupa, bulan ketiga terus terpakai duit itu untuk perkara lain.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, cara paling berkesan untuk orang makan gaji membina kekayaan ialah konsep simpanan paksa dan lupa.
+
+Tetapkan potongan Auto-Debit terus ke dalam Akaun Emas GAP setiap kali hari gaji masuk selama lima tahun.
+
+Anggap sahaja duit seratus ringgit itu sudah tiada dan sesuaikan belanja bulanan dengan baki gaji yang tinggal.
+
+Selepas lima tahun, anda akan terkejut melihat betapa banyaknya gram emas yang terkumpul tanpa disedari.
+
+Kongsikan di komen, anda lebih suka menabung secara manual atau potongan automatik?
+
+Kunci simpanan paksa anda hari ini sebelum gaji habis dibelanjakan!`
+  },
+  {
+    id: 1143,
+    siri: "PG1S-01",
+    no: 24,
+    topik: "Kewangan Peribadi",
+    tajuk: "Impian Yang Buat Kita Diingati Selepas Mati",
+    tags: ["hutang", "gaji", "masjid"],
+    persona: "Kekayaan Melangkaui Diri Sendiri — Cukupkan Keperluan Sendiri Untuk Bantu Ibu Bapa, Anak Yatim & Masyarakat",
+    teks: `Kenapa kita perlu berusaha membina kewangan kukuh sedangkan keperluan makan pakai kita hari ini sudah mencukupi?
+
+Jika hanya memikirkan perut kita seorang, memang gaji yang ada sekarang terasa sudah memadai.
+
+Tetapi pandanglah wajah ibu bapa yang semakin uzur di kampung, anak-anak yatim, serta jiran yang memerlukan bantuan.
+
+Kita tidak mampu menghulurkan tangan membantu orang lain jika poket sendiri sentiasa bocor dan penuh hutang.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, milikilah impian besar yang melangkaui kepentingan diri sendiri.
+
+Kukuhkan kewangan dan bina rizab simpanan emas supaya kita bebas daripada masalah kewangan peribadi secepat mungkin.
+
+Apabila kewangan sendiri sudah stabil, barulah kita dapat menyumbang lebih banyak kepada masjid, pusat tahfiz, dan masyarakat.
+
+Kekayaan di tangan orang baik akan menjadi jambatan pahala yang berpanjangan.
+
+Cuba tulis dekat komen, siapakah insan pertama yang paling ingin anda bahagiakan bila kewangan kukuh?
+
+Bina kekuatan ekonomi keluarga hari ini agar hidup memberi manfaat besar!`
+  },
+  {
+    id: 1144,
+    siri: "PG1S-01",
+    no: 25,
+    topik: "Kewangan Peribadi",
+    tajuk: "Ikut Resmi Padi: Lagi Berisi Poket, Lagi Rendah Diri",
+    tags: ["hutang"],
+    persona: "Kerendahan Hati & Kekayaan Sebenar — Resmi Padi + Kekayaan Ialah Emas Yang Disimpan Bukan Barang Mewah Ditayang",
+    teks: `Orang tua-tua berpesan, ikutlah resmi padi; semakin berisi tunduk ke bawah, jangan ikut resmi lalang yang mendongak tinggi.
+
+Di media sosial hari ini, ramai berlumba-lumba nak nampak kaya dengan menayang kereta mewah dan pakaian berjenama.
+
+Malangnya, kebanyakan kemewahan itu dibeli menggunakan hutang yang menjerut leher sendiri setiap bulan.
+
+Hakikatnya, kekayaan sebenar bukanlah apa yang orang nampak kita pakai, tetapi aset yang tersimpan rapi tanpa pengetahuan orang.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, penyimpan emas yang bijak hidup bersederhana di bawah kemampuan sebenar mereka.
+
+Biarlah penampilan kita nampak biasa di mata masyarakat, asalkan dalam simpanan ada ratusan gram emas fizikal bebas hutang.
+
+Kita tidak perlukan pujian orang ramai untuk membuktikan kita senang.
+
+Ketenangan tidur malam tanpa dikejar pemungut hutang adalah kemewahan hidup paling mahal.
+
+Kongsikan di komen, anda lebih pilih nampak bergaya atau poket tebal tanpa hutang?
+
+Simpan emas dalam diam, dan biarlah ketenangan hati menjadi bukti!`
+  },
+  {
+    id: 1145,
+    siri: "PG1S-01",
+    no: 26,
+    topik: "Kewangan Peribadi",
+    tajuk: "Jangan Lepak Kosong Selepas Dapat Ilmu Baru",
+    tags: ["gaji", "ringgit"],
+    persona: "Tindakan Segera Selepas Belajar — Jangan Tangguh Lepas Dapat Ilmu + Bertindak Dalam Tempoh 24 Jam",
+    teks: `Perasan tak, ramai orang lepas tonton video ilmu kewangan, semangat mereka membuak-buak macam nak ubah hidup malam itu juga?
+
+Tetapi keesokan harinya, semangat itu hilang dan hidup mereka kembali kepada tabiat lama.
+
+Puncanya ialah mereka membiarkan masa berlalu dengan sembang kosong tanpa mengambil tindakan segera ketika hati sedang bersemangat!
+
+Otak manusia mempunyai satu sifat: jika ilmu baru tidak diterjemahkan kepada tindakan dalam tempoh dua puluh empat jam, ia akan dilupakan.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, ilmu tanpa tindakan tidak akan mengubah walau satu sen pun kedudukan kewangan kita.
+
+Sebaik sahaja sedar pentingnya emas sebagai pelindung nilai gaji, jangan tunggu minggu depan atau bulan depan.
+
+Terus ambil langkah pertama hari ini juga dengan membuka akaun simpanan emas serendah seratus ringgit.
+
+Satu tindakan kecil serta-merta akan membuka pintu kepada tabiat besar yang berterusan.
+
+Cuba komen di bawah, apakah satu tindakan kewangan yang anda nak buat hari ini juga?
+
+Jangan biarkan kesedaran hari ini sejuk begitu sahaja, bertindak sekarang!`
+  },
+  {
+    id: 1146,
+    siri: "PG1S-01",
+    no: 27,
+    topik: "Kewangan Peribadi",
+    tajuk: "Selesaikan Kerja Paling Berat Pada Hari Gaji Masuk",
+    tags: ["gaji"],
+    persona: "Keutamaan Gaji & Bayar Diri Sendiri Dulu — Prinsip Dahulukan Yang Penting + Asingkan Emas Hari Pertama Gaji",
+    teks: `Dalam pengurusan masa dan kewangan, ada satu peraturan terkenal: selesaikan tugasan paling berat dan paling penting seawal pagi!
+
+Kalau dalam urusan gaji bulanan pula, apakah perkara paling berat bagi kebanyakan orang?
+
+Jawapannya ialah menabung! Sebab itu ramai meletakkan tabungan sebagai perkara paling akhir selepas semua bil dan kehendak dibayar.
+
+Akibatnya, apabila tiba hujung bulan, baki gaji tinggal sifar dan tiada apa lagi yang mampu disimpan.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, ubah susunan itu dengan membayar diri sendiri dahulu pada hari pertama gaji masuk.
+
+Sebelum bayar bil atau belanja orang lain di pusat beli-belah, asingkan dahulu bahagian masa depan kita ke dalam bentuk emas.
+
+Bila simpanan emas selesai pada hari pertama gaji, hati akan rasa sangat lega sepanjang bulan.
+
+Kita bebas menguruskan baki gaji tanpa rasa bersalah kerana masa depan keluarga sudah diamankan.
+
+Kongsikan di komen, anda biasa menabung awal bulan atau tunggu baki hujung bulan?
+
+Utamakan masa depan anda dahulu sebaik sahaja gaji masuk!`
+  },
+  {
+    id: 1147,
+    siri: "PG1S-01",
+    no: 28,
+    topik: "Kewangan Peribadi",
+    tajuk: "Jalan Seorang Memang Laju, Jalan Bersama Pergi Jauh",
+    tags: ["hutang"],
+    persona: "Kuasa Persekitaran & Circle Positif — Pepatah Jalan Bersama + Duduk Dalam Komuniti Penyimpan Emas",
+    teks: `Pepatah terkenal berbunyi: jika mahu berjalan laju, berjalanlah seorang diri; tetapi jika mahu berjalan jauh, berjalanlah bersama-sama.
+
+Membina tabungan jangka panjang bukanlah acara pecut seratus meter, sebaliknya larian maraton sepanjang hayat.
+
+Kalau kita cuba menabung seorang diri di tengah kawan yang suka berhutang dan bermewah, lama-kelamaan kita pun tewas terikut-ikut.
+
+Persekitaran kita jauh lebih kuat daripada semangat dalaman kita.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kalau mahu kekal istiqamah menyimpan emas dan bebas hutang, duduklah dalam komuniti yang betul.
+
+Berkawan rapat dengan mereka yang gemar berbincang tentang ilmu kewangan, matlamat simpanan, dan cara menambah aset keluarga.
+
+Bila dikelilingi orang yang positif menabung, kita akan bersemangat untuk terus konsisten setiap bulan.
+
+Jika kita lemah semangat, rakan seperjuangan inilah yang mengingatkan semula matlamat asal kita.
+
+Cuba tulis dekat komen, kawan sekeliling anda lebih suka sembang pasal belanja atau simpanan?
+
+Pilih persekitaran yang betul supaya langkah kewangan anda pergi lebih jauh!`
+  },
+  {
+    id: 1148,
+    siri: "PG1S-01",
+    no: 29,
+    topik: "Kewangan Peribadi",
+    tajuk: "Satu Perkataan 'Magic' Yang Murahkan Rezeki Setiap Hari",
+    tags: ["hutang", "gaji", "ringgit"],
+    persona: "Kuasa Syukur & Menghargai — Sikap Berterima Kasih (Zig Ziglar) + Syukur Dengan Mengurus Rezeki Baik-Baik",
+    teks: `Kenapa ada orang gajinya puluhan ribu ringgit tetapi hidupnya sentiasa serabut, manakala orang bergaji sederhana hidupnya tenang dan cukup?
+
+Rahsianya terletak pada satu sikap hati paling berkuasa, iaitu rasa syukur dan suka menghargai.
+
+Tokoh motivasi Zig Ziglar menyebut, semakin banyak kita bersyukur dengan apa yang ada, semakin banyak nikmat baru yang hadir.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, tanda kita bersyukur dengan rezeki gaji ialah menguruskannya dengan penuh amanah.
+
+Orang yang bersyukur tidak akan membazirkan titik peluhnya kepada perkara sia-sia atau hutang yang membinasakan.
+
+Sebaliknya, dia menghargai rezeki tersebut dengan menyimpan sebahagiannya dalam bentuk emas fizikal demi menjaga amanah keluarga.
+
+Biasakan juga mengucapkan terima kasih kepada pasangan, ibu bapa, dan sesiapa sahaja yang memudahkan urusan kita setiap hari.
+
+Hati yang kaya dengan syukur akan menarik rezeki yang berkat.
+
+Cuba tulis dekat komen, apakah satu nikmat hari ini yang paling anda syukuri?
+
+Hargai rezeki di tangan dengan mengurusnya secara bijaksana!`
+  },
+  {
+    id: 1149,
+    siri: "PG1S-01",
+    no: 30,
+    topik: "Keluarga",
+    tajuk: "Kebebasan Sebenar: Bila Kita Tak Perlu Risau Kos Hidup",
+    tags: ["rumah", "ringgit", "disiplin"],
+    persona: "Maksud Sebenar Financial Freedom — Pendapatan Pasif Melebihi Kos Sara Hidup + Mulakan Langkah Pertama",
+    teks: `Kaya dan bebas kewangan bukanlah bermaksud kita perlu memiliki kereta sukan mewah atau rumah sebesar istana.
+
+Definisi sebenar kebebasan kewangan sangat mudah: apabila pendapatan daripada aset kita sudah melebihi kos sara hidup bulanan!
+
+Saat mencapai tahap itu, kita tidak perlu lagi risau tentang bil dapur walaupun tidak bekerja secara aktif.
+
+Masa kembali menjadi milik kita sepenuhnya untuk diluangkan bersama keluarga dan beribadah dengan tenang.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jalan menuju kebebasan kewangan bukanlah keajaiban, tetapi sesuatu yang boleh dirancang.
+
+Segalanya bermula dengan disiplin paling asas iaitu menutup kebocoran wang dan mengumpul emas fizikal secara konsisten.
+
+Daripada tabungan emas itulah kita membina modal aset sedikit demi sedikit sehingga menampung kos sara hidup kita.
+
+Jangan pandang rendah pada seratus ringgit atau satu gram yang disimpan hari ini.
+
+Kongsikan di komen, berapa kos sara hidup bulanan yang memberi ketenangan kepada keluarga anda?
+
+Rancang masa depan hari ini, kerana kejayaan kewangan bukan nasib tetapi pilihan!`
+  },
+  {
+    id: 1150,
+    siri: "PG1S-02",
+    no: 1,
+    topik: "Public Gold & GAP",
+    tajuk: "Mitos Kena Tunggu Ribuan Ringgit Baru Boleh Beli Emas",
+    tags: ["gap", "gaji", "ringgit"],
+    persona: "Mulakan Langkah Kecil Tanpa Tangguh — Pecahkan Mitos Modal Besar + Mula Serendah RM100 Di Akaun GAP",
+    teks: `Siapa cakap nak beli emas mesti kena tunggu ada duit beribu-ribu ringgit dalam tangan?
+
+Itulah salah faham paling besar yang menyebabkan ramai gagal memiliki walau satu gram emas sampai ke sudah!
+
+Kalau tunggu baki gaji terkumpul seribu ringgit baru nak ke kedai emas, duit itu pasti habis bocor di tengah jalan.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jangan tunggu kaya baru nak menyimpan, tetapi menyimpanlah untuk membina kekayaan.
+
+Di Public Gold, kita boleh mula menabung emas tulen sembilan sembilan sembilan serendah seratus ringgit melalui Akaun Emas GAP.
+
+Duit seratus ringgit itu terus ditukar menjadi pecahan gram emas dan disimpan dengan selamat secara percuma.
+
+Bila gram dah terkumpul banyak, kita bebas keluarkan kepingan jongkong emas fizikal bila-bila masa.
+
+Tiada lagi alasan tak cukup modal untuk membina benteng kewangan keluarga.
+
+Cuba tulis dekat komen, selama ini anda ingat kena ada berapa ringgit baru boleh beli emas?
+
+Mulakan seratus ringgit pertama anda di Akaun GAP hari ini!`
+  },
+  {
+    id: 1151,
+    siri: "PG1S-02",
+    no: 2,
+    topik: "Keluarga",
+    tajuk: "Kenapa Duit Raya & Duit Hadiah Anak Selalu Lesap?",
+    tags: ["gap", "inflasi", "hutang", "gaji", "ringgit", "anak"],
+    persona: "Impian Pendidikan & Masa Depan Anak — Kebocoran Duit Tunai Anak + Tabungan Akaun GAP Junior Public Gold",
+    teks: `Cuba jujur, ke mana perginya semua duit raya dan duit hadiah kelahiran anak-anak kita sejak mereka kecil?
+
+Selalunya ibu bapa kata nak tolong simpankan, tetapi bila sesak tengah bulan, duit anak itulah yang terpakai dahulu!
+
+Kalau disimpan dalam bentuk wang kertas sekalipun, nilainya tetap susut dimakan inflasi apabila anak berusia lapan belas tahun nanti.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, cara terbaik melindungi dana masa depan anak ialah menukarkannya kepada emas fizikal.
+
+Melalui Akaun Emas GAP Junior Public Gold, ibu bapa boleh membuka akaun emas khas atas nama anak seawal usia bayi.
+
+Setiap kali anak dapat duit raya atau kita dapat gaji, alihkan sahaja seratus ringgit ke dalam akaun emas mereka.
+
+Selama lapan belas tahun, gram emas itu terkumpul selamat dan nilainya meningkat seiring kenaikan kos universiti.
+
+Bila anak melangkah ke menara gading, mereka tidak perlu menanggung beban hutang pendidikan.
+
+Kongsikan di komen, berapa umur anak anda sekarang dan dah ada akaun emas belum?
+
+Selamatkan duit anak anda hari ini dengan Akaun GAP Junior!`
+  },
+  {
+    id: 1152,
+    siri: "PG1S-02",
+    no: 3,
+    topik: "Kewangan Peribadi",
+    tajuk: "Rahsia Ubah Tabiat Kecil Pada Hujung Minggu",
+    tags: ["gap", "gaji", "ringgit", "hujung minggu"],
+    persona: "Rancang Masa & Persediaan Awal — Guna Hujung Minggu Untuk Semak Kewangan + Tambah Gram Akaun GAP",
+    teks: `Apa beza cara orang berjaya urus kewangan dengan orang yang sentiasa pokai apabila tiba hari Sabtu dan Ahad?
+
+Orang kebanyakan menghabiskan keseluruhan hujung minggu di pusat beli-belah untuk mencari cara menghabiskan baki gaji.
+
+Sebaliknya, orang bijak meluangkan masa setengah jam pada hujung minggu untuk menyemak hala tuju kewangan keluarga.
+
+Mereka merancang perbelanjaan sebulan lebih awal supaya duit gaji tidak mengalir keluar mengikut emosi.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kegagalan merancang kewangan sebenarnya adalah perancangan untuk gagal.
+
+Jadikan hujung minggu sebagai waktu tetap untuk membuka aplikasi Public Gold dan menyemak pertambahan gram Akaun Emas GAP.
+
+Kalau ada lebihan bajet minggu tersebut, terus tukarkan seratus ringgit menjadi gram emas sebelum terbelanja kepada perkara remeh.
+
+Rutin sepuluh minit di hujung minggu inilah yang bakal membezakan kedudukan harta kita lima tahun akan datang.
+
+Cuba komen di bawah, hujung minggu anda biasanya habis dekat mana?
+
+Gunakan hujung minggu ini untuk mengukuhkan tabungan Akaun GAP anda!`
+  },
+  {
+    id: 1153,
+    siri: "PG1S-02",
+    no: 4,
+    topik: "Keluarga",
+    tajuk: "Jangan Gaduh Pasal Politik, Fokus Selamatkan Poket Keluarga",
+    tags: ["gap", "rumah", "syariah"],
+    persona: "Elak Sengketa & Fokus Masa Depan — Jangan Buang Masa Berdebat + Bina Benteng Ekonomi Sendiri Di Akaun GAP",
+    teks: `Perasan tak, ramai orang sanggup bertekak berjam-jam di media sosial pasal politik, tetapi poket sendiri masih kosong?
+
+Walau siapa pun menang dalam perdebatan itu, bil elektrik, sewa rumah, dan barang dapur tetap kita sendiri yang kena bayar!
+
+Membuang masa mencari sengketa di media sosial langsung tidak menambah walau satu sen pun ke dalam akaun simpanan kita.
+
+Lebih baik gunakan masa dan tenaga itu untuk membina benteng ekonomi keluarga sendiri.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, nasib kewangan keluarga terletak di tangan kita sendiri, bukannya di tangan orang lain.
+
+Tidak kira apa jua keadaan ekonomi dunia, orang yang mempunyai rizab simpanan emas fizikal sentiasa hidup tenang.
+
+Dengan Akaun Emas GAP Public Gold, sesiapa sahaja boleh mengumpul aset emas patuh syariah dengan mudah melalui telefon pintar.
+
+Berhenti habiskan masa dengan perkara di luar kawalan, dan fokus kepada gram emas yang boleh kita kawal.
+
+Setuju tak ekonomi rumah tangga kita jauh lebih penting untuk dijaga? Tulis dekat komen.
+
+Fokus bina tabungan Akaun GAP anda hari ini demi ketenangan keluarga!`
+  },
+  {
+    id: 1154,
+    siri: "PG1S-02",
+    no: 5,
+    topik: "Kenapa Emas",
+    tajuk: "Penyakit Suka Kritik Semua Benda Tapi Poket Sendiri Kosong",
+    tags: ["gap", "inflasi", "gaji", "ringgit"],
+    persona: "Elak Sikap Merungut & Kritik — Berhenti Merungut Kos Hidup + Ambil Tindakan Simpan Emas Di Akaun GAP",
+    teks: `Pernah jumpa orang yang kerjanya setiap hari hanya merungut, mengkritik, dan menyalahkan semua benda di sekelilingnya?
+
+Harga ayam naik dia merungut, nilai ringgit jatuh dia marah, malah bila orang ajak menabung emas pun dia sibuk mencari salah!
+
+Malangnya, selepas sepuluh tahun merungut, kehidupan orang yang suka mengkritik ini tetap berada di takuk lama.
+
+Kerana sikap suka merungut sebenarnya menutup pintu fikiran daripada melihat jalan penyelesaian.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, daripada sibuk mengutuk kegelapan, lebih baik nyalakan sebatang lilin untuk menerangi jalan.
+
+Kita memang tidak mampu menghalang inflasi daripada terus meningkat setiap tahun.
+
+Tetapi kita mampu melindungi nilai titik peluh dengan menukarkan sebahagian gaji ke dalam Akaun Emas GAP Public Gold.
+
+Apabila nilai wang kertas menyusut, nilai simpanan emas di dalam Akaun GAP pula meningkat mengimbangi kos hidup.
+
+Cuba tulis dekat komen, apa langkah positif yang anda pilih untuk lawan inflasi?
+
+Berhenti merungut tentang harga barang, dan lindungi gaji anda dengan Akaun GAP!`
+  },
+  {
+    id: 1155,
+    siri: "PG1S-02",
+    no: 6,
+    topik: "Strategi Emas",
+    tajuk: "Takut Simpan Emas Banyak-Banyak Dekat Rumah? Ini Solusinya",
+    tags: ["gap", "rumah", "ringgit", "syariah", "cawangan"],
+    persona: "Platform Selamat & Patuh Syariah — Risiko Simpan Di Rumah vs Simpanan Emas Fizikal Percuma Dalam Akaun GAP",
+    teks: `Ramai orang teringin nak kumpul emas banyak-banyak, tetapi takut nak simpan emas fizikal di rumah!
+
+Nak tinggal rumah balik kampung pun hati tak senang sebab risaukan keselamatan emas dalam almari.
+
+Kalau nak sewa peti simpanan keselamatan di bank pula, terpaksa keluar kos yuran ratusan ringgit setiap tahun.
+
+Habis tu, macam mana cara nak kumpul ratusan gram emas dengan tenang tanpa sebarang kos simpanan?
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, manfaatkan kemudahan Akaun Emas GAP yang disediakan oleh Public Gold.
+
+Melalui Akaun GAP, emas fizikal yang kita beli disimpan selamat oleh syarikat secara percuma tanpa had masa dan tanpa yuran bulanan.
+
+Akaun ini disahkan patuh syariah kerana setiap gram yang dibeli disandarkan kepada emas fizikal tulen seratus peratus.
+
+Bila-bila masa perlukan emas fizikal di tangan, kita boleh keluarkan di cawangan atau pos berinsurans ke rumah.
+
+Kongsikan di komen, anda lebih tenang simpan emas di rumah atau dalam Akaun GAP?
+
+Kumpul emas tanpa risau keselamatan dengan membuka Akaun GAP hari ini!`
+  },
+  {
+    id: 1156,
+    siri: "PG1S-02",
+    no: 7,
+    topik: "Keluarga",
+    tajuk: "Macam Mana Nak Hadiahkan Isteri Barang Kemas Tanpa Hutang?",
+    tags: ["gap", "pg jewel", "barang kemas", "hutang", "kad kredit", "rumah", "ringgit", "isteri"],
+    persona: "Merancang Matlamat Keluarga — Elak Hutang Kedai Emas + Tebus Barang Kemas PG Jewel Terus Dari Akaun GAP",
+    teks: `Ramai suami teringin hadiahkan gelang emas untuk isteri tersayang, tetapi takut poket koyak tengok harga emas sekarang!
+
+Akibatnya, ada yang terpaksa berhutang atau guna kad kredit semata-mata nak beli barang kemas di kedai.
+
+Sebenarnya ada cara jauh lebih bijak untuk menghadiahkan barang kemas tanpa berhutang walau satu sen pun.
+
+Rahsianya ialah jangan kumpul duit tunai, tetapi kumpullah gram emas sedikit demi sedikit dalam Akaun Emas GAP Public Gold!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, menabung di Akaun GAP membantu kita mengunci harga emas mengikut kemampuan bulanan.
+
+Simpan sahaja seratus atau dua ratus ringgit setiap bulan sehingga jumlah gram mencukupi.
+
+Menariknya, gram emas dalam Akaun GAP itu boleh ditebus terus menjadi rantai atau gelang emas sembilan satu enam koleksi PG Jewel!
+
+Barang kemas itu pula dihantar terus ke pintu rumah dengan perlindungan insurans penuh.
+
+Cuba tag pasangan anda dekat komen, berapa gram barang kemas nak dihadiahkan tahun ini?
+
+Mula kumpul gram di Akaun GAP hari ini untuk kejutan paling bermakna!`
+  },
+  {
+    id: 1157,
+    siri: "PG1S-02",
+    no: 8,
+    topik: "Zakat & Syariah",
+    tajuk: "Rahsia 1 Dinar 1 Kambing Untuk Dana Haji Ibu Bapa",
+    tags: ["gap", "inflasi", "haji", "dinar", "ringgit"],
+    persona: "Matlamat Ibadah & Kasih Ibu Bapa — Kalis Inflasi 1 Dinar + Kumpul Dinar Melalui Akaun Emas GAP",
+    teks: `Perasan tak, kos menunaikan ibadah haji dan umrah semakin meningkat tinggi saban tahun?
+
+Kalau sekadar menabung wang kertas tanpa perlindungan nilai, belum tentu jumlahnya cukup bila tiba giliran nanti.
+
+Tetapi berbeza sekali ceritanya apabila kita mengumpul dana ibadah tersebut dalam bentuk dinar emas!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kuasa beli emas terbukti kalis inflasi sejak zaman Rasulullah, di mana satu dinar kekal bernilai seekor kambing.
+
+Hari ini, kita tidak perlu tunggu cukup duit dua ribu ringgit baru boleh membeli sekeping satu dinar.
+
+Dengan Akaun Emas GAP Public Gold, kita boleh menabung sedikit demi sedikit serendah seratus ringgit sebulan.
+
+Apabila baki Akaun GAP melebihi empat perpuluhan dua lima gram, kita boleh terus keluarkan sekeping syiling satu dinar fizikal ke tangan.
+
+Cukup sepuluh atau lima belas keping dinar, impian menghantar ibu bapa ke Tanah Suci menjadi jauh lebih mudah dicapai.
+
+Cuba tulis dekat komen, tahun bila anda sasarkan nak ke Tanah Suci?
+
+Mulakan tabungan dinar pertama anda melalui Akaun GAP hari ini juga!`
+  },
+  {
+    id: 1158,
+    siri: "PG1S-02",
+    no: 9,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kenapa Orang Yang Banyak Mendengar Lebih Cepat Kaya?",
+    tags: ["gap"],
+    persona: "Kebijaksanaan (Wisdom) & Sikap Merendah Diri — Banyak Mendengar & Memerhati + Ikut Panduan Simpanan Akaun GAP",
+    teks: `Tuhan ciptakan manusia dengan dua telinga dan satu mulut supaya kita mendengar dua kali ganda lebih banyak daripada bercakap.
+
+Tetapi dalam bab kewangan, ramai orang yang poketnya bocor lebih suka bercakap besar berbanding mendengar nasihat!
+
+Bila orang berpengalaman berkongsi cara menabung emas, dia sibuk memotong cakap dengan teori kedai kopinya sendiri.
+
+Akhirnya, orang yang mahu mendengar terus melangkah jauh, manakala si tukang cakap kekal di tempat lama.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kebijaksanaan kewangan bermula apabila kita merendahkan hati untuk membaca, mendengar, dan memerhati.
+
+Perhatikan bagaimana penyimpan emas berjaya membina tabungan secara senyap melalui Akaun Emas GAP Public Gold.
+
+Mereka tidak berdebat tentang ramalan harga esok, sebaliknya patuh menukar sebahagian pendapatan menjadi gram emas setiap bulan.
+
+Sikap tenang dan mahu mendengar bimbingan inilah yang menjadikan harta mereka terus berkembang.
+
+Kongsikan di komen, apakah nasihat kewangan terbaik yang pernah anda dengar?
+
+Amalkan nasihat itu sekarang dengan memulakan simpanan di Akaun GAP!`
+  },
+  {
+    id: 1159,
+    siri: "PG1S-02",
+    no: 10,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kisah Tukang Cuci Yang Kalahkan Eksekutif Bergaji Besar",
+    tags: ["gap", "gaji", "ringgit", "disiplin"],
+    persona: "Tingkah Laku Mengatasi Saiz Gaji — Gaji Kecil Tapi Disiplin vs Gaji Besar Tapi Boros + Konsisten Akaun GAP",
+    teks: `Jangan terkejut kalau seorang pekerja biasa bergaji dua ribu ringgit mempunyai harta emas lebih banyak daripada eksekutif bergaji sepuluh ribu!
+
+Ramai menyangka saiz tabungan ditentukan oleh berapa besar gaji yang kita bawa balik setiap bulan.
+
+Hakikatnya, berapa banyak kita mampu menyimpan tidak bergantung pada saiz gaji, tetapi bergantung pada tabiat dan disiplin kita.
+
+Orang bergaji sepuluh ribu yang berbelanja sebelas ribu sebulan sebenarnya sedang menggali lubang kemiskinan.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kekayaan terbina daripada apa yang kita simpan, bukannya apa yang kita belanjakan.
+
+Akaun Emas GAP Public Gold dicipta supaya golongan berpendapatan sederhana mampu mengumpul emas tulen dengan modal kecil.
+
+Pekerja bergaji kecil yang berdisiplin menyimpan seratus ringgit sebulan ke Akaun GAP pasti mengalahkan eksekutif bergaji besar yang sifar simpanan.
+
+Selepas beberapa tahun, gram emas yang dikumpul istiqamah itu menjadi benteng puluhan ribu ringgit.
+
+Cuba komen di bawah, disiplin atau saiz gaji yang lebih penting pada pendapat anda?
+
+Buktikan kemampuan diri anda dengan mengumpul gram di Akaun GAP hari ini!`
+  },
+  {
+    id: 1160,
+    siri: "PG1S-02",
+    no: 11,
+    topik: "Public Gold & GAP",
+    tajuk: "Jangan Tunggu Disuap: Nasib Kewangan Kita Tanggungjawab Kita",
+    tags: ["gap", "rumah"],
+    persona: "Inisiatif Diri & Berdikari — Jadilah Penyimpan Berdikari + Urus Jual Beli Sendiri Di Aplikasi Public Gold",
+    teks: `Dalam hidup ini, tiada sesiapa yang akan datang mengetuk pintu rumah kita untuk menyerahkan kesenangan secara percuma.
+
+Kalau kita masih bersikap tunggu disuap dan mengharapkan orang lain menyelesaikan masalah poket kita, kita sedang menempah kekecewaan!
+
+Orang yang berjaya membina kewangan kukuh mengambil tanggungjawab penuh ke atas masa depan keluarganya.
+
+Mereka tidak menyerahkan duit titik peluh kepada orang tengah yang tidak dikenali.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jadilah penyimpan emas yang berilmu dan tahu menguruskan transaksi sendiri.
+
+Melalui aplikasi Public Gold, setiap pemilik Akaun Emas GAP mempunyai kawalan seratus peratus ke atas simpanan mereka.
+
+Kita boleh menambah belian gram, menyemak baki, memohon pengeluaran fizikal, malah menjual balik emas dua puluh empat jam sehari.
+
+Apabila kita sendiri mengawal akaun emas kita, tiada sesiapa boleh mengambil kesempatan ke atas harta kita.
+
+Kongsikan di komen, anda lebih suka urus simpanan sendiri di aplikasi atau harapkan orang lain?
+
+Ambil alih kemudi kewangan anda hari ini bersama Akaun Emas GAP!`
+  },
+  {
+    id: 1161,
+    siri: "PG1S-02",
+    no: 12,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Bahaya Janji Bulan Bintang & Pulangan Bulanan Tetap",
+    tags: ["gap", "ringgit", "skim", "cawangan", "tunai"],
+    persona: "Ketulenan Emas Fizikal vs Skim Palsu — Tolak Skim Dividen Emas + Akaun GAP Bersandarkan Emas Fizikal 100%",
+    teks: `Kalau ada orang tawarkan pelaburan emas yang menjanjikan dividen atau pulangan tunai tetap setiap bulan, lari jauh-jauh!
+
+Kerana emas fizikal sebenar tidak pernah beranakkan duit tunai setiap bulan seperti janji skim cepat kaya.
+
+Ramai masyarakat kita kehilangan wang persaraan ratusan ribu ringgit kerana gelap mata dengan janji manis sebegitu.
+
+Apabila syarikat skim tersebut lingkup, duit lesap dan seketul emas pun tiada di tangan!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, peraturan paling utama dalam jual beli emas ialah beli emas mesti dapat emas fizikal.
+
+Sebab itulah Akaun Emas GAP Public Gold menjadi pilihan ratusan ribu penyimpan yang mementingkan keselamatan.
+
+Setiap ringgit yang dimasukkan ke Akaun GAP ditukarkan kepada berat emas sebenar yang boleh dikeluarkan menjadi jongkong fizikal di cawangan.
+
+Biarlah tiada janji manis bulanan, asalkan aset emas kita benar-benar wujud dan selamat.
+
+Pernah tak anda didekati skim emas yang janjikan pulangan bulanan? Cerita dekat komen.
+
+Pilih jalan yang sahih dan selamat bersama Akaun Emas GAP Public Gold!`
+  },
+  {
+    id: 1162,
+    siri: "PG1S-02",
+    no: 13,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kenapa Tak Perlu Malu Mula Menabung Dengan RM100?",
+    tags: ["gap", "ringgit"],
+    persona: "Merendah Diri & Mulakan Apa Yang Ada — Jangan Malu Modal Kecil + Konsisten Kumpul Gram Dalam Akaun GAP",
+    teks: `Pernah tak rasa segan nak mula menyimpan emas sebab orang lain beli jongkong besar, sedangkan kita cuma mampu seratus ringgit?
+
+Buang perasaan malu yang tidak bertempat itu jauh-jauh dari fikiran kita!
+
+Perkara yang patut dimalukan bukanlah bermula dengan seratus ringgit, tetapi berhutang ribuan ringgit semata-mata nak nampak mewah.
+
+Setiap bangunan pencakar langit yang megah semuanya bermula dengan susunan seketul batu bata pertama.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, orang yang bermula dengan modal kecil tetapi berilmu akan pergi jauh lebih selamat.
+
+Di dalam Akaun Emas GAP Public Gold, belian seratus ringgit mendapat kualiti emas sembilan sembilan sembilan yang sama hebatnya dengan pembeli satu kilogram.
+
+Tiada sesiapa pun tahu berapa baki dalam akaun kita kecuali diri kita sendiri.
+
+Kumpul sahaja pecahan gram itu dengan sabar setiap bulan sehingga menjadi bukit.
+
+Cuba tulis dekat komen, berapa ringgit belian emas pertama yang pernah anda buat?
+
+Bangga dengan langkah kecil anda hari ini, dan teruskan menabung di Akaun GAP!`
+  },
+  {
+    id: 1163,
+    siri: "PG1S-02",
+    no: 14,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kisah Puan Suri Rumah Yang Ada 'Gaji Kedua' Dalam Diam",
+    tags: ["gap", "inflasi", "gaji", "rumah", "ringgit", "kecemasan"],
+    persona: "Inisiatif Kewangan Suri Rumah — Simpan Lebihan Duit Dapur + Bina Rizab Emas Sendiri Dalam Akaun GAP",
+    teks: `Ramai orang pandang rendah pada kuasa seorang suri rumah dalam menguruskan kewangan keluarga.
+
+Tetapi tahukah anda, ramai suri rumah bijak mempunyai tabungan kecemasan lebih kukuh daripada orang yang bekerja di pejabat?
+
+Rahsia mereka bukanlah meminta duit beribu-ribu daripada suami serentak.
+
+Sebaliknya, mereka mengumpul baki duit belanja dapur sedikit demi sedikit dan menukarkannya ke dalam Akaun Emas GAP Public Gold!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, duit kertas dalam tin biskut di dapur sangat mudah terpakai dan dimakan inflasi.
+
+Tetapi apabila suri rumah mengalihkan seratus ringgit baki belanja ke Akaun GAP melalui telefon pintar, duit itu selamat menjadi gram emas.
+
+Tanpa perlu keluar rumah beratur di kedai emas, gram emas mereka bertambah setiap bulan dalam diam.
+
+Waktu keluarga berdepan saat genting, tabungan emas suri rumah inilah yang sering menjadi penyelamat utama.
+
+Ada tak suri rumah hebat yang sedang menabung emas dekat sini? Angkat tangan di komen!
+
+Bina benteng kewangan anda dari rumah hari ini melalui Akaun Emas GAP!`
+  },
+  {
+    id: 1164,
+    siri: "PG1S-02",
+    no: 15,
+    topik: "Kewangan Peribadi",
+    tajuk: "Bila Kereta Rosak Tengah Bulan, Siapa Nak Tolong Kita?",
+    tags: ["gap", "hutang", "kad kredit", "gaji", "kecemasan", "syariah", "tunai"],
+    persona: "Kecairan Pantas Waktu Kecemasan — Kecemasan Tanpa Hutang + Jual Balik / Pajak Online Akaun GAP 24 Jam",
+    teks: `Kejadian kereta rosak teruk atau bumbung bocor jarang berlaku waktu kita baru dapat gaji awal bulan.
+
+Selalunya ujian mengejut begitu datang tepat pada tengah bulan ketika baki bank sedang nyawa-nyawa ikan!
+
+Waktu genting begitu, orang yang tiada simpanan terpaksa menebalkan muka meminjam kawan atau terjebak hutang kad kredit.
+
+Tetapi bagi penyimpan emas, ujian kecemasan dapat dihadapi dengan hati yang jauh lebih tenang.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, emas adalah aset fizikal paling mudah dicairkan kepada wang tunai di seluruh dunia.
+
+Melalui Akaun Emas GAP Public Gold, kita tidak perlu berlari ke kedai emas sekiranya memerlukan wang tunai segera.
+
+Kita boleh menjual balik sebahagian gram emas atau memajak secara patuh syariah terus melalui aplikasi telefon pintar bila-bila masa.
+
+Wang tunai tersebut dimasukkan terus ke akaun bank kita untuk menyelesaikan masalah dengan segera.
+
+Cuba komen di bawah, apakah kecemasan paling mengejut yang pernah menguji poket anda?
+
+Sediakan payung sebelum hujan dengan membina rizab Akaun Emas GAP sekarang!`
+  },
+  {
+    id: 1165,
+    siri: "PG1S-02",
+    no: 16,
+    topik: "Keluarga",
+    tajuk: "Jangan Bandingkan Pasangan Kita Dengan Kehidupan Orang Lain",
+    tags: ["gap", "hutang", "rumah", "palsu", "isteri"],
+    persona: "Keharmonian Rumah Tangga & Matlamat Bersama — Elak Perbandingan Toksik + Bina Impian Keluarga Bersama Di Akaun GAP",
+    teks: `Punca utama hilangnya bahagia dalam rumah tangga ialah apabila kita membandingkan pasangan dengan kehidupan orang lain di media sosial.
+
+Tengok suami orang beli kereta besar, kita tarik muka; tengok isteri orang tayang percutian mewah, hati mula panas.
+
+Padahal kita langsung tidak tahu berapa banyak beban hutang yang mereka tanggung di sebalik gambar indah tersebut!
+
+Jangan biarkan perbandingan palsu merosakkan keharmonian rumah tangga yang sedang kita bina.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kebahagiaan kewangan bermula apabila suami isteri berbincang menetapkan matlamat impian bersama.
+
+Daripada berlumba menayang kemewahan, lebih baik suami isteri bekerjasama mengumpul gram emas dalam Akaun Emas GAP Public Gold.
+
+Tetapkan sasaran bersama seperti mengumpul lima puluh gram emas untuk deposit rumah atau dana pendidikan anak-anak.
+
+Bila suami isteri bergerak seiringan menyimpan emas, ikatan kasih sayang dan kepercayaan menjadi jauh lebih erat.
+
+Kongsikan di komen, apakah matlamat kewangan yang anda dan pasangan sedang usahakan bersama?
+
+Capai impian rumah tangga anda dengan menabung konsisten di Akaun GAP!`
+  },
+  {
+    id: 1166,
+    siri: "PG1S-02",
+    no: 17,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kuasa Tulis Rekod Simpanan Setiap Hujung Bulan",
+    tags: ["gap", "gaji", "tunai"],
+    persona: "Penilaian Kendiri (Self-Assessment) — Ukur Kemajuan Usaha + Semak Pertambahan Gram Dalam Akaun GAP",
+    teks: `Pernah tak kita bekerja keras sepanjang tahun, tetapi bila tiba bulan Disember kita tertanya-tanya ke mana perginya semua hasil gaji kita?
+
+Puncanya ialah kita tidak pernah membuat semakan bulanan untuk mengukur kemajuan simpanan sendiri!
+
+Dalam apa jua perkara yang diusahakan, apa yang tidak diukur dan dipantau tidak akan berkembang dengan baik.
+
+Kita perlu jujur membandingkan antara jumlah gaji yang diterima dengan berapakah aset sebenar yang berjaya diketepikan.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, ukur kemajuan kekayaan setiap bulan berdasarkan pertambahan berat gram emas, bukannya baki tunai.
+
+Dengan Akaun Emas GAP Public Gold, setiap transaksi belian direkodkan secara kemas dan telus di dalam aplikasi.
+
+Setiap hujung bulan, luangkan lima minit untuk melihat jumlah gram emas terkumpul berbanding bulan sebelumnya.
+
+Apabila mata melihat angka gram meningkat daripada satu gram kepada dua gram, semangat menabung akan melonjak!
+
+Cuba tulis dekat komen, adakah jumlah simpanan anda bulan ini meningkat berbanding bulan lepas?
+
+Pantau dan tingkatkan rekod aset anda setiap bulan melalui Akaun Emas GAP!`
+  },
+  {
+    id: 1167,
+    siri: "PG1S-02",
+    no: 18,
+    topik: "Public Gold & GAP",
+    tajuk: "Kenapa Orang Yang Sanggup Labur Untuk Ilmu Takkan Rugi?",
+    tags: ["gap", "ringgit"],
+    persona: "Sikap Sanggup Melabur Ilmu — Ilmu Baru Hasil Baru + Faham Mekanik Akaun GAP Sebelum Melabur Besar",
+    teks: `Ramai orang berkira nak keluarkan lima puluh ringgit beli buku kewangan, tetapi tak berkira bila lebur puluhan ribu dalam pelaburan merapu!
+
+Itulah ironi paling menyedihkan yang sering berlaku dalam masyarakat kita hari ini.
+
+Mereka mahukan hasil kewangan luar biasa, tetapi masih menggunakan tahap pemikiran dan ilmu yang lama.
+
+Hakikatnya, ilmu baru akan melahirkan tenaga baru, dan tenaga itulah yang mencipta hasil kewangan baru!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, pelaburan paling tinggi pulangannya dan paling rendah risikonya ialah pelaburan ilmu di kepala sendiri.
+
+Bila meluangkan masa mempelajari ilmu emas, kita faham bagaimana Akaun Emas GAP Public Gold berfungsi melindungi harta kita.
+
+Kita tahu waktu sesuai mengeluarkan jongkong fizikal, faham cara elak kerugian, dan tidak mudah diperdaya oleh sesiapa.
+
+Ilmu tersebut kekal menjadi milik kita sepanjang hayat dan boleh diajarkan pula kepada anak-anak.
+
+Kongsikan di komen, apakah ilmu penting tentang emas yang baru anda pelajari tahun ini?
+
+Teruskan menimba ilmu sambil membina tabungan selamat dalam Akaun Emas GAP!`
+  },
+  {
+    id: 1168,
+    siri: "PG1S-02",
+    no: 19,
+    topik: "Kewangan Peribadi",
+    tajuk: "Rahsia Keluar Dari Hutang Jahat Tanpa Pinjam Ah Long",
+    tags: ["gap", "hutang", "kad kredit", "ringgit"],
+    persona: "Strategi Bebas Hutang & Disiplin — Jangan Gali Lubang Baru + Bina Tabung Pelangsaian Hutang Di Akaun GAP",
+    teks: `Jangan sesekali cuba menyelesaikan masalah hutang lama dengan cara meminjam hutang baru yang lebih membebankan!
+
+Perbuatan gali lubang tutup lubang itu umpama cuba memadamkan api menggunakan minyak tanah.
+
+Ramai yang terjerat hutang kad kredit gagal keluar daripada belenggu tersebut kerana tidak membina benteng simpanan.
+
+Setiap kali ada sedikit duit lebih, duit itu habis terpakai semula sebelum sempat melangsaikan pokok hutang.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, sambil membayar ansuran bulanan seperti biasa, binalah satu tabung khas dalam bentuk emas fizikal.
+
+Gunakan Akaun Emas GAP Public Gold untuk mengasingkan seratus ringgit setiap bulan supaya tersembunyi daripada pandangan mata.
+
+Apabila duit bertukar menjadi gram emas dalam Akaun GAP, kita tidak lagi tergoda mengusiknya.
+
+Sebaik sahaja nilai emas terkumpul menyamai baki hutang, jualkan emas tersebut dan langsaikan keseluruhan hutang sekali gus!
+
+Cuba tulis dekat komen, hutang apa yang paling anda nak selesaikan tahun ini?
+
+Mulakan misi bebas hutang anda dengan menabung di Akaun Emas GAP sekarang!`
+  },
+  {
+    id: 1169,
+    siri: "PG1S-02",
+    no: 20,
+    topik: "Public Gold & GAP",
+    tajuk: "Emas Fizikal Di Tangan vs Nombor Di Skrin Telefon",
+    tags: ["gap", "rumah", "ringgit", "emas digital"],
+    persona: "Kepuasan Memegang Aset Sebenar — Keluarkan Jongkong Fizikal Dari Akaun GAP Melalui Pos Berinsurans GIT",
+    teks: `Apa beza perasaan melihat angka seribu ringgit di skrin telefon berbanding memegang sekeping jongkong emas tulen di tapak tangan?
+
+Angka di skrin hanyalah nombor digital yang boleh lenyap sekelip mata apabila menekan butang bayar di aplikasi beli-belah!
+
+Sebaliknya, kepingan emas fizikal mempunyai berat, kilauan, dan aura kekayaan sebenar yang membuatkan kita sayang nak membazir.
+
+Ramai bertanya, kalau menabung dalam Akaun Emas GAP Public Gold, betul ke boleh dapat pegang emas fizikal itu?
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, Akaun GAP bukanlah emas digital atas angin, tetapi kaedah mengumpul emas fizikal sedikit demi sedikit.
+
+Sebaik sahaja baki tabungan mencukupi, kita boleh memohon pengeluaran emas fizikal serendah satu gram terus melalui aplikasi.
+
+Lebih mudah lagi, Public Gold menyediakan pos berinsurans yang menghantar kepingan emas tersebut terus ke pintu rumah kita!
+
+Simpanlah kepingan emas itu sebagai motivasi, atau biarkan di dalam akaun secara percuma.
+
+Cuba komen di bawah, saiz jongkong emas berapa gram yang paling anda teringin pegang?
+
+Kumpul gram anda di Akaun GAP hari ini dan rasai nikmat memiliki emas fizikal!`
+  },
+  {
+    id: 1170,
+    siri: "PG1S-02",
+    no: 21,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kenapa Ramai Orang Berhenti Menabung Bila Kawan Mengejek?",
+    tags: ["gap", "gaji", "ringgit"],
+    persona: "Ketahanan Mental & Fokus Matlamat — Buat 'Tak Reti' Pada Kata Negatif + Terus Konsisten Dalam Akaun GAP",
+    teks: `Masa mula-mula belajar mengumpul emas seratus ringgit sebulan, pasti ada suara sumbang yang mengejek usaha kecil kita.
+
+Ada yang cakap 'simpan seratus ringgit bila tahun nak kaya', malah ada yang menakut-nakutkan kononnya harga emas bakal jatuh!
+
+Malangnya, ramai yang berjiwa rapuh terus berhenti menabung hanya kerana terkesan dengan mulut orang luar.
+
+Ingatlah, orang yang mengejek itu tidak akan datang menghulurkan beras apabila keluarga kita diuji kesempitan wang nanti!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, apabila orang luar berkata negatif tentang usaha kita menyimpan emas, buat tak reti sahaja.
+
+Pekakkan telinga, senyum tenang, dan teruskan menambah gram dalam Akaun Emas GAP Public Gold setiap kali dapat gaji.
+
+Biarkan masa selama tiga hingga lima tahun menjawab segala sindiran mereka.
+
+Apabila tabungan Akaun GAP mencecah puluhan gram, orang yang mengejek tadi biasanya akan mula bertanya cara hendak bermula.
+
+Pernah tak usaha anda menyimpan diperlekehkan orang sekeliling? Kongsikan dekat komen.
+
+Kekal fokus pada matlamat keluarga dan teruskan menabung di Akaun GAP!`
+  },
+  {
+    id: 1171,
+    siri: "PG1S-02",
+    no: 22,
+    topik: "Public Gold & GAP",
+    tajuk: "Satu Soalan Sebelum Tidur Yang Mengubah Masa Depan",
+    tags: ["gap", "gaji", "ringgit"],
+    persona: "Muhasabah Harian & Kemajuan Diri — Pastikan Ada Peningkatan + Tambah Gram Akaun GAP Setiap Bulan",
+    teks: `Sebelum melelapkan mata malam ini, tanya diri sendiri: adakah kedudukan kewangan aku hari ini lebih baik daripada bulan lepas?
+
+Kalau jawapannya sama sahaja atau makin menyusut, itu tandanya kita sedang hanyut tanpa arah tuju jelas.
+
+Kejayaan besar dalam hidup tidak pernah datang secara mendadak dalam satu malam.
+
+Ia terbina daripada peningkatan kecil yang diusahakan secara sedar setiap hari dan setiap bulan.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jangan biarkan walau satu bulan gaji berlalu tanpa ada pertambahan gram emas dalam simpanan kita.
+
+Jadikan Akaun Emas GAP Public Gold sebagai kayu ukur peningkatan diri kita setiap bulan.
+
+Walaupun bulan ini hanya mampu menambah seratus ringgit sekitar kosong perpuluhan dua gram emas, itu tetap kemajuan yang nyata!
+
+Kosong perpuluhan dua gram yang ditambah konsisten jauh lebih mulia daripada sifar gram kerana sibuk memberi alasan.
+
+Cuba tulis dekat komen, sudahkah anda menambah walau sedikit simpanan emas bulan ini?
+
+Pastikan setiap bulan anda melangkah ke hadapan bersama Akaun Emas GAP!`
+  },
+  {
+    id: 1172,
+    siri: "PG1S-02",
+    no: 23,
+    topik: "Public Gold & GAP",
+    tajuk: "Rahsia Pengalaman Mengeluarkan Emas Di Mesin Gold ATM",
+    tags: ["gap"],
+    persona: "Inovasi & Kemudahan Teknologi Emas — Kemudahan Gold ATM Public Gold + Keluarkan Emas Dari Akaun GAP",
+    teks: `Kalau dulu orang keluarkan duit kertas dekat mesin ATM, sekarang kita boleh keluarkan kepingan emas tulen terus dari mesin Gold ATM!
+
+Ramai belum tahu bahawa Malaysia mempunyai puluhan buah mesin Gold ATM milik Public Gold di seluruh negara.
+
+Kemudahan canggih ini mengubah cara masyarakat menyimpan dan memiliki emas fizikal menjadi seribu kali lebih mudah.
+
+Kita tidak perlu lagi menunggu waktu pejabat semata-mata untuk mendapatkan kepingan emas di tangan.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, gunakan sendiri kemudahan yang ada supaya kita merasai mudahnya menguruskan aset emas hari ini.
+
+Melalui Akaun Emas GAP Public Gold, kita boleh menabung sedikit demi sedikit melalui telefon pintar dari mana-mana sahaja.
+
+Apabila baki gram dalam Akaun GAP mencukupi, pergi sahaja ke mesin Gold ATM berdekatan dan keluarkan sendiri jongkong emas fizikal dengan pantas.
+
+Teknologi yang telus ini memberikan keyakinan penuh kepada setiap penyimpan emas.
+
+Cuba komen di bawah, anda dah pernah cuba keluarkan emas dekat mesin Gold ATM belum?
+
+Buka Akaun Emas GAP hari ini dan nikmati kemudahan menyimpan emas bertaraf dunia!`
+  },
+  {
+    id: 1173,
+    siri: "PG1S-02",
+    no: 24,
+    topik: "Kewangan Peribadi",
+    tajuk: "Jangan Campur Adukkan Duit Belanja Dengan Duit Masa Depan",
+    tags: ["gap", "gaji", "ringgit"],
+    persona: "Pengasingan Tabung Kewangan — Bahaya Satu Akaun Bank + Asingkan Dana Jangka Panjang Ke Akaun GAP",
+    teks: `Kesilapan paling besar orang makan gaji ialah mencampuradukkan duit belanja harian dengan duit simpanan dalam satu akaun bank yang sama!
+
+Bila duit makan, duit minyak, dan duit tabungan duduk sekali di bawah satu kad debit, apa yang bakal berlaku?
+
+Setiap kali kita leret kad tersebut di kaunter bayaran, tanpa sedar kita sedang membelanjakan duit masa depan keluarga sendiri!
+
+Sebab itulah walaupun sudah bekerja sepuluh tahun, baki simpanan tidak pernah melepasi angka seribu ringgit.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, bina tembok pemisah yang kukuh antara duit belanja dengan duit simpanan.
+
+Cara paling berkesan ialah memindahkan duit simpanan jangka panjang terus ke dalam Akaun Emas GAP Public Gold.
+
+Apabila duit masa depan sudah berada dalam Akaun GAP sebagai gram emas, ia terpisah sepenuhnya daripada kad bank harian kita.
+
+Kita hanya berbelanja menggunakan baki di bank, manakala aset masa depan kekal selamat tidak terusik.
+
+Kongsikan di komen, anda asingkan akaun simpanan atau masih campur dengan akaun gaji?
+
+Pisahkan harta masa depan anda sekarang di dalam Akaun Emas GAP!`
+  },
+  {
+    id: 1174,
+    siri: "PG1S-02",
+    no: 25,
+    topik: "Keluarga",
+    tajuk: "Kisah Bapa Yang Sediakan Dana Universiti Anak Sejak Bayi",
+    tags: ["gap", "ringgit", "anak"],
+    persona: "Perancangan Jangka Panjang 18 Tahun — Ketenangan Bapa Ketika Anak Masuk Universiti + Kuasa Akaun GAP Junior",
+    teks: `Waktu anak dapat tawaran masuk universiti, ada ibu bapa menangis gembira, tetapi ada yang menangis dalam diam sebab risaukan yuran pengajian!
+
+Kos pendaftaran dan sara hidup di universiti bukannya murah, apatah lagi jika mempunyai beberapa orang anak yang membesar serentak.
+
+Seorang sahabat berkongsi bagaimana beliau langsung tidak perlu berhutang ketika anaknya masuk ke universiti tahun lepas.
+
+Rahsianya bermula lapan belas tahun dahulu, iaitu sebaik sahaja anaknya dilahirkan!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, masa yang panjang adalah kawan terbaik bagi seorang penyimpan emas.
+
+Jika konsisten menabung seratus ringgit sebulan dalam Akaun Emas GAP Junior Public Gold sejak anak lahir, kita mampu mengumpul puluhan gram emas.
+
+Kenaikan nilai emas dalam tempoh hampir dua dekad itu menampung lonjakan kos pendidikan dengan sangat selesa.
+
+Anak dapat belajar tenang tanpa pinjaman, dan bapa tidak perlu mengorek wang persaraan sendiri.
+
+Cuba tulis dekat komen, berapa tahun lagi masa yang ada sebelum anak anda masuk universiti?
+
+Jangan bazirkan masa itu, mulakan Akaun GAP Junior anak anda hari ini!`
+  },
+  {
+    id: 1175,
+    siri: "PG1S-02",
+    no: 26,
+    topik: "Public Gold & GAP",
+    tajuk: "Kenapa Kita Perlu Hormat Usaha & Rezeki Orang Lain?",
+    tags: ["gap", "gaji", "ringgit", "syariah"],
+    persona: "Keberkatan Rezeki & Kejujuran — Rezeki Halal & Berkat + Simpan Hasil Titik Peluh Dalam Akaun GAP",
+    teks: `Pernah tengok orang yang dapat duit banyak dengan mengambil hak orang lain, tetapi akhirnya duit itu lesap ditimpa musibah?
+
+Kerana dalam mencari harta, keberkatan adalah jauh lebih utama daripada sekadar banyaknya angka ringgit!
+
+Dalam kehidupan dan kerjaya, jangan sesekali mencuri peluang orang lain atau mengambil sesuatu yang bukan hak kita.
+
+Jika mahu orang menghormati periuk nasi kita, kita sendiri wajib menghormati usaha dan rezeki orang lain dahulu.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, harta daripada sumber bersih yang diuruskan mengikut syariat akan memberikan ketenangan jiwa luar biasa.
+
+Apabila mendapat gaji atau keuntungan yang halal, peliharalah keberkatan rezeki itu daripada terbuang kepada pembaziran.
+
+Simpan sebahagian hasil titik peluh tersebut ke dalam Akaun Emas GAP Public Gold yang disahkan patuh syariah sepenuhnya.
+
+Bila sumber rezeki bersih dan simpanan emas pula patuh syariah, harta itu pasti menjadi pelindung keluarga yang berkat.
+
+Setuju tak keberkatan rezeki jauh lebih penting daripada sekadar nampak banyak? Komen di bawah.
+
+Pelihara hasil titik peluh anda yang halal di dalam Akaun Emas GAP!`
+  },
+  {
+    id: 1176,
+    siri: "PG1S-02",
+    no: 27,
+    topik: "Keluarga",
+    tajuk: "Bila Harga Emas Mencanak Naik, Siapa Yang Paling Menyesal?",
+    tags: ["gap", "inflasi", "ringgit"],
+    persona: "Kos Bertangguh & Tindakan — Buka Akaun Percuma Tapi Tak Beli + Mula Gram Pertama Di Akaun GAP",
+    teks: `Setiap kali berita melaporkan harga emas memecahkan rekod tertinggi, tahu tak golongan mana yang paling menyesal tak sudah?
+
+Bukan orang yang tak tahu pasal emas, tetapi orang yang sudah mendaftar akaun emas bertahun-tahun lepas namun belum membeli walau satu gram!
+
+Waktu harga emas masih rendah dahulu, mereka sibuk tunggu harga jatuh lagi sepuluh ringgit.
+
+Bila harga emas terus mendaki naik, mereka gigit jari sambil berkata 'kalaulah aku mula simpan seratus ringgit masa daftar dulu'.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, waktu terbaik membeli emas adalah sepuluh tahun lepas, dan waktu kedua terbaik adalah hari ini!
+
+Membuka Akaun Emas GAP di Public Gold memang percuma tanpa sebarang bayaran pendaftaran.
+
+Tetapi akaun kosong tanpa belian gram emas tidak mampu melindungi masa depan kita daripada inflasi.
+
+Jangan tunggu harga turun ke paras angan-angan, sebaliknya mulakan belian mengikut bajet di tangan sekarang.
+
+Cuba jujur dekat komen, siapa dah daftar akaun tapi belum mula menabung?
+
+Aktifkan simpanan Akaun GAP anda dengan seratus ringgit pertama hari ini!`
+  },
+  {
+    id: 1177,
+    siri: "PG1S-02",
+    no: 28,
+    topik: "Public Gold & GAP",
+    tajuk: "Rahsia Hidup Tenang Tanpa Perlu Fikir 'Plan B' Yang Merapu",
+    tags: ["gap", "kecemasan"],
+    persona: "Fokus Satu Laluan Terbukti (Tunnel Vision) — Jangan Melompat Skim Pelaburan + Fokus Penuh Kumpul Gram Akaun GAP",
+    teks: `Kenapa ramai orang yang mencari jalan pintas dalam kewangan akhirnya tersungkur lebih teruk daripada orang biasa?
+
+Kerana fikiran mereka tidak fokus; hari ini buat satu perkara, minggu depan bila nampak jalan lain terus tukar arah!
+
+Sikap suka melompat-lompat mencari pelan pintas sebenarnya membuang masa dan menghanguskan modal simpanan kita.
+
+Untuk mencapai habuan masa depan yang besar, kita perlukan fokus tajam pada satu laluan yang sudah terbukti selamat.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, bagi masyarakat yang sibuk bekerja, simpanan emas fizikal adalah laluan paling tenang dan terjamin.
+
+Fokuskan perhatian mengumpul gram emas dalam Akaun Emas GAP Public Gold sehingga mencapai sasaran dana kecemasan keluarga.
+
+Tak perlu pening kepala memikirkan instrumen spekulasi yang membuatkan tidur malam terganggu.
+
+Apabila memberi tumpuan penuh pada tabiat menyimpan emas ini selama beberapa tahun, hasilnya pasti membuahkan senyuman.
+
+Kongsikan di komen, berapa tahun tempoh fokus yang anda tetapkan untuk capai sasaran emas?
+
+Kekal fokus pada satu jalan terbukti bersama Akaun Emas GAP Public Gold!`
+  },
+  {
+    id: 1178,
+    siri: "PG1S-02",
+    no: 29,
+    topik: "Kewangan Peribadi",
+    tajuk: "Macam Mana Nak Kekalkan Semangat Menabung Selama 10 Tahun?",
+    tags: ["gap", "hutang", "rumah", "ringgit", "anak", "disiplin"],
+    persona: "Matlamat Emosi (Emotional Goal) — Lekatkan Makna Pada Setiap Gram + Konsisten Akaun GAP Jangka Panjang",
+    teks: `Menabung sebulan dua itu mudah, tetapi macam mana cara kekalkan semangat menabung tanpa jemu selama sepuluh tahun?
+
+Kalau sekadar menabung tanpa tujuan yang menyentuh hati, kita cepat bosan dan mudah mengorek semula simpanan tersebut.
+
+Rahsia orang yang bertahan bertahun-tahun ialah mereka meletakkan makna emosi pada setiap gram emas yang disimpan!
+
+Mereka tidak melihat emas sekadar logam kuning, tetapi melihatnya sebagai masa depan insan yang mereka cintai.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, tetapkan dengan jelas apakah matlamat akhir bagi tabungan emas yang sedang dibina.
+
+Setiap kali memasukkan seratus ringgit ke Akaun Emas GAP Public Gold, niatkan bahawa ini adalah untuk melangsaikan hutang rumah atau pengajian anak.
+
+Libatkan pasangan dan anak-anak supaya mereka faham kenapa keluarga kita memilih hidup bersederhana hari ini.
+
+Apabila simpanan diikat dengan kasih sayang keluarga, tiada godaan jualan murah mampu menggoyahkan disiplin kita.
+
+Cuba tulis dekat komen, demi siapa anda berusaha membina simpanan emas hari ini?
+
+Ikatkan matlamat suci keluarga anda dengan tabungan konsisten di Akaun Emas GAP!`
+  },
+  {
+    id: 1179,
+    siri: "PG1S-02",
+    no: 30,
+    topik: "Public Gold & GAP",
+    tajuk: "Langkah Pertama Hari Ini Menentukan Senyuman Kita Di Hari Tua",
+    tags: ["gap", "ringgit"],
+    persona: "Pilihan Hidup & Masa Depan — Jangan Menyesal Di Hari Tua + Mulakan 1 Gram Pertama Di Akaun GAP",
+    teks: `Hidup ini hanya sekali, dan kita semua sedang berjalan menuju usia tua yang kudratnya semakin berkurangan setiap hari.
+
+Saat rambut sudah memutih nanti, kita hanya ada dua pilihan: tersenyum syukur kerana telah bersedia, atau menyesal kerana mensia-siakan waktu muda!
+
+Jangan biarkan diri di hari tua terpaksa bergantung belas ihsan orang lain untuk meneruskan kelangsungan hidup.
+
+Segala ketenangan masa hadapan bermula daripada keberanian kita membuat pilihan yang betul pada hari ini.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kejayaan kewangan bukanlah kebetulan, tetapi ia boleh dijangka apabila mengikut ilmu yang betul.
+
+Kemudahan Akaun Emas GAP Public Gold telah membuka ruang seluas-luasnya untuk membina masa depan terjamin serendah seratus ringgit.
+
+Kita sudah ada ilmunya, kita sudah tahu jalannya, dan kini yang tinggal hanyalah tindakan daripada tangan kita sendiri.
+
+Ambil langkah pertama sekarang supaya diri anda pada masa hadapan berterima kasih atas keputusan hari ini.
+
+Cuba tulis dekat komen, adakah anda sudah bersedia memulakan langkah emas anda?
+
+Mulakan gram pertama anda di Akaun Emas GAP hari ini!`
   }
 ];
 
@@ -30735,4 +32415,4 @@ export const namaSiri = {
 export const hargaLalai = { harga999: "542", harga916: "497", tarikh: "27 September 2026" };
 
 // Siri yang dapat TAB sendiri (ikut susunan). Semua siri lain masuk tab "Archive".
-export const tabUtama = ["Mentor-01", "Mentor-02", "Mentor-03", "Mentor-04", "Mentor-05", "GPT-Asas-01", "Listicle-03", "Listicle-04", "Listicle-05", "Listicle-06", "Listicle-07", "Listicle-08", "Listicle-09", "Listicle-10", "Listicle-11", "Listicle-12", "Listicle-13", "Listicle-14", "Listicle-15", "Listicle-16", "Listicle-17"];
+export const tabUtama = ["PG1S-01", "PG1S-02", "Mentor-01", "Mentor-02", "Mentor-03", "Mentor-04", "Mentor-05", "GPT-Asas-01", "Listicle-03", "Listicle-04", "Listicle-05", "Listicle-06", "Listicle-07", "Listicle-08", "Listicle-09", "Listicle-10", "Listicle-11", "Listicle-12", "Listicle-13", "Listicle-14", "Listicle-15", "Listicle-16", "Listicle-17"];
