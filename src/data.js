@@ -32401,6 +32401,846 @@ Ambil langkah pertama sekarang supaya diri anda pada masa hadapan berterima kasi
 Cuba tulis dekat komen, adakah anda sudah bersedia memulakan langkah emas anda?
 
 Mulakan gram pertama anda di Akaun Emas GAP hari ini!`
+  },
+  {
+    id: 1180,
+    siri: "PG1S-03",
+    no: 1,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kenapa Ramai Cikgu Terjerat Pinjaman Peribadi Walaupun Gaji Tetap?",
+    tags: ["gap", "hutang", "gaji", "rumah", "ringgit", "anak", "kecemasan", "auto-debit"],
+    persona: "Guru & Pendidik Sekolah",
+    teks: `Kenapa ramai cikgu sekolah yang mempunyai gaji tetap akhirnya terjerat dengan potongan pinjaman peribadi sehingga separuh gaji?
+
+Puncanya bukan sebab cikgu suka membazir, tetapi kerana slip gaji guru terlalu laku dan sentiasa menjadi sasaran tawaran pinjaman!
+
+Bila tiada tabungan kecemasan sendiri, setiap kali nak baiki rumah atau anak masuk universiti, jalan termudah ialah buat pinjaman baru.
+
+Akhirnya belum sempat bersara, gaji bulanan habis dipotong membayar faedah hutang selama belasan tahun.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, gunakan kelebihan gaji tetap seorang guru untuk membina aset, bukannya menambah hutang.
+
+Tetapkan potongan Auto-Debit serendah seratus ringgit setiap bulan terus ke dalam Akaun Emas GAP Public Gold.
+
+Biar gaji dipotong untuk membeli gram emas fizikal milik sendiri, bukannya mengkayakan pemberi pinjaman.
+
+Selepas beberapa tahun mengajar, cikgu sudah memiliki ratusan gram emas sebagai dana kecemasan keluarga.
+
+Ada rakan guru yang sedang menonton? Cuba komen cikgu mengajar subjek apa!
+
+Selamatkan slip gaji cikgu hari ini dengan menabung di Akaun Emas GAP!`
+  },
+  {
+    id: 1181,
+    siri: "PG1S-03",
+    no: 2,
+    topik: "Public Gold & GAP",
+    tajuk: "Sibuk Siapkan Projek Orang Lain, Projek Kewangan Sendiri Terbengkalai?",
+    tags: ["gap", "gaji", "rumah", "kecemasan", "auto-debit"],
+    persona: "Jurutera (Engineer)",
+    teks: `Sebagai jurutera, kita sanggup perah otak pastikan projek syarikat siap ikut jadual, tetapi macam mana pula projek kewangan keluarga sendiri?
+
+Ramai jurutera bergaji besar keluar rumah pukul tujuh pagi dan balik pukul lapan malam dalam keadaan badan lesu.
+
+Disebabkan terlalu sibuk menguruskan teknikal kerja, tabungan sendiri terabai dan gaji habis mengalir tanpa sempat ditukar menjadi aset.
+
+Jangan sampai kita berjaya membina bangunan megah untuk orang lain, tetapi tapak kewangan rumah tangga sendiri pula retak!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, orang yang sibuk bekerja memerlukan sistem simpanan paling mudah dan automatik.
+
+Melalui Akaun Emas GAP Public Gold, seorang jurutera hanya perlukan kurang lima minit di telefon pintar untuk mengumpul emas tulen.
+
+Tetapkan sahaja jadual Auto-Debit bulanan supaya sebahagian gaji terus bertukar menjadi gram emas tanpa mengganggu waktu kerja.
+
+Setiap gram di dalam Akaun GAP itu adalah pelan kecemasan dan dana kebebasan masa kita.
+
+Ada geng jurutera dekat sini? Cuba tulis dekat komen anda dalam bidang kejuruteraan apa!
+
+Bina struktur kewangan keluarga yang kukuh hari ini bersama Akaun Emas GAP!`
+  },
+  {
+    id: 1182,
+    siri: "PG1S-03",
+    no: 3,
+    topik: "Kewangan Peribadi",
+    tajuk: "Bahaya Terlalu Selesa Dengan Slip Gaji Kerajaan & Pencen",
+    tags: ["gap", "inflasi", "hutang", "gaji", "ringgit"],
+    persona: "Penjawat Awam (Kerja Kerajaan)",
+    teks: `Ramai penjawat awam rasa diri mereka sudah seratus peratus selamat sebab ada jaminan kerja tetap dan bakal menerima pencen.
+
+Tetapi lihat realiti hari ini: ramai pesara terpaksa kembali bekerja kerana duit pencen bulanan tidak lagi mampu menampung kenaikan harga barang!
+
+Zon selesa merasakan gaji kerajaan sudah cukup selamat sebenarnya adalah perangkap halus yang membuatkan ramai terlupa membina aset.
+
+Kos sara hidup dua puluh tahun akan datang tidak akan menunggu jumlah pencen kita.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, pencen terbaik yang kalis inflasi ialah aset emas fizikal yang dikumpul sejak masih berkhidmat.
+
+Penjawat awam mempunyai kelebihan gaji yang masuk tepat pada masanya setiap bulan tanpa gagal.
+
+Manfaatkan kelebihan itu dengan mengasingkan sekurang-kurangnya satu gram atau seratus ringgit sebulan ke dalam Akaun Emas GAP Public Gold.
+
+Apabila tiba hari persaraan nanti, kita bukan sahaja ada pencen, malah mempunyai ratusan gram emas bebas hutang.
+
+Cuba komen di bawah, dah berapa tahun anda berkhidmat dalam sektor awam?
+
+Kukuhkan zaman persaraan anda dari sekarang dengan menabung di Akaun Emas GAP!`
+  },
+  {
+    id: 1183,
+    siri: "PG1S-03",
+    no: 4,
+    topik: "Public Gold & GAP",
+    tajuk: "Tiada Pencen & Risiko Diberhentikan Kerja Bila-Bila Masa",
+    tags: ["gap", "inflasi", "gaji", "bonus"],
+    persona: "Pekerja Sektor Swasta",
+    teks: `Bagi kita yang bekerja di sektor swasta, sedar tak bahawa kita tiada pencen bulanan dan syarikat boleh mengecilkan operasi bila-bila masa?
+
+Semasa masih muda dan sihat, tenaga kita diperah sepenuhnya untuk mencapai sasaran keuntungan syarikat.
+
+Tetapi apabila berlaku kegawatan ekonomi atau usia mencecah lima puluh tahun, kedudukan kita belum tentu kekal terjamin!
+
+Kalau hanya mengharapkan caruman wajib semata-mata, ramai yang kehabisan wang persaraan dalam tempoh kurang tiga tahun selepas berhenti kerja.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, pekerja swasta wajib membina tabung pencen mereka sendiri seawal hari pertama bekerja.
+
+Jadikan Akaun Emas GAP Public Gold sebagai tabung persaraan kedua kita yang bebas daripada hakisan inflasi.
+
+Setiap kali dapat gaji atau bonus tahunan, pindahkan sebahagiannya terus menjadi gram emas fizikal di dalam Akaun GAP.
+
+Emas yang dikumpul sedikit demi sedikit itu akan menjadi penyelamat paling setia sekiranya berlaku kejutan kerjaya.
+
+Geng kerja swasta cuba komen sikit, dah berapa lama anda bekerja di syarikat sekarang?
+
+Bina payung terjun kewangan anda sendiri hari ini melalui Akaun Emas GAP!`
+  },
+  {
+    id: 1184,
+    siri: "PG1S-03",
+    no: 5,
+    topik: "Public Gold & GAP",
+    tajuk: "Kerja Syif Malam Jaga Pesakit, Siapa Jaga Poket Anda?",
+    tags: ["gap", "gaji", "ringgit"],
+    persona: "Jururawat & Staf Kesihatan Hospital",
+    teks: `Jururawat dan staf hospital sanggup berjaga sepanjang syif malam demi menyelamatkan pesakit, tetapi siapa pula yang menjaga kesihatan poket mereka sendiri?
+
+Kerja di wad bukannya mudah; kaki berdiri berjam-jam, waktu tidur tidak menentu, dan masa bersama keluarga terpaksa dikorbankan.
+
+Akibat terlalu penat selepas syif, ramai melepaskan tekanan dengan membeli-belah dalam talian sehingga gaji dan elaun syif habis licin.
+
+Alangkah ruginya jika penat lelah berjaga malam bertahun-tahun berlalu pergi tanpa meninggalkan sebarang harta yang kekal!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, tukarkan setiap titik peluh kerja keras kita kepada aset emas fizikal supaya penat kita berbaloi.
+
+Melalui Akaun Emas GAP Public Gold, jururawat yang sibuk bekerja syif tidak perlu keluar beratur di kedai emas waktu siang.
+
+Akaun GAP beroperasi dua puluh empat jam sehari; habis syif pukul tiga pagi pun boleh menabung seratus ringgit di hujung jari.
+
+Biarlah setiap elaun malam yang diterima bertukar menjadi gram emas yang menjaga masa depan keluarga.
+
+Ada barisan jururawat atau staf kesihatan dekat sini? Komen anda bertugas di bahagian mana!
+
+Hargai pengorbanan syif malam anda dengan menyimpan emas di Akaun GAP hari ini!`
+  },
+  {
+    id: 1185,
+    siri: "PG1S-03",
+    no: 6,
+    topik: "Kewangan Peribadi",
+    tajuk: "Sanggup Pertaruh Nyawa Jaga Negara, Jangan Biarkan Gaji Bocor",
+    tags: ["gap", "hutang", "gaji", "rumah", "ringgit", "disiplin"],
+    persona: "Anggota Polis & Tentera (Badan Beruniform)",
+    teks: `Anggota polis dan tentera sanggup berhujan berpanas menjaga keselamatan negara, tetapi ramai terlupa membina pertahanan kewangan untuk keluarga sendiri!
+
+Semasa masih dalam perkhidmatan, banyak keperluan asas disediakan menyebabkan ramai tidak terasa bahang sebenar kos hidup di luar.
+
+Cabaran sebenar bermula sebaik sahaja tamat perkhidmatan apabila perlu mencari rumah sendiri dan menyara anak-anak yang membesar.
+
+Ramai anggota beruniform yang cemerlang disiplin kerjanya, namun terperangkap dengan hutang koperasi dan pinjaman peribadi.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, terapkan disiplin kawad yang tegas itu ke dalam urusan menyimpan emas setiap bulan.
+
+Gunakan Akaun Emas GAP Public Gold untuk mengumpul jongkong emas sedikit demi sedikit walaupun sedang bertugas jauh di sempadan.
+
+Dengan serendah seratus ringgit, anggota beruniform boleh mengunci nilai gaji dan elaun mereka dalam bentuk emas fizikal secara percuma.
+
+Apabila tamat perkhidmatan kelak, ratusan gram emas di dalam Akaun GAP itulah modal memulakan hidup baru dengan tenang.
+
+Tabik hormat untuk semua wira beruniform! Cuba komen anda dari pasukan mana di bawah.
+
+Pertahankan masa depan keluarga anda sekarang bersama Akaun Emas GAP Public Gold!`
+  },
+  {
+    id: 1186,
+    siri: "PG1S-03",
+    no: 7,
+    topik: "Kewangan Peribadi",
+    tajuk: "Gaji Besar Waktu Naik Pelantar, Kenapa Habis Licin Waktu Darat?",
+    tags: ["gap", "gaji", "ringgit", "tunai"],
+    persona: "Pekerja Oil & Gas / Offshore",
+    teks: `Kenapa ramai pekerja pelantar minyak yang bergaji puluhan ribu ringgit akhirnya terduduk apabila kontrak tamat atau harga minyak jatuh?
+
+Waktu berada di tengah laut berminggu-minggu, duit gaji memang tak terusik langsung sebab tiada tempat berbelanja.
+
+Tetapi sebaik sahaja kaki jejak ke darat, ramai tewas dengan gaya hidup mewah dan kereta besar sehingga akaun kembali kering!
+
+Kerja di sektor minyak dan gas mempunyai risiko kitaran ekonomi tinggi dan tiada jaminan kekal selamanya.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, waktu pendapatan sedang lebat adalah masa paling kritikal membina benteng simpanan emas.
+
+Sebaik sahaja bayaran kerja pelantar masuk ke bank, pindahkan terus sebahagian besar ke dalam Akaun Emas GAP Public Gold.
+
+Tukarkan tunai yang mudah bocor itu kepada puluhan gram emas fizikal supaya nafsu berbelanja waktu di darat dapat dikunci rapat.
+
+Sekiranya industri diuji kemelesetan suatu hari nanti, keluarga anda tetap hidup selesa dengan rizab emas yang kukuh.
+
+Ada geng offshore dekat sini? Cuba komen berapa lama dah anda turun naik laut!
+
+Kunci hasil titik peluh anda di tengah laut menjadi emas di Akaun GAP hari ini!`
+  },
+  {
+    id: 1187,
+    siri: "PG1S-03",
+    no: 8,
+    topik: "Kenapa Emas",
+    tajuk: "Penat Kerja Lebih Masa (OT), Jangan Habiskan Beli Gajet Susut Nilai!",
+    tags: ["gap", "susut nilai", "gaji", "kilang", "hujung minggu"],
+    persona: "Pekerja Kilang & Operator Syif",
+    teks: `Pernah tak kira berapa ratus jam kita berdiri buat kerja lebih masa di kilang, tetapi hujung tahun satu aset pun tak nampak?
+
+Ramai pekerja kilang sanggup korbankan waktu tidur dan hujung minggu semata-mata nak kejar bayaran kerja lebih masa atau OT.
+
+Malangnya bila gaji masuk banyak, duit OT yang dicari dengan perit itu dihabiskan menukar telefon baru atau aksesori kereta yang susut nilai!
+
+Akhirnya badan makin sakit dimamah usia, tetapi terpaksa terus mencari OT sebab simpanan masih sifar.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jangan biarkan penat lelah kerja lebih masa bertukar menjadi barang yang hilang harga.
+
+Buat satu peraturan tegas: setiap satu sen duit OT yang diterima wajib dimasukkan terus ke dalam Akaun Emas GAP Public Gold!
+
+Biarkan gaji pokok digunakan untuk belanja bulanan, manakala duit OT ditukar menjadi gram emas tulen.
+
+Bila tengok gram emas dalam Akaun GAP makin bertambah, barulah berbaloi segala kepenatan memerah keringat di kilang.
+
+Siapa dekat sini selalu buat OT? Tulis dekat komen berapa jam OT anda sebulan!
+
+Tukarkan setiap peluh kerja lebih masa anda menjadi emas di Akaun GAP sekarang!`
+  },
+  {
+    id: 1188,
+    siri: "PG1S-03",
+    no: 9,
+    topik: "Strategi Emas",
+    tajuk: "Untung Jualan Hari-Hari Nampak Banyak, Tapi Mana Pergi Duit Modal?",
+    tags: ["gap", "ringgit", "tunai"],
+    persona: "Peniaga Kecil & Penjaja Makanan",
+    teks: `Ramai peniaga kecil nampak macam pegang duit tunai berkepuk-kepuk setiap hari, tetapi bila nak pusing modal, duit tak cukup!
+
+Kenapa perkara ini berlaku walaupun jualan gerai laku keras setiap hari?
+
+Sebab penyakit paling berbahaya bagi peniaga kecil ialah mencampuradukkan duit modal berniaga dengan duit belanja poket sendiri tanpa menyimpan keuntungan!
+
+Bila nampak tunai banyak dalam laci, tangan mula gatal berbelanja lebih sehingga modal pusingan habis terpakai.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, orang berniaga wajib membina rizab emas sebagai perisai modal perniagaan mereka.
+
+Melalui Akaun Emas GAP Public Gold, peniaga boleh mengasingkan untung bersih serendah seratus ringgit seminggu terus menjadi gram emas.
+
+Apabila memerlukan modal tunai segera untuk membesarkan perniagaan, emas dalam Akaun GAP boleh dipajak untuk pusingan modal tanpa meminjam ceti!
+
+Habis musim berniaga, emas ditebus semula dan keuntungan kekal menjadi milik peniaga.
+
+Ada peniaga kecil atau penjaja yang menonton? Komen anda berniaga apa dekat bawah!
+
+Lindungi untung dan modal niaga anda hari ini dengan Akaun Emas GAP Public Gold!`
+  },
+  {
+    id: 1189,
+    siri: "PG1S-03",
+    no: 10,
+    topik: "Public Gold & GAP",
+    tajuk: "Berhujan Berpanas Atas Jalan Raya, Pastikan Titik Peluh Jadi Emas!",
+    tags: ["gap", "gaji", "ringgit"],
+    persona: "Rider Penghantar & Pemandu E-Hailing",
+    teks: `Setiap hari abang rider dan pemandu e-hailing meredah hujan panas di atas jalan raya demi mencari rezeki halal untuk keluarga.
+
+Tetapi kerja di jalan raya ini tiada gaji tetap, manakala kos penyelenggaraan kenderaan pula sentiasa menanti.
+
+Kalau semua pendapatan harian terus habis dibelanjakan hari itu juga, bagaimana nasib keluarga jika kenderaan tiba-tiba rosak besar?
+
+Jangan biarkan penat lelah menghantar pesanan dari pagi sampai malam hilang dibawa angin begitu sahaja!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, orang berpendapatan harian paling sesuai membina simpanan melalui Akaun Emas GAP Public Gold.
+
+Kenapa? Kerana Akaun GAP langsung tidak mewajibkan sebarang komitmen bulanan yang membebankan.
+
+Bila minggu itu pesanan banyak dan rezeki lebih, alihkan terus seratus ringgit ke Akaun GAP melalui telefon pintar untuk ditukar menjadi emas.
+
+Kumpul sedikit demi sedikit supaya setiap kilometer perjalanan anda meninggalkan warisan aset yang bernilai.
+
+Ada sahabat rider atau pemandu e-hailing dekat sini? Komen kawasan mana anda selalu beroperasi!
+
+Jadikan setiap titik peluh anda di jalanan berkilau sebagai emas di Akaun GAP!`
+  },
+  {
+    id: 1190,
+    siri: "PG1S-03",
+    no: 11,
+    topik: "Kewangan Peribadi",
+    tajuk: "Gaji Sederhana Di Bandar Besar Bukan Alasan Tak Boleh Kumpul Emas!",
+    tags: ["gap", "gaji", "ringgit"],
+    persona: "Kerani & Staf Pentadbiran (Admin)",
+    teks: `Ramai kerani dan staf pentadbiran mengeluh, macam mana nak menabung emas kalau gaji bersih cuma cukup makan duduk di bandar?
+
+Memang kos hidup semakin mencabar, tetapi ramai penyimpan emas yang berjaya kumpul puluhan gram bermula sebagai seorang kerani biasa!
+
+Kuncinya bukanlah terletak pada berapa besar baki gaji selepas tolak semua perbelanjaan.
+
+Tetapi terletak pada keberanian mengasingkan bahagian simpanan terlebih dahulu sebelum mula berbelanja!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, seratus ringgit kalau dibiarkan dalam dompet memang tidak menjadikan kita kaya, malah habis dibeli makanan ringan.
+
+Tetapi jika seorang kerani konsisten memindahkan seratus ringgit sebulan ke Akaun Emas GAP Public Gold, ia terkumpul menjadi dua hingga tiga gram setahun.
+
+Daripada sifar simpanan selepas bekerja lima tahun, lebih baik mempunyai lima belas gram emas fizikal yang nilainya terus meningkat!
+
+Jangan tunggu gaji naik lima ribu ringgit baru nak belajar menabung.
+
+Geng kerani dan admin pejabat cuba komen, setuju tak simpan sikit lebih baik daripada kosong?
+
+Mulakan langkah seratus ringgit pertama anda di Akaun Emas GAP hari ini!`
+  },
+  {
+    id: 1191,
+    siri: "PG1S-03",
+    no: 12,
+    topik: "Public Gold & GAP",
+    tajuk: "Mahir Bina Sistem Syarikat, Dah Bina Sistem Simpanan Sendiri Belum?",
+    tags: ["gap", "gaji", "auto-debit"],
+    persona: "Programmer & Pekerja IT / Teknologi",
+    teks: `Orang bidang IT dan pengaturcaraan memang pakar membina sistem automatik untuk syarikat, tetapi macam mana pula dengan sistem kewangan sendiri?
+
+Ramai pekerja teknologi bergaji lumayan masih menguruskan tabungan mereka secara manual mengikut mood bulanan.
+
+Bila terlalu fokus menghadap skrin menyiapkan kod program, tahu-tahu sahaja gaji habis terbelanja kepada langganan digital dan gajet terkini!
+
+Sebagai orang teknologi, kita tahu bahawa sistem yang bergantung pada ingatan manual manusia pasti mempunyai banyak kelemahan.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, automasikan tabungan emas supaya ia berjalan sendiri di belakang tabir tanpa perlu difikirkan setiap bulan.
+
+Melalui fungsi Auto-Debit Akaun Emas GAP Public Gold, kita boleh menetapkan potongan automatik daripada bank setiap kali gaji masuk.
+
+Walaupun sedang sibuk menyiapkan projek besar, sistem Akaun GAP tetap bekerja menukarkan gaji kepada gram emas fizikal tulen.
+
+Gabungkan kepakaran digital anda dengan ketahanan aset fizikal yang teruji ribuan tahun.
+
+Ada geng IT atau programmer dekat sini? Cuba komen bidang kepakaran anda!
+
+Aktifkan sistem Auto-Debit Akaun Emas GAP anda hari ini supaya harta terkumpul automatik!`
+  },
+  {
+    id: 1192,
+    siri: "PG1S-03",
+    no: 13,
+    topik: "Strategi Emas",
+    tajuk: "Kesilapan Tahun Pertama Kerja Yang Buat Ramai Menyesal Umur 30 Tahun!",
+    tags: ["gap", "gaji", "ringgit", "anak"],
+    persona: "Graduan Baru (Fresh Graduate)",
+    teks: `Sebaik sahaja menerima gaji pertama selepas tamat universiti, sembilan daripada sepuluh graduan baru melakukan kesilapan kewangan yang sama!
+
+Mereka terus menaik taraf gaya hidup, tukar telefon mahal, dan mengambil komitmen kereta baru yang memakan separuh gaji.
+
+Mereka berfikir 'umur baru dua puluh tiga tahun, masa muda inilah nak merasa duit sendiri, nanti umur tiga puluh baru menyimpan'.
+
+Bila jejak umur tiga puluh tahun, komitmen makin bertambah dan akhirnya menyesal kerana tiada satu sen pun tabungan!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, aset paling mahal milik anak muda bukanlah gaji besar, tetapi tempoh masa yang panjang.
+
+Orang yang menabung seratus ringgit sebulan di Akaun Emas GAP Public Gold sejak umur dua puluh tiga tahun jauh lebih kaya berbanding yang mula lewat!
+
+Sebelum membayar komitmen gaya hidup, kunci dahulu satu gram atau seratus ringgit setiap bulan dalam Akaun GAP.
+
+Binalah tapak kewangan kukuh sebelum melangkah ke alam perkahwinan.
+
+Cuba tulis dekat komen, umur berapa anda menerima gaji pertama dahulu?
+
+Buka Akaun Emas GAP anda hari ini dan menangi kelebihan masa muda!`
+  },
+  {
+    id: 1193,
+    siri: "PG1S-03",
+    no: 14,
+    topik: "Public Gold & GAP",
+    tajuk: "Kerja 36 Jam Tanpa Henti, Jangan Sampai Kewangan Sendiri Kritikal!",
+    tags: ["gap", "rumah", "auto-debit", "cawangan"],
+    persona: "Doktor Muda (Houseman & Pegawai Perubatan)",
+    teks: `Masyarakat menyangka semua doktor hidup mewah, tetapi ramai tidak tahu peritnya doktor muda bekerja lebih tiga puluh jam tanpa tidur!
+
+Keluar hospital ketika matahari belum terbit, balik ke rumah sekadar menyalin pakaian sebelum dipanggil bertugas semula.
+
+Dalam keadaan fizikal dan mental yang letih, doktor muda langsung tiada masa memikirkan pengurusan pelaburan yang rumit.
+
+Malah ramai terperangkap dengan komitmen kereta mewah kerana tekanan imej kerjaya.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, bagi golongan profesional yang tiada masa seperti doktor, kaedah terbaik ialah simpanan paksa dan lupa.
+
+Akaun Emas GAP Public Gold membolehkan para doktor menyimpan emas fizikal tanpa perlu memantau graf harga atau pergi ke cawangan.
+
+Tetapkan sahaja potongan Auto-Debit bulanan dan biarkan gram emas terkumpul senyap sepanjang tempoh latihan kepakaran anda.
+
+Selesai lima tahun bertugas, anda sudah memiliki rizab emas kukuh untuk membeli rumah atau membuka klinik sendiri.
+
+Ada doktor atau pegawai perubatan yang menonton? Komen pengalaman syif paling panjang anda!
+
+Rawat dan lindungi masa depan kewangan anda sekarang bersama Akaun Emas GAP!`
+  },
+  {
+    id: 1194,
+    siri: "PG1S-03",
+    no: 15,
+    topik: "Kewangan Peribadi",
+    tajuk: "Pakar Baiki Litar Pintas, Ini Cara Baiki 'Kebocoran' Akaun Bank!",
+    tags: ["gap", "gaji", "tunai"],
+    persona: "Juruteknik & Chargeman (Teknikal)",
+    teks: `Seorang juruteknik elektrik tahu bahawa jika ada kebocoran arus atau litar pintas yang dibiarkan, seluruh bangunan boleh terbakar!
+
+Tetapi pernah tak kita periksa kebocoran halus yang sedang berlaku dalam akaun bank sendiri setiap bulan?
+
+Gaji masuk awal bulan, tetapi belum sampai lima belas hari bulan, arus wang tunai itu sudah bocor habis entah ke mana.
+
+Puncanya ialah wang tunai dalam bank tidak mempunyai penebat yang menghalangnya daripada mengalir keluar kepada perbelanjaan tidak penting!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, emas fizikal adalah penebat paling ampuh untuk menghentikan kebocoran wang kertas kita.
+
+Melalui Akaun Emas GAP Public Gold, juruteknik boleh menyalurkan sebahagian gaji terus menjadi gram emas sebaik sahaja gaji diterima.
+
+Apabila wang tunai bertukar sifat menjadi emas dalam Akaun GAP, kebocoran akibat nafsu berbelanja akan terputus serta-merta.
+
+Gaji anda kekal selamat dan nilainya terus meningkat melindungi keluarga daripada kejutan kos hidup.
+
+Geng juruteknik dan chargeman ada dekat sini? Cuba komen bidang kemahiran anda!
+
+Pasang penebat kewangan keluarga anda hari ini dengan membuka Akaun Emas GAP!`
+  },
+  {
+    id: 1195,
+    siri: "PG1S-03",
+    no: 16,
+    topik: "Public Gold & GAP",
+    tajuk: "Hari-Hari Kira Jutaan Ringgit Syarikat, Berapa Gram Emas Milik Sendiri?",
+    tags: ["gap", "susut nilai", "inflasi", "hutang", "gaji", "ringgit", "tunai"],
+    persona: "Akauntan & Pegawai Kewangan",
+    teks: `Jangan sampai kita bekerja sebagai akauntan yang hari-hari mengira jutaan ringgit duit syarikat, tetapi bila buka penyata sendiri, simpanan kosong!
+
+Orang bahagian kewangan sangat faham bagaimana inflasi dan susut nilai menghakis wang tunai dalam kunci kira-kira.
+
+Setiap tahun kita membuat penyata untung rugi untuk majikan, namun terlupa membuat audit ke atas kedudukan harta peribadi sendiri.
+
+Menyimpan wang kertas semata-mata sebenarnya memberikan pulangan bersih negatif apabila ditolak dengan kenaikan harga barang sebenar.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kekayaan peribadi diukur pada berapakah berat gram emas dan aset bebas hutang yang kita miliki.
+
+Gunakan kepakaran mengurus angka itu untuk mendisiplinkan diri mengumpul emas tulen dalam Akaun Emas GAP Public Gold.
+
+Rekodkan setiap pertambahan gram bulanan dalam Akaun GAP sebagai aset rizab cair keluarga anda.
+
+Apabila penyata kewangan peribadi disokong oleh simpanan emas fizikal, barulah kedudukan ekonomi keluarga benar-benar kukuh.
+
+Ada rakan akauntan atau staf kewangan dekat sini? Komen berapa peratus gaji wajib disimpan!
+
+Mulakan audit kekayaan anda sendiri hari ini dengan menambah gram di Akaun Emas GAP!`
+  },
+  {
+    id: 1196,
+    siri: "PG1S-03",
+    no: 17,
+    topik: "Kenapa Emas",
+    tajuk: "Tinggi Kelulusan Akademik Belum Tentu Selamat Daripada Inflasi!",
+    tags: ["gap", "inflasi", "gaji", "krisis", "ringgit", "anak"],
+    persona: "Pensyarah & Pendidik Universiti (IPT)",
+    teks: `Mempunyai ijazah doktor falsafah atau bergelar pensyarah universiti belum tentu menjamin kita selamat daripada perangkap inflasi!
+
+Kerana ilmu di dewan kuliah mengajar cara menjadi pakar dalam kerjaya, tetapi jarang mengajar cara melindungi nilai duit gaji.
+
+Ramai golongan akademik menyimpan keseluruhan wang mereka dalam bentuk wang kertas selama puluhan tahun.
+
+Tanpa disedari, kuasa beli wang ratusan ribu ringgit tersebut semakin mengecil apabila tiba waktu bersara kelak.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, lengkapkan kecerdikan akademik kita dengan ilmu kewangan emas yang praktikal.
+
+Emas fizikal telah terbukti selama berabad-abad mampu mengekalkan kuasa beli manusia merentas segala krisis ekonomi.
+
+Melalui Akaun Emas GAP Public Gold, para pensyarah boleh mempelbagaikan simpanan kepada emas tulen sembilan sembilan sembilan dengan sangat mudah.
+
+Jadikan simpanan emas dalam Akaun GAP sebagai pelindung nilai bagi dana pendidikan anak dan persaraan anda.
+
+Ada warga pendidik IPT yang menonton? Kongsikan pandangan anda di ruangan komen!
+
+Lengkapkan kebijaksanaan ilmu anda dengan membina rizab emas di Akaun GAP hari ini!`
+  },
+  {
+    id: 1197,
+    siri: "PG1S-03",
+    no: 18,
+    topik: "Public Gold & GAP",
+    tajuk: "Waktu Projek Masuk Duit Lebat, Waktu Projek Sangkut Siapa Penyelamat?",
+    tags: ["gap", "gaji", "bisnes", "kecemasan", "tunai"],
+    persona: "Kontraktor & Usahawan Binaan",
+    teks: `Dunia kontraktor penuh ujian: waktu bayaran projek masuk, duit melimpah; tetapi waktu bayaran sangkut, nak bayar gaji pekerja pun sesak dada!
+
+Ramai kontraktor jatuh terduduk bukan sebab tiada projek, tetapi kerana masalah aliran tunai yang tersekat berbulan-bulan.
+
+Kesilapan besar berlaku apabila untung projek lepas dihabiskan membeli kereta mewah yang tidak boleh dicairkan segera waktu kecemasan bisnes.
+
+Akhirnya apabila terdesak nak pusing modal tapak binaan, ramai terpaksa meminjam dengan faedah yang mencekik leher!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, seorang usahawan wajib menyimpan sebahagian keuntungan projek dalam bentuk emas fizikal.
+
+Gunakan Akaun Emas GAP Public Gold untuk menukar untung bersih projek kepada ratusan gram emas semasa waktu senang.
+
+Apabila berdepan kelewatan bayaran projek, emas dalam Akaun GAP boleh dipajak atau dijual balik pantas bagi menyelamatkan operasi syarikat!
+
+Emas adalah rakan kongsi paling setia yang sentiasa sedia membantu waktu kecemasan.
+
+Ada rakan kontraktor atau usahawan dekat sini? Komen cabaran terbesar urus modal bisnes!
+
+Bina rizab kecemasan syarikat anda hari ini melalui Akaun Emas GAP Public Gold!`
+  },
+  {
+    id: 1198,
+    siri: "PG1S-03",
+    no: 19,
+    topik: "Kewangan Peribadi",
+    tajuk: "Pendapatan Tak Tetap Setiap Bulan: Ini Cara Menabung Paling Fleksibel!",
+    tags: ["gap", "ringgit"],
+    persona: "Pereka Grafik, Kreatif & Pekerja Freelance",
+    teks: `Bagi pekerja bebas atau freelancer seperti pereka grafik, jurugambar, dan penulis, pendapatan setiap bulan memang tidak pernah tetap!
+
+Bulan ini pelanggan ramai, dapatlah lima enam ribu ringgit; masuk bulan depan bila projek kurang, pendapatan mungkin turun separuh.
+
+Disebabkan pendapatan turun naik ini, ramai freelancer takut membuka akaun simpanan yang mewajibkan bayaran tetap setiap bulan.
+
+Tetapi kalau langsung tidak menabung, sampai bila nak hidup dalam kerisauan setiap kali musim pelanggan kurang?
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, pilihlah instrumen simpanan yang fleksibel mengikut rentak pendapatan kita sendiri.
+
+Akaun Emas GAP Public Gold adalah solusi paling sesuai untuk freelancer kerana ia langsung tiada komitmen wajib bulanan!
+
+Pada bulan yang banyak projek masuk, simpanlah tiga atau empat ratus ringgit terus menjadi gram emas dalam Akaun GAP.
+
+Pada bulan yang perlahan pula, tiada sebarang denda dikenakan dan gram sedia ada kekal selamat.
+
+Siapa dekat sini bekerja freelance? Cuba komen bidang kerja kreatif anda di bawah!
+
+Bina jaminan masa depan yang fleksibel bersama Akaun Emas GAP hari ini!`
+  },
+  {
+    id: 1199,
+    siri: "PG1S-03",
+    no: 20,
+    topik: "Kewangan Peribadi",
+    tajuk: "Dua Gaji Masuk Setiap Bulan, Tapi Kenapa Hujung Bulan Sama-Sama Kering?",
+    tags: ["gap", "gaji", "ringgit", "isteri"],
+    persona: "Pasangan Suami Isteri Bekerja (Dual-Income)",
+    teks: `Pelik tapi benar: suami bekerja, isteri pun bekerja, dua gaji masuk setiap bulan, tetapi hujung bulan kedua-duanya sama-sama kering!
+
+Ke mana hilangnya gabungan pendapatan lima hingga lapan ribu ringgit sebulan itu?
+
+Inilah perangkap dua gaji, di mana pasangan berasa terlalu selesa berbelanja dua kali ganda kerana menyangka pasangan mereka masih ada duit!
+
+Suami harapkan isteri menyimpan, isteri pula sangka suami menabung, akhirnya selepas sepuluh tahun berkahwin tiada satu pun tabungan bersama.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, suami isteri perlu duduk semeja dan menetapkan satu sasaran gram emas keluarga secara bersama.
+
+Buka Akaun Emas GAP Public Gold dan jadikan ia projek kerjasama antara suami dan isteri setiap kali hari gaji.
+
+Suami sumbang satu gram, isteri sumbang satu gram, maka setiap tahun keluarga anda berjaya mengumpul dua puluh empat gram emas fizikal!
+
+Membina kekayaan menjadi dua kali ganda lebih cepat apabila suami isteri melangkah seiringan.
+
+Cuba tag pasangan anda di komen dan tanya: berapa gram kita nak kumpul tahun ini?
+
+Mulakan tabungan emas bersama pasangan anda hari ini di dalam Akaun Emas GAP!`
+  },
+  {
+    id: 1200,
+    siri: "PG1S-03",
+    no: 21,
+    topik: "Kewangan Peribadi",
+    tajuk: "Penat Berdiri Sepanjang Hari, Jangan Biarkan Gaji Habis Pada Kehendak!",
+    tags: ["gap", "gaji", "ringgit", "anak", "disiplin"],
+    persona: "Pekerja Restoran, Kafe & Kru F&B",
+    teks: `Hanya orang yang pernah bekerja di restoran dan kafe tahu betapa lenguhnya kaki berdiri sepuluh jam sehari melayan pelanggan!
+
+Waktu orang lain bercuti bersama keluarga, kru makanan dan minuman pula sedang paling sibuk di dapur dan kaunter.
+
+Tetapi selepas menerima gaji hasil berdiri sepanjang bulan itu, ramai anak muda menghabiskannya kepada hiburan dan pakaian berjenama.
+
+Jangan biarkan penat lelah waktu muda berlalu tanpa meninggalkan modal untuk mengubah nasib hidup!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, orang yang bermula dari bawah dengan disiplin menyimpan tinggi mampu menjadi pemilik perniagaan suatu hari nanti.
+
+Dengan Akaun Emas GAP Public Gold, anda tidak perlukan modal besar; cukup mulakan dengan seratus ringgit sahaja setiap bulan.
+
+Tukarkan sebahagian gaji dan duit tip menjadi gram emas tulen terus melalui aplikasi telefon pintar.
+
+Kumpul gram demi gram sehingga cukup dijadikan modal membuka gerai atau kafe impian anda sendiri.
+
+Ada geng kru restoran, barista, atau tukang masak dekat sini? Komen dekat bawah!
+
+Hargai setiap jam anda berdiri bekerja dengan menyimpan emas di Akaun GAP hari ini!`
+  },
+  {
+    id: 1201,
+    siri: "PG1S-03",
+    no: 22,
+    topik: "Keluarga",
+    tajuk: "Merantau Jauh Tinggalkan Keluarga, Hadiahkan Masa Depan Anak Dengan Emas!",
+    tags: ["gap", "rumah", "anak", "isteri"],
+    persona: "Pemandu Lori & Pekerja Logistik",
+    teks: `Pemandu lori dan pekerja logistik terpaksa merantau berhari-hari di atas lebuh raya, meninggalkan isteri dan anak-anak tidur tanpa ayah di sisi.
+
+Segala pengorbanan menahan mengantuk memandu waktu malam itu dilakukan demi mencari rezeki untuk kebahagiaan keluarga.
+
+Namun apalah gunanya berjauhan mencari duit, jika duit tersebut habis terbakar tanpa menjadi jaminan masa depan anak-anak?
+
+Pekerjaan memandu jarak jauh sangat bergantung pada kesihatan mata dan tubuh badan yang tidak akan muda selamanya.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, pastikan setiap perjalanan jauh meninggalkan jejak aset yang kekal untuk keluarga di rumah.
+
+Semasa berehat di kawasan rawat dan rehat, gunakan telefon pintar untuk memindahkan sebahagian elaun perjalanan ke dalam Akaun Emas GAP Public Gold.
+
+Bukakan juga Akaun GAP Junior untuk anak-anak supaya pengorbanan ayah diterjemahkan menjadi dana pendidikan emas mereka.
+
+Walaupun ayah jauh di mata, masa depan keluarga sentiasa terjamin dalam perlindungan aset emas.
+
+Tabik untuk semua abang lori dan staf logistik! Komen laluan mana paling kerap anda tempuh!
+
+Pastikan setiap perjalanan anda membina kekayaan keluarga bersama Akaun Emas GAP!`
+  },
+  {
+    id: 1202,
+    siri: "PG1S-03",
+    no: 23,
+    topik: "Strategi Emas",
+    tajuk: "Komisen Besar Bulan Ini Jangan Dihabiskan: Tukar Jadi Jongkong Emas!",
+    tags: ["gap", "gaji", "ringgit"],
+    persona: "Staf Jualan & Jurujual Berkomisen (Sales)",
+    teks: `Orang bidang jualan memang seronok apabila tiba bulan komisen besar masuk beribu-ribu ringgit ke dalam akaun!
+
+Tetapi bahaya terbesar seorang jurujual ialah menyangka komisen lebat bulan ini akan kekal sama setiap bulan sepanjang tahun.
+
+Waktu jualan tengah meletup, ramai jurujual terburu-buru menambah komitmen bulanan tinggi dan berbelanja mewah.
+
+Apabila pasaran tiba-tiba perlahan dan komisen merudum, mulalah pening kepala nak membayar segala komitmen tadi!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, gunakan gaji asas untuk belanja hidup, dan tukarkan duit komisen terus menjadi emas fizikal.
+
+Akaun Emas GAP Public Gold adalah tempat paling strategik untuk jurujual mengunci duit komisen daripada terpakai.
+
+Setiap kali komisen masuk, terus beli gram emas dalam Akaun GAP dan keluarkan jongkong emas fizikal sebagai piala kejayaan jualan anda!
+
+Bila dapat memegang sendiri jongkong emas hasil komisen tersebut, semangat membuat jualan bulan seterusnya akan berkobar-kobar.
+
+Ada geng sales dekat sini? Cuba komen produk apa yang sedang anda jual sekarang!
+
+Kunci setiap komisen anda menjadi jongkong emas tulen melalui Akaun GAP hari ini!`
+  },
+  {
+    id: 1203,
+    siri: "PG1S-03",
+    no: 24,
+    topik: "Public Gold & GAP",
+    tajuk: "Tahu Ubat Untuk Penyakit Fizikal, Ini Pula 'Ubat' Penyakit Tangan Gatal!",
+    tags: ["gap", "gaji", "ringgit", "auto-debit", "tunai"],
+    persona: "Ahli Farmasi & Staf Klinik / Kesihatan",
+    teks: `Ahli farmasi dan staf klinik memang hafal segala jenis ubat untuk merawat demam, darah tinggi, dan kencing manis pesakit.
+
+Tetapi tahu tak apakah ubat paling mujarab merawat penyakit kewangan paling kronik iaitu penyakit tangan gatal suka berbelanja?
+
+Penyakit boros tidak boleh dirawat dengan sekadar nasihat, kerana sebaik sahaja melihat tawaran diskaun, mereka terlupa semua pantang larang!
+
+Jika dibiarkan tanpa rawatan, penyakit ini boleh melumpuhkan kesihatan kewangan seseorang sehingga ke usia pencen.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, ubat paling berkesan merawat penyakit boros ialah menukarkan wang tunai kepada emas fizikal secara paksa.
+
+Ambil preskripsi kewangan ini sekarang: aktifkan potongan Auto-Debit bulanan dalam Akaun Emas GAP Public Gold setiap kali hari gaji!
+
+Sebaik sahaja dos simpanan seratus ringgit ditukar menjadi gram emas secara automatik, virus tangan gatal tidak dapat menyerang duit tersebut.
+
+Amalkan preskripsi ini selama lima tahun, dan lihatlah bagaimana poket anda kembali sihat!
+
+Ada ahli farmasi atau staf klinik yang menonton? Komen betul tak penyakit tangan gatal ni ramai hidapi!
+
+Mulakan rawatan kewangan anda hari ini bersama Akaun Emas GAP Public Gold!`
+  },
+  {
+    id: 1204,
+    siri: "PG1S-03",
+    no: 25,
+    topik: "Strategi Emas",
+    tajuk: "Lukis Pelan Rumah Impian Pelanggan, Bina Deposit Rumah Sendiri Guna Emas!",
+    tags: ["gap", "hartanah", "rumah", "ringgit", "anak", "tunai"],
+    persona: "Arkitek & Pereka Dalaman (Interior Designer)",
+    teks: `Arkitek dan pereka dalaman menghabiskan masa bertahun-tahun melukis pelan rumah idaman yang cantik untuk pelanggan mereka.
+
+Tetapi menyedihkan apabila ramai anak muda dalam bidang ini masih belum mampu mengumpul deposit membeli rumah pertama sendiri!
+
+Setiap kali cuba mengumpul tunai puluhan ribu ringgit di bank untuk deposit rumah, harga hartanah naik lebih laju daripada kadar simpanan.
+
+Tambah parah lagi, duit tunai yang dikumpul separuh jalan sering bocor terpakai kepada perkara lain.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, sebelum membeli hartanah, kumpullah modal deposit tersebut dalam bentuk gram emas fizikal!
+
+Gunakan Akaun Emas GAP Public Gold untuk menabung dua hingga tiga gram emas setiap bulan secara berdisiplin.
+
+Kenaikan nilai emas dalam tempoh tiga hingga lima tahun membantu mengejar kenaikan harga rumah jauh lebih pantas berbanding tunai.
+
+Cukup sahaja sasaran gram yang diperlukan, cairkan emas Akaun GAP tersebut untuk memiliki rumah impian sendiri!
+
+Ada geng arkitek atau pereka dalaman dekat sini? Komen konsep rumah impian anda di bawah!
+
+Lukis dan bina deposit rumah pertama anda hari ini melalui Akaun Emas GAP!`
+  },
+  {
+    id: 1205,
+    siri: "PG1S-03",
+    no: 26,
+    topik: "Kewangan Peribadi",
+    tajuk: "Pangkat Naik Dan Gaji Naik, Tapi Kenapa Hutang Gaya Hidup Ikut Naik?",
+    tags: ["gap", "hutang", "gaji"],
+    persona: "Eksekutif Kanan & Pengurus Syarikat (Manager)",
+    teks: `Pernah tengok pengurus syarikat yang gajinya sudah mencecah lima angka, tetapi masih mengeluh tak cukup duit setiap hujung bulan?
+
+Waktu mula kerja sebagai eksekutif dahulu gaji tiga ribu rasa tak cukup; bila dah jadi pengurus bergaji sepuluh ribu pun masih sempit!
+
+Puncanya ialah setiap kali naik pangkat dan gaji, mereka turut menaikkan hutang gaya hidup demi menjaga status di mata rakan sejawatan.
+
+Tukar kereta mewah, pindah kawasan elit, dan akhirnya kenaikan gaji tadi habis ditelan komitmen baru.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kekalkan gaya hidup sederhana walaupun pendapatan meningkat, dan salurkan kenaikan gaji terus kepada aset.
+
+Setiap kali mendapat kenaikan gaji tahunan, tambahkan jumlah potongan bulanan ke dalam Akaun Emas GAP Public Gold.
+
+Biarlah pangkat tinggi di pejabat, tetapi hati kekal merendah diri sambil mengumpul ratusan gram emas fizikal dalam diam.
+
+Kebebasan kewangan sebenar adalah apabila memiliki aset yang banyak, bukannya komitmen hutang yang tinggi.
+
+Cuba komen di bawah, bila gaji naik patut tambah gaya hidup atau tambah simpanan?
+
+Salurkan setiap kenaikan gaji anda terus ke dalam Akaun Emas GAP bermula bulan ini!`
+  },
+  {
+    id: 1206,
+    siri: "PG1S-03",
+    no: 27,
+    topik: "Bisnes & Dealer",
+    tajuk: "Bisnes Dari Dapur Pun Boleh Kumpul Ratusan Gram Emas Kalau Tahu Cara Ini!",
+    tags: ["gap", "pg jewel", "barang kemas", "gaji", "rumah", "ringgit", "bisnes", "tunai"],
+    persona: "Suri Rumah Berniaga Online & Dropship",
+    teks: `Ramai suri rumah yang rajin berniaga dalam talian atau buat dropship dari dapur berasa untung mereka terlalu kecil untuk disimpan.
+
+Kadang-kadang satu barang terjual baru untung sepuluh atau dua puluh ringgit; bila dikumpul seminggu dapatlah seratus dua ratus ringgit.
+
+Tetapi disebabkan rasa jumlah itu kecil, duit untung berniaga tadi terus habis dibelanjakan tanpa sempat menjadi harta!
+
+Jangan sesekali pandang rendah pada keuntungan kecil yang diuruskan dengan sistem yang betul.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, sedikit-sedikit lama-lama jadi bukit apabila kita menukarkan keuntungan tunai itu kepada gram emas fizikal.
+
+Setiap kali untung bisnes online cukup seratus ringgit, terus buka aplikasi Public Gold dan belikan emas di dalam Akaun Emas GAP!
+
+Apabila gram dalam Akaun GAP sudah banyak, puan-puan boleh menebusnya menjadi barang kemas sembilan satu enam PG Jewel tanpa mengusik gaji suami.
+
+Daripada untung kecil berniaga dari dapur, akhirnya bertukar menjadi harta emas bernilai puluhan ribu ringgit!
+
+Ada suri rumah yang berniaga online dekat sini? Komen puan-puan jual produk apa!
+
+Tukarkan setiap untung bisnes online anda menjadi emas tulen di Akaun GAP hari ini!`
+  },
+  {
+    id: 1207,
+    siri: "PG1S-03",
+    no: 28,
+    topik: "Strategi Emas",
+    tajuk: "Hari-Hari Tengok Jualan Murah, Macam Mana Nak Tahan Nafsu Membeli?",
+    tags: ["gap", "gaji", "ringgit"],
+    persona: "Staf Peruncitan & Pekerja Pusat Beli-Belah (Retail)",
+    teks: `Macam mana nak tahan nafsu berbelanja kalau setiap hari tempat kerja kita sendiri berada di dalam pusat beli-belah yang penuh jualan murah?
+
+Inilah ujian paling besar bagi staf peruncitan dan penyelia butik yang hari-hari dijamu dengan papan tanda diskaun lima puluh peratus!
+
+Waktu rehat tengah hari pun berjalan melepasi kedai pakaian; kalau duit gaji masih ada dalam bank, memang susah nak bertahan.
+
+Akhirnya gaji hasil bekerja di pusat beli-belah berpusing masuk semula ke dalam pusat beli-belah yang sama!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jangan harapkan kekuatan iman semata-mata apabila berdepan godaan belanja, tetapi sembunyikan duit awal-awal.
+
+Pada hari pertama gaji masuk, sebelum melangkah ke tempat kerja, pindahkan dahulu seratus ringgit ke dalam Akaun Emas GAP Public Gold!
+
+Apabila duit sudah selamat menjadi gram emas dalam Akaun GAP, kita boleh melepasi sebarang jualan murah dengan tenang.
+
+Biarlah orang lain menghabiskan duit di tempat kerja anda, asalkan anda pulang membawa pertambahan aset emas.
+
+Siapa dekat sini bekerja di pusat beli-belah atau butik? Komen cabaran terbesar waktu hari gaji!
+
+Selamatkan gaji anda daripada godaan diskaun dengan menyimpannya di Akaun Emas GAP sekarang!`
+  },
+  {
+    id: 1208,
+    siri: "PG1S-03",
+    no: 29,
+    topik: "Public Gold & GAP",
+    tajuk: "Tiada Jaminan Kerja Kekal: Bina Payung Terjun Kewangan Anda Sekarang!",
+    tags: ["gap", "kecemasan", "tunai"],
+    persona: "Pekerja Kontrak & Ekonomi Gig",
+    teks: `Bagi pekerja berstatus kontrak di agensi kerajaan mahupun swasta, debaran paling mendebarkan ialah apabila tarikh tamat kontrak semakin hampir!
+
+Setiap tahun hati tertanya-tanya: adakah kontrak aku akan disambung lagi, atau terpaksa mencari pekerjaan baru bulan hadapan?
+
+Hidup sebagai pekerja kontrak tanpa mempunyai dana kecemasan kukuh adalah sangat berisiko tinggi.
+
+Jika kontrak tidak disambung mengejut, kita memerlukan sekurang-kurangnya enam bulan kos sara hidup sementara mendapat kerja baru!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jangan tunggu kontrak tamat baru nak panik, sebaliknya binalah payung terjun kewangan ketika masih bergaji.
+
+Gunakan Akaun Emas GAP Public Gold untuk mengumpul dana perlindungan diri sedikit demi sedikit setiap bulan.
+
+Emas dalam Akaun GAP sangat mudah dicairkan kepada tunai secara dalam talian sekiranya berada dalam tempoh menunggu kerja baru.
+
+Dan sekiranya kontrak terus disambung, simpanan emas tersebut terus berkembang menjadi harta jangka panjang kita!
+
+Ada pekerja kontrak yang sedang menonton? Komen berapa lama dah anda bekerja secara kontrak!
+
+Bina payung terjun emas anda hari ini bersama Akaun Emas GAP supaya hati tenang!`
+  },
+  {
+    id: 1209,
+    siri: "PG1S-03",
+    no: 30,
+    topik: "Kewangan Peribadi",
+    tajuk: "Jangan Biarkan Duit KWSP & Ganjaran Pencen Habis Dalam Masa 3 Tahun!",
+    tags: ["gap", "inflasi", "kwsp", "ringgit", "penipuan", "palsu", "skim", "tunai"],
+    persona: "Pekerja Senior (5 Tahun Sebelum Bersara)",
+    teks: `Statistik menunjukkan ramai pesara menghabiskan keseluruhan wang persaraan ratusan ribu ringgit dalam tempoh tiga hingga lima tahun sahaja!
+
+Kenapa duit yang dikumpul selama tiga puluh tahun bekerja boleh habis begitu cepat selepas bersara?
+
+Puncanya ialah mereka tidak melatih diri menguruskan aset semasa bekerja, lalu mudah terpedaya dengan skim palsu apabila memegang tunai banyak!
+
+Jika anda kini berada dalam tempoh lima tahun terakhir sebelum bersara, inilah waktu paling kritikal membuat persediaan.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jangan tunggu hari terakhir bekerja baru nak belajar tentang emas; mulakan latihan menyimpan dari sekarang!
+
+Buka Akaun Emas GAP Public Gold hari ini dan biasakan diri memahami cara membeli, menyimpan, serta mencairkan emas fizikal secara selamat.
+
+Apabila sudah mahir menggunakan Akaun GAP sebelum bersara, anda tahu cara melindungi wang persaraan daripada dimakan inflasi dan penipuan.
+
+Nikmatilah zaman persaraan yang tenang, bermaruah, dan bebas kerisauan kewangan.
+
+Cuba tulis dekat komen, berapa tahun lagi baki tempoh anda sebelum melangkah ke alam persaraan?
+
+Persiapkan zaman persaraan emas anda bermula hari ini bersama Akaun Emas GAP Public Gold!`
   }
 ];
 
@@ -32415,4 +33255,4 @@ export const namaSiri = {
 export const hargaLalai = { harga999: "542", harga916: "497", tarikh: "27 September 2026" };
 
 // Siri yang dapat TAB sendiri (ikut susunan). Semua siri lain masuk tab "Archive".
-export const tabUtama = ["PG1S-01", "PG1S-02", "Mentor-01", "Mentor-02", "Mentor-03", "Mentor-04", "Mentor-05", "GPT-Asas-01", "Listicle-03", "Listicle-04", "Listicle-05", "Listicle-06", "Listicle-07", "Listicle-08", "Listicle-09", "Listicle-10", "Listicle-11", "Listicle-12", "Listicle-13", "Listicle-14", "Listicle-15", "Listicle-16", "Listicle-17"];
+export const tabUtama = ["PG1S-01", "PG1S-02", "PG1S-03", "Mentor-01", "Mentor-02", "Mentor-03", "Mentor-04", "Mentor-05", "GPT-Asas-01", "Listicle-03", "Listicle-04", "Listicle-05", "Listicle-06", "Listicle-07", "Listicle-08", "Listicle-09", "Listicle-10", "Listicle-11", "Listicle-12", "Listicle-13", "Listicle-14", "Listicle-15", "Listicle-16", "Listicle-17"];
