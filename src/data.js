@@ -33241,6 +33241,846 @@ Nikmatilah zaman persaraan yang tenang, bermaruah, dan bebas kerisauan kewangan.
 Cuba tulis dekat komen, berapa tahun lagi baki tempoh anda sebelum melangkah ke alam persaraan?
 
 Persiapkan zaman persaraan emas anda bermula hari ini bersama Akaun Emas GAP Public Gold!`
+  },
+  {
+    id: 1210,
+    siri: "PG1S-04",
+    no: 1,
+    topik: "Keluarga",
+    tajuk: "Jangan Mulakan Alam Perkahwinan Dengan Hutang Pinjaman Peribadi!",
+    tags: ["gap", "hutang", "gaji", "rumah", "dinar", "ringgit", "anak", "isteri"],
+    persona: "Merancang Perkahwinan (Nak Kahwin)",
+    teks: `Ramai pasangan muda sanggup buat pinjaman peribadi puluhan ribu ringgit semata-mata nak buat majlis kahwin gah satu hari!
+
+Majlisnya selesai dalam lima jam, tetapi hutang bank terpaksa dibayar selama sepuluh tahun sehingga anak dah masuk darjah tiga!
+
+Akibatnya baru sebulan dua berkahwin, suami isteri mula bergaduh sebab gaji habis dipotong membayar hutang kenduri.
+
+Jangan mulakan masjid yang suci dengan bebanan hutang yang meragut ketenangan rumah tangga kita!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kumpullah kos perkahwinan menggunakan emas fizikal sejak mula merancang berkahwin.
+
+Buka Akaun Emas GAP Public Gold dan konsisten simpan satu gram setiap bulan bersama pasangan.
+
+Bila cukup dua atau tiga tahun, gram emas dalam Akaun GAP boleh dikeluarkan menjadi kepingan dinar emas sebagai mas kahwin dan hantaran!
+
+Selepas majlis selesai, emas hantaran itu kekal menjadi harta pertama suami isteri tanpa sebarang hutang.
+
+Siapa dekat sini tengah kumpul duit nak kahwin? Cuba komen tahun bila sasaran majlis anda!
+
+Mulakan tabung kahwin bebas hutang anda hari ini di dalam Akaun Emas GAP!`
+  },
+  {
+    id: 1211,
+    siri: "PG1S-04",
+    no: 2,
+    topik: "Strategi Emas",
+    tajuk: "Kesilapan Pengantin Baru Yang Buat Poket Kering Selepas Bulan Madu!",
+    tags: ["gap", "rumah", "anak", "isteri", "kahwin", "kecemasan"],
+    persona: "Fasa Baru Lepas Kahwin (Pengantin Baru)",
+    teks: `Waktu baru lepas kahwin, ramai pengantin baru habiskan semua duit baki kenduri untuk berbulan madu mewah dan beli perabot secara ansuran!
+
+Bila masuk bulan ketiga perkahwinan, barulah tersedar kos hidup berdua memerlukan perancangan yang jauh lebih rapi.
+
+Apabila tiada langsung tabungan kecemasan keluarga, sebarang kejutan kecil boleh mencetuskan ketegangan antara suami dan isteri.
+
+Alam rumah tangga bukanlah perlumbaan siapa paling cepat penuh perabot, tetapi siapa paling kukuh benteng kewangannya!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, fasa awal perkahwinan ketika belum mempunyai anak adalah waktu terbaik membina rizab simpanan.
+
+Gunakan peluang komitmen yang masih rendah ini untuk mengumpul satu hingga dua gram sebulan di dalam Akaun Emas GAP Public Gold.
+
+Tukarkan juga duit hadiah perkahwinan terus menjadi gram emas dalam Akaun GAP supaya tidak habis terbelanja.
+
+Apabila tapak emas rumah tangga kukuh sejak tahun pertama, perjalanan seterusnya menjadi jauh lebih tenang.
+
+Cuba komen di bawah, apakah perkara pertama yang anda dan pasangan beli selepas berkahwin?
+
+Kukuhkan tapak rumah tangga anda hari ini dengan menabung di Akaun Emas GAP!`
+  },
+  {
+    id: 1212,
+    siri: "PG1S-04",
+    no: 3,
+    topik: "Keluarga",
+    tajuk: "Sebaik Sahaja Tahu Isteri Mengandung, Buat Persediaan Kewangan Ini!",
+    tags: ["gap", "ringgit", "isteri", "kecemasan", "disiplin", "tunai"],
+    persona: "Isteri Disahkan Mengandung (Bakal Ibu Bapa)",
+    teks: `Saat melihat dua garisan pada alat ujian kehamilan, hati suami isteri pasti berbunga gembira menanti kehadiran cahaya mata!
+
+Tetapi jangan sekadar seronok memilih nama bayi sehingga terlupa kos pemeriksaan, bersalin, dan penjagaan berpantang memerlukan ribuan ringgit.
+
+Ramai bakal bapa kelam-kabut mencari tunai apabila tarikh bersalin semakin hampir, malah terpaksa meminjam kawan waktu kelahiran kecemasan!
+
+Tempoh sembilan bulan kehamilan adalah masa yang Tuhan berikan untuk kita membuat persediaan kewangan yang rapi.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, setiap matlamat kewangan yang mempunyai tempoh masa perlu dirancang dengan disiplin simpanan paksa.
+
+Sebaik sahaja isteri disahkan hamil, terus asingkan dua atau tiga ratus ringgit setiap bulan ke dalam Akaun Emas GAP Public Gold.
+
+Menabung dalam Akaun GAP memastikan duit persediaan menyambut bayi tidak terusik oleh perbelanjaan harian.
+
+Apabila tiba bulan kelahiran, cairkan gram emas tersebut secara dalam talian dengan tenang untuk menampung keperluan isteri dan bayi.
+
+Ada bakal ibu atau bapa yang sedang menunggu kelahiran cahaya mata? Komen bulan berapa jangkaan bersalin!
+
+Sediakan tabung kelahiran yang selamat hari ini melalui Akaun Emas GAP Public Gold!`
+  },
+  {
+    id: 1213,
+    siri: "PG1S-04",
+    no: 4,
+    topik: "Keluarga",
+    tajuk: "Hadiah Terbaik Untuk Bayi Baru Lahir Bukannya Baju Mahal!",
+    tags: ["gap", "ringgit", "anak"],
+    persona: "Baru Timang Cahaya Mata (Kelahiran Bayi)",
+    teks: `Bila bayi baru lahir, kita selalu belikan pakaian berjenama dan kasut comel yang harganya mencecah ratusan ringgit.
+
+Tetapi sedar tak, bayi membesar sangat pantas; selepas tiga bulan sahaja, semua baju mahal tadi sudah tidak muat dipakai lagi!
+
+Begitu juga duit hadiah pemberian saudara-mara ketika melawat bayi; jika disimpan dalam sampul kertas, lama-kelamaan habis terpakai.
+
+Apakah hadiah kelahiran paling bermakna yang nilainya terus membesar seiring dengan usia anak kita?
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, hadiahkanlah anak yang baru lahir dengan tabungan emas fizikal sejak hari pertama mereka melihat dunia.
+
+Di Public Gold, ibu bapa boleh membuka Akaun Emas GAP Junior untuk bayi seawal usia sehari sebaik sahaja mempunyai sijil kelahiran!
+
+Tukarkan semua duit hadiah kelahiran anak itu menjadi gram emas tulen sembilan sembilan sembilan dalam Akaun GAP Junior mereka.
+
+Selepas lapan belas tahun, baju bayi sudah reput, tetapi gram emas dalam akaun anak anda akan bernilai puluhan ribu ringgit!
+
+Kongsikan di komen, apakah hadiah pertama yang anda berikan sewaktu anak lahir dahulu?
+
+Hadiahkan masa depan terjamin buat si comel anda dengan Akaun GAP Junior hari ini!`
+  },
+  {
+    id: 1214,
+    siri: "PG1S-04",
+    no: 5,
+    topik: "Public Gold & GAP",
+    tajuk: "Kenapa Setiap Kali Musim Buka Sekolah Ramai Ibu Bapa Sesak Dada?",
+    tags: ["gap", "pajak", "gaji", "ringgit", "anak"],
+    persona: "Musim Buka Sekolah Baru",
+    teks: `Tarikh buka sesi persekolahan baru berlaku setiap tahun, tetapi kenapa ramai ibu bapa masih terkejut dan sesak dada bila tiba waktunya?
+
+Kalau seorang anak memerlukan lima ratus ringgit untuk yuran, buku, dan baju seragam, bayangkan jika mempunyai empat anak bersekolah serentak!
+
+Gaji sebulan memang tidak mampu menampung perbelanjaan dua ribu ringgit sekali gus tanpa perancangan awal.
+
+Akhirnya ramai ibu bapa terpaksa mengikat perut atau berhutang setiap kali sesi persekolahan bermula.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, perbelanjaan tahunan yang sudah pasti berlaku wajib dirancang secara bulanan sejak awal tahun.
+
+Gunakan Akaun Emas GAP Public Gold sebagai tabung paksa untuk mengumpulkan kos persekolahan anak-anak sedikit demi sedikit.
+
+Simpan sahaja seratus atau dua ratus ringgit sebulan ke Akaun GAP supaya duit tersebut tidak terpakai pada pertengahan tahun.
+
+Apabila tiba musim membeli kelengkapan sekolah, jual atau pajak sebahagian gram emas secara dalam talian tanpa menyentuh gaji bulanan!
+
+Cuba tulis dekat komen, berapa orang anak anda yang sedang bersekolah tahun ini?
+
+Urus kos persekolahan anak dengan tenang melalui simpanan konsisten di Akaun Emas GAP!`
+  },
+  {
+    id: 1215,
+    siri: "PG1S-04",
+    no: 6,
+    topik: "Kewangan Peribadi",
+    tajuk: "Seronok Bercuti Seminggu, Jangan Sampai Merana Bayar Hutang Setahun!",
+    tags: ["gap", "hutang", "kad kredit", "isteri"],
+    persona: "Musim Cuti Sekolah & Percutian Keluarga",
+    teks: `Membawa isteri dan anak-anak berjalan makan angin waktu cuti sekolah memang satu kenangan yang sangat indah.
+
+Tetapi kenangan manis bercuti tiga hari dua malam itu boleh bertukar menjadi mimpi ngeri apabila semuanya dibayar menggunakan hutang kad kredit!
+
+Balik sahaja daripada bercuti, wajah terus muram sebab terpaksa menanggung baki hutang dan caj faedah berbulan-bulan lamanya.
+
+Percutian yang sepatutnya merehatkan fikiran akhirnya menambah beban tekanan kepada ketua keluarga!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, ukur baju di badan sendiri dan rancanglah setiap impian percutian keluarga tanpa melibatkan hutang.
+
+Sebelum merancang percutian besar hujung tahun, kumpullah bajet percutian itu dalam Akaun Emas GAP Public Gold setiap bulan.
+
+Apabila menyimpan dalam Akaun GAP, duit percutian itu selamat daripada terpakai dan berpeluang menikmati kenaikan nilai emas.
+
+Pastikan juga kita menambah dahulu gram emas simpanan kekal keluarga sebelum berbelanja untuk hiburan sementara.
+
+Kongsikan di komen, ke manakah destinasi impian yang anda teringin bawa keluarga bercuti?
+
+Rancang percutian yang tenang dan bebas hutang bersama Akaun Emas GAP hari ini!`
+  },
+  {
+    id: 1216,
+    siri: "PG1S-04",
+    no: 7,
+    topik: "Kewangan Peribadi",
+    tajuk: "Dapat Bonus Sebulan Gaji: Jangan Habiskan Semua Dalam Masa Seminggu!",
+    tags: ["gap", "gaji", "bonus"],
+    persona: "Menerima Bonus Tahunan / Bantuan Khas",
+    teks: `Waktu pengumuman bonus tahunan keluar, senyuman kita memang sampai ke telinga sambil membayangkan seribu satu barang yang hendak dibeli!
+
+Tetapi cuba ingat semula bonus tahun-tahun lepas: ke mana perginya semua duit bonus yang kita terima dahulu?
+
+Kebanyakannya habis licin dalam kurang dua minggu untuk menukar langsir, beli telefon baru, dan makan besar sehingga tiada satu sen pun tinggal!
+
+Setahun kita bekerja keras mengejar prestasi, tetapi hasilnya lesap sekelip mata kerana tiada strategi mengunci harta.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, duit bonus adalah peluang keemasan untuk melompatkan jumlah tabungan aset keluarga dengan pantas.
+
+Amalkan formula bijak ini sebaik sahaja bonus masuk: gunakan sebahagian kecil meraikan keluarga, dan pindahkan separuh terus ke Akaun Emas GAP Public Gold!
+
+Tukarkan duit bonus itu kepada lima atau sepuluh gram emas fizikal supaya penat lelah kerja setahun anda kekal menjadi harta.
+
+Tahun depan kita bekerja lagi, tetapi emas bonus tahun ini kekal berkilau dalam simpanan selamanya.
+
+Cuba komen di bawah, bila dapat bonus anda biasa simpan berapa peratus?
+
+Kunci duit bonus anda menjadi jongkong emas tulen di dalam Akaun GAP sekarang!`
+  },
+  {
+    id: 1217,
+    siri: "PG1S-04",
+    no: 8,
+    topik: "Kewangan Peribadi",
+    tajuk: "Gah Bergaya Di Pagi Raya, Tapi Terpaksa Makan Mi Segera Lepas Syawal!",
+    tags: ["gap", "gaji", "kecemasan"],
+    persona: "Musim Hari Raya & Balik Kampung",
+    teks: `Jangan sampai kita gah bergaya dengan lima pasang baju baru di pagi Raya, tetapi masuk minggu kedua Syawal terpaksa makan mi segera!
+
+Setiap kali tiba musim perayaan, ramai hilang pertimbangan kerana mahu menunjuk kemewahan ketika pulang ke kampung halaman.
+
+Kos servis kereta, tol, baju sedondon, dan duit raya semuanya dikorek daripada gaji sebulan sehingga akaun bank kering-kontang.
+
+Lebih perit lagi apabila jarak gaji sebelum raya dengan gaji bulan berikutnya mengambil masa hampir empat puluh lima hari!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, sambutlah perayaan mengikut kemampuan dan jangan korbankan dana kecemasan keluarga demi gaya sementara.
+
+Gunakan Akaun Emas GAP Public Gold untuk menabung sedikit demi sedikit sejak awal tahun sebagai persediaan musim perayaan.
+
+Sebelum berbelanja sakan untuk raya, pastikan kita sudah mengunci sekurang-kurangnya satu gram emas dalam Akaun GAP supaya selepas raya kita masih berharta!
+
+Raya paling bermakna ialah apabila hati tenang tanpa perlu meminjam duit sesiapa selepas perayaan berakhir.
+
+Pernah tak anda rasa perit nak tunggu gaji lepas musim raya? Cerita dekat komen!
+
+Amankan kewangan keluarga anda sebelum dan selepas raya bersama Akaun Emas GAP!`
+  },
+  {
+    id: 1218,
+    siri: "PG1S-04",
+    no: 9,
+    topik: "Strategi Emas",
+    tajuk: "Kenapa Susah Sangat Nak Cukupkan Duit Deposit Beli Rumah Pertama?",
+    tags: ["gap", "hartanah", "rumah", "ringgit", "tunai"],
+    persona: "Membeli Rumah Pertama (Deposit Hartanah)",
+    teks: `Ramai orang muda mengeluh, dah lima tahun bekerja tetapi masih gagal mengumpul deposit sepuluh peratus untuk membeli rumah pertama!
+
+Bila cuba kumpul tunai di bank, baru cecah lima ribu ringgit, tiba-tiba kereta rosak atau terpakai untuk hal lain.
+
+Pada masa sama, harga rumah idaman terus meningkat setiap tahun meninggalkan jumlah wang tunai yang sedang dikumpul!
+
+Menyimpan wang kertas untuk mengejar harga hartanah umpama berlari mengejar kereta api yang bergerak laju.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, emas dan hartanah adalah pasangan aset serasi; gunakan emas sebagai jambatan membeli rumah!
+
+Tetapkan sasaran mengumpul lima puluh hingga seratus gram emas dalam Akaun Emas GAP Public Gold dalam tempoh tiga hingga lima tahun.
+
+Menyimpan dalam Akaun GAP melindungi duit deposit rumah daripada nafsu belanja, malah nilainya meningkat seiring kenaikan harga rumah!
+
+Cukup sahaja jumlah gram yang diperlukan, jualkan emas tersebut untuk membayar deposit rumah dan kos guaman dengan tenang.
+
+Cuba tulis dekat komen, berapa anggaran harga rumah pertama yang anda idamkan?
+
+Mulakan tabungan deposit rumah anda dengan mengumpul gram di Akaun Emas GAP hari ini!`
+  },
+  {
+    id: 1219,
+    siri: "PG1S-04",
+    no: 10,
+    topik: "Kenapa Emas",
+    tajuk: "Jangan Biarkan Kereta Pertama Anda Merompak Masa Depan Anda!",
+    tags: ["gap", "susut nilai", "hutang", "gaji", "ringgit"],
+    persona: "Membeli Kereta Pertama",
+    teks: `Kesilapan paling mahal ramai pekerja muda ialah membeli kereta import yang ansuran bulanannya memakan hampir separuh gaji!
+
+Sebaik sahaja tayar kereta baru keluar dari bilik pameran, nilainya terus jatuh menyusut setiap tahun tanpa henti.
+
+Kita terpaksa bekerja sembilan tahun membayar hutang bank, insurans, dan servis untuk sebuah harta yang semakin hilang harganya!
+
+Akibatnya sepanjang sembilan tahun tersebut kita langsung tidak mampu menyimpan walau satu gram emas pun.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, belilah kenderaan sekadar keperluan bergerak dari titik A ke titik B, bukannya untuk menunjuk status.
+
+Jika ingin mengambil komitmen kereta, pastikan anda mengasingkan seratus hingga dua ratus ringgit sebulan ke Akaun Emas GAP Public Gold dahulu!
+
+Biarkan kenaikan nilai emas dalam Akaun GAP mengimbangi susut nilai kereta yang dipandu setiap hari.
+
+Selepas sembilan tahun, kereta mungkin sudah uzur, tetapi dalam Akaun GAP anda sudah terkumpul puluhan gram emas bernilai tinggi!
+
+Kongsikan di komen, berapa tahun tempoh pinjaman kereta yang anda ambil dahulu?
+
+Lindungi kekayaan anda daripada susut nilai kenderaan dengan menabung di Akaun Emas GAP!`
+  },
+  {
+    id: 1220,
+    siri: "PG1S-04",
+    no: 11,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kereta Dah Habis Bayar? Jangan Terus Gatal Tangan Tukar Kereta Baru!",
+    tags: ["gap", "hutang", "gaji", "ringgit", "auto-debit"],
+    persona: "Kereta Dah Habis Bayar (Bebas Ansuran)",
+    teks: `Saat paling bahagia bagi seorang pemandu ialah apabila bayaran ansuran bulanan kereta di bank akhirnya tamat sepenuhnya!
+
+Tetapi peliknya, ramai orang sebaik sahaja kereta habis bayar, bulan depannya terus ke bilik pameran untuk sambung hutang kereta baru sembilan tahun lagi!
+
+Sepanjang hidup mereka tidak pernah merasa nikmat bebas hutang kerana sentiasa mencari alasan menyambung ansuran baru.
+
+Sebenarnya waktu kereta habis dibayar adalah peluang keemasan paling besar untuk membina kekayaan dengan pantas!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, apabila sesuatu hutang selesai dibayar, teruskan membayar jumlah ansuran yang sama kepada diri kita sendiri.
+
+Selama ini anda sudah terbiasa hidup tanpa duit ansuran lima atau enam ratus ringgit tersebut setiap bulan.
+
+Terus alihkan jumlah yang sama melalui potongan Auto-Debit ke dalam Akaun Emas GAP Public Gold setiap kali dapat gaji!
+
+Dalam tempoh tiga hingga lima tahun sahaja, anda mampu mengumpul ratusan gram emas fizikal tanpa rasa terbeban.
+
+Cuba tulis dekat komen, berapa tahun lagi baki hutang kereta anda nak habis bayar?
+
+Tukarkan bekas ansuran hutang anda menjadi kilauan emas di dalam Akaun GAP sekarang!`
+  },
+  {
+    id: 1221,
+    siri: "PG1S-04",
+    no: 12,
+    topik: "Kewangan Peribadi",
+    tajuk: "Gaji Naik Setiap Tahun, Tapi Kenapa Simpanan Tetap Tak Bertambah?",
+    tags: ["gap", "inflasi", "gaji", "ringgit", "auto-debit"],
+    persona: "Menerima Kenaikan Gaji Tahunan (Increment)",
+    teks: `Cuba renung sejenak: sejak mula bekerja lima tahun lepas sehingga hari ini, gaji sudah naik berkali-kali, tetapi kenapa baki simpanan tetap sama?
+
+Ke mana perginya kenaikan gaji seratus atau dua ratus ringgit yang kita terima setiap tahun itu?
+
+Puncanya ialah setiap kali gaji naik sedikit, kita pun menaikkan selera berbelanja dengan menukar pakej lebih mahal dan makan di tempat mewah!
+
+Jika tabiat ini diteruskan, walaupun gaji naik sepuluh kali lagi, poket kita tetap bocor seperti biasa.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, cara terbaik menahan diri daripada inflasi gaya hidup ialah mengunci setiap kenaikan gaji ke dalam aset.
+
+Apabila surat kenaikan gaji tahunan keluar, anggap sahaja gaji anda masih sama seperti tahun lepas!
+
+Terus salurkan seratus peratus jumlah kenaikan gaji tersebut ke dalam Akaun Emas GAP Public Gold melalui fungsi Auto-Debit bulanan.
+
+Keluarga masih hidup selesa seperti biasa, tetapi di belakang tabir, gram emas anda bertambah dengan sangat drastik setiap tahun!
+
+Kongsikan di komen, apa yang biasa anda buat bila dapat surat kenaikan gaji tahunan?
+
+Kunci kenaikan gaji anda tahun ini terus menjadi gram emas di dalam Akaun GAP!`
+  },
+  {
+    id: 1222,
+    siri: "PG1S-04",
+    no: 13,
+    topik: "Strategi Emas",
+    tajuk: "Jangan Tertipu Dengan Perkataan 'Jimat' Waktu Jualan Murah Tengah Malam!",
+    tags: ["gap", "susut nilai", "gaji", "rumah", "ringgit"],
+    persona: "Musim Jualan Murah Online (11.11 / 12.12 / Gaji)",
+    teks: `Setiap kali tiba tarikh sebelas hari bulan sebelas atau jualan hari gaji, ramai sanggup berjaga sampai tengah malam depan telefon!
+
+Kononnya nak berjimat sebab ada baucar diskaun, lalu dibelinya sepuluh barang yang langsung tidak diperlukan.
+
+Sedarlah, kalau barang seratus ringgit diberi diskaun menjadi tujuh puluh ringgit dan kita membelinya tanpa keperluan, kita bukan jimat tiga puluh ringgit, tetapi rugi tujuh puluh ringgit!
+
+Lama-kelamaan rumah penuh timbunan barang, manakala akaun simpanan semakin kosong.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, alihkan ketagihan membeli-belah itu daripada membeli barang susut nilai kepada membeli aset yang naik nilai!
+
+Bila tangan mula gatal nak menekan butang bayar di aplikasi beli-belah, cepat-cepat keluar dan buka aplikasi Public Gold.
+
+Masukkan seratus ringgit ke dalam Akaun Emas GAP anda untuk membeli pecahan gram emas fizikal!
+
+Nikmat membeli itu tetap dapat dirasai, tetapi duit kita tidak hilang sebaliknya bertukar menjadi harta emas yang kekal!
+
+Cuba jujur dekat komen, berapa banyak barang dalam troli online anda sekarang?
+
+Kosongkan troli kehendak anda dan tambahkan gram emas di dalam Akaun GAP malam ini!`
+  },
+  {
+    id: 1223,
+    siri: "PG1S-04",
+    no: 14,
+    topik: "Kewangan Peribadi",
+    tajuk: "Dapat Dividen Tahunan: Jangan Biarkan Ia Habis Dibelanja Begitu Sahaja!",
+    tags: ["gap", "inflasi", "tunai"],
+    persona: "Musim Pengumuman Dividen Tahunan (ASB / Tabung Haji)",
+    teks: `Setiap awal tahun apabila dividen simpanan diumumkan, ramai orang terus mengeluarkan wang dividen tersebut untuk dibelanjakan!
+
+Ada yang guna beli pakaian baru, ada yang guna pergi bercuti, sehingga akhirnya modal asal tidak pernah berkembang.
+
+Lebih rugi lagi, jika dividen lima peratus itu sekadar dibiarkan dalam wang kertas, sebahagian besar nilainya tetap dihakis kenaikan harga barang!
+
+Tahukah anda bagaimana orang yang celik kewangan menguruskan wang dividen tahunan mereka?
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, gunakan hasil dividen tunai tahunan untuk membeli aset fizikal yang kalis inflasi iaitu emas.
+
+Sebaik sahaja dividen dikreditkan, alihkan wang dividen tersebut ke dalam Akaun Emas GAP Public Gold untuk ditukarkan menjadi gram emas tulen!
+
+Dengan cara ini, wang pokok simpanan tunai kekal utuh, manakala dividennya berubah menjadi kepingan emas yang nilainya meningkat jangka panjang.
+
+Inilah strategi membina dua lapisan benteng kewangan serentak dengan penuh bijaksana.
+
+Cuba tulis dekat komen, anda biasa keluarkan duit dividen atau biarkan ia berkembang?
+
+Tukarkan dividen tahunan anda menjadi gram emas fizikal melalui Akaun Emas GAP!`
+  },
+  {
+    id: 1224,
+    siri: "PG1S-04",
+    no: 15,
+    topik: "Kewangan Peribadi",
+    tajuk: "Rahsia Langsaikan Hutang Belajar Dengan Pantas Menggunakan Simpanan Emas!",
+    tags: ["gap", "hutang", "rumah", "kecemasan", "tunai"],
+    persona: "Melangsaikan Hutang Pendidikan (PTPTN / Pinjaman Belajar)",
+    teks: `Ramai graduan rasa terbeban melihat baki hutang pinjaman pelajaran yang seolah-olah tidak bergerak walaupun bertahun-tahun membuat bayaran minimum!
+
+Bila cuba kumpul tunai banyak-banyak untuk buat penyelesaian penuh, duit tunai di bank sering terpakai apabila berlaku kecemasan.
+
+Akibatnya nama sangkut dalam rekod kredit sehingga menyukarkan urusan membeli rumah pertama kelak.
+
+Sebenarnya ada satu strategi pintar untuk menyelesaikan baki hutang pelajaran menggunakan kuasa simpanan emas!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, emas adalah alat terbaik mengumpul modal besar bagi tujuan melangsaikan hutang.
+
+Sambil membayar ansuran bulanan minimum supaya rekod bersih, kumpullah satu gram emas sebulan dalam Akaun Emas GAP Public Gold.
+
+Simpanan dalam Akaun GAP menyelamatkan duit daripada bocor, malah kenaikan harga emas mempercepatkan nilai tabungan kita mencukupi!
+
+Apabila diumumkan tawaran diskaun penyelesaian penuh, jualkan emas Akaun GAP anda dan langsaikan keseluruhan hutang sekali gus!
+
+Ada yang masih berjuang habiskan bayaran pinjaman belajar? Cuba komen dekat bawah!
+
+Mulakan tabung pelangsaian hutang anda hari ini di dalam Akaun Emas GAP Public Gold!`
+  },
+  {
+    id: 1225,
+    siri: "PG1S-04",
+    no: 16,
+    topik: "Kewangan Peribadi",
+    tajuk: "Jangan Hanya Bayar Baki Minimum Kad Kredit Kalau Tak Nak Terjerat Selamanya!",
+    tags: ["gap", "hutang", "kad kredit", "gaji", "ringgit", "psikologi", "disiplin"],
+    persona: "Terjerat Hutang Kad Kredit (Baki Minimum)",
+    teks: `Jika kita hanya membayar jumlah minimum lima peratus pada penyata kad kredit setiap bulan, hutang itu mengambil masa belasan tahun untuk habis!
+
+Sebab caj faedah kad kredit mencecah lapan belas peratus setahun yang dikira secara kompaun setiap hari!
+
+Ramai terperangkap dalam kitaran ini: awal bulan bayar kad kredit, tengah bulan gaji habis, lalu terpaksa leret semula kad kredit yang sama.
+
+Selagi kitaran ini tidak dihentikan, selagi itulah kita bekerja keras hanya untuk membayar caj faedah bank!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, langkah pertama keluar daripada hutang kad kredit ialah berhenti menambah hutang baru dan mula membina rizab emas.
+
+Simpan kad kredit itu jauh-jauh, dan mulakan disiplin mengasingkan seratus ringgit sebulan ke dalam Akaun Emas GAP Public Gold.
+
+Walaupun permulaannya kecil, tabiat menyimpan dalam Akaun GAP membina semula psikologi kita daripada penghutang kepada pemilik aset!
+
+Apabila gram emas terkumpul, gunakan nilainya untuk menutup satu demi satu kad kredit sehingga bebas sepenuhnya.
+
+Kongsikan di komen, pada pendapat anda kad kredit itu kemudahan atau perangkap?
+
+Bebaskan diri daripada belenggu hutang dan bina semula harta di Akaun Emas GAP!`
+  },
+  {
+    id: 1226,
+    siri: "PG1S-04",
+    no: 17,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kalau Esok Syarikat Umumkan Buang Pekerja, Berapa Bulan Kita Boleh Bertahan?",
+    tags: ["gap", "inflasi", "gaji", "rumah", "kecemasan"],
+    persona: "Diuji Kehilangan Pekerjaan (VSS / Diberhentikan Kerja)",
+    teks: `Tiada siapa meminta diberhentikan kerja, tetapi apabila gelombang penstrukturan syarikat melanda, surat pemberhentian boleh tiba tanpa amaran!
+
+Bayangkan jika esok hari terakhir menerima gaji, berapa bulan keluarga kita mampu bertahan membayar sewa rumah sementara mencari kerja baru?
+
+Bagi orang yang sifar simpanan, kehilangan kerja sebulan sahaja sudah cukup membuatkan hidup mereka gelap gelita.
+
+Tetapi bagi mereka yang menyediakan dana kecemasan emas sejak waktu senang, ujian ini dilalui dengan jauh lebih tenang!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, setiap pekerja wajib membina dana kecemasan sekurang-kurangnya tiga hingga enam bulan kos sara hidup.
+
+Dana kecemasan jangka sederhana paling baik disimpan dalam Akaun Emas GAP Public Gold kerana nilainya meningkat mengatasi inflasi.
+
+Sekiranya diuji hilang pekerjaan, anda boleh menjual balik atau memajak gram emas Akaun GAP secara dalam talian mengikut keperluan bulanan.
+
+Anda mempunyai ruang masa yang cukup untuk mencari kerjaya baru tanpa perlu terdesak membuat pinjaman berfaedah tinggi.
+
+Cuba tulis dekat komen, berapa bulan dana kecemasan yang menjadi sasaran anda sekarang?
+
+Sediakan perisai kecemasan keluarga anda hari ini melalui Akaun Emas GAP Public Gold!`
+  },
+  {
+    id: 1227,
+    siri: "PG1S-04",
+    no: 18,
+    topik: "Public Gold & GAP",
+    tajuk: "Waktu Sihat Kita Lupa, Waktu Diuji Sakit Baru Sedar Pentingnya Dana Ini!",
+    tags: ["gap", "rumah", "kecemasan", "tunai"],
+    persona: "Diuji Masalah Kesihatan / Masuk Wad",
+    teks: `Nikmat kesihatan adalah perkara paling jarang kita hargai sehinggalah kita sendiri terlantar di atas katil hospital!
+
+Walaupun ada kad perubatan atau ke hospital kerajaan, masih banyak kos tersembunyi seperti ubat tambahan dan kehilangan pendapatan harian.
+
+Saat tubuh sedang lemah melawan penyakit, perkara terakhir yang kita mahu fikirkan ialah kerisauan tentang ketiadaan wang tunai!
+
+Tekanan memikirkan masalah duit ketika sedang sakit hanya akan melambatkan lagi proses penyembuhan kita.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, binalah benteng simpanan emas semasa tubuh masih sihat dan berupaya mencari rezeki.
+
+Dengan mempunyai tabungan dalam Akaun Emas GAP Public Gold, anda memiliki dana kecemasan yang boleh dicairkan bila-bila masa.
+
+Walaupun berada di atas katil wad pada tengah malam, anda hanya perlu menekan beberapa butang di aplikasi untuk menjual balik gram emas kepada tunai!
+
+Wang tersebut terus masuk ke akaun bank bagi melancarkan urusan rawatan dan keperluan keluarga di rumah.
+
+Cuba komen di bawah, setuju tak waktu sihat adalah masa terbaik mula menabung?
+
+Gunakan nikmat sihat hari ini untuk membina perlindungan emas di dalam Akaun GAP!`
+  },
+  {
+    id: 1228,
+    siri: "PG1S-04",
+    no: 19,
+    topik: "Kenapa Emas",
+    tajuk: "Jangan Sampai Cukai Jalan Kereta Mati Baru Kalut Nak Cari Duit!",
+    tags: ["gap", "gaji", "ringgit", "cukai"],
+    persona: "Musim Cukai Jalan & Insurans Kereta Tamat Tempoh",
+    teks: `Setiap tahun kita tahu tarikh cukai jalan dan insurans kereta akan tamat tempoh, tetapi kenapa bila tiba bulannya ramai mengeluh poket bocor?
+
+Kos memperbaharui insurans, cukai jalan, ditambah pula tukar empat biji tayar boleh mencecah dua hingga tiga ribu ringgit sekali gus!
+
+Kalau cuba mengambil jumlah sebesar itu daripada gaji bulanan biasa, pasti habislah bajet barang dapur bulan tersebut.
+
+Akibatnya ramai terpaksa mengambil pelan bayaran ansuran berfaedah atau memandu kereta dengan cukai jalan yang sudah mati!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, uruslah komitmen tahunan kenderaan dengan membina tabung khas secara berdisiplin setiap bulan.
+
+Cukup dengan mengalihkan seratus lima puluh ringgit sebulan ke Akaun Emas GAP Public Gold khusus untuk dana penyelenggaraan kenderaan.
+
+Menyimpan dalam Akaun GAP menghalang kita daripada terguna duit tersebut untuk perkara yang tidak berkaitan.
+
+Apabila tiba bulan memperbaharui insurans kereta, cairkan sahaja gram emas yang diperlukan dengan senyuman tanpa menjejaskan gaji bulanan!
+
+Cuba tulis dekat komen, bulan berapa cukai jalan dan insurans kereta anda tamat tempoh?
+
+Mula kumpul dana tahunan kenderaan anda hari ini di dalam Akaun Emas GAP!`
+  },
+  {
+    id: 1229,
+    siri: "PG1S-04",
+    no: 20,
+    topik: "Keluarga",
+    tajuk: "Yuran Daftar Tadika Sekarang Dah Macam Yuran Masuk Universiti Dulu!",
+    tags: ["gap", "ringgit", "anak"],
+    persona: "Anak Nak Masuk Tadika / Sekolah Rendah",
+    teks: `Ibu bapa muda zaman sekarang pasti terkejut melihat senarai yuran pendaftaran tadika anak yang mencecah hampir dua ribu ringgit seorang!
+
+Belum lagi dikira yuran bulanan, buku aktiviti, dan pakaian seragam yang semakin meningkat saban tahun.
+
+Kalau baru nak fikir cari duit pada bulan pendaftaran dibuka, memang berpeluh dahi dibuatnya!
+
+Pendidikan awal anak-anak memerlukan perancangan yang dimulakan sekurang-kurangnya tiga hingga lima tahun lebih awal.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, lawanlah kenaikan kos pendidikan anak dengan menyimpan dalam aset yang turut meningkat nilainya iaitu emas.
+
+Bukakan Akaun Emas GAP Junior di Public Gold untuk setiap orang anak sejak mereka masih kecil lagi.
+
+Simpan konsisten seratus ringgit sebulan; apabila anak berusia enam tahun, dalam akaun mereka sudah terkumpul belasan gram emas fizikal!
+
+Sebahagian kecil digunakan untuk yuran tadika, manakala selebihnya terus disimpan berkembang untuk dana universiti kelak.
+
+Kongsikan di komen, berapa kos pendaftaran tadika di kawasan tempat tinggal anda sekarang?
+
+Sediakan dana pendidikan awal anak anda tanpa tekanan melalui Akaun GAP Junior hari ini!`
+  },
+  {
+    id: 1230,
+    siri: "PG1S-04",
+    no: 21,
+    topik: "Keluarga",
+    tajuk: "Jangan Biarkan Anak Tolak Tawaran Universiti Sebab Kita Tak Cukup Duit!",
+    tags: ["gap", "ringgit", "anak", "tunai"],
+    persona: "Anak Dapat Tawaran Masuk Universiti / Matrikulasi",
+    teks: `Tiada perkara lebih meruntun jiwa seorang bapa selain melihat anaknya mendapat keputusan cemerlang, tetapi terpaksa menangguhkan hasrat ke universiti kerana tiada duit!
+
+Walaupun ada pinjaman pendidikan, kos minggu pertama seperti yuran asrama dan membeli komputer riba memerlukan wang tunai beribu-ribu ringgit segera.
+
+Bantuan pinjaman selalunya hanya masuk selepas beberapa bulan pengajian bermula, jadi ibu bapalah yang perlu mendahulukan wang sendiri!
+
+Di sinilah terletaknya perbezaan besar bagi keluarga yang telah lama mengamalkan tabiat menyimpan emas.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, emas yang kita simpan hari ini adalah jaminan supaya peluang masa depan anak-anak tidak tertutup.
+
+Bagi ibu bapa yang konsisten menabung dalam Akaun Emas GAP dan GAP Junior Public Gold, surat tawaran universiti disambut dengan penuh kesyukuran.
+
+Kita hanya perlu menjual balik atau memajak beberapa gram emas melalui aplikasi untuk menyediakan komputer riba dan wang saku anak segera!
+
+Anak melangkah ke dewan kuliah dengan bangga, dan ibu bapa pula tersenyum tenang melihat kejayaan mereka.
+
+Cuba tulis dekat komen, apakah jurusan impian yang anak-anak anda cita-citakan?
+
+Pastikan impian menara gading anak anda tercapai dengan membina Akaun GAP hari ini!`
+  },
+  {
+    id: 1231,
+    siri: "PG1S-04",
+    no: 22,
+    topik: "Zakat & Syariah",
+    tajuk: "Teringin Bawa Pasangan Tunai Umrah? Ini Cara Kumpul Kosnya Guna Dinar!",
+    tags: ["gap", "dinar", "ringgit", "isteri", "kecemasan", "tunai"],
+    persona: "Merancang Ibadah Umrah Bersama Pasangan",
+    teks: `Ramai suami isteri menyimpan hasrat dalam hati untuk menjejakkan kaki ke kota suci Makkah dan Madinah bersama-sama.
+
+Tetapi melihat kos pakej umrah dua orang yang mencecah hampir dua puluh ribu ringgit, ramai mengeluh merasakan ia terlalu jauh!
+
+Kalau disimpan dalam wang tunai biasa, baru terkumpul tiga empat ribu ringgit, duit itu sering terpakai apabila berlaku kecemasan.
+
+Sebenarnya perjalanan menuju Tanah Suci menjadi jauh lebih terarah apabila kita menukarkan kaedah tabungan kepada dinar emas!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, niat yang suci perlu disertakan dengan usaha dan strategi simpanan yang betul.
+
+Melalui Akaun Emas GAP Public Gold, suami isteri boleh mula mengumpul gram emas serendah seratus ringgit setiap bulan.
+
+Setiap kali baki Akaun GAP mencukupi empat perpuluhan dua lima gram, keluarkan sekeping syiling satu dinar emas fizikal sebagai penanda aras tabungan umrah!
+
+Apabila cukup sepuluh keping dinar di tangan, impian berdoa di hadapan Kaabah bersama pasangan bukan lagi sekadar angan-angan.
+
+Cuba aminkan dan tulis dekat komen, dengan siapa anda paling teringin pergi umrah?
+
+Mulakan langkah pertama menuju Tanah Suci dengan menabung di Akaun Emas GAP hari ini!`
+  },
+  {
+    id: 1232,
+    siri: "PG1S-04",
+    no: 23,
+    topik: "Zakat & Syariah",
+    tajuk: "Giliran Haji Makin Dekat, Tapi Simpanan Masih Belum Cukup? Buat Langkah Ini!",
+    tags: ["gap", "inflasi", "haji", "dinar", "tunai"],
+    persona: "Mencukupkan Dana Ibadah Haji",
+    teks: `Kos menunaikan fardu haji semakin meningkat, dan nilainya sepuluh tahun akan datang pasti jauh lebih tinggi daripada hari ini!
+
+Jika sekadar meletakkan wang pendaftaran minimum dan membiarkan baki tabungan dalam wang kertas biasa, kita mungkin terkejut apabila dipanggil kelak.
+
+Kerana kenaikan kos penerbangan dan penginapan di Tanah Suci sentiasa mengatasi kadar simpanan tunai biasa!
+
+Bagaimana cara memastikan kuasa beli dana haji kita kekal utuh malah berkembang lebih laju?
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, apabila diukur dalam berat dinar emas, kos menunaikan haji sebenarnya menjadi semakin murah dari tahun ke tahun!
+
+Sambil mengekalkan akaun pendaftaran haji anda, kumpullah dana haji secara selari di dalam Akaun Emas GAP Public Gold.
+
+Tetapkan sasaran mengumpul sepuluh hingga lima belas keping satu dinar emas atau sekitar lima puluh gram emas dalam Akaun GAP.
+
+Apabila surat tawaran haji tiba, jualkan sahaja emas tersebut kepada tunai untuk mencukupkan bayaran penuh dengan hati yang lapang!
+
+Kongsikan di komen, anda dah daftar giliran haji belum dan tahun bila jangkaan giliran anda?
+
+Kukuhkan dana haji anda supaya kalis inflasi bersama Akaun Emas GAP Public Gold!`
+  },
+  {
+    id: 1233,
+    siri: "PG1S-04",
+    no: 24,
+    topik: "Keluarga",
+    tajuk: "Ulang Tahun Perkahwinan Kali Ini, Tukar Hadiah Bunga Kepada Jongkong Emas!",
+    tags: ["gap", "pg jewel", "barang kemas", "ringgit", "isteri"],
+    persona: "Sambutan Ulang Tahun Perkahwinan (Anniversary)",
+    teks: `Setiap kali tiba tarikh ulang tahun perkahwinan, ramai suami pening kepala memikirkan hadiah istimewa untuk isteri tersayang.
+
+Kalau beli sejambak bunga segar harganya dua ratus ringgit, selepas tiga hari bunga itu layu dan masuk ke dalam tong sampah!
+
+Kalau makan malam mewah di hotel pula, habis ratusan ringgit dalam masa dua jam sahaja.
+
+Apa kata untuk ulang tahun perkahwinan tahun ini, berikan satu hadiah yang nilainya semakin mahal seiring dengan usia perkahwinan kita?
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, emas fizikal adalah simbol kasih sayang dan penghargaan yang paling kekal nilainya di dunia.
+
+Dengan menabung seratus ringgit sebulan dalam Akaun Emas GAP Public Gold, menjelang tarikh ulang tahun anda sudah mempunyai beberapa gram emas!
+
+Anda boleh mengeluarkan sekeping jongkong emas bertema eksklusif atau menebus barang kemas sembilan satu enam PG Jewel terus daripada Akaun GAP.
+
+Isteri pasti tersenyum bahagia menerima hadiah emas tulen, dan kekayaan keluarga anda turut bertambah!
+
+Cuba tulis dekat komen, tahun ini genap ulang tahun perkahwinan anda yang ke berapa?
+
+Raikan ulang tahun perkahwinan anda dengan hadiah jongkong emas daripada Akaun GAP!`
+  },
+  {
+    id: 1234,
+    siri: "PG1S-04",
+    no: 25,
+    topik: "Public Gold & GAP",
+    tajuk: "Selagi Ibu Bapa Masih Ada, Sediakan Tabung Khas Ini Untuk Mereka!",
+    tags: ["gap", "ringgit", "kecemasan"],
+    persona: "Menjaga Ibu Bapa Yang Semakin Uzur Di Kampung",
+    teks: `Setiap kali pulang ke kampung, perhatikan wajah dan langkah ibu bapa kita yang semakin hari semakin perlahan dimamah usia.
+
+Ketika kita kecil dahulu, mereka sanggup berlapar demi memastikan kita mendapat pendidikan dan makanan yang terbaik.
+
+Tetapi apabila mereka semakin uzur dan memerlukan kos rawatan kesihatan, adakah kita sudah bersedia dari segi kewangan untuk berbakti kepada mereka?
+
+Jangan sampai apabila ibu bapa jatuh sakit, adik-beradik mula bertolak-tolakan kerana masing-masing tiada wang simpanan!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, antara impian paling mulia yang membawa keberkatan besar ialah membahagiakan ibu bapa dan mertua.
+
+Khaskan satu tabungan bulanan dalam Akaun Emas GAP Public Gold sebagai dana kebajikan dan kecemasan kesihatan ibu bapa kita.
+
+Asingkan seratus ringgit setiap bulan ke Akaun GAP dengan niat memberi keselesaan kepada mereka.
+
+Bila-bila masa ibu bapa memerlukan rawatan segera, kita boleh mencairkan emas tersebut tanpa sedikit pun rasa terbeban!
+
+Cuba tulis satu doa pendek untuk kesihatan ibu bapa kita di ruangan komen di bawah.
+
+Binalah tabung bakti ibu bapa anda hari ini melalui Akaun Emas GAP Public Gold!`
+  },
+  {
+    id: 1235,
+    siri: "PG1S-04",
+    no: 26,
+    topik: "Kewangan Peribadi",
+    tajuk: "Baru Dapat Kunci Rumah Baru? Jangan Terjebak Hutang Perabot Ansuran!",
+    tags: ["gap", "hutang", "gaji", "rumah", "tunai"],
+    persona: "Baru Pindah Masuk Rumah Baru",
+    teks: `Seronoknya bila dapat kunci rumah baru, tetapi awas: ramai pemilik rumah baru jatuh miskin kerana terperangkap hutang perabot ansuran bulanan!
+
+Kerana mahu rumah terus nampak cantik macam ruang pameran pada minggu pertama pindah, mereka mengambil hutang sofa dan televisyen besar berfaedah tinggi.
+
+Sudahlah perlu membayar ansuran bulanan pinjaman perumahan, ditambah pula dengan empat lima hutang perabot serentak!
+
+Akhirnya duduk dalam rumah baru yang cantik, tetapi hati resah kerana gaji bulanan tinggal negatif.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, bezakan antara keperluan asas untuk hidup dengan kehendak untuk menunjuk kepada tetamu.
+
+Sebelum kunci rumah diserahkan pemaju, kumpullah dana masuk rumah baru dalam Akaun Emas GAP Public Gold selama dua hingga tiga tahun.
+
+Beli kelengkapan rumah secara tunai mengikut keutamaan satu demi satu menggunakan hasil tabungan emas dalam Akaun GAP!
+
+Tidur di atas tilam sederhana yang dibeli tunai jauh lebih lena daripada tidur di atas katil mewah penuh hutang.
+
+Kongsikan di komen, apakah barang pertama paling penting bila masuk rumah baru?
+
+Rancang kos masuk rumah baru anda secara bebas hutang bersama Akaun Emas GAP!`
+  },
+  {
+    id: 1236,
+    siri: "PG1S-04",
+    no: 27,
+    topik: "Public Gold & GAP",
+    tajuk: "Satu Bulan Sampai Lima Jemputan Kenduri: Macam Mana Nak Urus Bajet?",
+    tags: ["gap", "gaji", "ringgit", "kahwin", "disiplin", "hujung minggu"],
+    persona: "Musim Kenduri Kahwin & Jemputan Berturut-Turut",
+    teks: `Bila tiba musim cuti atau hujung tahun, telefon kita penuh dengan jemputan kenduri kahwin saudara-mara serta sahabat handai!
+
+Kadang-kadang dalam satu hujung minggu sahaja ada tiga atau empat majlis yang perlu dihadiri.
+
+Kalau setiap kenduri memerlukan kos minyak, tol, dan wang salam kaut, tanpa sedar ratusan ringgit mengalir keluar dalam sebulan!
+
+Ramai menggunakan alasan banyak jemputan kenduri ini untuk menangguhkan tabungan bulanan mereka.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, mengeratkan silaturahim itu dituntut, tetapi jangan sampai mengabaikan disiplin simpanan masa depan keluarga sendiri.
+
+Rahsianya ialah selesaikan dahulu bahagian simpanan paksa ke dalam Akaun Emas GAP Public Gold pada hari pertama gaji masuk!
+
+Selepas seratus ringgit selamat dikunci menjadi gram emas dalam Akaun GAP, barulah agihkan baki gaji untuk bajet kenduri mengikut kemampuan.
+
+Dengan cara ini, silaturahim bersama kawan tetap terjaga, dan tabungan aset keluarga pula tidak pernah terputus!
+
+Cuba komen di bawah, paling banyak berapa jemputan kenduri pernah anda hadir dalam sehari?
+
+Pastikan tabungan Akaun Emas GAP anda dikunci dahulu sebelum berbelanja setiap bulan!`
+  },
+  {
+    id: 1237,
+    siri: "PG1S-04",
+    no: 28,
+    topik: "Kewangan Peribadi",
+    tajuk: "Jangan Terburu-Buru Hantar Surat Berhenti Kerja Sebelum Ada Benteng Ini!",
+    tags: ["gap", "gaji"],
+    persona: "Nak Berhenti Kerja Makan Gaji & Mula Berniaga Sendiri",
+    teks: `Ramai orang makan gaji apabila tertekan dengan bos di pejabat, terus ikut perasaan nak hantar surat berhenti kerja untuk berniaga sendiri!
+
+Tetapi berniaga bukanlah seindah drama; enam bulan hingga setahun pertama berniaga, pendapatan selalunya sangat tidak menentu.
+
+Apabila berhenti kerja mengejut tanpa rizab simpanan kukuh, ramai terpaksa menutup semula perniagaan kerana kehabisan modal menyara keluarga!
+
+Jangan terjun daripada kapal terbang tanpa menyediakan payung terjun yang benar-benar selamat terlebih dahulu.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, binalah pelan keluar atau persediaan berniaga semasa masih mempunyai gaji tetap setiap bulan.
+
+Gunakan waktu malam untuk mengumpul ilmu, dan kumpullah enam hingga dua belas bulan kos sara hidup keluarga dalam Akaun Emas GAP Public Gold!
+
+Emas dalam Akaun GAP berfungsi sebagai pelampung keselamatan dan modal pusingan yang boleh dipajak atau dicairkan bila-bila masa.
+
+Apabila benteng emas sudah teguh di belakang kita, barulah melangkah ke dunia perniagaan dengan penuh keyakinan!
+
+Ada yang menyimpan cita-cita nak berhenti makan gaji suatu hari nanti? Komen di bawah!
+
+Bina pelampung keselamatan anda hari ini dengan mengumpul emas di dalam Akaun GAP!`
+  },
+  {
+    id: 1238,
+    siri: "PG1S-04",
+    no: 29,
+    topik: "Kewangan Peribadi",
+    tajuk: "Dapat Duit Durian Runtuh Puluhan Ribu: Awas Perangkap 'Duit Panas'!",
+    tags: ["gap", "hartanah", "ringgit", "pusaka", "durian", "tunai"],
+    persona: "Menerima Durian Runtuh (Pampasan / Jual Tanah / Pusaka)",
+    teks: `Pernah tengok orang yang tiba-tiba dapat duit durian runtuh seperti pampasan, hasil jual tanah kampung, atau harta pusaka puluhan ribu ringgit?
+
+Ajaibnya, duit puluhan ribu yang datang mengejut itu selalunya habis licin tanpa kesan dalam tempoh kurang setahun!
+
+Kenapa duit durian runtuh begitu panas dan cepat menghilang?
+
+Sebab bila mata melihat angka tunai besar dalam bank, fikiran merasakan semua benda mampu dibeli, ditambah pula saudara dan kawan yang datang meminta pinjam!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, sebaik sahaja menerima wang tunai jumlah besar, segera tukarkan bentuknya kepada emas fizikal sementara berfikir.
+
+Pindahkan terus wang durian runtuh tersebut ke dalam Akaun Emas GAP Public Gold untuk dibekukan menjadi puluhan gram emas tulen!
+
+Apabila wang itu berada dalam Akaun GAP, kita selamat daripada godaan berbelanja terburu-buru dan mempunyai alasan kukuh menolak pinjaman orang.
+
+Selepas fikiran tenang, barulah rancang sama ada mahu mengekalkannya sebagai emas atau menukarnya kepada aset hartanah.
+
+Kongsikan di komen, kalau dapat lima puluh ribu ringgit hari ini, apa perkara pertama anda buat?
+
+Bekukan setiap rezeki durian runtuh anda dengan selamat di dalam Akaun Emas GAP!`
+  },
+  {
+    id: 1239,
+    siri: "PG1S-04",
+    no: 30,
+    topik: "Public Gold & GAP",
+    tajuk: "Bila Umur Dah Cecah 40 Tahun, Kita Tiada Masa Lagi Untuk Cuba-Cuba!",
+    tags: ["gap"],
+    persona: "Melangkah Masuk Usia 40 Tahun (Separuh Abad)",
+    teks: `Apabila usia melangkah masuk ke angka empat puluh tahun, sedarlah bahawa separuh daripada tempoh kerjaya aktif kita sudah pun berlalu pergi!
+
+Pada usia dua puluhan kita mungkin masih boleh membuat kesilapan kewangan, tetapi pada usia empat puluh tahun, masa bersedia menghadapi hari tua tinggal lima belas tahun sahaja.
+
+Tenaga fizikal tidak lagi sekuat dahulu, anak-anak semakin hampir ke universiti, dan kos perubatan semakin meningkat.
+
+Inilah saat paling penting untuk berhenti berangan-angan dan memulakan pecutan membina benteng harta yang sebenar!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, belum terlambat untuk memulakan langkah menyimpan emas asalkan bermula hari ini juga dengan penuh fokus.
+
+Jadikan Akaun Emas GAP Public Gold sebagai senjata utama mengejar sasaran satu keluarga satu kilogram emas sebelum bersara.
+
+Tutup segala kebocoran wang, tingkatkan potongan bulanan ke dalam Akaun GAP, dan kekal berdisiplin tanpa menoleh ke belakang lagi.
+
+Lima belas tahun fokus mengumpul emas dalam Akaun GAP sudah cukup mengubah sepenuhnya landskap persaraan keluarga anda!
+
+Siapa dekat sini sudah berada di kelab usia empat puluhan? Angkat tangan dekat komen!
+
+Mulakan pecutan emas anda hari ini bersama Akaun Emas GAP demi hari tua yang bermaruah!`
   }
 ];
 
@@ -33255,4 +34095,4 @@ export const namaSiri = {
 export const hargaLalai = { harga999: "542", harga916: "497", tarikh: "27 September 2026" };
 
 // Siri yang dapat TAB sendiri (ikut susunan). Semua siri lain masuk tab "Archive".
-export const tabUtama = ["PG1S-01", "PG1S-02", "PG1S-03", "Mentor-01", "Mentor-02", "Mentor-03", "Mentor-04", "Mentor-05", "GPT-Asas-01", "Listicle-03", "Listicle-04", "Listicle-05", "Listicle-06", "Listicle-07", "Listicle-08", "Listicle-09", "Listicle-10", "Listicle-11", "Listicle-12", "Listicle-13", "Listicle-14", "Listicle-15", "Listicle-16", "Listicle-17"];
+export const tabUtama = ["PG1S-01", "PG1S-02", "PG1S-03", "PG1S-04", "Mentor-01", "Mentor-02", "Mentor-03", "Mentor-04", "Mentor-05", "GPT-Asas-01", "Listicle-03", "Listicle-04", "Listicle-05", "Listicle-06", "Listicle-07", "Listicle-08", "Listicle-09", "Listicle-10", "Listicle-11", "Listicle-12", "Listicle-13", "Listicle-14", "Listicle-15", "Listicle-16", "Listicle-17"];
