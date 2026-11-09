@@ -34923,6 +34923,4394 @@ Ketenangan kewangan bukanlah kebetulan, tetapi hasil daripada pilihan tepat yang
 Kongsikan di komen, apakah pengajaran paling berharga yang membuatkan anda yakin menyimpan emas?
 
 Kekal istiqamah mengumpul gram di Akaun Emas GAP, dan jumpa anda di puncak kejayaan!`
+  },
+  {
+    id: 1270,
+    siri: "Kisah-01",
+    no: 1,
+    topik: "Kewangan Peribadi",
+    tajuk: "Florence Owens Thompson ('Migrant Mother') & Bot Penyelamat Kekayaan",
+    tags: ["gaji", "krisis", "anak", "wanita"],
+    persona: "NIPOMO, CALIFORNIA, AS (1936) · ANALOGI KAPAL TITANIC & LIFE BOAT KELUARGA",
+    hook: "GAMBAR WANITA TERMENUNG PADA TAHUN 1936 INI PERNAH MERUNTUN HATI JUTAAN MANUSIA... TAPI KENAPA BELIAU TERPAKSA MENJUAL TAYAR KERETANYA SENDIRI?",
+    teks: `Gambar ibu tujuh anak di California pada tahun 1936 ni pernah mengejutkan seluruh dunia!
+
+Sekali pandang, nampak macam potret keluarga biasa.
+
+Tapi hakikat di sebaliknya jauh lebih perit.
+
+Wanita ini ialah Florence Owens Thompson.
+
+Ketika Kemelesetan Besar melanda Amerika, ladang tempat kerjanya musnah dan bank-bank runtuh sekelip mata.
+
+Demi menyuap anak-anaknya yang kelaparan, beliau terpaksa mencabut dan menjual tayar keretanya sendiri untuk membeli makanan!
+
+Ramai antara kita hari ni rasa hidup dah cukup selesa sebab ada kerja tetap dan nombor gaji masuk setiap bulan.
+
+Tapi kita lupa, krisis ekonomi tak pernah bagi surat amaran sebelum datang menghempas keluarga kita.
+
+Sebab tu pesan guru saya, Tn Mohd Zulkifli Shafie, orang yang tiada simpanan emas ibarat penumpang kapal Titanic yang gah tetapi tiada bot penyelamat.
+
+Bila bahtera kewangan bocor, kertas di bank boleh susut, tapi emas kekal menyelamatkan nyawa keluarga.
+
+Cuba komen jujur, kalau diuji krisis esok, berapa bulan keluarga anda mampu bertahan?
+
+Sediakan payung sebelum hujan dengan membina benteng simpanan emas Fizikal!`
+  },
+  {
+    id: 1271,
+    siri: "Kisah-01",
+    no: 2,
+    topik: "Keluarga",
+    tajuk: "Kanak-Kanak Jerman Bermain Blok Wang Kertas & Hakikat Kertas Vs Emas",
+    tags: ["inflasi", "perang"],
+    persona: "REPUBLIK WEIMAR, JERMAN (1923) · DUIT JATUH JADI KERTAS, EMAS JATUH TETAP EMAS",
+    hook: "GAMBAR KANAK-KANAK MENYUSUN BATA DI TEPI JALAN PADA TAHUN 1923 INI NAMPAK SEPERTI PERMAINAN BIASA... TAPI TAHUKAH ANDA ITU SEBENARNYA BERJUTA-JUTA WANG KERTAS?",
+    teks: `Gambar kanak-kanak di Jerman pada tahun 1923 ini nampak macam mereka sedang bermain blok kayu biasa.
+
+Tetapi hakikat sebenar di sebalik foto ini cukup menakutkan!
+
+Bongkah yang disusun di atas jalan itu sebenarnya adalah ikatan ratusan ribu wang kertas Mark Jerman yang sah!
+
+Akibat kerajaan Jerman mencetak wang tanpa had selepas perang, nilai mata wang mereka jatuh merudum sehingga satu dolar Amerika bersamaan trilion Mark.
+
+Duit kertas menjadi begitu murah sehingga ibu bapa membiarkan anak-anak menjadikannya mainan kerana ia lebih murah daripada membeli kayu api!
+
+Hari ini, ramai orang masih takut nak simpan emas sebab bimbang harga emas turun naik.
+
+Sedangkan kita tak takut pula simpan duit kertas yang saban tahun pasti dimakan inflasi.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, duit apabila nilainya jatuh, ia hanyalah sekeping kertas.
+
+Tetapi emas, apabila harganya jatuh sekalipun, orang tetap berebut membelinya kerana ia kekal seketul emas.
+
+Cuba semak tabungan anda di komen, anda sedang kumpul kertas atau kumpul aset?
+
+Selamatkan titik peluh kita dengan menukar sebahagian simpanan kepada logam yang sentiasa Bernilai!`
+  },
+  {
+    id: 1272,
+    siri: "Kisah-01",
+    no: 3,
+    topik: "Kenapa Emas",
+    tajuk: "Pengumuman 'Nixon Shock' 15 Ogos 1971 & Rahsia Wang Kertas Tanpa Sandaran",
+    tags: ["inflasi", "gaji", "1971", "ringgit", "sejarah"],
+    persona: "WASHINGTON, D.C., AMERIKA SYARIKAT (1971) · SEJARAH 15 OGOS 1971 & SAVERS ARE LOSERS",
+    hook: "GAMBAR PRESIDEN AMERIKA DI KACA TELEVISYEN PADA MALAM 15 OGOS 1971 INI NAMPAK TENANG... TAPI KENAPA UCAPAN 20 MINIT ITU MENGUBAH NASIB POKET KITA HARI INI?",
+    teks: `Gambar Presiden Richard Nixon berucap di televisyen pada malam 15 Ogos 1971 ini nampak seperti siaran berita biasa.
+
+Tetapi malam itulah bermulanya perubahan kewangan terbesar dalam sejarah manusia moden!
+
+Sebelum tarikh itu, setiap 35 dolar Amerika wajib disandarkan kepada satu auns emas fizikal di bawah perjanjian Bretton Woods.
+
+Namun pada malam tersebut, Nixon membatalkan sandaran emas secara mengejut!
+
+Sejak saat itu, wang kertas di seluruh dunia bertukar menjadi wang fiat, iaitu kertas yang boleh dicetak tanpa had oleh kerajaan.
+
+Kesannya? Harga barang naik tanpa henti dan kuasa beli gaji kita makin mengecil setiap tahun!
+
+Sebab itu pesan guru saya, Tn Mohd Zulkifli Shafie, menyimpan kekayaan berlebihan dalam bentuk wang kertas semata-mata adalah satu perangkap.
+
+Nombor dalam akaun bank kita nampak selamat, tetapi nilainya sedang dicuri secara senyap setiap hari.
+
+Orang biasa sibuk mengumpul nombor ringgit, manakala orang berilmu fokus mengumpul gram emas.
+
+Cuba kongsi di komen, barang apa yang paling terasa naik harga sejak lima tahun lepas?
+
+Lindungi kuasa beli keluarga anda hari ini dengan aset fizikal yang kalis Inflasi!`
+  },
+  {
+    id: 1273,
+    siri: "Kisah-01",
+    no: 4,
+    topik: "Zakat & Syariah",
+    tajuk: "Syiling Dinar Emas Tertua 697 Masihi & Kuasa Beli Seekor Kambing",
+    tags: ["dinar"],
+    persona: "MUZIUM BRITISH, LONDON & DAMSYIK (697 MASIHI) · TEORI 1 DINAR 1 EKOR KAMBING MERENTAS 1,400 TAHUN",
+    hook: "GAMBAR SYILING KECIL DI MUZIUM BRITISH INI SUDAH BERUSIA LEBIH 1,300 TAHUN... TAPI KENAPA BERAT 4.25 GRAM ITU MASIH MAMPU MEMBELI BARANG YANG SAMA HARI INI?",
+    teks: `Gambar syiling emas kecil yang tersimpan di Muzium British, London ini sudah berusia lebih seribu tiga ratus tahun!
+
+Sekali pandang, ia nampak macam duit syiling lama yang hanya bernilai sebagai barang antik.
+
+Tetapi syiling Dinar Umayyah tempaan Khalifah Abd al-Malik pada tahun 697 Masihi ini menyimpan satu rahsia ekonomi yang luar biasa!
+
+Berat syiling ini ialah tepat 4.25 gram emas tulen.
+
+Pada zaman Rasulullah SAW seribu empat ratus tahun dahulu, sekeping syiling 1 Dinar seberat 4.25 gram ini mampu membeli seekor kambing yang elok.
+
+Kagumnya, pada tahun 2026 hari ini, 1 Dinar emas seberat 4.25 gram masih mampu membeli seekor kambing yang sama!
+
+Manakala duit kertas RM50 yang boleh beli kambing pada tahun 1980-an, hari ini nak beli sekilo daging kambing pun hampir tak lepas!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, sebenarnya bukan harga emas yang makin mahal, tetapi nilai duit kertas kita yang makin jatuh.
+
+Penyimpan emas bukan automatik jadi kaya mendadak, tetapi harta mereka tidak pernah miskin.
+
+Komen sikit, anda dah ada sekeping 1 Dinar pertama dalam tangan atau belum?
+
+Mulakan tabungan dinar hari ini supaya nilai titik peluh anda kekal Bertahan!`
+  },
+  {
+    id: 1274,
+    siri: "Kisah-01",
+    no: 5,
+    topik: "Keluarga",
+    tajuk: "Barisan Panik Bank Northern Rock 2007 & Pengalaman 2 Tahun Akaun Beku",
+    tags: ["krisis", "isteri"],
+    persona: "LONDON & KINGSTON, UNITED KINGDOM (2007) · ASET LUAR SISTEM KEWANGAN & KALIS PEMBEKUAN AKAUN",
+    hook: "GAMBAR RIBUAN PENDUDUK BRITAIN BERATUR DI TEPI JALAN SEAWAL SUBUH TAHUN 2007 INI NAMPAK SEPERTI JUALAN MURAH... TAPI KENAPA WAJAH MEREKA PENUH KETAKUTAN?",
+    teks: `Gambar ribuan orang beratur panjang di luar bangunan di Britain pada 14 September 2007 ini bukan sebab nak beli tiket konsert!
+
+Wajah mereka pucat kerana itu adalah hari berlakunya krisis pengeluaran panik di bank Northern Rock.
+
+Apabila sistem perbankan menghadapi masalah kecairan dan laman web bank gagal diakses, pendeposit beratur berjam-jam kerana takut wang simpanan seumur hidup mereka tidak boleh dikeluarkan!
+
+Ramai menyangka duit di dalam sistem bank adalah seratus peratus milik mutlak kita pada bila-bila masa.
+
+Hakikatnya, apabila berlaku krisis atau sekatan undang-undang, akses kita boleh terputus sekelip mata.
+
+Saya selalu pegang pesanan mentor saya, Tn Mohd Zulkifli Shafie, melalui kisah benar beliau sendiri apabila ditahan selama dua tahun dan semua akaun banknya dibekukan.
+
+Sepanjang dua tahun itu, isteri dan lapan anaknya dapat meneruskan hidup dengan tenang hasil mencairkan simpanan emas fizikal yang dikumpul sejak 2010!
+
+Emas fizikal berada di luar sistem perbankan dan tidak boleh dibekukan oleh sesiapa.
+
+Cuba tanya diri di ruangan komen, adakah semua harta anda hari ini berada di dalam satu bakul sahaja?
+
+Asingkan sebahagian kekayaan anda kepada emas fizikal yang berada di tangan Sendiri!`
+  },
+  {
+    id: 1275,
+    siri: "Kisah-01",
+    no: 6,
+    topik: "Kenapa Emas",
+    tajuk: "Kereta Sorong Wang Kertas Zimbabwe 2008 & Analogi Token Mesin Dobi",
+    tags: ["inflasi"],
+    persona: "HARARE, ZIMBABWE (2008) · ANALOGI TOKEN MESIN DOBI LAYAN DIRI",
+    hook: "GAMBAR LELAKI MENOLAK KERETA SORONG PENUH WANG KERTAS PADA TAHUN 2008 INI NAMPAK SEPERTI ORANG KAYA RAYA... TAPI KENAPA DUIT ITU HANYA CUKUP BELI SEBUKU ROTI?",
+    teks: `Gambar lelaki di Zimbabwe menolak kereta sorong penuh wang kertas pada tahun 2008 ini nampak macam seorang jutawan yang baru menang loteri!
+
+Tetapi hakikat di sebaliknya amat menyedihkan.
+
+Seluruh timbunan wang kertas berjuta-juta dolar di dalam kereta sorong itu hanya cukup untuk membeli sebuku roti di kedai runcit!
+
+Pada November 2008, inflasi di Zimbabwe memuncak sehingga kerajaan terpaksa mencetak sekeping wang kertas bernilai seratus trilion dolar sebelum mata wang itu akhirnya diharamkan dan tidak laku lagi.
+
+Kenapa kertas yang ada cop rasmi boleh hilang nilai sekelip mata?
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, wang kertas fungsinya sebiji macam token mesin dobi layan diri!
+
+Token dobi hanya laku selagi kedai dobi itu buka dan pemiliknya mengiktiraf token tersebut.
+
+Bila kedai dobi tutup atau kita bawa token itu ke kedai makan sebelah, ia hanyalah kepingan besi yang tiada nilai.
+
+Begitulah wang kertas yang bergantung sepenuhnya pada jaminan kerajaan, berbeza dengan emas yang berdiri sendiri atas berat dan ketulenannya.
+
+Cuba komen, kalau duit kertas hilang jaminan, apa aset yang masih laku?
+
+Simpanlah emas fizikal kerana nilainya diiktiraf di seluruh Dunia!`
+  },
+  {
+    id: 1276,
+    siri: "Kisah-01",
+    no: 7,
+    topik: "Strategi Emas",
+    tajuk: "Ronald Read, Tukang Cuci Berharta USD 8 Juta & Strategi Kura-Kura",
+    tags: ["gap", "auto-debit"],
+    persona: "BRATTLEBORO, VERMONT, AS (2014) · ANALOGI KURA-KURA VS ARNAB & GAP AUTO-DEBIT",
+    hook: "GAMBAR WARGA EMAS MEMAKAI JAKET LUSUH DISEPIT PIN BAJU INI NAMPAK SEPERTI ORANG MISKIN... TAPI KENAPA BELIAU MENINGGALKAN WASIAT RM35 JUTA?",
+    teks: `Gambar lelaki tua memakai topi lusuh dan jaket flanel yang koyak disepit dengan pin baju ini dirakam di Vermont, Amerika Syarikat.
+
+Semua jiran menyangka Ronald Read hanyalah seorang tukang cuci dan pekerja stesen minyak yang miskin.
+
+Tetapi apabila beliau meninggal dunia pada usia 92 tahun pada tahun 2014, seluruh dunia terkejut besar!
+
+Tukang cuci ini rupa-rupanya meninggalkan kekayaan bernilai 8 juta dolar Amerika, iaitu lebih RM35 juta, yang didermakan kepada hospital dan perpustakaan awam!
+
+Bagaimana orang bergaji kecil boleh mengumpul harta sebanyak itu?
+
+Rahsianya bukan sebab dia pandai meneka pasaran, tetapi kerana dia menyimpan sedikit demi sedikit secara berdisiplin selama puluhan tahun tanpa gagal.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, dalam membina kekayaan, jadilah seperti kura-kura yang menabung secara konsisten melalui GAP Auto-Debit, bukan seperti arnab yang sibuk menilik graf harga setiap hari.
+
+Amalkan konsep simpanan paksa dan lupa serendah RM100 sebulan.
+
+Bila harga naik kita ada emas, bila harga turun kita dapat lebih banyak gram secara automatik.
+
+Komen dekat bawah, anda jenis suka tilik graf atau suka menabung tetap setiap bulan?
+
+Kunci kejayaan penyimpan emas bukanlah modal besar, tetapi tabiat yang Konsisten!`
+  },
+  {
+    id: 1277,
+    siri: "Kisah-01",
+    no: 8,
+    topik: "Kewangan Peribadi",
+    tajuk: "Pelayaran RMS Titanic Dengan 20 Bot Penyelamat & Sasaran 1 Kilogram Emas",
+    tags: ["gaji", "rumah", "ringgit"],
+    persona: "SOUTHAMPTON, UK & LAUTAN ATLANTIK (1912) · SASARAN 1 KILOGRAM EMAS 1 KELUARGA SEBAGAI LIFE BOAT",
+    hook: "GAMBAR KAPAL MEWAH TITANIC BERLEPAS PADA 10 APRIL 1912 INI MELAMBANGKAN PUNCAK KEMEWAHAN DUNIA... TAPI KENAPA LEBIH SEPARUH PENUMPANGNYA TIADA BOT PENYELAMAT?",
+    teks: `Gambar kapal RMS Titanic berlepas dari pelabuhan Southampton pada 10 April 1912 ini menjadi simbol kemewahan paling agung pada zamannya.
+
+Namun di sebalik kehebatan kapal itu, tersimpan satu kesilapan kejuruteraan yang meragut lebih seribu lima ratus nyawa!
+
+Walaupun Titanic mampu membawa sehingga 48 buah bot penyelamat, pihak pengurusan hanya memasang 20 buah bot sahaja supaya dek kapal nampak luas dan cantik.
+
+Mereka terlalu yakin kapal gergasi itu tidak mungkin karam, sehinggalah ia melanggar aisberg pada malam 14 April 1912!
+
+Situasi ini sama persis dengan kehidupan ramai orang berpendapatan tinggi hari ini.
+
+Rumah besar, kereta mewah, dan gaji puluhan ribu ringgit, tetapi tiada walau segram pun emas fizikal di tangan.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, sebesar mana pun kapal kekayaan kita, kita tetap wajib menyediakan bot penyelamat yang mencukupi.
+
+Sasarkan sekurang-kurangnya 10 hingga 15 peratus kekayaan bersih, atau impian 1 kilogram emas untuk 1 keluarga sebagai insurans kekayaan mutlak.
+
+Mulakan langkah pertama dengan sasaran 100 gram dahulu secara berperingkat.
+
+Cuba komen, berapa gram sasaran emas yang anda nak capai tahun ini?
+
+Bina bot penyelamat anda sekarang ketika langit masih cerah demi masa depan Keluarga!`
+  },
+  {
+    id: 1278,
+    siri: "Kisah-01",
+    no: 9,
+    topik: "Kenapa Emas",
+    tajuk: "Tragedi 'Bah Kuning' Kelantan 2014 & Emas Bengkok Laku Di Sempadan",
+    tags: ["ringgit", "kecemasan", "patah"],
+    persona: "KUALA KRAI & RANTAU PANJANG, KELANTAN (2014) · KISAH BANJIR KELANTAN 2014 & KUASA EMAS WAKTU DARURAT",
+    hook: "GAMBAR BANDAR KUALA KRAI TENGGELAM DALAM LUMPUR KUNING PADA DISEMBER 2014 INI MASIH SEGAR DALAM INGATAN... TAPI APA YANG TERJADI APABILA SEMUA MESIN ATM MATI?",
+    teks: `Gambar banjir lumpur besar atau Bah Kuning yang menenggelamkan Kelantan pada Disember 2014 ini pernah menggemparkan seluruh Malaysia.
+
+Air sungai naik mendadak sehingga 15 meter, bekalan elektrik terputus, dan jalan perhubungan lumpuh sepenuhnya!
+
+Tetapi ada satu pengajaran kewangan yang jarang diceritakan di sebalik bencana tersebut.
+
+Apabila elektrik dan talian internet terputus, semua mesin ATM dan transaksi perbankan dalam talian mati serta-merta!
+
+Orang yang ada ratusan ribu ringgit di dalam akaun bank sekalipun tidak dapat mengeluarkan walau seringgit untuk membeli beras.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, yang sendiri berbasikal 30 kilometer meredah banjir ketika itu, di sempadan Rantau Panjang berlaku satu peristiwa yang membuka mata.
+
+Apabila mangsa banjir menyeberang ke Thailand untuk membeli makanan, peniaga di sana enggan menerima wang kertas Ringgit yang sedang jatuh.
+
+Sebaliknya, mereka menerima bayaran menggunakan emas fizikal, walaupun rantai atau gelang emas itu sudah bengkok dan patah!
+
+Waktu darurat, kertas boleh ditolak, tetapi emas tetap menjadi raja.
+
+Cuba komen, pernah tak anda alami situasi panik bila sistem bank tiba-tiba offline?
+
+Simpanlah emas fizikal sebagai dana kecemasan kerana di mana-mana ceruk dunia ia tetap Laku!`
+  },
+  {
+    id: 1279,
+    siri: "Kisah-01",
+    no: 10,
+    topik: "Kenapa Emas",
+    tajuk: "Berguni-Guni 'Duit Pokok Pisang' 1945 & Kancing Baju Emas Pound",
+    tags: ["ringgit", "sejarah"],
+    persona: "TANAH MELAYU / MALAYSIA (1942–1945) · KISAH DUA KALI MISKIN & KETAHANAN EMAS MERENTAS ZAMAN",
+    hook: "GAMBAR WANG KERTAS BERGAMBAR POKOK PISANG TAHUN 1945 INI DULUNYA REBUTAN SAUDAGAR KAYA... TAPI KENAPA BERGUNI-GUNI DUIT INI AKHIRNYA DIBUANG DI TEPI JALAN?",
+    teks: `Gambar wang kertas sepuluh ringgit bergambar pokok pisang dari tahun 1945 ini menyimpan satu sejarah pahit datuk nenek kita di Tanah Melayu.
+
+Ketika tentera Jepun memerintah dari tahun 1942 hingga 1945, wang kertas inilah satu-satunya mata wang rasmi yang wajib digunakan.
+
+Namun sebaik sahaja Jepun menyerah kalah pada Ogos 1945, pihak British mengisytiharkan semua duit pokok pisang ini tidak bernilai walau satu sen pun!
+
+Ramai saudagar kaya yang menyimpan berguni-guni duit kertas itu jatuh miskin sekelip mata dalam masa satu malam.
+
+Guru saya, Tn Mohd Zulkifli Shafie, pernah berkongsi kisah benar seorang saudagar di Sungai Kelantan yang memulakan perniagaan balak dan budu menggunakan sekeping emas Pound Amerika yang dijadikan kancing baju ibunya.
+
+Apabila beliau menyimpan keuntungannya dalam berguni-guni duit pokok pisang, semuanya bertukar menjadi sampah yang hanya layak dibuang di pangkal pokok pisang!
+
+Tetapi kepingan syiling emas Pound yang disimpan oleh orang kampung tetap bernilai tinggi merentas dua zaman penjajahan.
+
+Kerajaan dan mata wang kertas boleh berganti, tetapi nilai emas tidak pernah mati.
+
+Cuba komen, pernah dengar cerita datuk atau nenek anda tentang duit pokok pisang ni?
+
+Pastikan sebahagian harta keluarga kita disimpan dalam bentuk emas Tulen!`
+  },
+  {
+    id: 1280,
+    siri: "Kisah-01",
+    no: 11,
+    topik: "Kewangan Peribadi",
+    tajuk: "Oseola McCarty, Pencuci Pakaian Derma USD 150,000 & Ubat Tangan Gatal",
+    tags: ["gaji", "ringgit"],
+    persona: "HATTIESBURG, MISSISSIPPI, AS (1995) · GOLONGAN PERTAMA MANFAAT EMAS: UBAT PENYAKIT 'TANGAN GATAL'",
+    hook: "GAMBAR NENEK BERUSIA 87 TAHUN DENGAN JARI BENGKOK AKIBAT SABUN BASUHAN INI MERUNTUN HATI DUNIA... TAPI BAGAIMANA BELIAU MAMPU MENDERMA RM650,000 KEPADA UNIVERSITI?",
+    teks: `Gambar warga emas berusia 87 tahun dengan jari-jemari yang kaku dan berkedut di Mississippi pada tahun 1995 ini pernah mengejutkan Amerika!
+
+Nama beliau ialah Oseola McCarty.
+
+Sejak berhenti sekolah darjah enam, beliau hanya mengambil upah mencuci dan menggosok pakaian orang kampung dengan tangan selama 75 tahun!
+
+Walaupun upahnya cuma beberapa dolar sehari, beliau mengasingkan duit simpanan sebelum berbelanja sehingga berjaya menderma 150,000 dolar, iaitu lebih RM650,000, sebagai dana biasiswa universiti!
+
+Bandingkan dengan kita hari ini yang bergaji ribuan ringgit setiap bulan, tetapi hujung tahun akaun bank masih kosong.
+
+Kenapa duit gaji kita susah sangat nak lekat?
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, masalah utama ramai orang bekerja bukanlah gaji kecil, tetapi penyakit tangan gatal yang pantang nampak nombor duit dalam akaun bank!
+
+Ubat paling mujarab untuk merawat nafsu boros ialah dengan menukarkan duit simpanan kepada emas fizikal.
+
+Fitrah manusia, bila duit dah bertukar jadi gram emas, hati kita secara automatik rasa sayang nak jual untuk benda remeh.
+
+Cuba komen jujur, anda pun ada masalah tangan gatal bila tengok baki bank ke?
+
+Bekukan nafsu berbelanja anda hari ini supaya duit titik peluh kekal Selamat!`
+  },
+  {
+    id: 1281,
+    siri: "Kisah-01",
+    no: 12,
+    topik: "Kenapa Emas",
+    tajuk: "Kejatuhan Mata Wang Krisis Kewangan Asia 1997 & Had Simpanan Tunai",
+    tags: ["susut nilai", "inflasi", "gaji", "asb", "tabung haji", "haji", "krisis", "ringgit"],
+    persona: "KUALA LUMPUR & ASIA TENGGARA (1997) · GOLONGAN KEDUA: HADKAN TUNAI 3 BULAN GAJI, SELEBIHNYA EMAS",
+    hook: "GAMBAR PAPAN TUKARAN WANG ASING PADA JULAI 1997 INI PERNAH MEMBUATKAN JUTAAN PENYIMPAN TERKEDU... TAPI APA YANG TERJADI KEPADA TABUNGAN TUNAI MEREKA?",
+    teks: `Gambar papan elektronik tukaran mata wang pada Julai 1997 ini menjadi mimpi ngeri buat jutaan rakyat Asia Tenggara!
+
+Dalam tempoh beberapa bulan sahaja semasa Krisis Kewangan Asia 1997, nilai mata wang serantau termasuk Ringgit Malaysia jatuh menjunam hampir 50 peratus!
+
+Bayangkan orang yang rajin menabung tunai puluhan tahun di dalam bank.
+
+Nombor simpanan mereka di dalam buku akaun langsung tidak berkurang walau satu sen, tetapi kuasa beli mereka hilang separuh apabila nilai mata wang menyusut mendadak!
+
+Hari ini, ramai penyimpan yang berdisiplin rasa cukup selesa apabila melihat angka dividen tahunan bertambah.
+
+Kita terlupa bahawa kadar inflasi dan kejatuhan nilai mata wang boleh memakan semula dividen tersebut secara senyap.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, simpanan tunai di dalam instrumen seperti ASB atau Tabung Haji tetap penting, tetapi hadkan sekitar tiga bulan gaji sahaja sebagai dana kecemasan cair.
+
+Selebihnya, untuk simpanan jangka panjang dua tahun ke atas, alihkan kepada emas fizikal!
+
+Pakar kewangan Tuan Azizi Ali sendiri berpesan, dulu pilih ubi sekarang pilih beras, dulu pilih tunai sekarang pilihlah emas.
+
+Cuba komen, dana kecemasan tiga bulan gaji anda dah cukup atau belum?
+
+Lindungi tabungan jangka panjang anda daripada susut nilai dengan menyimpannya dalam bentuk Emas!`
+  },
+  {
+    id: 1282,
+    siri: "Kisah-01",
+    no: 13,
+    topik: "Kenapa Emas",
+    tajuk: "Rekod Inflasi Harga Makanan Malaysia & Analogi Karipap Mak Cik Bedah",
+    tags: ["inflasi"],
+    persona: "MALAYSIA (1980–2026) · ANALOGI KARIPAP MAK CIK BEDAH & DUIT BELANJA 50 SEN ERA 80-AN",
+    hook: "DATA INDEKS HARGA PENGGUNA INI MEMBUKTIKAN KUASA BELI DUIT KITA SEMAKIN MENGECIL... TAPI KENAPA KITA MASIH RAGU-RAGU HARGA EMAS AKAN NAIK?",
+    teks: `Cuba tengok rekod rasmi Indeks Harga Pengguna Jabatan Perangkaan Malaysia tentang kenaikan harga makanan sejak empat dekad lalu!
+
+Pada tahun 1980-an, duit belanja sekolah sebanyak 50 sen sudah cukup untuk membeli semangkuk mi sup yang mengenyangkan di kantin.
+
+Hari ini, kalau kita bawa duit syiling 50 sen yang sama ke gerai tepi jalan, nak beli sebiji karipap pun belum tentu lepas!
+
+Bukan saiz perut kita yang berubah, tetapi kuasa beli wang kertas itu yang telah mengecil dimakan inflasi saban tahun.
+
+Peliknya, masih ramai orang bertanya kepada saya, betul ke harga emas akan naik pada masa depan?
+
+Mereka takut beli emas hari ini sebab bimbang harga emas jatuh esok.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, tak payah pening kepala meramal graf ekonomi dunia yang rumit!
+
+Kalau harga karipap Mak Cik Bedah di tepi jalan pun kita yakin seratus peratus akan naik lima atau sepuluh tahun lagi, apatah lagi aset fizikal yang terhad seperti emas!
+
+Dalam jangka panjang, nilai wang kertas pasti susut dan harga emas pasti meningkat.
+
+Cuba komen dekat bawah, berapa harga sebiji karipap di tempat anda sekarang?
+
+Jangan tunggu lagi, mulakan simpanan emas hari ini kerana harga jangka panjangnya pasti Naik!`
+  },
+  {
+    id: 1283,
+    siri: "Kisah-01",
+    no: 14,
+    topik: "Kenapa Emas",
+    tajuk: "Puluhan Ribu Pelombong Serra Pelada 1986 & Aset Kalis Nilai Sifar",
+    tags: ["saham", "sejarah"],
+    persona: "SERRA PELADA, PARA, BRAZIL (1986) · EMAS TIDAK BOLEH DICIPTA DARI TIADA & KALIS NILAI SIFAR",
+    hook: "GAMBAR PULUHAN RIBU MANUSIA MEMIKUL GUNI TANAH DI LOMBONG BRAZIL TAHUN 1986 INI NAMPAK SEPERTI SARANG SEMUT... TAPI KENAPA EMAS BEGITU SUKAR DIPEROLEH?",
+    teks: `Gambar ikonik jurugambar Sebastiao Salgado pada tahun 1986 di lombong Serra Pelada, Brazil ini nampak seperti lukisan zaman purba!
+
+Tetapi itu adalah gambar sebenar lebih 50,000 pelombong yang memikul guni tanah berlumpur menaiki tangga kayu curam yang digelar Tangga Selamat Tinggal.
+
+Mereka menggali kawah sedalam ratusan kaki dengan tulang empat kerat semata-mata untuk mencari sebutir emas tulen di perut bumi!
+
+Gambar ini membuktikan satu hakikat sains dan ekonomi yang tidak boleh dinafikan.
+
+Emas tidak boleh dicetak di atas meja pejabat atau dicipta dengan menekan papan kekunci komputer seperti wang kertas!
+
+Untuk mendapatkan walau satu auns emas, manusia terpaksa memindahkan bertan-tan batu dan tanah.
+
+Sebab itu pesan guru saya, Tn Mohd Zulkifli Shafie, emas adalah satu-satunya aset kewangan yang mempunyai nilai intrinsik yang melekat pada dirinya sendiri.
+
+Ia tidak boleh dicipta daripada tiada, tidak boleh dibinasakan, dan sepanjang sejarah ribuan tahun peradaban manusia, nilai emas tidak pernah jatuh menjadi kosong.
+
+Saham syarikat boleh muflis dan mata wang kertas boleh tamat tempoh.
+
+Cuba komen, antara kertas di bank dengan emas di tangan, mana satu lebih buat anda rasa tenang?
+
+Peganglah emas fizikal kerana sepanjang sejarah manusia, nilainya kalis Sifar!`
+  },
+  {
+    id: 1284,
+    siri: "Kisah-01",
+    no: 15,
+    topik: "Public Gold & GAP",
+    tajuk: "Bilik Kebal Jongkong 400 Oz Bank of England & Menara Public Gold TRX",
+    tags: ["gap", "999"],
+    persona: "LONDON, UK & KUALA LUMPUR, MALAYSIA (1750–2026) · MENARA PG @ TRX & JONGKONG 12.5KG LBMA",
+    hook: "GAMBAR SUSUNAN JONGKONG EMAS GERGASI DI BILIK KEBAL LONDON INI BERNILAI RATUSAN BILION RINGGIT... TAPI KENAPA BANK PUSAT DUNIA TIDAK SIMPAN DUIT KERTAS SAHAJA?",
+    teks: `Gambar ribuan jongkong emas berkilau di dalam bilik kebal bawah tanah Bank of England di London ini menyimpan satu rahsia besar!
+
+Setiap ketul jongkong emas standard antarabangsa LBMA Good Delivery itu mempunyai berat sekitar 400 auns troy, bersamaan 12.5 kilogram emas tulen!
+
+Pernah tak kita terfikir, bank pusat adalah pihak yang mempunyai kuasa mencetak wang kertas sendiri.
+
+Tetapi kenapa bank-bank pusat kuasa besar dunia masih berebut-rebut menyimpan ribuan tan jongkong emas fizikal di dalam bilik kebal mereka?
+
+Kerana mereka tahu, emas fizikal adalah pelindung kekayaan mutlak apabila sistem mata wang dunia bergoncang!
+
+Di Malaysia sendiri, kalau anda melawat Menara Public Gold di pusat kewangan TRX Kuala Lumpur, anda boleh melihat dan menyentuh sendiri jongkong emas gergasi seberat 12.5 kilogram berstandard LBMA ini.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kita tak perlu tunggu jadi jutawan untuk mula menyimpan emas berstandard dunia.
+
+Melalui Akaun Emas GAP Public Gold, masyarakat biasa boleh mula mengumpul emas fizikal 999.9 yang sama kualitinya serendah RM100 sahaja!
+
+Dan paling penting, beli emas mesti boleh dapat emas fizikal.
+
+Cuba komen, anda pernah teringin nak pegang jongkong emas 12.5 kilogram ni tak?
+
+Mulakan gram pertama anda hari ini sehingga emas fizikal itu berada di Tangan!`
+  },
+  {
+    id: 1285,
+    siri: "Kisah-01",
+    no: 16,
+    topik: "Zakat & Syariah",
+    tajuk: "Kebun Epal Warisan Tiga Generasi & Analogi Pokok Durian Vs Sayur",
+    tags: ["dealer", "bisnes", "anak", "durian"],
+    persona: "HOOD RIVER, OREGON, AS & JEPUN (1911–KINI) · ANALOGI TANAM POKOK DURIAN VS TANAM SAYUR & WARISAN PGBO",
+    hook: "GAMBAR POKOK BUAH WARISAN YANG DITANAM OLEH DATUK MOYANG LEBIH 100 TAHUN LALU INI MASIH BERBUAH LEBAT... TAPI APA KAITANNYA DENGAN CARA KITA MEMBINA PENDAPATAN?",
+    teks: `Gambar kebun epal warisan keluarga Kiyokawa di Oregon yang diasaskan sejak tahun 1911 oleh imigran Jepun ini membuktikan satu falsafah rezeki yang luar biasa!
+
+Pokok yang ditanam dengan penuh kesabaran oleh datuk mereka lebih seratus tahun dahulu, hari ini masih mengeluarkan ribuan bakul buah yang menyara hidup anak dan cucu sehingga generasi ketiga!
+
+Ramai orang hari ini bila buat kerja atau bisnes, mahukan hasil segera dalam masa sebulan dua.
+
+Bila lambat nampak untung besar, mereka cepat putus asa dan melompat ke tempat lain.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, membina kekayaan dan perniagaan bersama Public Gold adalah umpama menanam pokok durian, bukannya menanam sayur!
+
+Tanam sayur memang cepat dituai dalam masa dua bulan, tetapi lepas cabut kita kena cangkul dan tanam semula dari kosong.
+
+Sebaliknya, menanam pokok durian menuntut kesabaran menjaga anak pokok selama lima tahun, namun apabila ia mula berbuah, hasilnya berterusan sehingga ke anak cucu!
+
+Malah dalam sistem Public Gold, pemilikan perniagaan dealer terbukti boleh diwarisi terus kepada keluarga jika kita tiada lagi.
+
+Cuba komen, anda lebih suka hasil cepat macam sayur atau hasil berkekalan macam pokok durian?
+
+Binalah tabungan dan empayar aset yang kukuh hari ini supaya manfaatnya dapat Diwarisi!`
+  },
+  {
+    id: 1286,
+    siri: "Kisah-01",
+    no: 17,
+    topik: "Zakat & Syariah",
+    tajuk: "Pelayaran Kapal Laut Jemaah Haji Pelabuhan Klang & Formula 60 Gram Emas",
+    tags: ["haji", "ringgit", "sejarah"],
+    persona: "PELABUHAN KLANG, SELANGOR (1970-AN) · FORMULA DANA HAJI: KOS HAJI TURUN 80% DINILAI DALAM EMAS",
+    hook: "GAMBAR JEMAAH HAJI MELAMBAI DARI ATAS KAPAL LAUT DI PELABUHAN KLANG INI MENYIMPAN SEJARAH BESAR... TAPI TAHUKAH ANDA KOS HAJI SEBENARNYA SEMAKIN MURAH?",
+    teks: `Gambar klasik ribuan ahli keluarga melambai jemaah haji yang menaiki kapal laut di Pelabuhan Klang sebelum era kapal terbang ini cukup menggamit kenangan.
+
+Ketika itu, datuk nenek kita menabung bertahun-tahun untuk mengumpul beberapa ribu ringgit bagi menunaikan rukun Islam kelima.
+
+Hari ini, ramai mengeluh kerana kos tambang dan penginapan haji dalam nilai Ringgit meningkat berkali-kali ganda!
+
+Tetapi tahukah anda, apabila dikira menggunakan timbangan gram emas, kos menunaikan ibadah haji sebenarnya semakin murah?
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, mari kita lihat fakta sejarah yang sebenar!
+
+Pada tahun 1998, kos haji muassasah ialah sekitar RM8,000, yang ketika itu bersamaan dengan 267 gram emas.
+
+Namun dua dekad kemudian, walaupun kos dalam Ringgit naik menghampiri RM10,000, kita hanya memerlukan sekitar 56 gram emas sahaja kerana nilai emas melonjak jauh lebih tinggi!
+
+Bermakna kos haji sebenar turun hampir 80 peratus apabila kita menyimpan dalam bentuk emas!
+
+Sasarkan simpanan 1 gram sebulan selama lima tahun untuk mencukupkan 60 gram dana haji anda.
+
+Cuba komen, berapa tahun lagi anggaran giliran haji anda atau ibu bapa anda?
+
+Mulakan tabungan 1 gram 1 bulan hari ini sebagai persiapan tenang menuju ke Mekah!`
+  },
+  {
+    id: 1287,
+    siri: "Kisah-01",
+    no: 18,
+    topik: "Keluarga",
+    tajuk: "Protes Topi Konvokesyen Hutang Pelajaran & Formula GAP Junior 216 Gram",
+    tags: ["gap", "inflasi", "hutang", "gaji", "ringgit", "anak", "tunai"],
+    persona: "COLORADO, AMERIKA SYARIKAT (2012) · FORMULA DANA PENDIDIKAN ANAK: BEBAS PINJAMAN PELAJARAN",
+    hook: "GAMBAR GRADUAN MENULIS ANGKA HUTANG PULUHAN RIBU DI ATAS TOPI KONVOKESYEN INI TULAR DI SELURUH DUNIA... TAPI BAGAIMANA NAK ELAK ANAK KITA TERPERANGKAP SAMA?",
+    teks: `Gambar para graduan universiti di Colorado mempamerkan jumlah hutang pinjaman pelajaran di atas topi konvokesyen mereka pada tahun 2012 ini membuka mata ramai ibu bapa!
+
+Sepatutnya hari graduasi menjadi hari paling gembira.
+
+Tetapi belum sempat mendapat gaji pertama, leher anak-anak muda ini sudah terjerut dengan beban hutang pendidikan puluhan ribu dolar!
+
+Di negara kita sendiri, kos pengajian universiti meningkat saban tahun akibat inflasi.
+
+Jika kita hanya menyimpan wang tunai RM30,000 hari ini, nilainya pasti tidak lagi mencukupi apabila anak kita melangkah ke menara gading 18 tahun akan datang!
+
+Sebab itu pesan guru saya, Tn Mohd Zulkifli Shafie, ibu bapa yang bijak membina dana pendidikan anak menggunakan timbangan gram emas, bukannya nombor ringgit.
+
+Bukakan Akaun Emas GAP Junior untuk anak seawal usia bayi.
+
+Disiplinkan diri menabung 1 gram emas setiap bulan, atau alihkan duit raya anak ke dalam akaun emas mereka.
+
+Apabila anak berusia 18 tahun, mereka sudah memiliki 216 gram emas yang kalis inflasi dan cukup untuk membiayai pengajian secara tunai!
+
+Cuba komen, anak anda sekarang dah umur berapa tahun?
+
+Hadiahkan tabungan emas untuk anak sejak kecil supaya mereka melangkah dewasa bebas Hutang!`
+  },
+  {
+    id: 1288,
+    siri: "Kisah-01",
+    no: 19,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Serbuan Skim Emas Genneva RM10 Bilion & Prinsip Beli Emas Dapat Emas",
+    tags: ["gap", "hutang", "scam", "skim", "syariah", "tunai"],
+    persona: "KUALA LUMPUR, MALAYSIA (2012) · PRINSIP DATO' WIRA LOUIS NG: BELI EMAS MESTI DAPAT EMAS (1 TO 1)",
+    hook: "BERITA SERBUAN SKIM PELABURAN EMAS MELIBATKAN TRANSAKSI RM10 BILION PADA TAHUN 2012 INI MENGGEMPARKAN NEGARA... TAPI KENAPA RIBUAN PELABUR TERPERANGKAP?",
+    teks: `Peristiwa serbuan bersepadu Bank Negara Malaysia dan pihak polis ke atas syarikat skim pelaburan emas Genneva pada Oktober 2012 ini pernah menggemparkan seluruh negara!
+
+Puluhan ribu pelabur terkesima apabila akaun dibekukan dan ramai pembeli gagal mendapat emas yang dijanjikan selama berbulan-bulan!
+
+Kenapa orang ramai mudah sangat terjerat dengan skim bertopengkan emas seperti ini?
+
+Kerana mereka dikaburi dengan janji manis hibah atau pulangan tunai bulanan tetap sebanyak dua hingga tiga peratus sebulan!
+
+Ketahuilah, emas fizikal tulen adalah aset simpanan nilai, bukannya mesin pencetak dividen bulanan.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, pegang kuat-kuat prinsip asas Pengasas Public Gold, Dato' Wira Louis Ng: beli emas mesti dapat emas fizikal! Titik.
+
+Pelaburan emas yang sah dan patuh syariah adalah urus niaga jual beli emas fizikal satu lawan satu tanpa sebarang hutang margin atau janji pulangan tetap.
+
+Sama ada anda beli secara terus atau menabung melalui Akaun GAP, pastikan emas fizikal itu boleh dikeluarkan bila-bila masa.
+
+Jangan kerana tamakkan pulangan bulanan, modal pokok kita pula lesap.
+
+Cuba komen, pernah tak anda ditawarkan skim emas yang janji bulan dan bintang?
+
+Elakkan diri daripada perangkap scam dengan memastikan emas fizikal sentiasa boleh dipegang di Tangan!`
+  },
+  {
+    id: 1289,
+    siri: "Kisah-01",
+    no: 20,
+    topik: "Bisnes & Dealer",
+    tajuk: "Walter Orthmann Bekerja 84 Tahun & 3 Posisi Penting Dalam Emas",
+    tags: ["gaji"],
+    persona: "SANTA CATARINA, BRAZIL (1938–2022) · 3 POSISI PENTING DALAM EMAS: PENYIMPAN, PELABUR & PENIAGA",
+    hook: "GAMBAR LELAKI BERUSIA 100 TAHUN DI BRAZIL YANG MEMEGANG REKOD BEKERJA 84 TAHUN INI MENGAGUMKAN DUNIA... TAPI APA NASIHAT KEWANGAN PALING MAHAL BELIAU?",
+    teks: `Gambar warga emas berusia 100 tahun di Brazil bernama Walter Orthmann ini tercatat secara rasmi di dalam Rekod Dunia Guinness pada tahun 2022!
+
+Beliau bekerja di syarikat tekstil yang sama selama 84 tahun tanpa henti sejak berusia 15 tahun pada tahun 1938.
+
+Sepanjang lapan dekad bekerja, mata wang negara Brazil telah bertukar nama dan mengalami kejatuhan nilai berkali-kali!
+
+Namun rahsia beliau kekal tenang sehingga usia satu abad adalah kerana beliau tahu membezakan antara gaji kerja dengan aset simpanan sebenar.
+
+Ramai orang apabila membeli emas hari ini, emosi mereka cepat goyang setiap kali melihat harga emas bergerak.
+
+Kenapa jadi begitu? Kerana mereka keliru tentang posisi diri sendiri!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, ada tiga posisi berbeza dalam dunia emas iaitu Penyimpan Emas, Pelabur Emas, dan Peniaga Emas.
+
+Bagi kebanyakan kita yang mahukan ketenangan jangka panjang, ambillah posisi sebagai Penyimpan Emas!
+
+Seorang Penyimpan Emas tidak pening memikirkan turun naik harga harian, sebaliknya fokus menambah berat kepingan emas setiap bulan untuk tempoh dua tahun ke atas.
+
+Cuba komen, posisi anda sekarang sebagai penyimpan, pelabur, atau peniaga emas?
+
+Tetapkan matlamat anda dengan jelas dan fokuslah menambah jumlah Gram!`
+  },
+  {
+    id: 1290,
+    siri: "Kisah-01",
+    no: 21,
+    topik: "Strategi Emas",
+    tajuk: "Sylvia Bloom, Setiausaha Mengumpul USD 9 Juta & Tukar Emas Jadi Hartanah",
+    tags: ["hutang", "gaji", "hartanah", "rumah", "wanita", "disiplin", "tunai"],
+    persona: "BROOKLYN, NEW YORK, AS (2018) · EMAS SEBAGAI ALAT CAPAI MATLAMAT: TUKAR KEPADA RUMAH SEWA & TANAH LOT",
+    hook: "GAMBAR SETIAUSAHA YANG MENAIKI KERETA API BAWAH TANAH SELAMA 67 TAHUN INI NAMPAK BIASA... TAPI BAGAIMANA BELIAU MENINGGALKAN HARTA RM40 JUTA SECARA SENYAP?",
+    teks: `Gambar wanita tua bernama Sylvia Bloom yang berulang-alik menaiki kereta api bawah tanah di New York selama 67 tahun ini mengejutkan rakan sepejabatnya pada tahun 2018!
+
+Beliau hanyalah seorang setiausaha biasa di sebuah firma guaman sehingga bersara pada usia 96 tahun.
+
+Tetapi setiap kali majikannya yang kaya membeli aset pelaburan, Sylvia turut membeli aset yang sama dalam jumlah kecil mengikut kemampuannya sehingga mengumpul kekayaan 9 juta dolar Amerika, iaitu hampir RM40 juta!
+
+Kisah ini membuktikan bahawa kekayaan sebenar dibina dengan menukar gaji bulanan kepada aset yang berkembang.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, emas bukanlah untuk disimpan di dalam almari sehingga akhir hayat semata-mata!
+
+Emas adalah jambatan untuk kita memiliki aset fizikal lain yang menjana aliran tunai.
+
+Sebagai contoh, sahabat penyimpan emas kami, Encik Bashir, berjaya mengumpul 531 gram emas secara konsisten dan mencairkannya menjadi modal tunai RM100,000 untuk membina dua buah rumah sewa tanpa hutang bank!
+
+Daripada simpanan emas, kini beliau menikmati pendapatan sewa setiap bulan.
+
+Cuba komen, apakah impian aset besar yang anda nak beli bila gram emas dah cukup nanti?
+
+Gunakan disiplin simpanan emas hari ini sebagai batu loncatan membina pendapatan Pasif!`
+  },
+  {
+    id: 1291,
+    siri: "Kisah-01",
+    no: 22,
+    topik: "Zakat & Syariah",
+    tajuk: "Wang Kertas Venezuela Dijadikan Beg Tangan & Kenangan 1 Dinar RM300",
+    tags: ["dinar", "ringgit"],
+    persona: "CARACAS, VENEZUELA & BOGOTA (2018–2019) · HARGA EMAS TAK PERNAH NAMPAK MURAH (KENANGAN 1 DINAR RM300 TAHUN 2006)",
+    hook: "GAMBAR PENIAGA MENJUAL BEG TANGAN DARIPADA LIPATAN WANG KERTAS TULEN PADA TAHUN 2018 INI BUKAN KRAF BIASA... TAPI KENAPA DUIT MEREKA LEBIH MURAH DARIPADA KERTAS TISU?",
+    teks: `Gambar peniaga di jalanan Venezuela mempamerkan beg tangan dan bakul yang dianyam menggunakan ratusan keping wang kertas Bolivar tulen pada tahun 2018 ini sungguh menyayat hati!
+
+Akibat hiperinflasi yang melampau, rakyat memerlukan 14 juta Bolivar hanya untuk membeli seekor ayam di pasar!
+
+Akhirnya wang kertas mereka menjadi begitu tidak bernilai sehingga lebih menguntungkan jika dilipat menjadi barang kraf tangan daripada disimpan di dalam dompet.
+
+Sementara nilai wang kertas di seluruh dunia terus merosot saban dekad, ramai orang kita masih memberi alasan: tunggu harga emas turun murah dululah baru saya nak mula beli!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, melalui pengalaman peribadi beliau sendiri pada tahun 2006, ketika itu harga sekeping 1 Dinar emas hanyalah RM300.
+
+Beliau tidak jadi membeli kerana merasakan RM300 untuk syiling sekecil 4.25 gram itu terlalu mahal!
+
+Empat tahun kemudian harganya naik ke RM500, dan hari ini harganya sudah melepasi ribuan ringgit!
+
+Hakikatnya, harga emas tidak pernah nampak murah pada mana-mana zaman sekalipun.
+
+Cuba komen, berapa harga emas satu gram waktu pertama kali anda kenal emas dulu?
+
+Berhenti menunggu harga murah yang tidak kunjung tiba, dan mulakan gram pertama anda Sekarang!`
+  },
+  {
+    id: 1292,
+    siri: "Kisah-01",
+    no: 23,
+    topik: "Kewangan Peribadi",
+    tajuk: "Hetty Green Menyelamatkan New York Panik 1907 & Formula 3 + 9 Bulan Gaji",
+    tags: ["inflasi", "hutang", "gaji", "asb", "tabung haji", "haji", "saham", "krisis"],
+    persona: "NEW YORK, AMERIKA SYARIKAT (1907) · FORMULA DANA KECEMASAN: 3 BULAN GAJI TUNAI + 9 BULAN GAJI EMAS",
+    hook: "GAMBAR WANITA BERPAKAIAN HITAM PADA TAHUN 1907 INI PERNAH DITERTAWAKAN OLEH PELABUR WALL STREET... TAPI KENAPA AKHIRNYA BANK DAN BANDAR NEW YORK MERAYU BANTUANNYA?",
+    teks: `Gambar wanita berpakaian hitam serba ringkas bernama Hetty Green ini pernah menjadi bahan ejekan para spekulator kaya di Wall Street pada awal abad ke-20.
+
+Ketika pelabur lain berlumba-lumba berhutang margin untuk berjudi di pasaran saham, Hetty Green berpegang teguh kepada prinsip menyimpan rizab kecemasan yang nyata dan bebas hutang.
+
+Ketawa mereka terhenti apabila tercetusnya Krisis Panik Kewangan pada Oktober 1907!
+
+Puluhan bank dan firma gergasi runtuh serentak, sehingga pentadbiran Bandar Raya New York sendiri terpaksa datang meminjam berjuta-juta dolar daripada Hetty Green untuk mengelakkan kebankrapan!
+
+Bagaimana kita nak membina struktur pertahanan kewangan keluarga yang sekuat itu?
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, susun dana kecemasan keluarga kita mengikut formula tiga tambah sembilan!
+
+Simpan tiga bulan gaji dalam bentuk tunai cair di bank, ASB, atau Tabung Haji untuk kegunaan kecemasan segera.
+
+Manakala baki sembilan bulan gaji lagi, simpanlah dalam bentuk emas fizikal sebagai benteng pertahanan jangka panjang yang kalis inflasi!
+
+Gabungan tunai cair dan emas fizikal menjadikan kita tenang menghadapi sebarang ribut ekonomi.
+
+Cuba komen, anda dah mula bina tabung sembilan bulan gaji dalam bentuk emas ke belum?
+
+Susun strategi simpanan anda hari ini supaya benteng kewangan keluarga berdiri Kukuh!`
+  },
+  {
+    id: 1293,
+    siri: "Kisah-01",
+    no: 24,
+    topik: "Kewangan Peribadi",
+    tajuk: "Chuck Feeney, Jutawan Berjam Plastik USD 10 & Budaya Kaya Tanpa Menunjuk",
+    tags: ["hutang", "palsu", "g100", "azizi ali"],
+    persona: "SAN FRANCISCO, AMERIKA SYARIKAT (2020) · BUDAYA G100 NETWORK & TUAN AZIZI ALI: KAYA SEBENAR TANPA KEMEWAHAN PALSU",
+    hook: "GAMBAR LELAKI TUA MEMAKAI JAM TANGAN PLASTIK RM45 DI DALAM KERETA API INI NAMPAK SEPERTI PESARA BIASA... TAPI TAHUKAH ANDA BELIAU TELAH MENDERMA RM35 BILION?",
+    teks: `Gambar lelaki tua memakai jam tangan plastik berharga 10 dolar dan membawa beg plastik sebagai beg kerja ini ialah Chuck Feeney, pengasas bersama rangkaian Duty Free Shoppers!
+
+Walaupun beliau menjana kekayaan lebih 8 bilion dolar Amerika, iaitu sekitar RM35 bilion, beliau tidak memiliki kereta mewah mahupun jet peribadi.
+
+Sebaliknya, beliau hidup sederhana dan menyumbangkan keseluruhan RM35 bilion hartanya secara senyap untuk membina universiti dan hospital di seluruh dunia sehingga nafas terakhirnya!
+
+Hari ini, media sosial mengajar kita budaya terbalik: belum kaya lagi sudah sibuk berhutang kereta mewah demi nampak bergaya di mata orang.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kekayaan sebenar adalah apa yang kita simpan, bukannya apa yang kita tayangkan!
+
+Itulah sebabnya pakar kewangan terkenal, Tuan Azizi Ali, memilih bersama Public Gold dan rangkaian G100 Network kerana budaya kami mendidik masyarakat mengumpul aset sebenar secara merendah diri tanpa menunjuk kemewahan palsu.
+
+Penyimpan emas fizikal nampak biasa-biasa pada pakaiannya, tetapi di dalam simpanannya tersimpan ratusan gram emas yang bebas hutang.
+
+Tak perlu pening kepala nak puaskan mata orang lain.
+
+Cuba komen, anda lebih suka nampak kaya di luar atau betul-betul kaya dalam simpanan?
+
+Kumpul gram emas anda secara senyap hari ini demi menikmati hidup yang jauh lebih Tenang!`
+  },
+  {
+    id: 1294,
+    siri: "Kisah-01",
+    no: 25,
+    topik: "Zakat & Syariah",
+    tajuk: "Tradisi Menyemat Syiling Emas Pengantin Turki & Dinar Sebagai Maskahwin",
+    tags: ["susut nilai", "inflasi", "hutang", "dinar", "ringgit", "999", "anak", "isteri"],
+    persona: "ISTANBUL & ANKARA, TURKIYE (2023) · DINAR EMAS SEBAGAI MASKAHWIN & SIMPANAN ORANG BUJANG",
+    hook: "GAMBAR PENGANTIN DI TURKI DIPENUHI RIBEN SYILING EMAS TULEN PADA BAJU MEREKA INI BUKAN SEKADAR ADAT... TAPI KENAPA MEREKA TIDAK MEMBERI SAMPUL DUIT KERTAS?",
+    teks: `Gambar pasangan pengantin di Turkiye yang berdiri sambil tetamu menyematkan puluhan syiling emas tulen pada reben merah di baju mereka ini dipanggil upacara Taki!
+
+Sekali pandang, ia nampak macam adat budaya tradisional semata-mata.
+
+Tetapi rakyat Turkiye yang telah melalui kejatuhan mata wang Lira berkali-kali sangat faham satu perkara penting!
+
+Memberi hadiah perkahwinan dalam bentuk syiling emas dan gelang emas memastikan pasangan muda itu memulakan hidup berkeluarga dengan modal aset yang kalis inflasi, bukannya kertas yang susut nilai!
+
+Di Malaysia, ramai anak muda hari ini sanggup membuat pinjaman peribadi puluhan ribu ringgit semata-mata untuk majlis kahwin sehari, lalu menderita membayar hutang selepas nikah.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, bagi orang bujang yang merancang untuk berkahwin, mulakan tabungan 1 Dinar emas setiap bulan dari sekarang!
+
+Malah menjadikan kepingan Dinar emas 999.9 sebagai maskahwin atau hantaran jauh lebih bernilai sentimental dan tahan lasak.
+
+Apabila maskahwin diberikan dalam bentuk Dinar emas, isteri akan menyimpannya sebagai harta keluarga dan tidak mudah terbelanja untuk perkara sia-sia.
+
+Cuba tag pasangan atau kawan bujang anda di ruangan komen, berapa Dinar sasaran kahwin nanti?
+
+Bina asas perkahwinan tanpa hutang peribadi melalui tabungan Dinar emas yang jauh lebih Berkat!`
+  },
+  {
+    id: 1295,
+    siri: "Kisah-01",
+    no: 26,
+    topik: "Public Gold & GAP",
+    tajuk: "Khazanah Emas Kapal Karam Atocha 1622 & Jaminan Beli Balik Tanpa Resit",
+    tags: ["sejarah", "kilang", "beli balik", "resit", "tunai"],
+    persona: "FLORIDA KEYS, AMERIKA SYARIKAT (1622–1985) · KILANG PENULENAN EMAS BATU KAWAN & JAMINAN BELI BALIK PUBLIC GOLD",
+    hook: "GAMBAR PENYELAM MENGANGKAT RANTAI DAN JONGKONG EMAS DARI DASAR LAUT FLORIDA PADA TAHUN 1985 INI MENGEJUTKAN DUNIA... KENAPA EMAS ITU TIDAK BERKARAT SELEPAS 363 TAHUN?",
+    teks: `Gambar penyelam Mel Fisher mengangkat jongkong dan syiling emas daripada bangkai kapal Sepanyol Nuestra Senora de Atocha di dasar laut Florida pada tahun 1985 ini mencipta sejarah dunia!
+
+Kapal itu telah karam dibadai taufan pada tahun 1622, iaitu 363 tahun sebelumnya!
+
+Kayu kapal telah reput dan meriam besi telah berkarat dimakan air masin, tetapi ribuan kepingan emas di dalamnya keluar dari dasar laut dalam keadaan masih berkilau dan bernilai ratusan juta dolar!
+
+Itulah keajaiban unsur kimia emas tulen yang tidak pernah rosak dimamah usia.
+
+Sebab itu, walaupun emas fizikal anda calar, kemek, atau sudah dibuka sarung plastiknya, nilainya tetap terletak pada berat dan ketulenannya!
+
+Namun pesan guru saya, Tn Mohd Zulkifli Shafie, sebelum membeli sebarang logam berharga, pastikan kita memilih platform yang menyediakan jaminan beli balik yang kukuh.
+
+Public Gold bukan sahaja memiliki kilang penulenan emas sendiri di Batu Kawan, Pulau Pinang, malah terbukti membayar RM70 juta tunai belian balik emas pelanggan hanya dalam tempoh tiga hari!
+
+Walaupun resit hilang atau bungkusan dibuka, emas anda tetap diterima dengan harga tinggi.
+
+Cuba komen, anda pernah risau tak pasal tempat nak jual balik emas bila terdesak nanti?
+
+Simpanlah emas bersama platform berwibawa supaya kecairan harta anda sentiasa Terjamin!`
+  },
+  {
+    id: 1296,
+    siri: "Kisah-01",
+    no: 27,
+    topik: "Keluarga",
+    tajuk: "Eksperimen Marshmallow Universiti Stanford 1970 & Disiplin Forgotten Saving",
+    tags: ["gap", "gaji", "auto-debit", "psikologi", "disiplin"],
+    persona: "STANFORD, CALIFORNIA, AS (1970) · KONSEP FORGOTTEN SAVING (SIMPANAN PAKSA & LUPA) GAP AUTO-DEBIT",
+    hook: "GAMBAR KANAK-KANAK MENUTUP MATA DI HADAPAN SEBIJI GULA-GULA MARSHMALLOW TAHUN 1970 INI NAMPAK LUCU... TAPI KENAPA KAJIAN 40 TAHUN KEMUDIAN MENDEDAHKAN RAHSIA KEJAYAAN MEREKA?",
+    teks: `Gambar kanak-kanak kecil menutup mata dan menongkat dagu di hadapan sebiji gula-gula marshmallow di Universiti Stanford pada tahun 1970 ini adalah antara eksperimen psikologi paling terkenal di dunia!
+
+Profesor Walter Mischel memberi pilihan mudah: makan sebiji marshmallow sekarang, atau tunggu 15 minit tanpa menyentuhnya untuk mendapat dua biji marshmallow.
+
+Apabila penyelidik menjejaki semula kanak-kanak tersebut 40 tahun kemudian, keputusannya amat mengejutkan!
+
+Kanak-kanak yang mampu menahan nafsu sementara terbukti mempunyai kedudukan kewangan, kerjaya, dan kehidupan yang jauh lebih stabil apabila dewasa.
+
+Tetapi jujurlah, sebagai manusia biasa, sukar untuk kita melawan nafsu berbelanja jika duit gaji sentiasa terbentang di depan mata setiap bulan!
+
+Sebab itu pesan guru saya, Tn Mohd Zulkifli Shafie, jangan bergantung kepada kekuatan emosi semata-mata untuk menabung, sebaliknya gunakan sistem Simpanan Paksa dan Lupa!
+
+Aktifkan potongan automatik GAP Auto-Debit pada hari gaji masuk serendah RM100 atau RM200 sebulan.
+
+Alihkan duit ke dalam bentuk gram emas sebelum sempat tangan kita menyentuhnya, persis kanak-kanak bijak yang menutup mata daripada melihat gula-gula tadi!
+
+Cuba komen, bila dapat gaji biasanya anda simpan dulu atau belanja dulu?
+
+Kunci masa depan anda dengan sistem simpanan paksa hari ini dan biarkan ia berkembang mengikut Masa!`
+  },
+  {
+    id: 1297,
+    siri: "Kisah-01",
+    no: 28,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Penipuan Jongkong Emas Berisi Tungsten Di Manhattan & Risiko Beli Di FB",
+    tags: ["ringgit", "penipuan", "palsu", "tunai"],
+    persona: "MANHATTAN, NEW YORK, AS (2012) · ETIKA KESELAMATAN: JANGAN BELI EMAS DARI INDIVIDU TAK DIKENALI (ELAK RISIKO AMLA)",
+    hook: "GAMBAR JONGKONG EMAS TULEN YANG DIBELAH DUA DI NEW YORK PADA TAHUN 2012 INI MENGEJUTKAN PAKAR EMAS... KENAPA DI DALAMNYA PENUH DENGAN BATANG BESI KELABU?",
+    teks: `Gambar jongkong emas seberat 10 auns yang dibelah dua di daerah berlian Manhattan, New York pada September 2012 ini membuatkan para peniaga emas terduduk pucat!
+
+Dari luar, jongkong itu mempunyai berat yang tepat, cop siri yang kemas, dan lapisan luar emas tulen.
+
+Tetapi apabila dipotong, bahagian dalamnya rupa-rupanya telah digerudi dan diisi dengan batang logam murah bernama tungsten yang mempunyai ketumpatan hampir sama dengan emas!
+
+Semuanya berpunca kerana pembeli terpedaya membeli daripada pengedar jalanan yang menawarkan harga sedikit murah tanpa rekod rasmi.
+
+Di Malaysia hari ini, masih ramai yang berani membeli atau menjual emas secara tunai dengan individu yang tidak dikenali di media sosial semata-mata nak jimat beberapa ringgit!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jangan sesekali gadaikan keselamatan diri dengan berurus niaga emas tanpa dokumen hitam putih yang sah!
+
+Selain risiko mendapat emas palsu, anda boleh ditahan reman di lokap polis di bawah akta penggubahan wang haram atau AMLA jika emas tersebut rupa-rupanya datang daripada hasil rompakan atau jenayah!
+
+Biarlah setiap gram emas yang kita beli terus daripada syarikat bereputasi tinggi seperti Public Gold yang jelas rekodnya.
+
+Cuba komen, anda pernah nampak iklan jual emas murah meragukan dekat media sosial tak?
+
+Lindungi diri dan keluarga anda dengan hanya berurus niaga melalui saluran rasmi yang Sah!`
+  },
+  {
+    id: 1298,
+    siri: "Kisah-01",
+    no: 29,
+    topik: "Public Gold & GAP",
+    tajuk: "Operasi Membawa Pulang 674 Tan Emas Jerman & Kelebihan GAP Vs Emas Digital",
+    tags: ["gap", "rumah", "dinar", "syariah", "emas digital", "cawangan"],
+    persona: "FRANKFURT, JERMAN (2013–2017) · AKAUN EMAS GAP BUKAN EMAS DIGITAL: BOLEH KELUARKAN FIZIKAL BILA-BILA MASA",
+    hook: "GAMBAR BANK PUSAT JERMAN MEMBAWA PULANG 674 TAN JONGKONG EMAS DARI LUAR NEGARA ANTARA 2013 HINGGA 2017 INI MENJADI TUMPUAN DUNIA... KENAPA MEREKA MAHU PEGANG EMAS SENDIRI?",
+    teks: `Gambar ribuan jongkong emas yang disusun rapi di bilik kebal Frankfurt selepas operasi rahsia Bank Pusat Jerman, Deutsche Bundesbank, dari tahun 2013 hingga 2017 ini memberi satu isyarat jelas kepada dunia!
+
+Selama empat tahun, Jerman mengangkut pulang sebanyak 674 tan jongkong emas fizikal mereka bernilai berbilion euro dari New York dan Paris kembali ke bilik kebal mereka sendiri di Frankfurt!
+
+Kenapa sebuah negara maju tidak berpuas hati hanya dengan memegang penyata kertas di atas skrin semata-mata?
+
+Kerana dalam dunia emas, kedaulatan sebenar terletak pada keupayaan menuntut dan memegang jongkong fizikal!
+
+Hari ini, ramai keliru antara aplikasi emas digital di luar sana dengan Akaun Emas GAP Public Gold.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, emas digital dicipta untuk spekulasi nombor dan sering menyukarkan pelanggan apabila mahu menuntut emas fizikal.
+
+Sebaliknya, Akaun Emas GAP adalah kemudahan menabung emas fizikal patuh syariah yang membolehkan kita mula serendah RM100 dan mengeluarkan jongkong atau dinar fizikal serendah 1 gram di mana-mana cawangan atau terus dihantar ke pintu rumah!
+
+Simpan di GAP percuma, nak pegang di tangan pun mudah.
+
+Cuba komen, anda lebih suka simpan dalam akaun GAP atau terus keluarkan kepingan fizikal?
+
+Pastikan tabungan emas anda disandarkan seratus peratus kepada emas fizikal yang Sebenar!`
+  },
+  {
+    id: 1299,
+    siri: "Kisah-01",
+    no: 30,
+    topik: "Bisnes & Dealer",
+    tajuk: "Rahsia Jutawan Sebenar California Gold Rush 1849 & Peluang Dealer G100",
+    tags: ["dealer", "g100", "sejarah"],
+    persona: "SAN FRANCISCO, CALIFORNIA, AS (1849) · FALSAFAH BISNES DEALER PUBLIC GOLD: MENGAJAK MASYARAKAT MENYIMPAN & KAYA",
+    hook: "GAMBAR RATUSAN RIBU PELOMBONG BERKUMPUL DI CALIFORNIA PADA TAHUN 1849 INI MELAMBANGKAN DEMAM EMAS DUNIA... TAPI KENAPA ORANG YANG PALING KAYA BUKANLAH PENGGALI LOMBONG?",
+    teks: `Gambar ratusan ribu pencari emas yang membanjiri sungai-sungai di California pada tahun 1849 ini merakamkan sejarah Demam Emas terbesar di Amerika!
+
+Ramai pelombong yang datang berjudi nasib akhirnya pulang dengan tangan kosong kerana kehabisan wang.
+
+Tetapi tahukah anda siapa yang menjadi jutawan pertama dan paling bertahan lama di California ketika itu?
+
+Mereka ialah usahawan seperti Samuel Brannan dan Levi Strauss yang membina sistem bekalan, peralatan, dan perkhidmatan untuk para pencari emas!
+
+Sejarah tahun 1849 ini mengajar kita satu rahsia besar tentang posisi terbaik dalam dunia emas.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, selain menjadi penyimpan emas yang konsisten, peluang paling bernilai adalah apabila kita meletakkan sebelah kaki sebagai pengedar atau dealer Public Gold!
+
+Berbeza dengan jurujual produk lain yang mengajak orang menghabiskan duit, kerja seorang dealer emas di bawah bimbingan G100 Network adalah mendidik masyarakat menyimpan harta.
+
+Kita membantu orang lain menyelamatkan duit daripada bocor, dan pada masa yang sama syarikat membayar royalti pendapatan pasif setiap kali mereka menabung seumur hidup!
+
+Satu usaha mulia yang menjadikan penyimpan dan pembimbing sama-sama lebih kukuh kewangannya.
+
+Cuba komen, anda berminat nak belajar simpan emas sahaja atau nak bina pendapatan pasif sekali?
+
+Mulakan langkah simpanan emas anda hari ini dan mari kita bina kebebasan kewangan Bersama!`
+  },
+  {
+    id: 1300,
+    siri: "Kisah-02",
+    no: 1,
+    topik: "Kenapa Emas",
+    tajuk: "Penyapu Jalan Menyapu Wang Kertas Pengo Hungary 1946 & Risiko Kertas",
+    tags: ["perang", "sejarah"],
+    persona: "BUDAPEST, HUNGARY (1946) · DUIT KERTAS BOLEH DICETAK TANPA HAD, EMAS TERHAD",
+    hook: "GAMBAR PEKERJA KEBERSIHAN MENYAPU TIMBUNAN WANG KERTAS KE DALAM LONGKANG PADA TAHUN 1946 INI BUKAN SAMPAH BIASA... TAPI KENAPA DUIT TULEN DIBUANG BEGITU SAHAJA?",
+    teks: `Gambar pekerja pembersihan di Budapest, Hungary sedang menyapu ribuan keping wang kertas di atas jalan raya seperti daun kering pada tahun 1946 ini adalah foto sejarah yang benar-benar berlaku!
+
+Sekali pandang, kita sangka itu hanyalah kertas surat khabar lama.
+
+Tetapi yang disapu ke dalam tong sampah itu sebenarnya ialah mata wang rasmi Pengo Hungary yang sah!
+
+Selepas Perang Dunia Kedua, kerajaan Hungary mencetak wang kertas secara melampau sehingga harga barang mengganda setiap 15 jam!
+
+Kemuncaknya pada Julai 1946, mereka terpaksa mencetak sekeping wang kertas bernilai seratus kuintilion Pengo, iaitu angka satu diikuti dua puluh sifar, namun ia tetap gagal membeli sebuku roti!
+
+Orang yang menyimpan wang kertas bertahun-tahun melihat tabungan mereka bertukar menjadi sampah jalanan di depan mata.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, sejarah keruntuhan mata wang kertas sentiasa berulang kerana kertas boleh dicetak tanpa had oleh manusia.
+
+Berbeza dengan emas fizikal yang tidak boleh dicetak oleh mana-mana kerajaan dan kekal bernilai merentas zaman.
+
+Jangan biarkan seluruh titik peluh kita hanya bergantung pada helaian kertas semata-mata.
+
+Cuba komen, berapa peratus tabungan anda hari ini yang sudah ditukar kepada emas?
+
+Lindungi masa depan keluarga anda sekarang dengan menyimpan aset emas Tulen!`
+  },
+  {
+    id: 1301,
+    siri: "Kisah-02",
+    no: 2,
+    topik: "Kenapa Emas",
+    tajuk: "Syiling Emas Pertama Raja Croesus 550 SM & Mata Wang Sebenar Manusia",
+    tags: ["sejarah"],
+    persona: "SARDIS, LYDIA / TURKIYE (550 SM) · NILAI INTRINSIK EMAS BERDIRI SENDIRI TANPA JAMINAN PIHAK KETIGA",
+    hook: "GAMBAR SYILING BERLAMBANG SINGA DAN LEMBU DARI TAHUN 550 SEBELUM MASIHI INI ADALAH SYILING EMAS PERTAMA DUNIA... KENAPA IA MASIH BERNILAI SELEPAS 2,500 TAHUN?",
+    teks: `Gambar syiling kuno berukir kepala singa dan lembu yang ditemui di tapak arkeologi Sardis, Turkiye ini berusia lebih dua ribu lima ratus tahun!
+
+Syiling ini ditempa oleh Raja Croesus di Kerajaan Lydia sekitar tahun 550 Sebelum Masihi dan diiktiraf oleh sejarawan sebagai mata wang syiling emas tulen pertama dalam tamadun manusia.
+
+Fikirkan sejenak satu fakta yang cukup menginsafkan ini!
+
+Kerajaan Lydia sudah lama lenyap, istana Raja Croesus sudah menjadi debu, dan ribuan jenis mata wang kertas moden telah silih berganti serta musnah sepanjang sejarah.
+
+Tetapi sekeping syiling emas kecil milik Raja Croesus itu masih berdiri megah dengan nilai yang amat tinggi pada hari ini!
+
+Kenapa emas mampu bertahan selama lebih dua alaf setengah tanpa kehilangan kuasanya?
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, emas adalah satu-satunya aset kewangan yang nilainya melekat pada berat dan ketulenannya sendiri tanpa memerlukan tandatangan atau jaminan mana-mana menteri kewangan!
+
+Apabila kita menyimpan emas fizikal, kita sebenarnya sedang memegang mata wang antarabangsa yang paling stabil dalam sejarah manusia.
+
+Kertas perlukan undang-undang untuk laku, tetapi emas laku dengan sendirinya.
+
+Cuba komen, kalau diberi pilihan simpan kertas 20 tahun atau emas 20 tahun, mana satu pilihan anda?
+
+Peganglah aset yang telah teruji selama ribuan tahun kerana nilai emas kekal Abadi!`
+  },
+  {
+    id: 1302,
+    siri: "Kisah-02",
+    no: 3,
+    topik: "Kenapa Emas",
+    tajuk: "Krisis 'Bail-In' Bank Cyprus 2013 & Risiko Simpanan Dalam Sistem",
+    tags: ["krisis", "tunai"],
+    persona: "NICOSIA, CYPRUS (2013) · EMAS FIZIKAL SEBAGAI ASET LUAR SISTEM PERBANKAN",
+    hook: "GAMBAR RAKYAT CYPRUS BERATUR PANJANG DI MESIN ATM PADA MAC 2013 INI MENGEJUTKAN EROPAH... TAPI KENAPA HAMPIR SEPARUH SIMPANAN BANK MEREKA DIPOTONG BEGITU SAHAJA?",
+    teks: `Gambar rakyat Cyprus yang beratur panik di hadapan mesin ATM yang ditutup pada Mac 2013 ini mencetuskan kejutan besar di seluruh Eropah!
+
+Ketika krisis perbankan melanda negara itu, semua bank diarahkan tutup selama hampir dua minggu dan had pengeluaran tunai disekat.
+
+Namun perkara yang paling mengejutkan berlaku apabila bank dibuka semula!
+
+Di bawah dasar penyelamatan bank yang dipanggil Bail-In, sehingga 47.5 peratus daripada wang simpanan pendeposit melebihi seratus ribu Euro di dalam bank telah dipotong dan diambil secara paksa bagi menyelamatkan bank yang hampir muflis!
+
+Bayangkan kita bekerja keras separuh mati mengumpul duit di dalam akaun, tiba-tiba hampir separuh daripadanya hilang atas kertas kerana masalah bank!
+
+Peristiwa tahun 2013 ini menyedarkan dunia bahawa wang di dalam akaun bank bukanlah seratus peratus di bawah kawalan kita.
+
+Sebab itu pesan guru saya, Tn Mohd Zulkifli Shafie, jangan sesekali meletakkan seratus peratus harta kita di dalam sistem kewangan semata-mata!
+
+Tukarkan sekurang-kurangnya sebahagian simpanan kepada emas fizikal yang dipegang sendiri di tangan.
+
+Emas di tangan kita bebas daripada risiko penstrukturan semula bank atau sekatan pengeluaran.
+
+Cuba komen, adakah anda rasa selamat kalau semua duit simpanan diletakkan di satu tempat sahaja?
+
+Miliki emas fizikal hari ini sebagai pelindung kekayaan peribadi yang Mutlak!`
+  },
+  {
+    id: 1303,
+    siri: "Kisah-02",
+    no: 4,
+    topik: "Strategi Emas",
+    tajuk: "Grace Groner Tukar USD 180 Jadi USD 7 Juta & Kuasa Masa Penyimpan Emas",
+    tags: ["rumah", "wanita"],
+    persona: "LAKE FOREST, ILLINOIS, AS (1935–2010) · PENYIMPAN EMAS TEGAR: FOKUS KUMPUL GRAM JANGKA PANJANG",
+    hook: "GAMBAR WANITA TUA YANG TINGGAL DI RUMAH KECIL SATU BILIK INI NAMPAK SEPERTI WARGA EMAS BIASA... TAPI BAGAIMANA MODAL RM800 BELIAU BERTUKAR MENJADI RM30 JUTA?",
+    teks: `Gambar wanita tua berwajah lembut bernama Grace Groner di Illinois, Amerika Syarikat ini menggemparkan dunia kewangan apabila beliau meninggal dunia pada usia 100 tahun pada tahun 2010!
+
+Semasa hidupnya, beliau bekerja sebagai setiausaha selama 43 tahun, tinggal di rumah kecil satu bilik, dan membeli pakaian di jualan amal.
+
+Tetapi apabila wasiatnya dibacakan, beliau telah mendermakan sebanyak 7 juta dolar Amerika, iaitu lebih RM30 juta, kepada kolej lamanya!
+
+Dari mana datangnya harta sebanyak itu?
+
+Rupa-rupanya pada tahun 1935, Grace membeli tiga unit aset bernilai 180 dolar sahaja dan membiarkannya berkembang tanpa pernah menjualnya walau sekali selama 75 tahun!
+
+Ramai orang kita hari ini baru simpan emas dua tiga bulan, sudah sibuk mengira untung dan gatal tangan nak jual.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, golongan yang paling berjaya dan paling kaya dalam dunia emas ialah Penyimpan Emas jangka panjang!
+
+Jangan bazirkan emosi memantau turun naik harga emas setiap minggu.
+
+Fokus sahaja mengumpul kepingan dan gram emas secara konsisten untuk tempoh sekurang-kurangnya dua tahun ke atas.
+
+Cuba komen, berapa lama paling lama anda pernah bertahan menyimpan sesuatu aset tanpa mengusiknya?
+
+Biarkan masa bekerja untuk menggandakan nilai harta anda dengan penuh Sabar!`
+  },
+  {
+    id: 1304,
+    siri: "Kisah-02",
+    no: 5,
+    topik: "Kenapa Emas",
+    tajuk: "Amadeo Giannini Menyelamatkan Emas Dalam Kereta Sayur 1906 & Kuasa Kecairan",
+    tags: ["kecemasan", "tunai"],
+    persona: "SAN FRANCISCO, CALIFORNIA, AS (1906) · EMAS ADALAH TUNAI KECEMASAN PALING PANTAS WAKTU KRISIS",
+    hook: "GAMBAR RUNTUHAN BANDAR SAN FRANCISCO SELEPAS GEMPA BUMI 1906 INI MELUMPUHKAN SEMUA BANK... TAPI BAGAIMANA SEORANG LELAKI MEMBUKA BANK DI ATAS DUA TONG KAYU?",
+    teks: `Gambar bandar San Francisco yang musnah terbakar selepas gempa bumi dahsyat berukuran 7.9 magnitud pada 18 April 1906 ini merakamkan detik kelumpuhan ekonomi yang luar biasa!
+
+Api kebakaran yang terlalu panas menyebabkan bilik kebal besi bank-bank besar terpaksa ditutup rapat selama berminggu-minggu kerana jika dibuka, kertas di dalamnya akan terbakar serta-merta!
+
+Akibatnya, seluruh penduduk kehilangan akses kepada wang mereka.
+
+Namun seorang pengasas bank kecil bernama Amadeo Giannini sempat menyelamatkan peti syiling emas dan aset banknya dengan menyembunyikannya di bawah timbunan sayur di atas kereta kuda pengangkut sampah!
+
+Keesokan harinya, ketika semua bank lain lumpuh, beliau meletakkan sekeping papan di atas dua tong kayu di tepi dermaga dan terus menyalurkan modal emas bagi membina semula bandar tersebut!
+
+Kisah benar tahun 1906 ini mengajar kita betapa pentingnya kecairan aset fizikal ketika darurat.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, emas fizikal adalah aset yang paling mudah dicairkan kepada tunai di mana-mana sahaja tanpa perlu menunggu kelulusan birokrasi berbulan-bulan.
+
+Bila berlaku kecemasan mendesak selepas tunai tiga bulan habis, emas fizikal boleh digadaikan atau dijual dalam masa beberapa minit sahaja.
+
+Cuba komen, kalau esok berlaku kecemasan mengejut, aset apa yang paling cepat boleh bantu keluarga anda?
+
+Simpanlah emas fizikal kerana pada waktu genting, ia memberikan kecairan paling Pantas!`
+  },
+  {
+    id: 1305,
+    siri: "Kisah-02",
+    no: 6,
+    topik: "Kenapa Emas",
+    tajuk: "Tragedi Sekatan Bank 'Corralito' Argentina 2001 & Kebebasan Harta Sendiri",
+    tags: ["rumah", "krisis", "ringgit", "sejarah", "tunai"],
+    persona: "BUENOS AIRES, ARGENTINA (2001) · PENGALAMAN AKAUN DIBEKUKAN & EMAS KALIS SEKATAN",
+    hook: "GAMBAR RIBUAN PENDUDUK BUENOS AIRES MENGETUK PINTU BESI BANK DENGAN PERIUK BELANGA PADA DISEMBER 2001 INI AMAT MENYEDIHKAN... KENAPA WANG MEREKA DIKURUNG?",
+    teks: `Gambar ribuan rakyat Argentina menangis sambil mengetuk pintu besi bank yang tertutup rapat pada 1 Disember 2001 ini dikenali dalam sejarah sebagai tragedi Corralito!
+
+Perkataan Corralito bermaksud kandang kecil.
+
+Kerajaan Argentina ketika itu mengeluarkan dekri mengejut yang membekukan akaun bank rakyat dan mengehadkan pengeluaran tunai kepada hanya 250 dolar seminggu!
+
+Lebih perit lagi, tidak lama kemudian simpanan dolar rakyat di dalam bank ditukar secara paksa kepada mata wang Peso yang telah jatuh nilainya sehingga 75 peratus!
+
+Orang yang menabung seumur hidup untuk membeli rumah atau membiayai rawatan hospital hanya mampu menjerit di luar pintu bank tanpa dapat berbuat apa-apa.
+
+Ramai menyangka perkara seperti ini mustahil berlaku kepada diri kita.
+
+Tetapi saya selalu pegang pesanan mentor saya, Tn Mohd Zulkifli Shafie, apabila akaun bank kita dibekukan atas apa jua sebab undang-undang atau krisis, duit berjuta ringgit di dalam sistem pun tidak boleh membeli sebungkus nasi!
+
+Hanya emas fizikal yang berada di dalam simpanan kita sendiri yang tidak terikat dengan sebarang pintu besi bank.
+
+Emas memberikan kita kedaulatan penuh ke atas titik peluh sendiri.
+
+Cuba komen, berapa peratus simpanan anda yang betul-betul berada di luar kawalan pihak ketiga sekarang?
+
+Pastikan anda memiliki rizab emas fizikal supaya kewangan keluarga kekal Bebas!`
+  },
+  {
+    id: 1306,
+    siri: "Kisah-02",
+    no: 7,
+    topik: "Kewangan Peribadi",
+    tajuk: "Pekerja Lehman Brothers Membawa Kotak 2008 & Jaminan Kerjaya Vs Aset",
+    tags: ["gaji", "anak", "isteri", "sejarah", "hujung minggu"],
+    persona: "NEW YORK & LONDON (2008) · JANGAN BERGANTUNG PADA GAJI SEMATA-MATA, BINA LIFE BOAT EMAS",
+    hook: "GAMBAR PEKERJA BERKOT MEWAH KELUAR DARI BANGUNAN LEHMAN BROTHERS SAMBIL MEMELUK KOTAK KADBOD PADA 15 SEPTEMBER 2008 INI MENGEJUTKAN DUNIA... APA PENGAJARANNYA?",
+    teks: `Gambar para pegawai bank berpakaian sut kemas berjalan keluar dari ibu pejabat Lehman Brothers di New York sambil membawa kotak kadbod berisi barang peribadi pada 15 September 2008 ini menjadi simbol keruntuhan kewangan terbesar dalam sejarah moden!
+
+Lehman Brothers bukanlah syarikat kecil yang baru setahun jagung.
+
+Ia adalah bank pelaburan keempat terbesar di Amerika yang telah berdiri kukuh selama 158 tahun dengan aset melebihi 600 bilion dolar!
+
+Namun dalam masa satu hujung minggu sahaja, syarikat gergasi itu muflis dan lebih 25,000 pekerjanya hilang pekerjaan serta-merta pada pagi Isnin!
+
+Ramai antara kita hari ini terlalu yakin dengan jawatan dan gaji bulanan di syarikat besar sehingga lupa membina benteng simpanan.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, sehebat mana pun jawatan dan gaji kita hari ini, ia bukanlah jaminan kekal untuk masa depan keluarga!
+
+Ketika gaji masih berjalan lancar, wajibkan diri mengasingkan sekurang-kurangnya 10 peratus pendapatan untuk ditukarkan kepada emas fizikal setiap bulan.
+
+Syarikat tempat kita bekerja boleh berubah atau ditutup, tetapi gram emas yang kita kumpul kekal menjaga makan pakai anak isteri.
+
+Cuba komen, kalau tiba-tiba hilang punca gaji esok, berapa gram emas yang dah sedia jadi pelindung anda?
+
+Jangan tunggu ribut melanda, mulakan tabungan emas anda hari ini demi keselamatan Sendiri!`
+  },
+  {
+    id: 1307,
+    siri: "Kisah-02",
+    no: 8,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kafilah 100 Unta Emas Raja Mansa Musa 1324 & Ilmu Mengurus Emas",
+    tags: ["haji", "kecemasan", "sejarah"],
+    persona: "MALI & KAHERAH, MESIR (1324) · BUKAN EMAS YANG MENJADIKAN KITA KAYA, TETAPI ILMU TENTANG EMAS",
+    hook: "LUKISAN PETA KUNO TAHUN 1375 INI MEMAPARKAN RAJA AFRIKA MEMEGANG KETULAN EMAS GERGASI... TAPI KENAPA SEDEKAH EMAS BELIAU MENYEBABKAN EKONOMI MESIR LUMPUH 12 TAHUN?",
+    teks: `Lukisan peta Catalan Atlas dari abad ke-14 ini merakamkan sosok manusia paling kaya dalam sejarah dunia iaitu Raja Mansa Musa dari Empayar Mali!
+
+Pada tahun 1324, beliau berangkat menunaikan ibadah haji ke Mekah bersama 60,000 pengiring dan 100 ekor unta yang setiap satunya memikul ratusan paun emas tulen!
+
+Namun apabila singgah di Kaherah, Mesir, beliau mengagihkan emas dengan begitu banyak tanpa perancangan ekonomi sehingga bekalan emas membanjiri pasaran secara mendadak!
+
+Akibatnya, nilai tukaran di Kaherah terganggu teruk dan ekonomi Mesir mengambil masa 12 tahun untuk pulih, malah Mansa Musa sendiri terpaksa meminjam semula emas dalam perjalanan pulang!
+
+Kisah sejarah tahun 1324 ini membuktikan satu kebenaran yang sangat penting.
+
+Memiliki emas yang banyak sahaja belum tentu menjamin kestabilan jika tiada ilmu pengurusan kewangan!
+
+Sebab itu pesan guru saya, Tn Mohd Zulkifli Shafie, bukan emas semata-mata yang menjadikan kita kaya, tetapi ilmu kita tentang cara mengurus wang dan emas dengan betul!
+
+Penyimpan emas yang berilmu tahu bila masa untuk mengumpul gram, bagaimana mengagihkan dana kecemasan, dan bila masa menukar emas kepada aset produktif.
+
+Cuba komen, anda dah baca buku Wang Emas atau belum?
+
+Sebelum mengejar keuntungan segera, lengkapkan dada anda dengan simpanan emas yang dipandu oleh Ilmu!`
+  },
+  {
+    id: 1308,
+    siri: "Kisah-02",
+    no: 9,
+    topik: "Kenapa Emas",
+    tajuk: "Kabus Maut 'Great Smog of London' 1952 & Bahaya Inflasi Senyap",
+    tags: ["inflasi"],
+    persona: "LONDON, UNITED KINGDOM (1952) · INFLASI ADALAH PENCURI SENYAP KUASA BELI SIMPANAN BANK",
+    hook: "GAMBAR KONDUKTOR BAS MEMEGANG LAMPU SULUH DI TENGAH HARI DI LONDON PADA DISEMBER 1952 INI NAMPAK SEPERTI FILEM SERAM... TAPI KENAPA KABUS ITU MERAGUT 12,000 NYAWA?",
+    teks: `Gambar sebuah bas dua tingkat di kota London yang terpaksa dipandu oleh seorang lelaki berjalan kaki memegang obor api pada waktu tengah hari pada Disember 1952 ini adalah peristiwa sebenar Great Smog of London!
+
+Selama lima hari berturut-turut, asap pembakaran arang batu terperangkap di udara sehingga jarak penglihatan jatuh kepada sifar!
+
+Pada mulanya, penduduk London tidak panik kerana menyangka ia hanyalah kabus musim sejuk biasa yang tidak berbahaya.
+
+Tetapi tanpa mereka sedari, udara beracun yang disedut secara perlahan-lahan itu akhirnya meragut sehingga 12,000 nyawa!
+
+Tahukah anda, dalam dunia kewangan hari ini, ada satu lagi kabus beracun yang sedang membunuh tabungan kita secara senyap tanpa kita sedari?
+
+Namanya ialah inflasi!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, ramai penyimpan wang di bank tidak sedar mereka sedang jatuh miskin kerana nombor di dalam akaun nampak kekal sama!
+
+Sama seperti kabus London 1952 yang tidak berbunyi, inflasi menghakis kuasa beli wang kertas kita sedikit demi sedikit setiap tahun sehingga akhirnya duit pencen kita tidak lagi mencukupi.
+
+Satu-satunya topeng pelindung yang terbukti menyelamatkan kuasa beli kita daripada pencuri senyap ini ialah emas fizikal.
+
+Cuba komen, anda perasan tak RM100 hari ini dah tak sama nilainya macam lima tahun lepas?
+
+Selamatkan tabungan masa depan anda dengan menukarnya kepada emas fizikal yang Kalis!`
+  },
+  {
+    id: 1309,
+    siri: "Kisah-02",
+    no: 10,
+    topik: "Kenapa Emas",
+    tajuk: "Gelembung Bunga Tulip Belanda 1637 & Beza Spekulasi Vs Simpan Nilai",
+    tags: ["rumah", "skim", "anak", "sejarah", "tunai"],
+    persona: "AMSTERDAM, BELANDA (1637) · 4 ASAS PELABURAN EMAS: JANGAN BERJUDI SPEKULASI, SIMPAN FIZIKAL",
+    hook: "LUKISAN SEKUNTUM BUNGA TULIP MERAH PUTIH PADA TAHUN 1637 INI NAMPAK BIASA... TAPI KENAPA SEBIJI BAWANG BUNGA INI PERNAH DIJUAL SAMA HARGA DENGAN SEBUAH RUMAH BANGSAR?",
+    teks: `Lukisan bunga tulip bernama Semper Augustus dari Belanda pada tahun 1637 ini menyimpan kisah kegilaan spekulasi pertama dalam sejarah ekonomi dunia!
+
+Pada kemuncak demam Tulip Mania, orang ramai menjadi begitu tamak membeli dan menjual kontrak bunga tulip sehingga harga sebiji bawang bunga itu mencecah 10,000 Guilder!
+
+Nilai 10,000 Guilder ketika itu cukup untuk membeli sebuah rumah agam paling mewah di tepi terusan utama kota Amsterdam secara tunai!
+
+Namun pada Februari 1637, apabila pembeli mula sedar bahawa yang mereka pegang hanyalah sebiji bawang bunga yang boleh layu dan reput, pasaran runtuh 99 peratus dalam sekelip mata!
+
+Ramai bangsawan dan pedagang jatuh muflis kerana mengejar aset spekulasi yang tiada nilai intrinsik.
+
+Hari ini, sejarah yang sama berulang apabila ramai anak muda terjebak membeli aset maya atau skim spekulasi semata-mata mengharapkan cepat kaya.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, jangan jadikan tabungan masa depan keluarga sebagai bahan perjudian spekulasi!
+
+Emas fizikal berbeza sama sekali kerana nilainya bukan dicipta oleh demam trend sementara, sebaliknya diiktiraf oleh seluruh tamadun manusia sejak ribuan tahun.
+
+Bunga boleh layu dan syiling digital boleh padam, tetapi emas tulen tidak pernah reput.
+
+Cuba komen, anda pernah terbakar tangan sebab kejar pelaburan ikut trend kawan-kawan tak?
+
+Kembalilah kepada asas kewangan yang selamat dengan menyimpan aset fizikal yang Kekal!`
+  },
+  {
+    id: 1310,
+    siri: "Kisah-02",
+    no: 11,
+    topik: "Public Gold & GAP",
+    tajuk: "Sir Isaac Newton Rugi £20,000 Gelembung South Sea 1720 & Rahsia Auto-Debit",
+    tags: ["gap", "saham", "ringgit", "auto-debit", "disiplin"],
+    persona: "LONDON, UNITED KINGDOM (1720) · JANGAN CUBA MENEKA PASARAN: GUNA KUASA KOS PEMURATAAN GAP AUTO-DEBIT",
+    hook: "GAMBAR POTRET SAINTIS TERHEBAT DUNIA SIR ISAAC NEWTON INI DIKENALI KERANA HUKUM GRAVITI... TAPI TAHUKAH ANDA BELIAU PERNAH HAMPIR MUFLIS KERANA TERSILAP MENEKA HARGA PASARAN?",
+    teks: `Potret Sir Isaac Newton ini terkenal di seluruh dunia sebagai manusia paling pintar yang menemui hukum graviti dan kalkulus serta menjawat jawatan Ketua Royal Mint Britain!
+
+Tetapi pada tahun 1720, saintis paling bijak di dunia ini sendiri tewas teruk di tangan emosi pasaran!
+
+Ketika saham Syarikat South Sea melonjak naik, Newton menjual pegangannya awal dengan sedikit keuntungan, namun apabila melihat kawan-kawannya terus menjadi kaya, beliau kalah dengan emosi takut terlepas peluang lalu masuk semula membeli pada harga paling puncak!
+
+Apabila gelembung itu pecah, Newton kehilangan 20,000 Paun, bersamaan ratusan juta ringgit nilai hari ini, sehingga beliau mengeluh bahawa beliau mampu mengira pergerakan bintang di langit tetapi gagal mengira kegilaan emosi manusia!
+
+Fikirkan, kalau saintis sepintar Isaac Newton pun gagal meneka bilakah harga paling tinggi dan paling rendah, inikan pula kita manusia biasa!
+
+Sebab itu pesan guru saya, Tn Mohd Zulkifli Shafie, jangan buang masa dan emosi menilik graf harga emas setiap hari.
+
+Gunakan strategi kos pemurataan melalui potongan tetap GAP Auto-Debit setiap bulan!
+
+Bila harga naik kita senyum sebab nilai emas kita meningkat, bila harga turun kita lagi senyum sebab dapat lebih banyak gram secara automatik.
+
+Cuba komen, anda masih penat tengok graf harga emas hari-hari ke?
+
+Serahkan disiplin tabungan anda kepada sistem automatik supaya fikiran sentiasa Tenang!`
+  },
+  {
+    id: 1311,
+    siri: "Kisah-02",
+    no: 12,
+    topik: "Keluarga",
+    tajuk: "Kebangkitan Mangsa Tsunami Aceh 2004 & Emas Sebagai Modal Bangkit Semula",
+    tags: ["barang kemas", "rumah", "kecemasan", "sejarah", "tunai"],
+    persona: "BANDA ACEH, INDONESIA (2004–2014) · FUNGSI EMAS FIZIKAL SEBAGAI INSURANS & MODAL BANGKIT SELEPAS MUSIBAH",
+    hook: "GAMBAR PADANG JARAK PADANG TEKUKUR DI BANDA ACEH SELEPAS TSUNAMI 2004 INI MERUNTUN JIWA DUNIA... TAPI APA ASET YANG MEMBANTU KELUARGA DI SANA BANGKIT SEMULA?",
+    teks: `Gambar kemusnahan total di Banda Aceh selepas ombak besar Tsunami pada 26 Disember 2004 ini kekal sebagai antara tragedi kemanusiaan paling menyayat hati dalam sejarah moden.
+
+Dalam sekelip mata, rumah kediaman, kedai perniagaan, dokumen tanah, dan buku akaun bank hanyut dibawa arus laut!
+
+Namun dalam laporan penyelidikan pemulihan ekonomi selepas bencana tersebut, terdapat satu pemerhatian yang sangat membuka mata tentang tabiat masyarakat di sana.
+
+Bagi keluarga yang mempunyai simpanan emas fizikal atau barang kemas yang dipakai pada tubuh dan ditemui semula di tapak rumah, emas itulah yang menjadi modal tunai paling pantas untuk membeli bot nelayan baharu, peralatan berniaga, dan membina semula tempat berteduh!
+
+Kertas dokumen boleh hancur menjadi bubur apabila terkena air masin, tetapi emas kekal utuh.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kita menyimpan emas bukanlah kerana kita mengharapkan musibah datang menimpa keluarga kita.
+
+Tetapi kita menyimpan emas kerana kita tahu ujian hidup tidak pernah memilih mangsa!
+
+Apabila segala sistem lain terhenti, seketul emas fizikal di tangan mampu menjadi modal segera untuk seorang ketua keluarga memulakan semula kehidupan daripada sifar.
+
+Cuba komen, apakah pengajaran paling besar yang anda belajar tentang dana kecemasan?
+
+Binalah rizab emas keluarga anda dari sekarang sebagai kekuatan untuk terus Bangkit!`
+  },
+  {
+    id: 1312,
+    siri: "Kisah-02",
+    no: 13,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kepingan Emas 'Kim Thanh' Pelarian Laut 1975 & Pasport Kekayaan Dunia",
+    tags: ["perang", "999", "kecemasan"],
+    persona: "SAIGON, VIETNAM & LAUT CHINA SELATAN (1975) · EMAS LAKU DI SELURUH DUNIA TANPA MENGIRA SEMPADAN NEGARA",
+    hook: "GAMBAR KEPINGAN EMAS NIPIS BERBALUT KERTAS NASI DARI TAHUN 1975 INI NAMPAK SEPERTI KEPINGAN LOGAM BIASA... TAPI KENAPA IA DIJAHIT DI DALAM KELEPET BAJU PELARIAN?",
+    teks: `Gambar kepingan emas nipis seberat satu tael atau 37.5 gram yang mempunyai cop Kim Thanh dari era tahun 1975 ini menyimpan kisah kelangsungan hidup ratusan ribu manusia!
+
+Ketika perang berakhir dan pemerintahan bertukar di Vietnam pada tahun 1975, mata wang kertas tempatan hilang nilai dan akaun bank tidak lagi boleh digunakan di luar negara.
+
+Keluarga yang terpaksa melarikan diri menaiki bot merentasi lautan telah menukarkan seluruh harta simpanan seumur hidup mereka kepada kepingan emas nipis Kim Thanh ini!
+
+Mereka menjahit kepingan emas 999.9 yang lembut itu di dalam kelim seluar, kelepet baju anak-anak, dan tapak kasut sebelum mengharungi lautan.
+
+Sebaik sahaja tiba di negara baharu tanpa sebarang dokumen atau bahasa, kepingan emas itulah yang diterima serta-merta untuk membayar kos perjalanan dan memulakan hidup baharu!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, emas fizikal adalah satu-satunya mata wang dunia yang tidak mengenal sempadan negara, bangsa, atau politik.
+
+Duit kertas sesebuah negara boleh ditolak sebaik sahaja kita melangkah keluar dari sempadan, tetapi emas tulen diterima dengan tangan terbuka di seluruh pelosok bumi.
+
+Kecil pada saiznya, tetapi sangat besar nilai perlindungannya.
+
+Cuba komen, pernah tak anda terfikir kenapa emas dipanggil mata wang sejagat?
+
+Simpanlah emas fizikal kerana ia adalah pasport kecemasan kewangan bertaraf Antarabangsa!`
+  },
+  {
+    id: 1313,
+    siri: "Kisah-02",
+    no: 14,
+    topik: "Kenapa Emas",
+    tajuk: "Pendeposit Lubnan Merayu Simpanan Sendiri 2019–2022 & Analogi Token Dobi",
+    tags: ["krisis", "anak"],
+    persona: "BEIRUT, LUBNAN (2019–2022) · ANALOGI TOKEN MESIN DOBI: KERTAS BERGANTUNG JAMINAN, EMAS BERDIRI SENDIRI",
+    hook: "GAMBAR RAKYAT LUBNAN MENANGIS DI LUAR PINTU BANK BEIRUT SEJAK 2019 INI MERUNTUN HATI... KENAPA MEREKA TIDAK DIBENARKAN MENGELUARKAN DUIT GAJI MEREKA SENDIRI?",
+    teks: `Gambar rakyat biasa di Beirut, Lubnan yang terpaksa merayu dan mengadakan bantahan di hadapan pintu bank sejak tahun 2019 hingga ke hari ini adalah satu tragedi kewangan moden yang benar-benar berlaku!
+
+Apabila krisis kecairan melanda negara itu, mata wang Pound Lubnan kehilangan lebih 90 peratus daripada nilainya!
+
+Lebih menyedihkan, pihak bank mengenakan sekatan ketat sehingga pendeposit yang mempunyai puluhan ribu dolar wang simpanan sendiri tidak dibenarkan mengeluarkan wang mereka untuk membayar kos pembedahan hospital ibu bapa atau yuran pengajian anak!
+
+Bayangkan perasaan kita apabila nombor simpanan masih tertera di atas skrin aplikasi bank, tetapi duit itu terkunci rapat dan nilai kertasnya pula hancur!
+
+Sebab itu pesan guru saya, Tn Mohd Zulkifli Shafie, ingat semula analogi token mesin dobi layan diri!
+
+Wang kertas dan angka digital di dalam sistem hanya bernilai selagi sistem dan institusi yang menjaminnya berjalan lancar.
+
+Apabila sistem itu bermasalah, token tersebut tidak lagi mampu membeli apa-apa di dunia luar.
+
+Sebaliknya, penduduk yang mengasingkan sebahagian pendapatan mereka ke dalam bentuk kepingan emas fizikal masih mampu mencairkan emas tersebut pada nilai pasaran dunia yang sebenar.
+
+Cuba komen, apa perasaan anda kalau duit titik peluh sendiri disekat pengeluarannya?
+
+Lindungi keluarga anda daripada risiko sistemik dengan memegang aset emas yang Hakiki!`
+  },
+  {
+    id: 1314,
+    siri: "Kisah-02",
+    no: 15,
+    topik: "Keluarga",
+    tajuk: "Warga Emas Menangis Di ATM Greece 2015 & Had Pengeluaran 60 Euro",
+    tags: ["dinar", "kecemasan", "tunai"],
+    persona: "ATHENS & THESSALONIKI, GREECE (2015) · GOLONGAN KETIGA: ORANG BERHARTA WAJIB ADA RIZAB EMAS FIZIKAL DI TANGAN",
+    hook: "GAMBAR PESARA BERUSIA 77 TAHUN TERDUDUK MENANGIS DI HADAPAN BANK DI GREECE PADA JULAI 2015 INI TULAR KE SELURUH DUNIA... KENAPA DUIT PENCENNYA DISEKAT?",
+    teks: `Gambar seorang pesara warga emas terduduk menangis di atas lantai di luar sebuah bank di Greece sambil memegang buku akaun dan kad pengenalannya pada Julai 2015 ini pernah menyentuh hati jutaan manusia!
+
+Beliau beratur berjam-jam semata-mata mahu mengeluarkan duit pencen isterinya sebanyak 120 Euro untuk membeli ubat dan makanan.
+
+Tetapi pada 28 Jun 2015, kerajaan Greece telah menutup semua bank dan melaksanakan kawalan modal yang mengehadkan pengeluaran ATM kepada hanya 60 Euro sehari!
+
+Warga emas yang tidak mempunyai kad ATM atau yang memerlukan tunai kecemasan terpaksa pulang dengan tangan kosong walaupun mereka mempunyai wang simpanan yang cukup di dalam akaun!
+
+Peristiwa di sebuah negara maju Eropah ini membuktikan bahawa kawalan modal boleh dilaksanakan pada bila-bila masa.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, jangan biarkan kesemua dana hari tua dan kecemasan kita tersimpan seratus peratus dalam bentuk angka perbankan!
+
+Sediakan sekurang-kurangnya 10 hingga 15 peratus kekayaan bersih keluarga dalam bentuk kepingan emas fizikal yang kita simpan sendiri.
+
+Waktu mesin ATM dihadkan pengeluarannya, kepingan dinar dan jongkong emas di tangan kita tidak pernah tertakluk kepada had pengeluaran harian.
+
+Cuba komen, adakah anda rasa duit pencen dalam bentuk tunai semata-mata sudah cukup selamat?
+
+Bina ketenangan hari tua anda bermula hari ini dengan mengumpul simpanan emas Fizikal!`
+  },
+  {
+    id: 1315,
+    siri: "Kisah-02",
+    no: 16,
+    topik: "Kewangan Peribadi",
+    tajuk: "James Marshall Menjumpai Emas 1848 Tetapi Mati Miskin & Kunci Ilmu",
+    tags: ["hutang", "g100", "sejarah", "kilang", "tunai"],
+    persona: "COLOMA, CALIFORNIA, AS (1848–1885) · ASAS KEEMPAT PELABURAN EMAS: ILMU KEWANGAN ADALAH KUNCI KEKAYAAN SEBENAR",
+    hook: "GAMBAR LELAKI BERDIRI DI HADAPAN KILANG PAPAN SUTTER'S MILL TAHUN 1848 INI ADALAH PENEMU EMAS PERTAMA CALIFORNIA... TAPI KENAPA BELIAU MENINGGAL DUNIA DALAM KEMISKINAN?",
+    teks: `Potret lelaki bernama James Wilson Marshall di hadapan kilang papan Sutter's Mill, California ini merakamkan satu ironi paling besar dalam sejarah kekayaan dunia!
+
+Pada pagi 24 Januari 1848, tukang kayu inilah manusia pertama yang ternampak ketulan emas berkilau di dasar sungai American River sehingga mencetuskan Demam Emas California yang melahirkan ribuan jutawan!
+
+Secara logiknya, orang pertama yang menjumpai lubuk emas terbesar di Amerika pasti menjadi bilionair, bukan?
+
+Tetapi hakikat sejarah amat mengejutkan: James Marshall dan pemilik tanahnya, John Sutter, kedua-duanya gagal menguruskan harta dan akhirnya meninggal dunia dalam keadaan miskin dan muflis!
+
+Kenapa orang yang berdiri di atas lombong emas boleh jatuh miskin?
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, ingat prinsip keempat pelaburan emas: bukan emas itu sendiri yang menjadikan kita kaya, tetapi ilmu pengurusan kewangan kita!
+
+Tanpa ilmu yang betul, orang yang memegang emas sekalipun boleh tertipu dengan spekulasi, gagal menjaga aliran tunai, atau terjebak dengan hutang jahat.
+
+Sebab itulah di dalam rangkaian G100 Network Public Gold, perkara pertama yang kami tekankan bukanlah membeli emas secara membabi buta, tetapi membaca buku dan menghadiri sesi ilmu secara konsisten.
+
+Cuba komen, apakah satu ilmu emas paling berharga yang anda dah belajar setakat ini?
+
+Kukuhkan tabungan anda dengan bimbingan mentor dan ilmu kewangan yang Betul!`
+  },
+  {
+    id: 1316,
+    siri: "Kisah-02",
+    no: 17,
+    topik: "Kenapa Emas",
+    tajuk: "Arahan Eksekutif 6102 Tahun 1933 & Penurunan Nilai Dolar 40 Peratus",
+    tags: ["hutang", "krisis", "sejarah"],
+    persona: "WASHINGTON, D.C., AMERIKA SYARIKAT (1933–1934) · SEJARAH PENCAIRAN NILAI MATA WANG KERTAS OLEH KERAJAAN",
+    hook: "GAMBAR POSTER ARAHAN PRESIDEN ROOSEVELT PADA 5 APRIL 1933 INI MEMAKSA RAKYAT MENUKAR EMAS KEPADA KERTAS... TAPI APA YANG BERLAKU SETAHUN KEMUDIAN?",
+    teks: `Gambar dokumen rasmi Arahan Eksekutif 6102 yang ditandatangani oleh Presiden Amerika Syarikat, Franklin D. Roosevelt, pada 5 April 1933 ini mendedahkan bagaimana kuasa beli wang kertas boleh dicairkan dengan sebatang pen!
+
+Di bawah arahan tersebut, rakyat diarahkan menyerahkan syiling dan jongkong emas mereka kepada bank pada kadar tetap 20 dolar 67 sen bagi setiap satu auns emas.
+
+Namun sebaik sahaja emas selesai dikumpulkan pada awal tahun 1934, kerajaan Amerika meluluskan Akta Rizab Emas yang menaikkan harga rasmi emas kepada 35 dolar seauns!
+
+Apakah maksud tindakan tersebut kepada orang ramai yang memegang wang kertas Dolar?
+
+Dalam masa satu malam sahaja, nilai kuasa beli wang kertas Dolar di dalam poket rakyat telah diturunkan sebanyak lebih 40 peratus berbanding emas!
+
+Sejak tahun 1933 sehingga hari ini, harga satu auns emas dalam Dolar Amerika telah meningkat daripada 20 dolar kepada ribuan dolar seauns.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jangan tertipu apabila melihat nombor wang kertas di dalam akaun kita kekal sama.
+
+Sejarah membuktikan bahawa apabila kerajaan berdepan beban hutang atau krisis ekonomi, jalan paling mudah adalah dengan mencairkan nilai mata wang kertas!
+
+Cuba komen, anda rasa kuasa beli wang kertas kita 10 tahun akan datang makin kuat atau makin lemah?
+
+Tukarkan simpanan jangka panjang anda kepada emas kerana nilai wang kertas pasti Susut!`
+  },
+  {
+    id: 1317,
+    siri: "Kisah-02",
+    no: 18,
+    topik: "Public Gold & GAP",
+    tajuk: "Persidangan 44 Negara Di Bretton Woods 1944 & Mengapa Dunia Pilih Emas",
+    tags: ["rumah", "1971", "perang"],
+    persona: "BRETTON WOODS, NEW HAMPSHIRE, AS (1944) · SEJARAH BRETTON WOODS 1944 & KEDUDUKAN EMAS SEBAGAI SANDARAN KEWANGAN",
+    hook: "GAMBAR 730 DELEGASI DARI 44 NEGARA BERKUMPUL DI HOTEL MOUNT WASHINGTON PADA JULAI 1944 INI MEMBENTUK EKONOMI MODEN... KENAPA MEREKA WAJIBKAN SANDARAN EMAS?",
+    teks: `Gambar bersejarah 730 orang delegasi daripada 44 buah negara yang berkumpul di Hotel Mount Washington, Bretton Woods pada Julai 1944 ini adalah detik kelahiran sistem kewangan dunia selepas Perang Dunia Kedua!
+
+Selepas melihat kehancuran ekonomi akibat pencetakan wang kertas perang, para pemimpin dunia duduk semeja selama tiga minggu untuk mencari satu asas kepercayaan yang tidak boleh dimanipulasi.
+
+Apakah satu-satunya aset yang dipersetujui oleh kesemua 44 negara untuk dijadikan tiang seri mata wang dunia?
+
+Jawapannya ialah emas fizikal pada kadar 35 dolar Amerika bagi setiap satu auns troy emas!
+
+Semua mata wang dunia diikat kepada Dolar, manakala Dolar wajib disandarkan kepada emas fizikal.
+
+Namun selepas perjanjian ini dibatalkan pada tahun 1971, tiada lagi mana-mana mata wang kertas di dunia yang mempunyai sandaran emas!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, kalau kerajaan dunia sudah tidak lagi menyandarkan mata wang kertas kita kepada emas, maka kitalah yang wajib membina sandaran emas sendiri untuk keluarga kita!
+
+Jangan tunggu sistem kewangan kembali kepada standard emas, sebaliknya wujudkan standard emas peribadi di dalam rumah kita.
+
+Cuba komen, berapa peratus daripada simpanan anda hari ini yang disandarkan kepada emas fizikal?
+
+Jadilah menteri kewangan yang bijak untuk keluarga anda dengan menjadikan emas sebagai Sandaran!`
+  },
+  {
+    id: 1318,
+    siri: "Kisah-02",
+    no: 19,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Charles Ponzi & Penipuan Kupon Pos 1920 Vs Prinsip Beli Emas Dapat Emas",
+    tags: ["penipuan", "palsu", "scam", "skim", "tunai"],
+    persona: "BOSTON, MASSACHUSETTS, AS (1920) · TOLAK SKIM CEPAT KAYA: EMAS FIZIKAL TIADA DIVIDEN BULANAN TETAP",
+    hook: "GAMBAR LELAKI TERSENYUM MEMAKAI TOPI JERAMI DI BOSTON PADA TAHUN 1920 INI MENIPU PULUHAN RIBU PELABUR... KENAPA NAMA BELIAU KEKAL MENJADI ISTILAH SCAM HARI INI?",
+    teks: `Gambar lelaki berpakaian segak dengan senyuman manis di Boston pada tahun 1920 ini ialah Charles Ponzi, manusia yang namanya kekal menjadi istilah Skim Ponzi sehingga ke hari ini!
+
+Pada awal tahun 1920, Ponzi menjanjikan pulangan keuntungan luar biasa sebanyak 50 peratus hanya dalam tempoh 45 hari kononnya melalui urus niaga kupon balasan pos antarabangsa!
+
+Akibat gelap mata dengan janji pulangan tetap yang pantas, ribuan penduduk termasuk anggota polis dan ahli perniagaan beratur menyerahkan berjuta-juta dolar wang simpanan mereka.
+
+Hakikatnya, Ponzi langsung tidak membeli kupon pos tersebut, sebaliknya hanya mengambil duit pelabur baharu untuk membayar pelabur lama sehingga skim itu runtuh pada Ogos 1920!
+
+Walaupun sudah lebih seratus tahun berlalu, modus operandi yang sama masih digunakan oleh sindiket scam emas palsu hari ini.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, ingat betul-betul: emas fizikal tidak pernah memberikan dividen, hibah, atau pulangan tunai tetap setiap bulan!
+
+Sesiapa sahaja yang menawarkan pelaburan emas dengan janji bayaran bulanan tetap sebenarnya sedang menjalankan skim cepat kaya bertopengkan emas.
+
+Keuntungan emas sebenar hanya diperoleh melalui kenaikan nilai berat emas fizikal yang kita pegang sendiri.
+
+Cuba komen, apakah tanda paling jelas sesuatu pelaburan itu adalah scam pada pandangan anda?
+
+Lindungi titik peluh anda dengan berpegang teguh kepada jual beli emas Fizikal!`
+  },
+  {
+    id: 1319,
+    siri: "Kisah-02",
+    no: 20,
+    topik: "Kewangan Peribadi",
+    tajuk: "Keruntuhan Enron 2001 & Lesapnya Pencen Pekerja Vs Formula 10% Kekayaan",
+    tags: ["saham", "krisis", "penipuan", "sejarah"],
+    persona: "HOUSTON, TEXAS, AS (2001) · FORMULA 10% - 15% KEKAYAAN BERSIH DALAM EMAS FIZIKAL (INSURANS HARTA)",
+    hook: "GAMBAR BANGUNAN KACA ENRON DI HOUSTON PADA DISEMBER 2001 INI MENJADI SAKSI TANGISAN 20,000 PEKERJA... BAGAIMANA DANA PERSARAAN RM8 BILION LESAP DALAM SEHARI?",
+    teks: `Gambar ibu pejabat syarikat tenaga gergasi Amerika, Enron Corporation, di Houston pada Disember 2001 ini merakamkan salah satu tragedi persaraan paling menyedihkan dalam sejarah korporat!
+
+Enron pernah dinobatkan sebagai syarikat paling inovatif di Amerika selama enam tahun berturut-turut dengan nilai saham mencecah 90 dolar seunit.
+
+Kerana terlalu yakin, ribuan pekerja Enron meletakkan hampir keseluruhan tabung persaraan 401(k) mereka di dalam saham syarikat itu sendiri!
+
+Namun apabila penipuan perakaunan syarikat terbongkar pada penghujung 2001, harga saham Enron jatuh menjunam kepada beberapa sen sahaja dan lebih 2 bilion dolar dana pencen pekerja lesap menjadi sifar!
+
+Ramai warga emas yang sepatutnya bersara tenang terpaksa kembali mencari kerja pada usia 60-an.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, sehebat mana pun pelaburan kertas atau saham yang kita miliki, jangan sesekali meletakkan semua telur di dalam satu bakul!
+
+Ikut saranan pakar kewangan dengan mengasingkan sekurang-kurangnya 10 hingga 15 peratus daripada nilai kekayaan bersih kita ke dalam bentuk emas fizikal.
+
+Jika berlaku sebarang keruntuhan pasaran saham atau krisis korporat, rizab emas fizikal itu kekal berdiri teguh kerana ia tidak bergantung kepada prestasi mana-mana syarikat.
+
+Cuba komen, adakah tabungan hari tua anda sudah dipelbagaikan ke dalam aset emas?
+
+Asingkan 10 peratus kekayaan anda kepada emas fizikal hari ini supaya masa depan persaraan kekal Terlindung!`
+  },
+  {
+    id: 1320,
+    siri: "Kisah-02",
+    no: 21,
+    topik: "Strategi Emas",
+    tajuk: "5,780 Peti Besi Hanyut Tsunami Jepun 2011 & Integriti Platform Emas",
+    tags: ["gap", "rumah", "sejarah", "syariah", "tunai"],
+    persona: "WILAYAH TOHOKU, JEPUN (2011) · KETAHANAN FIZIKAL EMAS & KEPENTINGAN INTEGRITI SYARIKAT (PUBLIC GOLD)",
+    hook: "GAMBAR RIBUAN PETI BESI YANG HANYUT DI PANTAI JEPUN SELEPAS TSUNAMI MAC 2011 INI MENGEJUTKAN POLIS... TAPI APA YANG DITEMUI DI DALAMNYA DAN APA YANG DILAKUKAN RAKYAT JEPUN?",
+    teks: `Selepas ombak besar Tsunami melanda wilayah Tohoku, Jepun pada 11 Mac 2011, pihak polis Jepun berdepan satu fenomena yang tidak pernah berlaku dalam sejarah dunia!
+
+Sebanyak lebih 5,780 buah peti besi peribadi dari rumah-rumah penduduk yang musnah telah hanyut ke pantai dan dikutip oleh pasukan penyelamat serta orang awam.
+
+Apabila dibuka, peti-peti besi itu mengandungi wang tunai dan jongkong emas simpanan penduduk bernilai lebih 2.3 bilion Yen!
+
+Walaupun wang kertas di dalamnya basah kuyup dan berlumpur, jongkong emas kekal utuh, malah kejujuran rakyat Jepun memulangkan semula hampir kesemua harta tersebut kepada pemilik asal membuatkan dunia tunduk hormat!
+
+Kisah benar ini mengajar kita dua perkara besar tentang simpanan emas.
+
+Pertama, aset fizikal tidak akan lenyap walaupun rumah kita diuji bencana.
+
+Kedua, pesan guru saya, Tn Mohd Zulkifli Shafie, apabila kita memilih platform untuk menabung emas seperti Akaun Emas GAP, faktor paling utama yang wajib dilihat ialah integriti dan amanah syarikat!
+
+Public Gold telah berdiri teguh sejak tahun 2008 dengan rekod bersih, disahkan patuh syariah oleh Amanie Advisors, dan setiap gram emas pelanggan disimpan dengan penuh amanah.
+
+Cuba komen, apakah ciri paling penting yang anda cari sebelum mula menabung di sesuatu platform?
+
+Pilihlah platform simpanan emas fizikal yang terbukti kukuh, berintegriti, dan Telus!`
+  },
+  {
+    id: 1321,
+    siri: "Kisah-02",
+    no: 22,
+    topik: "Kenapa Emas",
+    tajuk: "Penemuan 5 Kilogram Emas 'Staffordshire Hoard' 2009 & Nilai Merentas Alaf",
+    tags: ["rumah", "anak", "sejarah"],
+    persona: "HAMMERWICH, STAFFORDSHIRE, UK (2009) · EMAS TIDAK REPUT DIMAKAN TANAH & KEKAL BERNILAI TINGGI",
+    hook: "GAMBAR LELAKI MENGELUARKAN RIBUAN KEPINGAN EMAS DARI TANAH LADANG DI ENGLAND PADA JULAI 2009 INI BERNILAI RM18 JUTA... KENAPA EMAS ITU TIDAK ROSAK SELEPAS 1,300 TAHUN?",
+    teks: `Gambar seorang pencari logam amatur bernama Terry Herbert yang menemui ribuan kepingan artifak emas di sebuah ladang di Staffordshire, England pada Julai 2009 ini mencipta sejarah arkeologi terbesar di Britain!
+
+Khazanah daripada zaman Anglo-Saxon abad ke-7 itu mengandungi lebih 5 kilogram emas tulen dan dinilai pada harga 3.285 juta Paun, iaitu sekitar RM18 juta!
+
+Bayangkan, emas tersebut telah tertanam di dalam tanah lembap dan berlumpur selama lebih seribu tiga ratus tahun!
+
+Semua sarung kulit, kain, dan besi pedang yang ditanam bersama-samanya telah hancur lebur dimakan tanah.
+
+Tetapi sebaik sahaja lumpur dibersihkan, emas itu masih memancarkan kilauan kuning keemasan yang sama seperti hari pertama ia ditempa!
+
+Cuba kita tanya diri sendiri, kalau kita tanam seikat wang kertas RM100 di belakang rumah selama sepuluh tahun sahaja, apa yang tinggal apabila digali semula?
+
+Hancur dimakan anai-anai dan kelembapan tanah!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, itulah perbezaan mutlak antara kekayaan buatan manusia dengan logam mulia ciptaan Tuhan.
+
+Orang yang menyimpan emas sebenarnya sedang mengunci kuasa beli mereka di dalam unsur yang tidak boleh dimusnahkan oleh masa.
+
+Cuba komen, berapa gram emas yang anda nak tinggalkan sebagai warisan anak cucu nanti?
+
+Simpanlah harta di dalam bentuk logam mulia yang nilainya sentiasa Kekal!`
+  },
+  {
+    id: 1322,
+    siri: "Kisah-02",
+    no: 23,
+    topik: "Kenapa Emas",
+    tajuk: "Eric Lawes Cari Tukul Hilang Jumpa 14,865 Syiling Rom & Nilai Emas Abadi",
+    tags: ["perang"],
+    persona: "HOXNE, SUFFOLK, ENGLAND (1992) · BUKAN EMAS MAKIN MAHAL, TETAPI NILAI KERTAS YANG MAKIN SUSUT",
+    hook: "GAMBAR PESARA DI ENGLAND YANG HANYA MAHU MENCARI TUKUL BESI HILANG PADA TAHUN 1992 INI MENGEJUTKAN DUNIA... KENAPA DIA TERJUMPA PETI HARTA EMPAYAR ROM?",
+    teks: `Pada 16 November 1992, seorang pesara tukang kebun bernama Eric Lawes berjalan ke sebuah ladang di kampung Hoxne, England dengan alat pengesan logam semata-mata untuk membantu rakannya mencari sebatang tukul besi yang tercicir!
+
+Tetapi bukannya tukul besi sahaja yang dijumpai, alat pengesannya berbunyi kuat di atas sebuah peti kayu oak yang telah reput dari zaman Empayar Rom abad ke-5!
+
+Di dalamnya tersimpan khazanah Hoxne Hoard yang mengandungi 14,865 keping syiling emas dan perak serta gelang emas tulen yang ditanam lebih seribu enam ratus tahun dahulu!
+
+Keluarga bangsawan Rom yang menanam peti itu ketika perang tidak sempat kembali mengambilnya, namun selepas 16 abad berlalu, syiling emas Solidus di dalamnya tetap bernilai jutaan Paun!
+
+Empayar Rom yang begitu gagah sudah lama runtuh, dan undang-undang kewangan mereka sudah tiada lagi.
+
+Tetapi kenapa syiling emas mereka masih menjadi rebutan muzium dan hartawan dunia hari ini?
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, emas tidak memerlukan cop kerajaan yang masih memerintah untuk mengekalkan nilainya!
+
+Walaupun zaman berubah dan empayar berganti, satu gram emas tetap satu gram emas.
+
+Kita menabung emas supaya titik peluh kerja keras kita hari ini tidak hilang ditelan perubahan zaman.
+
+Cuba komen, kalau anda terjumpa harta karun macam ni, apa perkara pertama anda buat?
+
+Mulakan tabungan emas fizikal anda sendiri hari ini supaya nilai harta keluarga kekal Utuh!`
+  },
+  {
+    id: 1323,
+    siri: "Kisah-02",
+    no: 24,
+    topik: "Kenapa Emas",
+    tajuk: "8 Tin Berkarat Berisi USD 10 Juta Syiling Emas California & Kuasa Simpanan",
+    tags: ["inflasi", "dinar", "isteri", "tunai"],
+    persona: "SIERRA NEVADA, CALIFORNIA, AS (2013) · KENAIKAN NILAI JANGKA PANJANG EMAS MENGALAHKAN SIMPANAN NOMBOR",
+    hook: "GAMBAR LAPAN TIN BESI BERKARAT DI BAWAH POKOK DI CALIFORNIA PADA TAHUN 2013 INI NAMPAK SEPERTI SAMPAH LAMA... TAPI KENAPA ISINYA BERNILAI LEBIH RM44 JUTA?",
+    teks: `Gambar lapan buah tin logam berkarat yang ditemui terjulur sedikit dari tanah oleh sepasang suami isteri ketika membawa anjing bersiar-siar di halaman tanah mereka di California pada tahun 2013 ini mencipta rekod penemuan terbesar di Amerika!
+
+Apabila tin berkarat itu dikorek dan dibuka, pasangan tersebut hampir pengsan melihat isinya!
+
+Di dalamnya tersusun rapi 1,427 keping syiling emas tulen Amerika yang ditempa antara tahun 1847 hingga 1894!
+
+Perhatikan fakta matematik yang sangat menarik ini.
+
+Nilai muka asal yang tertulis pada kesemua syiling emas tersebut apabila dijumlahkan hanyalah sekitar 27,980 dolar.
+
+Tetapi kerana ia adalah syiling emas fizikal yang tulen dan terpelihara, nilai pasarannya apabila ditemui semula telah melonjak mencecah 10 juta dolar Amerika, iaitu lebih RM44 juta!
+
+Sekiranya pemilik asal pada abad ke-19 dahulu hanya menanam 27,000 dolar wang kertas di dalam tin yang sama, nilainya hari ini sudah hancur dimakan inflasi dan reput!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, orang yang menyimpan nombor wang kertas hanya mengekalkan angka, tetapi orang yang menyimpan emas fizikal sedang memelihara dan menggandakan kuasa beli!
+
+Cuba komen, anda lebih yakin simpan duit kertas atau simpan syiling Dinar emas untuk jangka panjang?
+
+Tukarkan lebihan tunai anda kepada emas fizikal supaya nilainya terus bertahan dan Berganda!`
+  },
+  {
+    id: 1324,
+    siri: "Kisah-02",
+    no: 25,
+    topik: "Kenapa Emas",
+    tajuk: "Kapal Karam 'SS Central America' 1857 & Emas Jatuh Tetap Emas",
+    tags: ["krisis", "ringgit"],
+    persona: "PANTAI CAROLINA SELATAN, AS (1857–1988) · DUIT JATUH JADI KERTAS, EMAS JATUH KE DASAR LAUT TETAP EMAS",
+    hook: "GAMBAR ROBOT BAWAH LAUT MENYULUH TIMBUNAN JONGKONG EMAS SEBERAT DUA TAN PADA KEDALAMAN 7,200 KAKI TAHUN 1988 INI MENAKJUBKAN... APA YANG BERLAKU PADA TAHUN 1857?",
+    teks: `Gambar kamera robot bawah laut yang menyuluh ratusan jongkong dan ribuan syiling emas yang digelar Taman Emas pada kedalaman 7,200 kaki di dasar Lautan Atlantik pada tahun 1988 ini mengejutkan dunia!
+
+Khazanah itu datang daripada kapal wap SS Central America yang karam dipukul taufan pada 12 September 1857 ketika membawa emas dari California ke New York.
+
+Apabila kapal itu tenggelam pada tahun 1857, bank-bank di New York yang menunggu bekalan emas tersebut kehilangan kecairan sehingga mencetuskan Krisis Panik Kewangan 1857!
+
+Namun 131 tahun kemudian, apabila jurutera Tommy Thompson menaikkan semula lebih dua tan jongkong emas tersebut dari dasar laut yang gelap dan sejuk, setiap ketul jongkong itu masih bernilai ratusan juta dolar!
+
+Bandingkan nasib wang kertas bank yang muflis pada tahun 1857 dengan jongkong emas yang tenggelam di dasar laut itu.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, duit kertas apabila nilainya jatuh, orang akan lari meninggalkannya kerana ia hanyalah kertas!
+
+Tetapi emas, walaupun harganya jatuh di pasaran atau tenggelam 130 tahun di dasar lautan sekalipun, manusia tetap sanggup membina kapal selam berjuta ringgit untuk mencarinya kerana ia tetap emas!
+
+Nilai emas tidak pernah bergantung kepada nasib mana-mana kapal atau bank.
+
+Cuba komen, kenapa agaknya manusia sejak ribuan tahun tak pernah berhenti mencari emas?
+
+Kukuhkan tabungan anda kerana walau apa pun badai ekonomi yang melanda, emas tetaplah Emas!`
+  },
+  {
+    id: 1325,
+    siri: "Kisah-02",
+    no: 26,
+    topik: "Public Gold & GAP",
+    tajuk: "Operasi Malam Bank Negara Poland Terbangkan 100 Tan Emas 2019 & Hak Fizikal GAP",
+    tags: ["gap", "rumah", "dinar", "999"],
+    persona: "LONDON KE WARSAW, POLAND (2019) · AKAUN EMAS GAP: KEMUDAHAN SIMPAN PERCUMA & BOLEH KELUARKAN FIZIKAL",
+    hook: "GAMBAR LAPAN PENERBANGAN RAHSIA WAKTU MALAM YANG MENGANGKUT 8,000 JONGKONG EMAS KE WARSAW PADA TAHUN 2019 INI BUKAN FILEM AKSI... KENAPA POLAND BAWA PULANG EMASNYA?",
+    teks: `Pada November 2019, Bank Negara Poland mendedahkan bahawa mereka baru sahaja menyelesaikan satu operasi logistik rahsia pada waktu malam melibatkan lapan buah pesawat kargo dan kawalan komando bersenjata!
+
+Apakah yang diangkut di dalam lapan pesawat tersebut?
+
+Sebanyak 8,000 ketul jongkong emas seberat 100 tan bernilai berbilion dolar telah dibawa pulang dari bilik kebal di London terus ke bilik kebal negara mereka sendiri di Warsaw!
+
+Malah sehingga tahun 2026, Poland terus menambah rizab emas fizikalnya melebihi 550 tan sebagai perisai keselamatan ekonomi negara!
+
+Kenapa bank pusat negara Eropah sendiri berkeras mahu memastikan emas mereka boleh dikeluarkan dan disimpan secara fizikal?
+
+Kerana mereka faham prinsip paling asas: emas yang sebenar mestilah wujud secara fizikal dan boleh dituntut!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, prinsip yang sama wajib kita gunakan apabila menabung emas untuk keluarga kita.
+
+Melalui Akaun Emas GAP Public Gold, anda boleh menabung emas 999.9 secara percuma serendah RM100, dan bila-bila masa sahaja anda boleh menuntut kepingan jongkong atau dinar fizikal terus ke tangan anda!
+
+Jangan terperangkap dengan akaun emas kertas yang tidak membenarkan pengeluaran fizikal.
+
+Cuba komen, saiz jongkong emas berapa gram yang paling anda suka simpan di rumah?
+
+Pastikan setiap gram tabungan emas anda boleh dikeluarkan dan dipegang di tangan Sendiri!`
+  },
+  {
+    id: 1326,
+    siri: "Kisah-02",
+    no: 27,
+    topik: "Public Gold & GAP",
+    tajuk: "Kesilapan Warren Buffett Beli Kilang Tekstil 1965 & Kisah Cikgu Syahrul",
+    tags: ["hutang", "gaji", "rumah", "kilang", "tunai"],
+    persona: "NEW BEDFORD, MASSACHUSETTS, AS (1965) · KISAH KEJAYAAN CIKGU SYAHRUL & EN AZLAN: ALIHKAN DUIT BOCOR KEPADA ASET KUKUH",
+    hook: "GAMBAR KILANG KAIN LAMA BERKSHIRE HATHAWAY TAHUN 1965 INI DISEBUT OLEH WARREN BUFFETT SEBAGAI KESILAPAN TERBESARNYA... TAPI BAGAIMANA BELIAU MENUKARNYA JADI EMPAYAR?",
+    teks: `Gambar bangunan kilang tekstil lama bernama Berkshire Hathaway di Massachusetts pada tahun 1965 ini menyimpan satu pengajaran besar daripada pelabur terkaya dunia, Warren Buffett!
+
+Ramai tidak tahu bahawa pada asalnya, membeli kilang kain yang sedang tenat itu adalah satu kesilapan kerana industri tekstil ketika itu sentiasa menelan modal dan bocor!
+
+Tetapi apa tindakan bijak yang menyelamatkan Warren Buffett?
+
+Beliau berhenti mengepam duit ke dalam mesin tekstil yang bocor, sebaliknya mengalihkan aliran tunai syarikat untuk membeli aset-aset kukuh yang meningkat nilainya sehingga menjadi syarikat gergasi bernilai ratusan bilion dolar!
+
+Dalam kehidupan harian kita, poket dan akaun bank yang bocor adalah umpama kilang tekstil lama tadi!
+
+Selagi kita tidak mengubah cara kita menyimpan, gaji naik sebanyak mana pun tetap akan habis.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, lihatlah kisah benar sahabat penyimpan emas kami seperti Cikgu Syahrul yang berjaya membeli tanah lot rumah secara tunai, dan Encik Azlan yang berjaya melangsaikan baki pinjaman rumah RM160,000!
+
+Rahsia mereka hanyalah satu: mereka berhenti membiarkan duit gaji bocor dalam bentuk tunai, dan mula mengalihkannya kepada gram emas secara konsisten setiap bulan.
+
+Cuba komen, apakah satu komitmen hutang yang paling anda teringin nak langsaikan cepat?
+
+Tampal kebocoran poket anda dengan simpanan emas hari ini demi mencapai hidup yang Bebas!`
+  },
+  {
+    id: 1327,
+    siri: "Kisah-02",
+    no: 28,
+    topik: "Kewangan Peribadi",
+    tajuk: "Walter Thornton Menjual Kereta Mewah USD 100 Tahun 1929 & Bahaya Hutang",
+    tags: ["susut nilai", "hutang", "saham", "ringgit", "kecemasan", "tunai"],
+    persona: "NEW YORK, AMERIKA SYARIKAT (1929) · KAYA SEBENAR DIUKUR PADA SIMPANAN BERSIH, BUKAN GAYA HIDUP BERHUTANG",
+    hook: "GAMBAR LELAKI BERDIRI DI TEPI KERETA MEWAH DENGAN PAPAN TANDA '$100 TUNAI' PADA 30 OKTOBER 1929 INI SANGAT IKONIK... KENAPA KERETA MAHAL DIJUAL HARGA LELONG?",
+    teks: `Gambar terkenal seorang lelaki berpakaian kemas bernama Walter Thornton yang berdiri di tepi kereta sport mewahnya di New York dengan papan tanda bertulis: Seratus Dolar Tunai Akan Membeli Kereta Ini, Kerana Kehilangan Semua Wang Di Pasaran Saham pada Oktober 1929 ini menjadi pengajaran sepanjang zaman!
+
+Sehari sebelum kejatuhan Wall Street, beliau nampak seperti orang kaya yang memiliki kereta idaman ramai.
+
+Tetapi apabila pasaran saham runtuh dan panggilan margin hutang sampai, beliau terpaksa melelong kereta mewah kesayangannya demi mendapatkan wang tunai seratus dolar dengan segera!
+
+Situasi tahun 1929 ini sebenarnya sedang berlaku di sekeliling kita setiap hari.
+
+Ramai orang nampak mewah memandu kereta mahal dan memakai barang berjenama, tetapi hakikatnya semuanya dibeli dengan hutang dan mereka tiada walau seribu ringgit pun dana kecemasan!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, jangan sesekali mengukur kekayaan seseorang melalui kereta yang dipandu, kerana kereta mewah memakan duit kita setiap bulan.
+
+Sebaliknya, ukurlah kekayaan melalui berapa banyak aset bersih dan berapa gram emas fizikal bebas hutang yang tersimpan!
+
+Kereta mewah susut nilai sebaik keluar dari kedai, manakala emas fizikal memelihara nilai harta kita saban tahun.
+
+Cuba komen, antara kereta mewah berhutang dengan 100 gram emas bebas hutang, mana satu pilihan anda?
+
+Berhenti mengejar pujian manusia dan mulakan langkah membina kekayaan yang Sebenar!`
+  },
+  {
+    id: 1328,
+    siri: "Kisah-02",
+    no: 29,
+    topik: "Keluarga",
+    tajuk: "Ribut Debu Hitam 'Black Sunday' 1935 & Benteng 1 Kilogram Emas Keluarga",
+    tags: ["gaji", "sejarah"],
+    persona: "OKLAHOMA & TEXAS, AMERIKA SYARIKAT (1935) · SEDIAKAN PAYUNG KETIKA LANGIT CERAH: SASARAN 100G KE 1KG EMAS",
+    hook: "GAMBAR AWAN DEBU HITAM SETINGGI RATUSAN KAKI MENELAN BANDAR OKLAHOMA PADA 14 APRIL 1935 INI NAMPAK SEPERTI KIAMAT... BAGAIMANA LANGIT CERAH BERTUKAR GELAP DALAM SEMINIT?",
+    teks: `Gambar dinding ribut debu hitam raksasa yang menelan bandar dan ladang di Oklahoma pada petang 14 April 1935 ini dikenali dalam sejarah Amerika sebagai tragedi Black Sunday!
+
+Apa yang paling mengejutkan tentang hari tersebut ialah pada sebelah paginya, langit begitu biru, cerah, dan tenang sehingga ramai keluarga keluar berkelah selepas berminggu-minggu kemarau.
+
+Namun secara tiba-tiba pada jam empat petang, angin kencang 100 kilometer sejam membawa 300,000 tan debu tanah menukar waktu siang menjadi gelap gelita seperti tengah malam dalam masa beberapa minit sahaja!
+
+Ratusan ribu petani yang tiada simpanan rizab terpaksa meninggalkan tanah mereka kerana ladang musnah sama sekali.
+
+Begitulah juga sifat ujian ekonomi dan musibah di dalam kehidupan kita.
+
+Langit kewangan yang nampak cerah pada waktu pagi boleh berubah menjadi ribut gelap pada sebelah petang tanpa sebarang amaran!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, sediakan payung ketika langit masih cerah, dan bina bot penyelamat sebelum bahtera diuji ribut.
+
+Mulakan tabungan emas fizikal keluarga daripada 1 gram sebulan, capai sasaran 100 gram pertama, dan teruskan melangkah menuju impian 1 kilogram emas untuk 1 keluarga!
+
+Cuba komen, berapa gram sasaran tabungan emas keluarga anda untuk tempoh tiga tahun akan datang?
+
+Mulakan simpanan emas anda ketika gaji masih ada supaya keluarga sentiasa Bersedia!`
+  },
+  {
+    id: 1329,
+    siri: "Kisah-02",
+    no: 30,
+    topik: "Zakat & Syariah",
+    tajuk: "Uncang Syiling Emas Pompeii 79 Masihi & Legasi Warisan Arwah Tuan Muda",
+    tags: ["dealer", "g100"],
+    persona: "HERCULANEUM & POMPEII, ITALI (79 MASIHI) · EMAS ALAT CAPAI MATLAMAT & WARISAN PERNIAGAAN PUBLIC GOLD (KISAH ARWAH TUAN MUDA ABDUR RAHMAN)",
+    hook: "GAMBAR RANGKA MANUSIA MEMELUK UNCANG SYILING EMAS KETIKA LETUSAN GUNUNG BERAPI VESUVIUS TAHUN 79 MASIHI INI MENYENTUH HATI... APA ERTI SEBENAR SEBUAH KEKAYAAN?",
+    teks: `Penemuan arkeologi rangka penduduk di tapak bencana gunung berapi Vesuvius di Pompeii dan Herculaneum dari tahun 79 Masihi yang masih menggenggam uncang berisi syiling emas tulen selepas hampir dua ribu tahun ini memberikan satu renungan yang sangat mendalam!
+
+Syiling emas Rom itu memang kekal berkilau dan tidak terjejas walau sedikit pun oleh abu panas gunung berapi.
+
+Tetapi pemiliknya tidak dapat membawa harta tersebut ke alam abadi, melainkan apa yang telah diniatkan untuk kebaikan dan ditinggalkan buat waris yang hidup!
+
+Sebab itu pesan guru saya, Tn Mohd Zulkifli Shafie, emas bukanlah tuhan yang kita puja, tetapi emas adalah alat terbaik untuk kita menyempurnakan tanggungjawab keluarga dan memberi manfaat kepada orang ramai!
+
+Di dalam G100 Network, kami melihat sendiri kisah menyentuh hati arwah sahabat dealer kami, Tuan Muda Abdur Rahman Al-Amin, yang kembali ke rahmatullah pada usia muda 25 tahun.
+
+Hasil usaha beliau membimbing masyarakat menyimpan emas semasa hidupnya, sebulan selepas pemergian arwah, ibunya terus mewarisi pendapatan pasif bulanan antara RM5,000 hingga RM8,000 setiap bulan daripada Public Gold tanpa sebarang birokrasi rumit!
+
+Harta emas menyelamatkan keluarga, dan ilmu emas yang dikongsi menjadi pahala serta legasi berpanjangan.
+
+Cuba komen, apakah legasi terbaik yang anda impikan untuk ditinggalkan buat ibu bapa dan anak-anak?
+
+Binalah simpanan dan legasi emas anda hari ini supaya hidup kita lebih Bermanfaat!`
+  },
+  {
+    id: 1330,
+    siri: "Kisah-03",
+    no: 1,
+    topik: "Zakat & Syariah",
+    tajuk: "Wang Kertas 500 Bilion Dinar Nikola Tesla 1993 & Perangkap Simpan Nombor",
+    tags: ["inflasi", "dinar", "ringgit"],
+    persona: "BELGRADE, YUGOSLAVIA (1993–1994) · ORANG BIASA SIMPAN NOMBOR, ORANG BERILMU SIMPAN NILAI (GRAM EMAS)",
+    hook: "GAMBAR WANG KERTAS BERWAJAH SAINTIS NIKOLA TESLA BERNILAI 500 BILION DINAR TAHUN 1993 INI MEMEGANG REKOD PELIK... KENAPA DUIT RATUSAN BILION INI TAK MAMPU BELI SECAWAN KOPI?",
+    teks: `Gambar sekeping wang kertas bergambar saintis terkenal Nikola Tesla dengan angka 500 bilion Dinar dari Yugoslavia pada tahun 1993 ini nampak macam boleh menjadikan pemiliknya manusia paling kaya di dunia!
+
+Bayangkan di dalam dompet anda ada sekeping duit bernilai 500,000,000,000!
+
+Tetapi pada Januari 1994, kadar inflasi bulanan di Yugoslavia memuncak sehingga 313 juta peratus, menyebabkan harga barang di kedai naik dua kali ganda setiap 34 jam!
+
+Akibatnya, wang kertas 500 bilion Dinar itu langsung tidak cukup walau untuk membeli secawan kopi panas atau sebiji bawang di pasar!
+
+Rakyat yang menyimpan wang di dalam bank selama puluhan tahun melihat angka berbilion di dalam akaun mereka hilang kuasa beli sama sekali.
+
+Kisah benar ini menampar kesedaran kita yang terlalu seronok melihat nombor di dalam buku bank.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jangan sesekali tertipu dengan pertambahan nombor wang kertas semata-mata!
+
+Orang biasa sibuk mengumpul nombor, tetapi orang kaya dan berilmu sibuk mengumpul nilai sebenar iaitu berat gram emas fizikal.
+
+Satu gram emas tidak mempunyai angka sifar yang banyak, tetapi kuasa belinya kekal memelihara keluarga kita.
+
+Cuba komen, anda sekarang tengah fokus kumpul nombor ringgit atau kumpul berat gram?
+
+Alihkan lebihan simpanan anda kepada emas fizikal kerana kekayaan sebenar terletak pada Nilai!`
+  },
+  {
+    id: 1331,
+    siri: "Kisah-03",
+    no: 2,
+    topik: "Kenapa Emas",
+    tajuk: "Kerak Bumi & Emas 3.5 Bilion Tahun Di Pilbara & Unsur Kalis Ciptaan Manusia",
+    tags: ["sejarah"],
+    persona: "PILBARA, AUSTRALIA BARAT (2022–2026) · EMAS TIDAK BOLEH DICIPTA DARI TIADA & KALIS NILAI SIFAR",
+    hook: "GAMBAR BATUAN PURBA DI WILAYAH PILBARA AUSTRALIA INI BERUSIA LEBIH 3.5 BILION TAHUN... TAPI KENAPA SAINTIS MAKMAL MODEN MASIH GAGAL MENCIPTA SEBUTIR EMAS TULEN?",
+    teks: `Gambar formasi batuan purba di wilayah Pilbara, Australia Barat yang dikaji oleh penyelidik Universiti Curtin ini menyimpan sejarah bumi yang berusia lebih tiga bilion setengah tahun!
+
+Di celah-celah lapisan batu tertua di dunia itulah terbentuknya urat-urat emas tulen hasil hentaman meteorit dan tekanan geologi ekstrem sejak awal kewujudan bumi.
+
+Fikirkan satu fakta sains yang sangat menakjubkan ini!
+
+Pada zaman moden hari ini, manusia sudah berjaya mencipta berlian tiruan di dalam makmal, mencetak trilion wang kertas, dan membina beribu-ribu mata wang digital hanya dengan kod komputer.
+
+Tetapi sehingga saat ini, tiada seorang pun saintis atau bank pusat yang mampu mencipta emas tulen daripada tiada!
+
+Setiap gram emas yang wujud di tangan kita hari ini adalah unsur semula jadi yang terhad jumlahnya di perut bumi.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, kerana emas tidak boleh dicipta sesuka hati oleh manusia, maka nilainya tidak boleh dimusnahkan oleh kerakusan manusia mencetak wang!
+
+Apa sahaja yang mudah dicetak pasti akan jatuh nilainya, manakala apa yang sukar diperoleh akan terus meningkat nilainya.
+
+Cuba komen, antara benda buatan manusia dengan logam ciptaan semula jadi, mana satu lebih selamat disimpan?
+
+Peganglah emas fizikal sebagai benteng harta kerana keasliannya adalah anugerah mutlak ciptaan Tuhan!`
+  },
+  {
+    id: 1332,
+    siri: "Kisah-03",
+    no: 3,
+    topik: "Kenapa Emas",
+    tajuk: "Keruntuhan Silicon Valley Bank Dalam 48 Jam 2023 & Risiko Perbankan Moden",
+    tags: ["krisis", "bisnes", "tunai"],
+    persona: "SANTA CLARA, CALIFORNIA, AS (2023) · ANALOGI KAPAL TITANIC: SEBESAR MANA PUN BANK, TETAP WAJIB ADA LIFE BOAT EMAS",
+    hook: "GAMBAR USAHAWAN TEKNOLOGI BERATUR DI LUAR IBU PEJABAT SILICON VALLEY BANK PADA 10 MAC 2023 INI MENGGEMPARKAN DUNIA... BAGAIMANA BANK RM900 BILION RUNTUH DALAM 48 JAM?",
+    teks: `Gambar para pemilik syarikat teknologi beratur dengan wajah cemas di luar ibu pejabat Silicon Valley Bank di California pada pagi Jumaat, 10 Mac 2023 ini membuktikan betapa rapuhnya sistem kewangan moden!
+
+Silicon Valley Bank adalah bank ke-16 terbesar di Amerika Syarikat yang menguruskan aset bernilai lebih 209 bilion dolar, iaitu melebihi RM900 bilion!
+
+Namun hanya kerana khabar angin kecairan yang tersebar di media sosial, para pendeposit panik mengeluarkan 42 bilion dolar melalui telefon pintar dalam masa sehari sahaja!
+
+Dalam tempoh kurang 48 jam, bank gergasi itu tumbang dan diambil alih oleh pihak berkuasa!
+
+Peristiwa tahun 2023 ini membuktikan bahawa pada zaman perbankan digital, krisis bank boleh berlaku jauh lebih pantas daripada zaman dahulu.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, orang kaya dan usahawan yang menyimpan semua tunai mereka di dalam bank tanpa memiliki rizab emas fizikal ibarat menaiki kapal Titanic tanpa bot penyelamat!
+
+Jangan tunggu sistem perbankan tergendala baru kita kelam-kabut hendak mencari pelindung.
+
+Asingkan sebahagian keuntungan bisnes dan simpanan keluarga ke dalam bentuk jongkong emas fizikal.
+
+Cuba komen, adakah anda rasa duit digital dalam aplikasi telefon pintar seratus peratus bebas risiko?
+
+Pastikan anda mempunyai bot penyelamat kekayaan dengan memegang emas fizikal di Tangan!`
+  },
+  {
+    id: 1333,
+    siri: "Kisah-03",
+    no: 4,
+    topik: "Kewangan Peribadi",
+    tajuk: "Theodore Johnson, Kerani UPS Kumpul USD 70 Juta & Kuasa Simpanan Paksa",
+    tags: ["gap", "gaji", "bonus", "auto-debit", "cukai"],
+    persona: "AMERIKA SYARIKAT (1924–1991) · KONSEP FORGOTTEN SAVING (SIMPANAN PAKSA & LUPA) POTONGAN GAJI",
+    hook: "GAMBAR PESARA SYARIKAT PENGHANTARAN BUNGKUSAN YANG TIDAK PERNAH BERGAJI LEBIH USD 14,000 SETAHUN INI MENGEJUTKAN DUNIA... BAGAIMANA BELIAU MENGUMPUL RM300 JUTA?",
+    teks: `Kisah benar warga emas bernama Theodore Johnson yang disiarkan oleh akhbar New York Times pada tahun 1991 ini mematahkan alasan semua orang yang mengeluh gaji tidak cukup!
+
+Sepanjang bekerja di syarikat penghantaran bungkusan UPS sehingga bersara pada tahun 1952, gaji tahunan beliau tidak pernah melebihi 14,000 dolar setahun.
+
+Tetapi apabila beliau berusia 90 tahun, jumlah kekayaan bersihnya telah mencecah 70 juta dolar Amerika, iaitu sekitar RM300 juta, sehingga beliau mampu mendermakan puluhan juta dolar untuk dana pendidikan!
+
+Apakah rahsia luar biasa lelaki bergaji sederhana ini?
+
+Seorang sahabat menasihatinya supaya memotong terus 20 peratus daripada setiap gaji dan bonus untuk ditukarkan kepada aset simpanan sebelum beliau sempat melihat duit gaji tersebut, dengan anggapan seolah-olah gajinya telah dipotong cukai!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, teknik inilah yang dipanggil sebagai Forgotten Saving, iaitu Simpanan Paksa dan Lupa!
+
+Jika kita tunggu ada duit lebih pada hujung bulan baru hendak menabung emas, sampai bila-bila pun duit tidak akan pernah lebih.
+
+Gunakan kemudahan GAP Auto-Debit Public Gold untuk memotong terus RM100 atau RM200 pada hari gaji masuk.
+
+Cuba komen, anda jenis menabung awal bulan waktu dapat gaji atau tunggu baki hujung bulan?
+
+Bina kekayaan luar biasa daripada gaji biasa dengan mengamalkan teknik simpan paksa dan Lupa!`
+  },
+  {
+    id: 1334,
+    siri: "Kisah-03",
+    no: 5,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kapal Karam 'RMS Republic' 1909 & Khazanah Syiling Emas Kapal Jutawan",
+    tags: ["hutang"],
+    persona: "PULAU NANTUCKET, MASSACHUSETTS, AS (1909) · KEKAYAAN SEBENAR IALAH APA YANG KEKAL BERNILAI SELEPAS BAHTERA KARAM",
+    hook: "GAMBAR KAPAL MEWAH RMS REPUBLIC YANG TENGGELAM DI LAUTAN ATLANTIK PADA JANUARI 1909 INI DIGELAR KAPAL JUTAWAN... KENAPA KARGO EMASNYA KINI BERNILAI BILION DOLAR?",
+    teks: `Gambar kapal persiaran mewah RMS Republic milik syarikat White Star Line yang tenggelam selepas berlanggar di dalam kabus tebal di perairan Nantucket pada 24 Januari 1909 ini menyimpan satu kisah khazanah yang menakjubkan!
+
+Tiga tahun sebelum tragedi Titanic, RMS Republic adalah kapal paling mewah yang membawa golongan jutawan Amerika berserta kargo ratusan ribu keping syiling emas tulen Double Eagle di dalam bilik kebalnya!
+
+Apabila kapal itu karam ke dasar laut pada kedalaman 250 kaki, semua perabot mewah, cek perbankan, dan wang kertas milik para jutawan di atas kapal tersebut hancur lebur ditelan air masin.
+
+Tetapi syiling-syiling emas yang berada di dalam perut kapal itu kini dianggarkan bernilai ratusan juta malah mencecah bilion dolar sehingga menjadi buruan ekspedisi laut dalam moden!
+
+Kisah kapal RMS Republic ini memberikan satu cerminan tepat kepada kehidupan kewangan kita.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, kemewahan luaran dan kertas perbankan boleh musnah apabila bahtera hidup kita dilanggar ujian.
+
+Tetapi emas fizikal memiliki sifat kalis musnah yang membuatkan nilainya terus hidup walaupun selepas seratus tahun berada di dasar lautan!
+
+Jangan hanya menghias kabin kapal kita dengan perabot hutang, sebaliknya isilah ruang keselamatan kita dengan emas fizikal.
+
+Cuba komen, apakah aset paling tahan lasak yang anda miliki setakat hari ini?
+
+Mulakan simpanan gram emas anda sekarang kerana itulah pelindung kekayaan yang Sejati!`
+  },
+  {
+    id: 1335,
+    siri: "Kisah-03",
+    no: 6,
+    topik: "Bisnes & Dealer",
+    tajuk: "Pembekuan 80% Simpanan Bank 'Plano Collor' Brazil 1990 & Kedaulatan Emas",
+    tags: ["gaji", "rumah"],
+    persona: "BRASILIA & SAO PAULO, BRAZIL (1990) · KISAH 2 TAHUN AKAUN BEKU: EMAS FIZIKAL TIADA DALAM SISTEM PERBANKAN",
+    hook: "GAMBAR RAKYAT BRAZIL TERKEDU DI HADAPAN BANK PADA 16 MAC 1990 INI ADALAH MIMPI NGERI KEWANGAN... BAGAIMANA 80% SIMPANAN BANK RAKYAT DIBEKUKAN SELAMA 18 BULAN?",
+    teks: `Pada pagi 16 Mac 1990, sehari selepas mengangkat sumpah, Presiden baharu Brazil mengumumkan satu pelan ekonomi mengejut yang dipanggil Plano Collor!
+
+Dengan satu pengumuman sahaja di televisyen, kerajaan Brazil membekukan 80 peratus daripada semua wang simpanan rakyat dan syarikat di dalam akaun bank selama 18 bulan!
+
+Setiap pemilik akaun hanya dibenarkan mengeluarkan baki maksimum sekitar seribu dolar sahaja, tidak kira walaupun mereka mempunyai berjuta-juta di dalam bank untuk membayar gaji pekerja, membeli rumah, atau kos rawatan hospital!
+
+Akhbar Los Angeles Times ketika itu melaporkan ribuan warga Brazil mengalami tekanan jiwa yang teruk kerana duit titik peluh mereka terkunci rapat di dalam sistem!
+
+Peristiwa hitam tahun 1990 ini membuktikan betapa bahayanya jika seratus peratus harta kita berada dalam bentuk angka digital di bank.
+
+Saya selalu pegang pesanan mentor saya, Tn Mohd Zulkifli Shafie, emas fizikal yang kita simpan sendiri adalah aset luar sistem kewangan!
+
+Tiada siapa tahu berapa gram emas yang ada di tangan kita, dan tiada sebarang polisi pembekuan akaun yang boleh menyekat kita daripada mencairkan emas tersebut ketika keluarga memerlukan.
+
+Ia memberikan kita ketenangan fikiran yang tidak boleh dibeli dengan wang kertas.
+
+Cuba komen, pernah tak anda terfikir risiko kalau kesemua simpanan diletakkan dalam satu akaun sahaja?
+
+Binalah rizab emas fizikal anda sendiri kerana ia adalah aset peribadi yang penuh Privasi!`
+  },
+  {
+    id: 1336,
+    siri: "Kisah-03",
+    no: 7,
+    topik: "Public Gold & GAP",
+    tajuk: "Nick Leeson Runtuhkan Barings Bank 1995 & Prinsip 1 To 1 Tanpa Margin",
+    tags: ["hutang", "sejarah"],
+    persona: "SINGAPURA & LONDON, UK (1995) · PRINSIP DATO' WIRA LOUIS NG: TOLAK SPEKULASI MARGIN, BELI EMAS 1 TO 1 FIZIKAL",
+    hook: "GAMBAR PEDAGANG MUDA NICK LEESON DITAHAN PADA TAHUN 1995 INI MENGEJUTKAN DUNIA PERBANKAN... BAGAIMANA SEORANG PEKERJA MEMUFLISKAN BANK TERTUA BRITAIN BERUSIA 233 TAHUN?",
+    teks: `Gambar lelaki muda berusia 28 tahun bernama Nick Leeson pada Februari 1995 ini tercatat dalam sejarah sebagai punca runtuhnya Barings Bank, iaitu bank saudagar tertua di Britain yang telah beroperasi selama 233 tahun dan menjadi bank rasmi keluarga diraja England!
+
+Bagaimana sebuah bank gergasi yang bertahan lebih dua abad boleh hancur lebur dalam masa beberapa minggu?
+
+Puncanya ialah spekulasi pasaran hadapan secara berhutang atau leverage di pejabat Singapura yang mengakibatkan kerugian sebanyak 827 juta Paun, iaitu dua kali ganda modal keseluruhan bank tersebut!
+
+Akhirnya Barings Bank yang begitu gah terpaksa dijual dengan harga simbolik satu Paun sahaja!
+
+Tragedi Barings Bank inilah bukti nyata betapa bahayanya berjudi menggunakan margin dan kertas kontrak tanpa aset fizikal.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, Pengasas Public Gold iaitu Dato' Wira Louis Ng menubuhkan syarikat ini selepas melihat sendiri ramai pelabur jatuh muflis akibat spekulasi margin!
+
+Sebab itulah Public Gold berpegang teguh kepada prinsip jual beli emas fizikal satu lawan satu tanpa sebarang hutang margin.
+
+Kita beli satu gram, kita dapat satu gram emas tulen tanpa risiko panggilan margin yang boleh meleburkan modal.
+
+Cuba komen, anda lebih tenang simpan emas fizikal atau main trading graf yang mendebarkan jantung?
+
+Jauhi perangkap spekulasi berhutang dan pilihlah simpanan emas fizikal yang terbukti Selamat!`
+  },
+  {
+    id: 1337,
+    siri: "Kisah-03",
+    no: 8,
+    topik: "Kenapa Emas",
+    tajuk: "Topeng Emas 11 Kg Firaun Tutankhamun 1922 & Ketahanan 3,300 Tahun",
+    tags: ["rumah", "dinar", "999", "anak", "sejarah"],
+    persona: "LEMBAH RAJA-RAJA, LUXOR, MESIR (1922–1925) · KETAHANAN FIZIKAL EMAS: TIDAK BERKARAT, TIDAK REPUT & KALIS MASA",
+    hook: "GAMBAR AHLI ARKEOLOGI HOWARD CARTER MEMBERSIHKAN TOPENG EMAS SEBERAT 11 KILOGRAM PADA TAHUN 1925 INI MEMUKAU DUNIA... KENAPA EMAS ITU TIDAK PUDAR SELEPAS 3,300 TAHUN?",
+    teks: `Gambar ahli arkeologi Britain, Howard Carter, yang sedang meneliti topeng emas padu Firaun Tutankhamun seberat 11 kilogram selepas makamnya dibuka di Mesir antara tahun 1922 hingga 1925 ini adalah penemuan arkeologi paling ikonik dalam sejarah manusia!
+
+Apabila cahaya lampu suluh pertama kali menyinari bilik makam yang telah tertutup rapat selama lebih tiga ribu tiga ratus tahun itu, Howard Carter terpaku melihat kilauan emas di sekelilingnya!
+
+Kain linen yang membalut mumia telah reput menjadi serbuk hitam, kayu kereta kuda telah rapuh, dan objek besi telah berkarat.
+
+Tetapi emas padu seberat 11 kilogram itu langsung tidak terhakis, tidak pudar, dan masih memancarkan cahaya kuning keemasan yang sempurna!
+
+Kisah sejarah tiga alaf ini membuktikan mengapa manusia di seluruh dunia memilih emas sebagai penyimpan nilai tertinggi.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, emas mempunyai sifat kimia yang unik kerana ia tidak bertindak balas dengan oksigen mahupun air, menjadikannya logam yang tidak boleh binasa!
+
+Apabila anda menyimpan jongkong emas atau dinar 999.9 di rumah, anda tidak perlu risau emas itu basi, tamat tempoh, atau dimakan anai-anai seperti wang kertas.
+
+Walaupun disimpan puluhan tahun untuk dana hari tua atau warisan anak cucu, kualitinya kekal seratus peratus sama.
+
+Cuba komen, berapa berat sasaran emas peribadi yang anda impikan untuk dimiliki?
+
+Kunci hasil titik peluh anda hari ini di dalam bentuk logam mulia emas Tulen!`
+  },
+  {
+    id: 1338,
+    siri: "Kisah-03",
+    no: 9,
+    topik: "Kenapa Emas",
+    tajuk: "Pembakaran Plat Wang Kertas 'Assignat' Perancis 1796 & Leburnya Wang Kertas",
+    tags: ["inflasi", "disiplin", "sejarah", "tunai"],
+    persona: "PLACE VENDOME, PARIS, PERANCIS (1796) · SEJARAH WANG FIAT: SETIAP WANG KERTAS TANPA SANDARAN PASTI SUSUT NILAI",
+    hook: "LUKISAN ORANG RAMAI MENYAKSIKAN PLAT CETAKAN WANG KERTAS DIPECAHKAN DAN DIBAKAR DI PARIS PADA 19 FEBRUARI 1796 INI MENYIMPAN SEJARAH PAHIT... KENAPA RAKYAT PERANCIS SERIK DENGAN KERTAS?",
+    teks: `Lukisan bersejarah di dataran Place Vendome, Paris pada 19 Februari 1796 ini merakamkan detik apabila kerajaan Perancis terpaksa memecahkan plat mesin pencetak wang dan membakar timbunan mata wang kertas mereka yang dipanggil Assignat di hadapan orang ramai!
+
+Bagaimana mata wang rasmi sebuah kuasa besar Eropah boleh berakhir di dalam unggun api?
+
+Pada tahun 1790, kerajaan Revolusi Perancis memperkenalkan wang kertas Assignat dengan janji manis bahawa ia kononnya kukuh dan terjamin.
+
+Namun kerana ketagih membiayai perbelanjaan negara dengan jalan mudah, mereka mencetak sehingga 45 bilion livre wang kertas tersebut!
+
+Akibatnya, nilai Assignat hancur lebur sebanyak 99 peratus, harga roti melambung naik berpuluh kali ganda, dan rakyat yang menyimpan kertas itu jatuh miskin!
+
+Akhirnya Perancis terpaksa menghapuskan wang kertas itu dan kembali menggunakan syiling emas dan perak.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, sejak ratusan tahun dahulu lagi, eksperimen mencetak wang kertas tanpa disiplin sentiasa berakhir dengan kerugian kepada rakyat biasa yang menabung tunai!
+
+Jangan biarkan sejarah Paris tahun 1796 berulang kepada tabung persaraan kita.
+
+Jadikan emas sebagai perisai utama untuk melindungi kuasa beli keluarga.
+
+Cuba komen, anda rasa kerajaan dunia hari ini mencetak makin sikit duit atau makin banyak duit?
+
+Selamatkan nilai tabungan anda daripada terbakar dimakan inflasi dengan menyimpan emas Fizikal!`
+  },
+  {
+    id: 1339,
+    siri: "Kisah-03",
+    no: 10,
+    topik: "Kewangan Peribadi",
+    tajuk: "John Law & Gelembung Mississippi 1720 Vs Prinsip Jangan Tukar Emas Dengan Kertas",
+    tags: ["saham"],
+    persona: "PARIS, PERANCIS (1716–1720) · JANGAN TERTIPU DENGAN JANJI KERTAS: PEGANG ASET SEBENAR",
+    hook: "POTRET AHLI KEWANGAN JOHN LAW TAHUN 1720 INI DULUNYA DIPUJA SEBAGAI PENYELAMAT EKONOMI PERANCIS... TAPI KENAPA BELIAU AKHIRNYA TERPAKSA LARI MENYELAMATKAN NYAWA?",
+    teks: `Potret lelaki bernama John Law pada tahun 1720 ini merakamkan kisah manusia pertama yang berjaya memujuk sebuah negara menukar emas fizikal mereka kepada wang kertas!
+
+Pada tahun 1716, John Law menubuhkan Banque Generale di Perancis dan meyakinkan raja serta rakyat bahawa wang kertas jauh lebih baik daripada emas untuk merancakkan ekonomi.
+
+Beliau menjual saham Syarikat Mississippi dengan janji kononnya terdapat lombong emas yang melimpah-ruah di Louisiana, Amerika, lalu mencetak wang kertas tanpa had untuk menaikkan harga saham tersebut!
+
+Rakyat Perancis berpusu-pusu menyerahkan syiling emas mereka demi memegang kertas John Law.
+
+Namun pada tahun 1720, apabila terbongkar bahawa kekayaan yang dijanjikan itu hanyalah ilusi dan wang kertas telah dicetak berlebihan, seluruh sistem kewangan Perancis runtuh sekelip mata sehingga John Law terpaksa melarikan diri keluar negara dalam keadaan miskin!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, manusia sering tertipu apabila menukarkan emas yang sudah pasti bernilai di tangan dengan janji-janji manis di atas kertas!
+
+Wang kertas dicipta untuk memudahkan kita berbelanja harian, bukannya untuk menyimpan kekayaan jangka panjang.
+
+Untuk simpanan masa depan, pastikan kita menukar kertas kepada emas, bukannya menukar emas kepada kertas kosong.
+
+Cuba komen, apa pengajaran paling mahal daripada kisah John Law ini?
+
+Jadilah penyimpan yang bijak dengan mengutamakan pemilikan aset emas yang Sebenar!`
+  },
+  {
+    id: 1340,
+    siri: "Kisah-03",
+    no: 11,
+    topik: "Strategi Emas",
+    tajuk: "Kejatuhan Dana Pemenang Nobel 'LTCM' 1998 & Mudahnya Simpan Emas Fizikal",
+    tags: ["hutang", "saham", "krisis", "disiplin"],
+    persona: "GREENWICH, CONNECTICUT & NEW YORK, AS (1998) · KELEBIHAN EMAS FIZIKAL: MUDAH DIFAHAMI, TIADA RISIKO KONTRAK RUMIT",
+    hook: "GAMBAR BARISAN PROFESOR DAN PEMENANG HADIAH NOBEL EKONOMI YANG MENUBUHKAN DANA LTCM TAHUN 1994 INI NAMPAK MUSTAHIL GAGAL... TAPI KENAPA MEREKA RUGI RM18 BILION DALAM EMPAT BULAN?",
+    teks: `Pada tahun 1994, sebuah dana pelaburan elit bernama Long-Term Capital Management atau LTCM telah ditubuhkan di Amerika Syarikat dengan barisan pengarah yang terdiri daripada profesor kewangan terkemuka dan dua orang pemenang Hadiah Nobel Ekonomi!
+
+Dengan menggunakan formula matematik komputer yang sangat rumit dan hutang leverage melebihi seratus bilion dolar, mereka yakin tidak mungkin mengalami kerugian.
+
+Tetapi pada Ogos dan September 1998, apabila berlaku krisis kewangan di Rusia yang tidak dijangka oleh komputer mereka, dana milik pakar-pakar Nobel itu kehilangan lebih 4.6 bilion dolar, iaitu sekitar RM18 bilion, hanya dalam masa empat bulan sehingga terpaksa diselamatkan oleh Rizab Persekutuan!
+
+Kisah benar tahun 1998 ini membuktikan bahawa instrumen kewangan kertas yang terlalu rumit boleh memakan tuan pada bila-bila masa.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kita tidak perlu menjadi profesor matematik atau pening kepala membaca formula saham yang berbelit-belit untuk membina kekayaan yang selamat!
+
+Emas fizikal adalah aset yang paling jujur dan paling mudah difahami oleh sesiapa sahaja, daripada seorang jurutera sehinggalah mak cik penjual kuih di kampung.
+
+Kita beli emas, kita simpan gramnya, dan biarkan nilainya meningkat mengikut masa tanpa sebarang risiko hutang kontrak.
+
+Cuba komen, anda lebih suka pelaburan yang pening kepala atau simpanan emas yang senang faham?
+
+Binalah harta keluarga dengan tenang melalui disiplin simpanan emas fizikal yang Mudah!`
+  },
+  {
+    id: 1341,
+    siri: "Kisah-03",
+    no: 12,
+    topik: "Kenapa Emas",
+    tajuk: "Taufan Katrina 2005 Melumpuhkan Sistem Bank & Kuasa Fizikal Waktu Darurat",
+    tags: ["kad kredit", "rumah", "kecemasan", "cawangan", "tunai"],
+    persona: "NEW ORLEANS, LOUISIANA, AS (2005) · KISAH BANJIR KELANTAN 2014: WAKTU ELEKTRIK & INTERNET MATI, FIZIKAL ADALAH RAJA",
+    hook: "GAMBAR BANDAR NEW ORLEANS TENGGELAM SELEPAS TAUFAN KATRINA PADA OGOS 2005 INI MELUMPUHKAN 214 INSTITUSI KEWANGAN... APA TERJADI APABILA KAD KREDIT DAN ATM MATI?",
+    teks: `Gambar bandar New Orleans di Amerika Syarikat yang ditenggelami banjir sehingga 80 peratus selepas dibadai Taufan Katrina pada 29 Ogos 2005 ini mendedahkan kelemahan terbesar masyarakat tanpa tunai!
+
+Menurut laporan rasmi Rizab Persekutuan dan FDIC, lebih 214 institusi kewangan terjejas apabila bekalan elektrik dan talian komunikasi terputus sepenuhnya!
+
+Mesin ATM tidak berfungsi, mesin leret kad kredit di kedai mati, malah cawangan bank pusat sendiri ditenggelami air.
+
+Penduduk yang mempunyai puluhan ribu dolar di dalam kad debit atau aplikasi perbankan tidak dapat membeli walau sebotol air minuman atau seliter minyak kereta!
+
+Peristiwa di negara termaju dunia ini sama persis dengan pengalaman yang dikongsikan oleh guru saya, Tn Mohd Zulkifli Shafie, semasa tragedi banjir besar di Kelantan pada tahun 2014.
+
+Apabila bencana alam mematikan bekalan elektrik dan pencawang internet, segala angka kekayaan di atas skrin telefon pintar kita terhenti serta-merta!
+
+Pada saat genting seperti itu, hanya tunai kecemasan dan aset emas fizikal yang berada di tangan kita sahaja yang boleh ditukarkan terus dengan keperluan hidup.
+
+Teknologi digital memang memudahkan waktu senang, tetapi aset fizikal menyelamatkan nyawa waktu susah.
+
+Cuba komen, kalau internet dan elektrik terputus seminggu, adakah keluarga anda ada rizab fizikal di rumah?
+
+Pastikan sebahagian harta anda disimpan dalam bentuk kepingan emas fizikal yang Nyata!`
+  },
+  {
+    id: 1342,
+    siri: "Kisah-03",
+    no: 13,
+    topik: "Kenapa Emas",
+    tajuk: "'Operation Fish' 1940: Britain Hantar Emas Dalam Kotak Ikan & Nilai Sebenar",
+    tags: ["perang", "sejarah"],
+    persona: "LIVERPOOL, UK KE HALIFAX, KANADA (1940) · WAKTU KRISIS BESAR, NEGARA SELAMATKAN EMAS FIZIKAL, BUKAN WANG KERTAS",
+    hook: "GAMBAR KAPAL PERANG BRITAIN MEREDAH LAUTAN ATLANTIK PADA TAHUN 1940 INI MENJALANKAN MISI RAHSIA 'OPERATION FISH'... KENAPA RIBUAN KOTAK BERTULIS 'IKAN' ITU BERNILAI RM200 BILION?",
+    teks: `Gambar kapal perang Tentera Laut Diraja Britain yang membelah ombak Lautan Atlantik pada musim panas tahun 1940 ini menyimpan kisah pemindahan kekayaan fizikal terbesar dalam sejarah manusia yang dinamakan Operation Fish!
+
+Ketika tentera Nazi Jerman menawan Perancis dan mengancam untuk menceroboh Britain, Perdana Menteri Winston Churchill membuat satu keputusan rahsia yang amat genting.
+
+Kerajaan Britain mengosongkan bilik kebal Bank of England dan memuatkan ribuan tan jongkong emas ke dalam peti-peti kayu yang dilabelkan sebagai Ikan Kering bagi mengelirukan kapal selam musuh, lalu menghantarnya ke Kanada!
+
+Jumlah emas yang dipindahkan merentasi lautan berais itu bernilai puluhan bilion dolar hari ini, dan tidak seketul pun jongkong emas hilang!
+
+Cuba kita renungkan satu persoalan mudah daripada peristiwa sejarah tahun 1940 ini.
+
+Kenapa ketika negara diancam peperangan, kerajaan Britain bersabung nyawa menyelamatkan jongkong emas fizikal, bukannya mengangkut mesin pencetak wang kertas Paun Sterling?
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jawapannya ialah kerana kerajaan sendiri tahu bahawa tanpa emas fizikal, wang kertas hanyalah helaian surat yang tidak laku untuk membeli bekalan perang di peringkat antarabangsa!
+
+Kalau sebuah negara pun menjadikan emas fizikal sebagai talian hayat terakhir, mengapa keluarga kita masih belum memulakannya?
+
+Cuba komen, berapa gram emas yang dah ada dalam bilik kebal keluarga anda?
+
+Jadikan simpanan emas fizikal sebagai benteng pertahanan kewangan keluarga yang Utama!`
+  },
+  {
+    id: 1343,
+    siri: "Kisah-03",
+    no: 14,
+    topik: "Strategi Emas",
+    tajuk: "Runtuhnya Tiga Bank Terbesar Iceland Dalam 3 Hari 2008 & Formula 3 + 9",
+    tags: ["hutang", "gaji", "saham", "kecemasan", "tunai"],
+    persona: "REYKJAVIK, ICELAND (2008) · FORMULA PENGAGIHAN SIMPANAN: 3 BULAN GAJI TUNAI + 9 BULAN GAJI EMAS",
+    hook: "GAMBAR PERDANA MENTERI ICELAND BERUCAP DENGAN WAJAH SURAM PADA OKTOBER 2008 INI MENGEJUTKAN DUNIA... BAGAIMANA TIGA BANK TERBESAR NEGARA MAJU BOLEH MUFLIS DALAM TIGA HARI?",
+    teks: `Pada minggu pertama bulan Oktober 2008, penduduk negara maju Iceland menyaksikan satu malapetaka kewangan yang tidak pernah terbayang dek akal!
+
+Dalam tempoh tiga hari sahaja, ketiga-tiga buah bank komersial terbesar negara itu iaitu Glitnir, Landsbanki, dan Kaupthing yang menguasai hampir keseluruhan sistem perbankan Iceland telah runtuh dan muflis serentak!
+
+Jumlah hutang ketiga-tiga bank tersebut rupa-rupanya telah membengkak melebihi enam kali ganda saiz ekonomi keseluruhan negara Iceland!
+
+Akibatnya, nilai mata wang Krona jatuh menjunam, pasaran saham ditutup, dan kos sara hidup melambung tinggi dalam sekelip mata.
+
+Kisah benar di Iceland ini mengingatkan kita bahawa tiada sistem kewangan kertas yang kebal seratus peratus sepanjang masa.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, jangan sesekali menyimpan kesemua dana kecemasan dan tabungan masa depan kita di dalam bentuk mata wang kertas semata-mata!
+
+Susun kewangan keluarga mengikut formula bijak: simpan tiga bulan gaji dalam bentuk tunai di bank untuk kecemasan harian yang pantas.
+
+Manakala sembilan bulan gaji atau selebihnya, tukarkan kepada emas fizikal yang kalis kejatuhan mata wang dan tidak terikat dengan hutang mana-mana bank!
+
+Cuba komen, antara tabung tunai tiga bulan dengan tabung emas sembilan bulan, mana satu yang anda tengah bina sekarang?
+
+Agihkan harta anda mengikut formula mentor supaya pertahanan kewangan keluarga kekal Seimbang!`
+  },
+  {
+    id: 1344,
+    siri: "Kisah-03",
+    no: 15,
+    topik: "Kenapa Emas",
+    tajuk: "Pembatalan Wang Kertas 500 & 1,000 Rupee India 2016 & Analogi Token Dobi",
+    tags: ["999", "tunai"],
+    persona: "NEW DELHI & MUMBAI, INDIA (2016) · ANALOGI TOKEN MESIN DOBI: NILAI WANG KERTAS BERGANTUNG KEPADA PENGIKTIRAFAN KERAJAAN",
+    hook: "GAMBAR JUTAAN RAKYAT INDIA BERATUR PANJANG DI LUAR BANK PADA NOVEMBER 2016 INI BERPUNCA DARIPADA SATU PENGUMUMAN TV JAM 8 MALAM... BAGAIMANA 86% WANG TUNAI BATAL DALAM 4 JAM?",
+    teks: `Pada jam lapan malam, 8 November 2016, satu pengumuman mengejut di kaca televisyen India telah mengubah nasib lebih satu bilion manusia dalam masa empat jam sahaja!
+
+Kerajaan India mengisytiharkan bahawa bermula jam dua belas tengah malam itu juga, kesemua wang kertas 500 Rupee dan 1,000 Rupee yang merangkumi 86 peratus daripada jumlah wang tunai di pasaran tidak lagi sah digunakan untuk berbelanja!
+
+Keesokan paginya, jutaan rakyat terpaksa beratur berjam-jam di bawah terik matahari di luar bank untuk menukar wang kertas lama mereka sebelum tarikh tutup, malah wang tunai yang gagal ditukar selepas tarikh tersebut bertukar menjadi kertas kosong!
+
+Fikirkan sejenak: bagaimana wang kertas yang sah pada jam lapan malam boleh hilang kuasa belinya tepat pada jam dua belas tengah malam?
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, itulah bukti paling jelas bagi analogi token mesin dobi layan diri!
+
+Nilai wang kertas bukan terletak pada kertas itu, tetapi terletak pada ayat jaminan kerajaan yang tercetak di atasnya.
+
+Apabila pihak berkuasa menarik balik pengiktirafan terhadap kertas tersebut, nilainya mati serta-merta!
+
+Sebaliknya, tiada mana-mana pengumuman televisyen di dunia yang boleh membatalkan nilai ketulenan seketul emas fizikal 999.9.
+
+Cuba komen, apa perasaan anda kalau duit tunai yang disimpan bawah bantal tiba-tiba diumumkan tamat tempoh?
+
+Simpanlah kekayaan jangka panjang di dalam emas fizikal yang nilainya berdiri Sendiri!`
+  },
+  {
+    id: 1345,
+    siri: "Kisah-03",
+    no: 16,
+    topik: "Kewangan Peribadi",
+    tajuk: "John Sutter Pemilik Tanah Emas Jatuh Muflis 1852 & Kunci Ilmu Kewangan",
+    tags: ["hutang", "gaji", "disiplin", "kilang"],
+    persona: "SACRAMENTO, CALIFORNIA, AS (1848–1852) · ILMU PENGURUSAN WANG LEBIH PENTING DARIPADA SEKADAR MEMILIKI EMAS",
+    hook: "POTRET JOHN SUTTER INI ADALAH PEMILIK TANAH TEMPAT EMAS PERTAMA CALIFORNIA DITEMUI PADA TAHUN 1848... TAPI KENAPA BELIAU JATUH MUFLIS HANYA EMPAT TAHUN KEMUDIAN?",
+    teks: `Potret lelaki bernama John Augustus Sutter ini menyimpan satu pengajaran kewangan yang wajib dihadam oleh setiap pencari kekayaan!
+
+Beliaulah pemilik tanah dan kilang papan Sutter's Mill di California tempat emas pertama ditemui pada Januari 1848 yang mencetuskan demam emas terbesar di dunia.
+
+Tetapi tahukah anda apa yang berlaku kepada pemilik tanah emas ini hanya empat tahun kemudian?
+
+Menjelang tahun 1852, John Sutter telah jatuh muflis sepenuhnya akibat beban hutang perniagaan yang tidak terkawal, pekerjanya lari meninggalkan ladang, dan beliau menghabiskan sisa hidupnya merayu pampasan sehingga meninggal dunia dalam kekecewaan!
+
+Manakala orang lain yang datang ke tanahnya dengan strategi perniagaan dan pengurusan modal yang betul pula menjadi jutawan.
+
+Kenapa orang yang memiliki tanah lombong emas boleh berakhir dengan kebankrapan?
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, ingat prinsip asas ini: bukan emas yang menjadikan kita kaya, tetapi ilmu kita tentang pengurusan wang dan emas!
+
+Jika seseorang tiada disiplin menyimpan, suka berhutang untuk gaya hidup, dan gagal membezakan modal dengan simpanan, emas segunung sekalipun boleh habis terjual.
+
+Sebab itulah penyimpan emas wajib menuntut ilmu supaya tahu cara mengekalkan dan mengembangkan gram emas mereka.
+
+Cuba komen, adakah anda setuju bahawa tabiat mengurus duit lebih penting daripada jumlah gaji?
+
+Binalah kekayaan anda di atas tapak yang kukuh dengan menggabungkan simpanan emas dan Ilmu!`
+  },
+  {
+    id: 1346,
+    siri: "Kisah-03",
+    no: 17,
+    topik: "Kenapa Emas",
+    tajuk: "Pencairan Syiling Denarius Rom Abad Ke-3 & Bagaimana Inflasi Dicipta",
+    tags: ["inflasi", "999"],
+    persona: "EMPAYAR ROM (ABAD KE-1 HINGGA ABAD KE-3 MASIHI) · SEJARAH INFLASI: APABILA KANDUNGAN LOGAM MULIA DICAIRKAN, HARGA BARANG MELAMBUNG",
+    hook: "GAMBAR BARISAN SYILING DENARIUS ROM DARI ABAD PERTAMA HINGGA ABAD KETIGA INI MENUNJUKKAN WARNA YANG SEMAKIN GELAP... BAGAIMANA PENIPUAN LOGAM INI MERUNTUHKAN EMPAYAR ROM?",
+    teks: `Gambar deretan syiling Denarius Empayar Rom dari abad pertama hingga abad ketiga Masihi ini mendedahkan rahsia bagaimana inflasi pertama kali dicipta oleh pemerintah!
+
+Pada zaman Maharaja Augustus, sekeping syiling Denarius mengandungi hampir 98 peratus logam perak tulen yang berkilau.
+
+Namun apabila maharaja-maharaja berikutnya berbelanja boros dan kehabisan dana untuk membiayai peperangan serta projek mewah, mereka melakukan satu helah licik!
+
+Mereka mengutip syiling rakyat, meleburkannya semula dengan mencampurkan logam tembaga murah, sehingga menjelang akhir abad ketiga, kandungan logam berharga di dalam syiling Denarius tinggal kurang daripada dua peratus sahaja!
+
+Akibat pencairan nilai mata wang itu, harga gandum dan barangan keperluan di seluruh Empayar Rom melambung naik lebih seribu peratus sehingga melumpuhkan ekonomi empayar tersebut!
+
+Hari ini, kerajaan moden tidak perlu lagi mencampurkan tembaga ke dalam syiling, sebaliknya mereka hanya mencetak lebih banyak wang kertas dan angka digital!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, selagi kita menyimpan harta dalam mata wang yang boleh dicairkan nilainya, kuasa beli kita pasti akan terhakis.
+
+Satu-satunya cara untuk keluar daripada kitaran inflasi ini adalah dengan menyimpan emas berketulenan 999.9 yang tidak boleh dicampur atau dicairkan nilainya.
+
+Cuba komen, anda pernah tengok perbezaan saiz duit syiling lama dengan duit syiling sekarang tak?
+
+Lindungi nilai kerja keras anda dengan menyimpan emas fizikal yang dijamin Tulen!`
+  },
+  {
+    id: 1347,
+    siri: "Kisah-03",
+    no: 18,
+    topik: "Keluarga",
+    tajuk: "Kubu Kebal Fort Knox 1937 & Membina Rizab Fort Knox Keluarga Sendiri",
+    tags: ["gap", "krisis"],
+    persona: "FORT KNOX, KENTUCKY, AS (1937–KINI) · SASARAN 1 KILOGRAM 1 KELUARGA: BINA KUBU PERTAHANAN KEWANGAN SENDIRI",
+    hook: "GAMBAR BANGUNAN KUBU BERDINDING GRANIT DAN PINTU KELULI 20 TAN DI FORT KNOX TAHUN 1937 INI DIKAWAL TENTERA... KENAPA AMERIKA MENYIMPAN 147 JUTA AUNS EMAS DI SINI?",
+    teks: `Gambar bangunan kubu kebal United States Bullion Depository di Fort Knox, Kentucky yang siap dibina pada tahun 1937 ini adalah antara lokasi paling ketat kawalan keselamatannya di muka bumi!
+
+Di sebalik dinding granit tebal dan pintu bilik kebal kalis letupan seberat 20 tan itu, kerajaan Amerika Syarikat menyimpan lebih 147 juta auns troy jongkong emas fizikal, iaitu hampir separuh daripada keseluruhan rizab emas negara mereka!
+
+Pernahkah kita berhenti berfikir sejenak?
+
+Mengapa kuasa ekonomi terbesar dunia yang mencetak mata wang Dolar masih membina kubu sekuat Fort Knox semata-mata untuk menjaga ribuan tan jongkong emas fizikal sejak tahun 1937?
+
+Kerana mereka sedar, kekuatan sebenar sesebuah negara ketika krisis bukanlah pada kertas yang dicetak, tetapi pada jumlah berat emas yang tersimpan di dalam bilik kebal!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, setiap ketua keluarga wajib mencontohi langkah ini dengan membina Fort Knox versi keluarga sendiri!
+
+Melalui Akaun Emas GAP Public Gold, emas kita disimpan dengan selamat di bilik kebal berinsurans secara percuma, atau kita boleh keluarkan dan simpan sendiri sasaran 100 gram hingga 1 kilogram emas untuk satu keluarga.
+
+Bila negara ada rizab emas, negara kukuh; bila keluarga kita ada rizab emas, keluarga kita selamat.
+
+Cuba komen, berapa gram emas sasaran Fort Knox keluarga anda tahun ini?
+
+Mulakan tabungan satu gram satu bulan hari ini demi membina kubu pertahanan Keluarga!`
+  },
+  {
+    id: 1348,
+    siri: "Kisah-03",
+    no: 19,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Bernie Madoff & Skim Ponzi USD 64.8 Bilion 2008 Vs Emas Fizikal Di Tangan",
+    tags: ["saham", "dinar", "krisis", "penipuan", "palsu", "skim", "999", "sejarah"],
+    persona: "NEW YORK, AMERIKA SYARIKAT (2008) · BELI EMAS MESTI DAPAT EMAS FIZIKAL: PENYATA KERTAS BOLEH DIPALSUKAN, FIZIKAL TIDAK",
+    hook: "GAMBAR BEKAS PENGERUSI BURSA SAHAM NASDAQ BERNIE MADOFF DITANGKAP FBI PADA DISEMBER 2008 INI MENGEJUTKAN DUNIA... BAGAIMANA PENYATA PELABURAN RM280 BILION RUPA-RUPANYA PALSU?",
+    teks: `Gambar penahanan tokoh kewangan terkenal Wall Street dan bekas Pengerusi bursa saham NASDAQ, Bernie Madoff, oleh pihak FBI pada Disember 2008 ini membongkar penipuan pelaburan terbesar dalam sejarah manusia!
+
+Selama puluhan tahun, ribuan pelabur kaya, yayasan amal, dan pesara menyerahkan wang simpanan mereka kepada syarikat Madoff kerana beliau menjanjikan pulangan stabil sekitar 10 hingga 12 peratus setiap tahun tanpa pernah rugi.
+
+Setiap bulan, para pelabur menerima penyata akaun bercetak yang nampak begitu rasmi dan meyakinkan!
+
+Namun apabila krisis 2008 melanda dan pelabur mahu mengeluarkan wang sebanyak 7 bilion dolar, barulah terbongkar bahawa penyata bernilai 64.8 bilion dolar, iaitu lebih RM280 bilion itu, hanyalah angka palsu yang ditaip menggunakan komputer lama tanpa sebarang pembelian aset sebenar!
+
+Kisah hitam Madoff ini mengajar kita bahawa penyata di atas kertas atau skrin boleh direka oleh manusia yang tidak jujur.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, dalam urusan emas, jangan sekali-kali berpuas hati dengan sekadar melihat nombor atau sijil kertas tanpa hak mengeluarkan emas sebenar!
+
+Prinsip utama kami di Public Gold adalah beli emas mesti dapat emas fizikal.
+
+Apabila jongkong atau dinar emas 999.9 itu sudah berada di tapak tangan anda, tiada siapa lagi yang boleh memalsukan kekayaan anda.
+
+Cuba komen, anda lebih percaya nombor di atas penyata kertas atau kepingan emas di tangan?
+
+Pastikan setiap sen tabungan emas anda bersandarkan kepada pemilikan emas Fizikal!`
+  },
+  {
+    id: 1349,
+    siri: "Kisah-03",
+    no: 20,
+    topik: "Kenapa Emas",
+    tajuk: "Pengeluaran Panik USD 16.7 Bilion Bank WaMu 2008 & Sedia Payung Sebelum Hujan",
+    tags: ["gaji", "rumah", "krisis", "sejarah", "cawangan", "tunai"],
+    persona: "SEATTLE, WASHINGTON, AS (2008) · SEDIAKAN LIFE BOAT EMAS KETIKA LANGIT MASIH CERAH",
+    hook: "GAMBAR PENDEPOSIT BERATUR MENGELUARKAN USD 16.7 BILION DARI BANK WASHINGTON MUTUAL PADA SEPTEMBER 2008 INI MENCATAT REKOD KEBANKRAPAN BANK TERBESAR AMERIKA... APA PENGAJARANNYA?",
+    teks: `Pada 25 September 2008, sejarah Amerika Syarikat mencatatkan kejatuhan bank komersial terbesar di negara itu apabila Washington Mutual atau WaMu yang memiliki aset bernilai 307 bilion dolar ditutup secara mengejut oleh pihak berkuasa!
+
+Selama 10 hari sebelum penutupan tersebut, para pendeposit yang cemas telah menyerbu cawangan bank dan mengeluarkan sebanyak 16.7 bilion dolar wang simpanan mereka!
+
+Bank yang telah beroperasi selama 119 tahun sejak tahun 1889 itu akhirnya lumpuh kerana beban pinjaman perumahan berisiko tinggi yang tidak mampu ditanggung lagi.
+
+Perhatikan satu corak yang sentiasa berulang dalam setiap krisis perbankan dunia.
+
+Apabila berita masalah bank sudah keluar di dada akhbar, ketika itulah jutaan orang baru hendak berlari beratur menyelamatkan wang simpanan mereka!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jangan tunggu bahtera sudah melanggar aisberg baru kita hendak berebut mencari bot penyelamat!
+
+Sediakan bot penyelamat kewangan keluarga kita ketika langit masih cerah dan ketika gaji kita masih masuk setiap bulan.
+
+Tukarkan sebahagian simpanan tunai jangka panjang kepada gram emas fizikal sedikit demi sedikit mulai hari ini.
+
+Waktu orang lain panik beratur apabila krisis melanda, penyimpan emas kekal tenang di rumah bersama keluarga.
+
+Cuba komen, adakah anda dah mula bina tabungan emas keluarga sebelum krisis seterusnya datang?
+
+Bertindaklah dengan bijak hari ini kerana perlindungan terbaik sentiasa bermula lebih Awal!`
+  },
+  {
+    id: 1350,
+    siri: "Kisah-03",
+    no: 21,
+    topik: "Kenapa Emas",
+    tajuk: "Tiga Beradik Penggali Tanah Liat Jumpa Emas Panagyurishte 1949 & Nilai Kekal",
+    tags: ["barang kemas", "inflasi", "dinar", "916", "999", "kilang"],
+    persona: "PANAGYURISHTE, BULGARIA (1949) · KETAHANAN KUASA BELI EMAS MERENTAS RIBUAN TAHUN",
+    hook: "GAMBAR TIGA BERADIK PEKERJA KILANG BATA MENGGALI TANAH LIAT DI BULGARIA PADA 8 DISEMBER 1949 INI MENGEJUTKAN DUNIA... KENAPA BEKAS EMAS 24 KARAT ITU MASIH BERKILAU SELEPAS 2,300 TAHUN?",
+    teks: `Pada pagi yang sejuk, 8 Disember 1949, tiga beradik bernama Pavel, Petko, dan Michail Deikov sedang menggali tanah liat untuk membuat batu bata di sebuah kilang di Panagyurishte, Bulgaria.
+
+Pada kedalaman dua meter di bawah tanah, cangkul mereka tiba-tiba terhentak objek keras yang memancarkan cahaya kuning menyilaukan mata!
+
+Pada mulanya mereka menyangka ia hanyalah trompet tembaga lama, tetapi apabila dibersihkan, mereka rupa-rupanya telah menemui sembilan buah artifak emas padu 24 karat seberat 6.1 kilogram dari zaman Kerajaan Thrace abad ke-4 Sebelum Masihi!
+
+Khazanah Emas Panagyurishte yang telah tertanam selama 2,300 tahun itu kini diarak ke muzium-muzium terkemuka dunia termasuk Muzium British sebagai harta yang tidak ternilai harganya!
+
+Lihatlah betapa hebatnya sifat logam emas tulen 24 karat.
+
+Ditanam di dalam tanah liat lembap selama lebih dua ribu tahun tanpa sebarang peti pelindung, namun ia langsung tidak reput atau kehilangan walau satu miligram ketulenannya!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, menyimpan wang kertas untuk jangka masa panjang ibarat menyimpan tanah liat yang mudah pecah dimakan inflasi.
+
+Sebaliknya, apabila kita menukarkan hasil titik peluh kita kepada emas 999.9 atau 24 karat, kita sedang mengunci nilai kekayaan itu untuk puluhan tahun akan datang.
+
+Cuba komen, anda lebih suka kumpul emas 916 barang kemas atau emas 999.9 jongkong dan dinar?
+
+Simpanlah sebahagian pendapatan anda di dalam bentuk emas tulen yang kekal Mulia!`
+  },
+  {
+    id: 1351,
+    siri: "Kisah-03",
+    no: 22,
+    topik: "Kenapa Emas",
+    tajuk: "20,000 Artifak Emas 'Tillya Tepe' Disorok Dalam Bilik Kebal Kabul & Perisai Krisis",
+    tags: ["krisis"],
+    persona: "TILLYA TEPE & KABUL, AFGHANISTAN (1978–2003) · EMAS ADALAH INSURANS KEKAYAAN MUTLAK KETIKA KRISIS & PEPERANGAN",
+    hook: "GAMBAR MAHKOTA EMAS BOLEH LIPAT DARI TAPAK TILLYA TEPE TAHUN 1978 INI HILANG SEMASA PERANG AFGHANISTAN... BAGAIMANA 20,000 KEPING EMAS INI DITEMUI SEMULA DALAM BILIK KEBAL BANK?",
+    teks: `Gambar mahkota emas tulen yang boleh dilipat bersama lebih 20,000 keping syiling dan perhiasan emas kuno yang ditemui oleh ahli arkeologi Viktor Sarianidi di Tillya Tepe, Afghanistan pada tahun 1978 ini menyimpan satu kisah penyelamatan harta yang luar biasa!
+
+Setahun selepas khazanah emas berusia dua ribu tahun itu ditemui, peperangan tercetus di Afghanistan selama berdekad-dekad sehingga muzium negara musnah dibom dan mata wang kertas negara itu bertukar berkali-kali!
+
+Seluruh dunia menyangka khazanah emas Bactrian itu telah dicuri atau dileburkan.
+
+Namun pada tahun 2003, apabila bilik kebal rahsia di bawah istana presiden di Kabul dibuka di hadapan pasukan National Geographic, kesemua 20,000 keping emas itu rupa-rupanya telah disembunyikan dengan selamat oleh penjaga kunci amanah selama 14 tahun!
+
+Emas itulah yang kemudiannya menjadi aset kebanggaan dan sumber dana pameran antarabangsa bagi membangunkan semula warisan negara tersebut.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, perhatikan bagaimana orang zaman silam mahupun zaman moden menjadikan emas sebagai aset pelindung terakhir ketika suasana tidak menentu!
+
+Mata wang kertas boleh musnah apabila kerajaan bertukar, tetapi emas yang disimpan dengan selamat akan terus menjaga masa depan pemiliknya.
+
+Kita tidak tahu ujian apa yang bakal mendatang pada masa depan keluarga kita.
+
+Cuba komen, di mana tempat paling selamat anda simpan emas fizikal anda sekarang?
+
+Binalah rizab emas keluarga anda dari hari ini supaya dalam apa jua keadaan kita mampu Bertahan!`
+  },
+  {
+    id: 1352,
+    siri: "Kisah-03",
+    no: 23,
+    topik: "Zakat & Syariah",
+    tajuk: "2,000 Syiling Dinar Fatimiyyah Di Dasar Laut Caesarea 2015 & Kuasa Dinar",
+    tags: ["dinar", "999", "anak", "syariah"],
+    persona: "PELABUHAN CAESAREA, LAUT MEDITERRANEAN (2015) · TEORI 1 DINAR 1 KAMBING & KEUNGGULAN DINAR EMAS 999.9",
+    hook: "GAMBAR PENYELAM SKUBA MENJUMPAI 2,000 KEPING SYILING DINAR EMAS DI DASAR LAUT PADA FEBRUARI 2015 INI DISANGKA SYILING MAINAN... KENAPA EMAS 1,000 TAHUN ITU MASIH KETULENAN 24 KARAT?",
+    teks: `Pada Februari 2015, sekumpulan penyelam skuba di pelabuhan purba Caesarea ternampak sesuatu yang berkilau di dasar laut selepas ribut musim sejuk mengalihkan pasir!
+
+Pada mulanya mereka menyangka ia hanyalah syiling coklat mainan kanak-kanak.
+
+Tetapi apabila dibawa naik, mereka rupa-rupanya telah menemui hampir 2,000 keping syiling Dinar emas tulen seberat sembilan kilogram dari zaman Kerajaan Islam Fatimiyyah yang telah karam di dasar laut selama seribu tahun!
+
+Apa yang paling mengagumkan para pakar arkeologi ialah kesemua syiling Dinar emas berketulenan 24 karat itu langsung tidak memerlukan sebarang kerja pembersihan kimia kerana ia masih berkilau bersih walaupun terendam air laut selama sepuluh abad!
+
+Malah terdapat kesan gigitan gigi pedagang zaman dahulu pada syiling tersebut yang menguji kelembutan emas tulen!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, syiling Dinar emas Islam telah membuktikan keunggulannya menyimpan kuasa beli selama lebih seribu empat ratus tahun.
+
+Jika pedagang seribu tahun dahulu mengumpul Dinar emas sebagai harta perniagaan mereka, hari ini kita juga boleh mengumpul kepingan Dinar emas 999.9 keluaran Public Gold yang diiktiraf patuh syariah!
+
+Satu Dinar yang kita simpan hari ini akan kekal menjaga kuasa beli anak cucu kita pada masa hadapan.
+
+Cuba komen, antara jongkong petak dengan syiling bulat Dinar, mana satu yang paling memikat hati anda?
+
+Jadikan tabungan Dinar emas sebagai instrumen simpanan keluarga yang paling Unggul!`
+  },
+  {
+    id: 1353,
+    siri: "Kisah-03",
+    no: 24,
+    topik: "Zakat & Syariah",
+    tajuk: "80 Syiling Emas 'Hackney Hoard' Dalam Balang Kaca 2007 & Warisan Keluarga",
+    tags: ["gap", "rumah", "anak"],
+    persona: "HACKNEY, LONDON, UK (1940–2007) · EMAS FIZIKAL SEBAGAI HARTA WARISAN KELUARGA YANG MUDAH DIAGIHKAN",
+    hook: "GAMBAR BALANG KACA BERISI 80 KEPING SYILING EMAS YANG DIGALI DI BELAKANG RUMAH DI LONDON PADA TAHUN 2007 INI MENYIMPAN KISAH SEDIH PERANG DUNIA... SIAPA PEMILIK ASALNYA?",
+    teks: `Gambar sebuah balang kaca lama berisi 80 keping syiling emas Double Eagle Amerika yang ditemui tertanam di halaman belakang sebuah rumah di Hackney, London pada tahun 2007 ini merungkai satu kisah keluarga yang amat menyentuh hati!
+
+Hasil siasatan mendapati syiling emas tulen itu telah ditanam pada tahun 1940 oleh seorang pelarian Jerman bernama Martin Sulzbacher bagi melindungi harta keluarganya ketika kota London dihujani bom tentera Nazi!
+
+Malangnya, Martin telah ditahan dan dihantar ke kem tahanan di Kanada, manakala isterinya dan anak-anaknya yang tinggal di rumah tersebut terkorban apabila bom jatuh tepat mengenai rumah mereka semasa serangan Blitz!
+
+Tiada siapa lagi yang tahu lokasi tepat balang emas tersebut sehinggalah ia ditemui semula 67 tahun kemudian, lalu mahkamah menyerahkan semula kesemua 80 syiling emas bernilai ratusan ribu Paun itu kepada anak tunggal Martin yang terselamat, iaitu Max Sulzbacher!
+
+Selepas hampir tujuh dekad, emas yang disimpan oleh seorang bapa tetap kembali kepada darah dagingnya dalam keadaan sempurna.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, emas fizikal adalah antara harta warisan yang paling mudah dan paling selamat untuk ditinggalkan kepada anak-anak, dengan syarat kita memaklumkan rekod simpanan kepada waris yang dipercayai!
+
+Malah melalui Akaun Emas GAP Public Gold, waris yang dinamakan boleh menuntut emas simpanan kita dengan teratur dan sah.
+
+Cuba komen, adakah pasangan atau waris anda tahu tentang akaun simpanan emas anda?
+
+Binalah tabungan emas fizikal hari ini sebagai bekalan berharga buat generasi Keturunan!`
+  },
+  {
+    id: 1354,
+    siri: "Kisah-03",
+    no: 25,
+    topik: "Kenapa Emas",
+    tajuk: "431 Jongkong Emas Kapal Perang HMS Edinburgh 1981 & Nilai Emas Di Laut Beku",
+    tags: ["krisis", "perang", "999"],
+    persona: "LAUT BARENTS, ARTIK & UK (1942–1981) · DUIT JATUH JADI KERTAS, EMAS JATUH KE DASAR LAUT BEKU TETAP DIBURU DUNIA",
+    hook: "GAMBAR PENYELAM KEITH JESSOP MEMEGANG JONGKONG EMAS TULEN DARI KEDALAMAN 800 KAKI LAUT ARTIK PADA TAHUN 1981 INI BERNILAI RM900 JUTA... KENAPA KAPAL PERANG ITU MEMBAWA 4.5 TAN EMAS?",
+    teks: `Gambar penyelam laut dalam Britain, Keith Jessop, yang tersenyum memegang ketulan jongkong emas tulen di atas dek kapal penyelamat di Laut Barents pada Oktober 1981 ini digelar oleh LBMA sebagai Penyelamatan Abad Ini!
+
+Pada Mei 1942 semasa Perang Dunia Kedua, kapal perang Britain HMS Edinburgh telah ditorpedo sehingga tenggelam sedalam 800 kaki ke dasar lautan Artik yang beku ketika membawa 465 ketul jongkong emas seberat 4.5 tan!
+
+Tahukah anda mengapa Kesatuan Soviet menghantar 4.5 tan emas fizikal di dalam kapal perang tersebut?
+
+Kerana walaupun ketika bersekutu dalam perang besar, Amerika dan Britain tidak menerima bayaran wang kertas Ruble Soviet untuk bekalan senjata dan kereta kebal, sebaliknya mereka menuntut bayaran dalam bentuk jongkong emas fizikal 999.9!
+
+Dan 39 tahun selepas kapal itu karam di perairan sejuk beku, pasukan penyelam masih sanggup mempertaruhkan nyawa menyelam ke bilik bom kapal tersebut untuk menaikkan semula 431 ketul jongkong emas yang bernilai ratusan juta dolar!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, lihatlah bagaimana dunia sebenar beroperasi: kertas hanya laku waktu aman, tetapi emas adalah satu-satunya bahasa kepercayaan apabila dunia diuji krisis!
+
+Nilai seketul emas tidak pernah berkurang walau seinci pun walaupun terbenam di dasar lautan beku.
+
+Cuba komen, berapa gram emas fizikal yang anda sasarkan untuk kumpul sebelum hujung tahun ini?
+
+Pastikan anda menyimpan emas fizikal kerana di mana sahaja ia berada, ia kekal Berharga!`
+  },
+  {
+    id: 1355,
+    siri: "Kisah-03",
+    no: 26,
+    topik: "Kenapa Emas",
+    tajuk: "Bank Pusat Hungary Gandakan Rizab Emas Ke 110 Tan & Pengajaran Sejarah",
+    tags: ["inflasi", "hutang", "sejarah"],
+    persona: "BUDAPEST, HUNGARY (2021–2024) · NEGARA YANG PERNAH MENGALAMI HIPERINFLASI KINI MENJADI PENGUMPUL EMAS TEGAR",
+    hook: "GAMBAR BILIK KEBAL BANK PUSAT HUNGARY YANG DIPENUHI RIBUAN JONGKONG EMAS BAHARU ANTARA 2021 HINGGA 2024 INI MENCETUSKAN PERSOALAN... KENAPA MEREKA BORONG EMAS SECARA BESAR-BESARAN?",
+    teks: `Gambar susunan ribuan jongkong emas baharu yang diumumkan secara rasmi oleh Bank Pusat Hungary, Magyar Nemzeti Bank, apabila mereka menggandakan rizab emas negara daripada 3.1 tan kepada 94.5 tan pada tahun 2021 dan meningkatkannya lagi kepada rekod tertinggi 110 tan pada tahun 2024 ini wajib membuka mata kita semua!
+
+Kenapa sebuah negara di tengah Eropah tiba-tiba memborong berpuluh-puluh tan jongkong emas fizikal dalam tempoh yang begitu singkat?
+
+Dalam kenyataan rasmi bank pusat mereka sendiri, Hungary menyatakan bahawa emas fizikal tidak mempunyai risiko kredit mahupun risiko pihak ketiga, serta menjadi sauh kepercayaan paling kukuh ketika hutang dunia meningkat dan inflasi melambung!
+
+Ingatkah lagi kita dalam Skrip 31 sebelum ini bahawa Hungary adalah negara yang pernah mengalami hiperinflasi wang kertas Pengo paling teruk dalam sejarah dunia pada tahun 1946?
+
+Negara yang pernah terbakar teruk dengan wang kertas pada masa lalu kini menjadi antara pengumpul emas fizikal per kapita paling agresif di Eropah!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jangan tunggu kita sendiri terhantuk dengan kejatuhan nilai mata wang baru kita hendak mula membeli emas.
+
+Belajarlah daripada tindakan bank-bank pusat dunia yang sedang senyap-senyap menukar rizab kertas mereka kepada jongkong emas.
+
+Cuba komen, kalau bank pusat dunia pun sibuk borong emas, kenapa kita masih ragu-ragu?
+
+Ikut langkah bijak institusi kewangan dunia dengan menambah tabungan emas Fizikal!`
+  },
+  {
+    id: 1356,
+    siri: "Kisah-03",
+    no: 27,
+    topik: "Strategi Emas",
+    tajuk: "Anne Scheiber Tukar USD 5,000 Jadi USD 22 Juta & Konsistensi Kura-Kura",
+    tags: ["gap", "inflasi", "wanita", "auto-debit", "disiplin", "cukai", "pelajar"],
+    persona: "NEW YORK, AMERIKA SYARIKAT (1944–1995) · ANALOGI KURA-KURA VS ARNAB: SIMPANAN KONSISTEN JANGKA PANJANG PASTI MENANG",
+    hook: "GAMBAR JURUAUDIT WANITA YANG BERSARA DENGAN SIMPANAN USD 5,000 PADA TAHUN 1944 INI TIDAK PERNAH DINAIKKAN PANGKAT... TAPI BAGAIMANA BELIAU MENINGGALKAN HARTA RM95 JUTA?",
+    teks: `Kisah hidup seorang pesara juruaudit cukai di New York bernama Anne Scheiber yang meninggal dunia pada usia 101 tahun pada tahun 1995 ini telah mengejutkan seluruh Amerika Syarikat!
+
+Sepanjang 23 tahun bekerja di jabatan hasil dalam negeri, beliau tidak pernah dinaikkan pangkat walau sekali dan gajinya tidak pernah melebihi 3,150 dolar setahun.
+
+Ketika bersara pada tahun 1944, beliau hanya mempunyai wang simpanan berjumlah 5,000 dolar sahaja!
+
+Namun selama 50 tahun selepas bersara, beliau mengunci modalnya di dalam aset kukuh, hidup berjimat cermat, dan tidak pernah menjual asetnya walau sekali ketika pasaran jatuh sehinggalah nilai hartanya berkembang menjadi 22 juta dolar Amerika, iaitu lebih RM95 juta yang didermakan sepenuhnya untuk biasiswa pelajar wanita!
+
+Kisah Anne Scheiber membuktikan bahawa masa dan kesabaran adalah senjata paling tajam bagi orang biasa.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, dalam membina tabungan emas, kita tidak perlu berlari laju macam arnab yang cepat pancit di tengah jalan!
+
+Jadilah seperti kura-kura yang menabung satu gram sebulan atau melalui potongan tetap GAP Auto-Debit tanpa henti tahun demi tahun.
+
+Orang yang sabar menyimpan dan tidak gatal tangan menjual emasnya pasti akan tersenyum melihat hasilnya selepas lima atau sepuluh tahun.
+
+Cuba komen, berapa tahun sasaran anda nak pegang simpanan emas anda tanpa jual?
+
+Kalahkan inflasi dan bina kebebasan kewangan masa depan melalui kuasa Disiplin!`
+  },
+  {
+    id: 1357,
+    siri: "Kisah-03",
+    no: 28,
+    topik: "Strategi Emas",
+    tajuk: "Tragedi Spekulator Saham Jesse Livermore 1940 & Ketenangan Penyimpan Emas",
+    tags: ["saham", "ringgit", "sejarah"],
+    persona: "NEW YORK, AMERIKA SYARIKAT (1929–1940) · TENTUKAN POSISI DIRI: PENYIMPAN EMAS TIDUR LENA TANPA TEKANAN SPEKULASI",
+    hook: "GAMBAR PEDAGANG SAHAM TERHEBAT JESSE LIVERMORE YANG UNTUNG USD 100 JUTA PADA TAHUN 1929 INI DIGELAR RAJA SPEKULASI... TAPI KENAPA BELIAU BERAKHIR DENGAN MUFLIS DAN KECEWA?",
+    teks: `Potret lelaki bernama Jesse Livermore ini terkenal dalam sejarah Wall Street sebagai pedagang spekulasi paling hebat yang pernah hidup pada awal abad ke-20!
+
+Semasa kejatuhan pasaran saham pada tahun 1929, beliau berjaya menjana keuntungan luar biasa sebanyak 100 juta dolar Amerika, yang bersamaan dengan berbilion ringgit nilai hari ini, dalam masa beberapa hari sahaja!
+
+Semua orang menyangka beliau sudah selamat menjadi manusia paling kaya.
+
+Tetapi kerana ketagih dengan tabiat meneka turun naik harga harian dan spekulasi berisiko tinggi, beliau kehilangan semula keseluruhan 100 juta dolar tersebut dalam tempoh beberapa tahun berikutnya, jatuh muflis buat kali keempat, dan berakhir dalam tekanan emosi yang amat berat pada tahun 1940!
+
+Bayangkan, sudah menang ratusan juta dolar pun boleh hancur lebur apabila kita menjadikan kewangan sebagai medan perjudian graf!
+
+Sebab itu pesan guru saya, Tn Mohd Zulkifli Shafie, tentukan posisi kita sejak hari pertama kita membeli emas!
+
+Jangan bazirkan umur dan kesihatan mental kita dengan meniru gaya spekulator yang menghadap skrin graf setiap 20 minit.
+
+Ambillah posisi sebagai Penyimpan Emas fizikal yang fokus mengumpul berat gram untuk jangka panjang.
+
+Penyimpan emas tidak pernah kalah kerana fokusnya pada pertambahan kepingan emas di tangan, bukannya spekulasi harga harian.
+
+Cuba komen, anda nak kaya dengan hati yang tenang atau kaya dengan kepala yang serabut?
+
+Pilihlah jalan Penyimpan Emas fizikal supaya tidur malam anda sentiasa Lena dan Tenang!`
+  },
+  {
+    id: 1358,
+    siri: "Kisah-03",
+    no: 29,
+    topik: "Keluarga",
+    tajuk: "Letusan Gunung Tambora & 'Tahun Tanpa Musim Panas' 1816 Vs Benteng 1 Kg Emas",
+    tags: ["krisis", "anak", "isteri", "kecemasan", "sejarah"],
+    persona: "PULAU SUMBAWA, NUSANTARA & EROPAH (1815–1816) · EMAS ADALAH INSURANS LUAR JANGKA KETIKA KRISIS BEKALAN & MAKANAN DUNIA",
+    hook: "LUKISAN LANGIT GELAP DAN SALJI TURUN PADA BULAN JUN 1816 INI BERPUNCA DARIPADA LETUSAN GUNUNG BERAPI TAMBORA... APA TERJADI APABILA HARGA MAKANAN MELAMBUNG SERENTAK DI SELURUH DUNIA?",
+    teks: `Pada April 1815, Gunung Berapi Tambora di Pulau Sumbawa telah meletus dengan kekuatan paling dahsyat dalam sejarah moden sehingga menghamburkan 100 kilometer padu abu ke lapisan atmosfera bumi!
+
+Kesan letusan itu begitu besar sehingga pada tahun berikutnya, iaitu tahun 1816, cahaya matahari terhalang di seluruh dunia dan mencetuskan fenomena yang digelar sebagai Tahun Tanpa Musim Panas!
+
+Salji turun pada bulan Jun di Amerika Utara, hujan lebat memusnahkan ladang di Eropah, tanaman gagal dituai di Asia, dan harga gandum serta makanan melambung naik berkali-kali ganda sehingga mencetuskan kebuluran besar!
+
+Dalam krisis luar jangka berskala global seperti tahun 1816 itu, wang kertas tempatan kehilangan kuasa beli dengan pantas apabila bekalan makanan menjadi terhad.
+
+Hanya keluarga yang mempunyai rizab simpanan emas dan perak sahaja yang mampu membeli bekalan makanan yang diimport dari wilayah jauh!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, dunia ini sentiasa terdedah kepada krisis luar jangka yang tidak pernah kita duga, sama ada wabak penyakit, bencana alam, mahupun gangguan bekalan makanan.
+
+Itulah sebabnya setiap keluarga disarankan membina rizab kecemasan emas fizikal menuju sasaran 100 gram pertama dan seterusnya 1 kilogram emas!
+
+Emas bukan untuk menjadikan kita sombong, tetapi sebagai perisai keselamatan anak isteri ketika zaman sukar.
+
+Cuba komen, apakah persediaan terbaik yang boleh kita buat untuk hadapi ketidaktentuan ekonomi?
+
+Lengkapkan keluarga anda dengan tabungan emas fizikal supaya benteng hidup sentiasa Kukuh!`
+  },
+  {
+    id: 1359,
+    siri: "Kisah-03",
+    no: 30,
+    topik: "Strategi Emas",
+    tajuk: "8,600 Artifak 'Cuerdale Hoard' Sungai Ribble 1840 & Tukar Emas Jadi Aset",
+    tags: ["hartanah", "rumah", "dinar", "anak", "sejarah", "tunai"],
+    persona: "PRESTON, LANCASHIRE, ENGLAND (1840) · EMAS SEBAGAI MODAL MEMBELI TANAH & RUMAH SEWA (KISAH EN BASHIR & CIKGU SYAHRUL)",
+    hook: "GAMBAR PEKERJA MEMBAIKI TEBING SUNGAI RIBBLE DI ENGLAND PADA MEI 1840 INI MENEMUI PETI TIMAH BERAT... KENAPA 8,600 KEPING LOGAM MULIA VIKING ITU DISIMPAN UNTUK MEMBELI TANAH?",
+    teks: `Pada 15 Mei 1840, sekumpulan pekerja yang sedang membaiki tebing Sungai Ribble di Cuerdale, England tiba-tiba terjumpa sebuah peti timah lama yang mengandungi lebih 8,600 keping syiling, jongkong, dan gelang logam mulia seberat 40 kilogram dari zaman Viking abad ke-10!
+
+Mengikut kajian pakar sejarah di Muzium British, khazanah Cuerdale Hoard yang dikumpulkan daripada pelbagai pelosok dunia termasuk syiling Dinar Islam itu bukanlah ditanam untuk dibiarkan begitu sahaja.
+
+Ia adalah modal terkumpul angkatan Viking yang disimpan bagi membeli dan membuka penempatan tanah baharu di sekitar Lancashire!
+
+Walaupun pemilik asalnya tidak sempat menggunakannya, modal logam mulia itu kekal utuh seratus peratus selama hampir seribu tahun di tebing sungai!
+
+Strategi mengumpul logam mulia sebagai modal untuk memiliki tanah dan hartanah inilah yang diajar oleh guru saya, Tn Mohd Zulkifli Shafie, kepada para penyimpan emas hari ini!
+
+Jika kita kumpul wang tunai di bank selama lima tahun untuk beli tanah lot atau rumah sewa, selalunya duit itu bocor di tengah jalan atau nilainya kalah dengan kenaikan harga tanah.
+
+Sebaliknya, apabila kita mengumpul gram emas secara konsisten seperti yang dilakukan oleh Cikgu Syahrul dan Encik Bashir, modal kita terkunci rapat dan berkembang seiring dengan nilai hartanah!
+
+Bila gram emas sudah cukup, barulah dicairkan untuk membeli aset hartanah secara tunai.
+
+Cuba komen, anda simpan emas untuk dana persaraan, pendidikan anak, atau nak beli tanah?
+
+Mulakan tabungan emas anda hari ini sebagai jambatan membina empayar harta yang Kekal!`
+  },
+  {
+    id: 1360,
+    siri: "Kisah-04",
+    no: 1,
+    topik: "Kenapa Emas",
+    tajuk: "Wang Kertas 100 Bilion Drachma Greece 1944 & Kuasa Beli Yang Cair",
+    tags: ["inflasi", "gaji", "perang", "sejarah", "tunai"],
+    persona: "ATHENS, GREECE (1944) · BUKAN EMAS MAKIN MAHAL, TETAPI NILAI WANG KERTAS YANG MAKIN JATUH",
+    hook: "GAMBAR WANG KERTAS 100 BILION DRACHMA DARI ATHENS PADA NOVEMBER 1944 INI ADALAH ANTARA NOMBOR CETAKAN TERBESAR DUNIA... KENAPA RAKYAT HANYA BERANI PEGANG DUIT INI SELAMA BEBERAPA JAM?",
+    teks: `Gambar wang kertas rasmi bernilai 100 bilion Drachma yang dikeluarkan oleh Bank of Greece pada 5 November 1944 ini merakamkan detik ketika penduduk Athens takut untuk menyimpan wang kertas walau untuk satu malam!
+
+Mengikut rekod sejarah, sebelum perang pada tahun 1938, rakyat Greece memegang wang kertas secara purata selama 40 hari sebelum membelanjakannya.
+
+Tetapi menjelang Oktober dan November 1944, apabila hiperinflasi melanda dan harga barang naik dua kali ganda setiap beberapa hari, purata masa rakyat berani memegang wang kertas jatuh kepada empat jam sahaja!
+
+Sebaik sahaja menerima gaji, mereka berlari menukarkannya kepada makanan atau syiling emas Sovereign Britain kerana jika disimpan sehingga esok pagi, nilai kertas itu sudah hilang separuh!
+
+Hari ini, inflasi kita mungkin tidak selaju tahun 1944, tetapi hakisan kuasa beli wang kertas tetap berlaku setiap tahun tanpa gagal.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, wang kertas dicipta untuk kegunaan belanja jangka pendek, bukannya untuk disimpan bertahun-tahun!
+
+Untuk dana yang kita tidak mahu gunakan dalam tempoh dua tahun ke atas, jangan biarkan ia cair dimakan inflasi di dalam akaun tunai.
+
+Cuba komen, berapa tahun dah anda simpan duit tunai yang tak diusik dalam bank?
+
+Selamatkan kuasa beli tabungan jangka panjang anda hari ini dengan menukarkannya kepada Emas!`
+  },
+  {
+    id: 1361,
+    siri: "Kisah-04",
+    no: 2,
+    topik: "Kenapa Emas",
+    tajuk: "Raycho Marinov Jumpa Emas Tertua Dunia 6,600 Tahun Di Varna & Nilai Sejagat",
+    tags: ["susut nilai"],
+    persona: "VARNA, BULGARIA (4600 SM – 1972) · SEJARAH RIBUAN TAHUN MEMBUKTIKAN EMAS ADALAH PENYIMPAN NILAI MUTLAK MANUSIA",
+    hook: "GAMBAR PEMANDU JENGKAUT RAYCHO MARINOV MENJUMPAI GELANG KUNING DI DALAM PARIT PADA OKTOBER 1972 INI MENGUBAH SEJARAH DUNIA... KENAPA EMAS 6,600 TAHUN ITU MASIH SEMPURNA?",
+    teks: `Pada Oktober 1972, seorang pemandu jengkaut muda bernama Raycho Marinov sedang menggali parit kabel elektrik di kawasan perindustrian Varna, Bulgaria apabila matanya ternampak kepingan logam kuning berkilau di dalam tanah!
+
+Apabila ahli arkeologi tiba dan menggali kawasan tersebut, mereka menemui lebih 3,000 keping artifak emas tulen seberat enam kilogram!
+
+Ujian karbon mengesahkan bahawa Khazanah Emas Varna itu dihasilkan antara tahun 4600 hingga 4200 Sebelum Masihi, menjadikannya emas buatan manusia paling tua yang pernah ditemui di muka bumi, iaitu berusia lebih enam ribu enam ratus tahun!
+
+Fikirkan fakta luar biasa ini sejenak.
+
+Enam ribu enam ratus tahun dahulu, belum ada bank pusat, belum ada wang kertas, malah piramid di Mesir pun belum dibina lagi!
+
+Tetapi manusia sejak awal tamadun sudah mengiktiraf emas sebagai simbol kekayaan dan penyimpan nilai yang paling tinggi!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, emas bukanlah pelaburan trend baharu yang baru muncul semalam dan boleh hilang tahun depan.
+
+Ia adalah logam mulia yang telah diuji ketahanannya selama lebih enam alaf tanpa pernah gagal mengekalkan nilainya!
+
+Cuba komen, ada tak mata wang kertas di dunia yang mampu bertahan walau seratus tahun tanpa susut nilai?
+
+Binalah tabungan keluarga anda dengan aset fizikal yang terbukti bertahan merentas Zaman!`
+  },
+  {
+    id: 1362,
+    siri: "Kisah-04",
+    no: 3,
+    topik: "Kewangan Peribadi",
+    tajuk: "Kejatuhan 'Penn Square Bank' Di Pusat Beli-Belah 1982 & Bahaya Spekulasi",
+    tags: ["hutang", "gaji", "dinar", "kecemasan", "sejarah", "tunai"],
+    persona: "OKLAHOMA CITY, AMERIKA SYARIKAT (1982) · JANGAN PERTARUHKAN SIMPANAN KEPADA SPEKULASI, PEGANG EMAS FIZIKAL",
+    hook: "GAMBAR SEBUAH BANK KECIL DI BELAKANG PUSAT BELI-BELAH OKLAHOMA YANG TUTUP PADA 5 JULAI 1982 INI MENGGONCANG SELURUH WALL STREET... BAGAIMANA IA MENJATUHKAN BANK-BANK GERGASI?",
+    teks: `Gambar bangunan Penn Square Bank yang terletak di sebuah pusat beli-belah di Oklahoma City pada 5 Julai 1982 ini merakamkan salah satu skandal perbankan paling pelik dalam sejarah Amerika!
+
+Walaupun bermula sebagai sebuah bank kecil, pegawai bank tersebut memberikan pinjaman berbilion dolar secara melulu kepada spekulator telaga minyak dan menjual semula pakej pinjaman berisiko itu kepada bank-bank gergasi di Chicago dan New York!
+
+Apabila harga minyak dunia jatuh sedikit sahaja pada tahun 1982, Penn Square Bank runtuh serta-merta!
+
+Para pendeposit yang mempunyai simpanan melebihi had insurans kehilangan wang mereka, malah keruntuhan bank kecil itu mengheret bank-bank besar lain ke kancah kerugian berbilion dolar!
+
+Kisah benar tahun 1982 ini mengajar kita bahawa di sebalik dinding bank yang nampak megah, kita tidak pernah tahu risiko pinjaman apakah yang sedang mereka pertaruhkan menggunakan duit simpanan kita.
+
+Sebab itu pesan guru saya, Tn Mohd Zulkifli Shafie, jangan biarkan keseluruhan dana perlindungan keluarga kita terdedah kepada risiko pihak ketiga!
+
+Simpanlah tunai sekadar keperluan kecemasan tiga bulan gaji sahaja.
+
+Selebihnya, tukarkan kepada jongkong emas dan dinar fizikal yang bebas daripada sebarang risiko pinjaman lapuk mana-mana institusi.
+
+Cuba komen, anda rasa tenang tak bila tahu emas fizikal tidak mempunyai risiko hutang pihak lain?
+
+Kawal keselamatan harta keluarga anda dengan memegang aset emas di tangan Sendiri!`
+  },
+  {
+    id: 1363,
+    siri: "Kisah-04",
+    no: 4,
+    topik: "Kewangan Peribadi",
+    tajuk: "Genesio Morlacci, Tukang Cuci Tinggalkan USD 2.3 Juta & Ubat Penyakit Boros",
+    tags: ["gap", "hutang", "gaji", "999", "disiplin", "sejarah", "pelajar"],
+    persona: "GREAT FALLS, MONTANA, AS (2004) · GOLONGAN PERTAMA MANFAAT EMAS: RAWAT PENYAKIT BOROS & SIMPAN KONSISTEN",
+    hook: "GAMBAR TUKANG CUCI DAN PENGGOSOK BAJU DI MONTANA YANG MENINGGAL DUNIA PADA TAHUN 2004 INI MENGEJUTKAN SEBUAH UNIVERSITI... BAGAIMANA BELIAU MENGUMPUL HARTA RM10 JUTA?",
+    teks: `Pada November 2004, sebuah kolej kecil bernama Universiti Great Falls di Montana, Amerika Syarikat menerima kejutan paling besar dalam sejarah penubuhan mereka!
+
+Seorang warga emas berusia 102 tahun bernama Genesio Morlacci yang baru meninggal dunia telah mewasiatkan sebanyak 2.3 juta dolar, iaitu sekitar RM10 juta, untuk membiayai biasiswa pelajar miskin!
+
+Siapakah jutawan rahsia ini sebenarnya?
+
+Beliau hanyalah seorang imigran yang bekerja sebagai tukang cuci bangunan dan pencuci pakaian kering sepanjang hidupnya!
+
+Walaupun gajinya kecil, beliau dan isterinya mengamalkan hidup bebas hutang, tidak pernah membeli barang mewah untuk menunjuk-nunjuk, dan menukarkan setiap sen lebihan gaji kepada aset simpanan yang berkembang selama puluhan tahun!
+
+Ramai orang kita hari ini memberi alasan: gaji saya kecil, macam mana nak mula simpan emas?
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kita jadi miskin atau kaya bukanlah ditentukan oleh berapa besar gaji yang kita dapat, tetapi ditentukan oleh berapa banyak yang berjaya kita simpan dan kekalkan!
+
+Melalui Akaun Emas GAP Public Gold, sesiapa sahaja boleh memulakan tabungan emas tulen 999.9 serendah RM100 sahaja.
+
+Apabila duit ditukar kepada emas, nafsu boros kita terkunci secara automatik.
+
+Cuba komen, berapa bajet minimum sebulan yang anda rasa selesa nak mula simpan emas?
+
+Kuasai tabiat menabung emas sedikit demi sedikit kerana disiplin itulah yang menjadikan kita Kaya!`
+  },
+  {
+    id: 1364,
+    siri: "Kisah-04",
+    no: 5,
+    topik: "Kenapa Emas",
+    tajuk: "Penyelam Angkat 3,186 Jongkong Emas 'RMS Laurentic' 1917 & Nilai Mutlak",
+    tags: ["gap", "perang"],
+    persona: "LOUGH SWILLY, IRELAND & UK (1917–1924) · WAKTU KRISIS DUNIA, HANYA EMAS FIZIKAL YANG DIIKTIRAF SEBAGAI BAYARAN SEBENAR",
+    hook: "GAMBAR KAPAL RMS LAURENTIC YANG TENGGELAM TERKENA PERIUK API PADA JANUARI 1917 INI MEMBAWA 44 TAN EMAS... KENAPA TENTERA LAUT SANGGUP MENYELAM 5,000 KALI DALAM AIR BEKU?",
+    teks: `Pada malam 25 Januari 1917 yang sejuk membeku, kapal British RMS Laurentic telah terlanggar dua biji periuk api Jerman di luar pantai Ireland lalu karam ke dasar laut!
+
+Di dalam perut kapal tersebut tersimpan satu rahsia besar negara: sebanyak 3,211 ketul jongkong emas seberat 44 tan yang sedang dihantar ke Kanada dan Amerika bagi membayar kos bekalan peluru serta senjata Perang Dunia Pertama!
+
+Kerana emas itu terlalu penting untuk kelangsungan negara, Tentera Laut Diraja Britain menghantar pasukan penyelam pimpinan Kapten Guybon Damant.
+
+Selama tujuh tahun dari 1917 hingga 1924, para penyelam melakukan lebih 5,000 selaman berbahaya di dalam air sejuk dan gelora ribut tanpa sebarang teknologi robot moden sehingga berjaya menaikkan semula 3,186 daripada 3,211 ketul jongkong emas tersebut!
+
+Bayangkan, 99 peratus emas berjaya dikutip semula dengan tangan dari bangkai kapal yang remuk!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, cuba fikirkan: kenapa kerajaan tidak cetak sahaja wang kertas baharu untuk menggantikan harta yang karam itu?
+
+Kerana kertas boleh dicetak di darat, tetapi nilai kepercayaan dunia hanya wujud pada emas fizikal!
+
+Jika kerajaan dunia sanggup menyelam lima ribu kali ke dasar laut demi menyelamatkan emas, kita hanya perlu klik telefon pintar sahaja untuk mula menyimpan emas di Akaun GAP hari ini.
+
+Cuba komen, dah berapa gram emas yang berjaya anda selamatkan daripada habis dibelanjakan?
+
+Kumpullah emas fizikal secara konsisten kerana itulah ukuran kekayaan yang Sejati!`
+  },
+  {
+    id: 1365,
+    siri: "Kisah-04",
+    no: 6,
+    topik: "Kenapa Emas",
+    tajuk: "Cuti Bank Mengejut Krisis Uruguay 2002 & Risiko Jangkitan Sistem Kewangan",
+    tags: ["krisis", "999"],
+    persona: "MONTEVIDEO, URUGUAY (2002) · EMAS FIZIKAL ADALAH INSURANS KEKAYAAN YANG BEBAS RISIKO JANGKITAN BANK",
+    hook: "GAMBAR PINTU BANK DI MONTEVIDEO DITUTUP RAPAT PADA 30 JULAI 2002 INI MENGEJUTKAN NEGARA YANG DIGELAR 'SWITZERLAND AMERIKA SELATAN'... BAGAIMANA KRISIS NEGARA JIRAN MENJANGKITI MEREKA?",
+    teks: `Selama puluhan tahun, negara Uruguay digelar sebagai Switzerland Amerika Selatan kerana sistem perbankannya dianggap paling stabil dan selamat di rantau tersebut!
+
+Namun pada tahun 2002, apabila negara jirannya Argentina membekukan akaun bank dalam tragedi Corralito, para pendeposit panik dan mula mengeluarkan berbilion dolar daripada bank-bank di Uruguay pula!
+
+Akibat jangkitan krisis tersebut, hampir separuh daripada rizab deposit perbankan Uruguay susut dalam masa beberapa bulan, mata wang Peso jatuh menjunam, dan pada 30 Julai 2002 kerajaan terpaksa mengisytiharkan cuti bank darurat dengan menutup semua pintu bank selama seminggu!
+
+Kisah benar di Uruguay ini membuktikan satu hakikat yang sering kita terlepas pandang.
+
+Dalam dunia kewangan moden yang saling berkait, masalah ekonomi di tempat lain boleh berjangkit ke dalam sistem perbankan tempatan tanpa kita duga!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, emas fizikal adalah satu-satunya aset kewangan yang sifar risiko jangkitan sistem perbankan.
+
+Apabila anda memegang kepingan emas fizikal 999.9 di tangan, nilai emas anda tidak akan jatuh muflis walaupun bank di negara sebelah mengalami krisis kecairan!
+
+Malah ketika mata wang kertas serantau jatuh, harga emas dalam mata wang tempatan akan melonjak naik melindungi kuasa beli pemiliknya.
+
+Cuba komen, adakah anda sudah menyediakan tabung perlindungan di luar sistem perbankan?
+
+Pastikan keluarga anda mempunyai rizab emas fizikal supaya harta titik peluh kekal Selamat!`
+  },
+  {
+    id: 1366,
+    siri: "Kisah-04",
+    no: 7,
+    topik: "Keluarga",
+    tajuk: "Tragedi 'Black Friday' 1866 Bank Overend Gurney & Analogi Kapal Titanic",
+    tags: ["hutang", "sejarah"],
+    persona: "LOMBARD STREET, LONDON, UK (1866) · ANALOGI KAPAL TITANIC: INSTITUSI KEWANGAN SEBESAR MANA PUN TIDAK KEBAL",
+    hook: "LUKISAN LAUTAN MANUSIA MEMBANJIRI JALAN LOMBARD DI LONDON PADA 11 MEI 1866 INI DIGELAR 'BLACK FRIDAY' PERTAMA... BAGAIMANA BANK KEDUA TERBESAR SELEPAS BANK OF ENGLAND BOLEH TUMBANG?",
+    teks: `Lukisan ribuan warga London yang menyerbu jalan Lombard Street dengan wajah panik pada hari Jumaat, 11 Mei 1866 ini adalah peristiwa bersejarah yang melahirkan istilah Black Friday dalam dunia kewangan!
+
+Pada petang sehari sebelumnya, institusi kewangan gergasi Overend, Gurney and Company yang terkenal dengan gelaran Bank Kepada Para Jurubank telah menggantung pembayaran dan muflis dengan hutang sebanyak 11 juta Paun!
+
+Institusi itu begitu besar sehingga orang ramai menyangka ia mustahil dibiarkan tumbang.
+
+Tetapi apabila Bank of England enggan menyelamatkannya kerana pengurusan Overend Gurney telah membuat pelaburan kertas berisiko tinggi yang buruk, lebih 200 buah syarikat dan bank lain turut runtuh berantai!
+
+Sejarah tahun 1866 ini mengesahkan kebenaran analogi yang sering diulang-ulang oleh guru saya, Tn Mohd Zulkifli Shafie.
+
+Orang yang meletakkan seratus peratus kepercayaannya kepada sistem kertas tanpa menyimpan walau segram pun emas fizikal adalah umpama penumpang kapal Titanic yang menyangka kapal itu tidak boleh tenggelam!
+
+Apabila bahtera kewangan diuji ribut, hanya mereka yang sudah menyediakan bot penyelamat iaitu emas fizikal sahaja yang dapat menyelamatkan keluarga mereka.
+
+Jangan tunggu hari Jumaat Hitam berlaku baru kita hendak mencari emas.
+
+Cuba komen, berapa peratus daripada tabungan anda sekarang yang sudah berada di dalam bot penyelamat emas?
+
+Binalah rizab emas fizikal anda sedikit demi sedikit supaya kedudukan kewangan keluarga kekal Kukuh!`
+  },
+  {
+    id: 1367,
+    siri: "Kisah-04",
+    no: 8,
+    topik: "Kenapa Emas",
+    tajuk: "Heinrich Schliemann & Khazanah Emas Raja Priam Di Kota Troy 1873",
+    tags: ["inflasi", "tunai"],
+    persona: "HISARLIK (KOTA PURBA TROY), TURKIYE (1873) · TAMADUN & KERAJAAN BOLEH MUSNAH, TETAPI EMAS FIZIKAL KEKAL BERNILAI",
+    hook: "GAMBAR PERHIASAN MAHKOTA EMAS DARI RUNTUHAN KOTA TROY YANG DITEMUI PADA MEI 1873 INI BERUSIA 4,500 TAHUN... BAGAIMANA EMAS INI TERSELAMAT DARIPADA KEBAKARAN PERANG KOTA TROY?",
+    teks: `Gambar mahkota emas tulen yang ditenun daripada ribuan cincin dan kepingan daun emas halus ini ditemui oleh ahli arkeologi Jerman, Heinrich Schliemann, di runtuhan kota purba Troy di Hisarlik, Turkiye pada Mei 1873!
+
+Selama berabad-abad, orang menyangka kisah Kota Troy hanyalah mitos dongeng semata-mata.
+
+Namun apabila Schliemann menggali sedalam puluhan kaki di bawah lapisan abu kebakaran kota purba yang berusia lebih empat ribu lima ratus tahun itu, beliau menemui sebuah peti perak yang mengandungi Khazanah Emas Priam!
+
+Di dalamnya terdapat mahkota emas, enam gelang emas padu, cawan emas, dan hampir 9,000 butir manik emas yang disembunyikan ketika kota itu diserang musuh sekitar tahun 2400 Sebelum Masihi!
+
+Bayangkan: tembok batu kota Troy telah runtuh, istana kayunya telah hangus terbakar menjadi abu, dan kerajaannya telah lenyap selama empat alaf setengah.
+
+Tetapi emas yang disimpan di bawah runtuhan tersebut keluar dari tanah dalam keadaan masih utuh dan bernilai tinggi!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, emas mempunyai kuasa mengekalkan kekayaan yang tidak dimiliki oleh mana-mana aset kertas ciptaan manusia.
+
+Ia tidak terbakar oleh api inflasi dan tidak musnah oleh perubahan zaman.
+
+Cuba komen, kalau anda boleh simpan satu aset untuk diwariskan 50 tahun lagi, aset apa yang anda pilih?
+
+Tukarkan sebahagian simpanan tunai anda kepada emas fizikal kerana nilainya dijamin Kekal!`
+  },
+  {
+    id: 1368,
+    siri: "Kisah-04",
+    no: 9,
+    topik: "Kenapa Emas",
+    tajuk: "Wang Kertas 'Continental' Amerika 1779 & Pepatah 'Tak Bernilai Satu Sen'",
+    tags: ["hutang", "sejarah", "tunai"],
+    persona: "PHILADELPHIA, AMERIKA SYARIKAT (1775–1779) · HAKIKAT WANG FIAT: WANG KERTAS TANPA SANDARAN PASTI JATUH NILAI",
+    hook: "GAMBAR WANG KERTAS PERTAMA AMERIKA BERNAMA 'CONTINENTAL' DARI TAHUN 1779 INI MELAHIRKAN PEPATAH TERKENAL... KENAPA RAKYAT AMERIKA SENDIRI MENGGELAR DUIT INI TIDAK BERNILAI?",
+    teks: `Gambar sekeping wang kertas lama bertulis Continental Currency dari tahun 1779 ini adalah mata wang kertas pertama yang pernah dicetak oleh kerajaan Amerika Syarikat!
+
+Tetapi tahukah anda, pengalaman pertama rakyat Amerika dengan wang kertas ini begitu pahit sehingga melahirkan pepatah bahasa Inggeris yang terkenal: Not worth a Continental, yang bermaksud langsung tidak bernilai!
+
+Mengapa wang kertas rasmi negara boleh dihina sedemikian rupa?
+
+Kerana antara tahun 1775 hingga 1779, Kongres Amerika telah mencetak lebih 240 juta dolar wang kertas Continental tanpa sebarang sandaran emas atau perak di dalam perbendaharaan mereka!
+
+Akibatnya, menjelang tahun 1780, nilai wang kertas tersebut jatuh menjunam sehingga 99 peratus, menyebabkan sepasang kasut biasa berharga ribuan dolar kertas Continental!
+
+Kemarahan rakyat terhadap kejatuhan wang kertas itu begitu mendalam sehingga Perlembagaan Amerika Syarikat yang digubal pada tahun 1787 terpaksa memasukkan klausa khas yang melarang negeri-negeri menjadikan apa-apa selain syiling emas dan perak sebagai bayaran hutang yang sah!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, sejarah membuktikan bahawa setiap kali wang kertas dicetak melebihi sandaran, penyimpan tunai pasti menjadi mangsa.
+
+Jangan biarkan titik peluh kita senasib dengan wang kertas Continental.
+
+Cuba komen, pernah tak anda rasa duit kertas sekarang makin laju habis bila pergi pasar raya?
+
+Bentengi kuasa beli keluarga anda hari ini dengan menyimpan logam mulia emas Tulen!`
+  },
+  {
+    id: 1369,
+    siri: "Kisah-04",
+    no: 10,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Skim Koloni Darien 1698 Yang Memufliskan Scotland & Pengurusan Risiko Harta",
+    tags: ["skim", "tunai"],
+    persona: "EDINBURGH, SCOTLAND & PANAMA (1698–1700) · JANGAN PERTARUHKAN SEMUA HARTA DALAM SKIM JANJI MANIS, SIMPAN EMAS FIZIKAL",
+    hook: "GAMBAR PETI BESI DARIEN DI MUZIUM SCOTLAND INI MENYIMPAN TRAGEDI KEWANGAN TAHUN 1698... BAGAIMANA SATU SKIM PELABURAN MELEBURKAN 20% DARIPADA SELURUH KEKAYAAN NEGARA SCOTLAND?",
+    teks: `Gambar peti besi kayu dan besi yang dipamerkan di Muzium Kebangsaan Scotland ini adalah saksi bisu kepada bencana pelaburan paling dahsyat yang pernah memufliskan sebuah negara pada tahun 1698!
+
+Dipukau oleh janji manis seorang ahli kewangan bernama William Paterson untuk membina koloni perdagangan kaya-raya di teluk Darien, Panama, ribuan rakyat Scotland daripada golongan bangsawan sehinggalah petani dan balu telah mengeluarkan wang simpanan seumur hidup mereka!
+
+Secara keseluruhannya, sebanyak 400,000 Paun, iaitu kira-kira 20 peratus daripada keseluruhan wang tunai yang wujud di negara Scotland ketika itu, telah dilaburkan ke dalam projek tunggal tersebut!
+
+Namun apabila kapal-kapal mereka tiba di hutan paya Panama yang dipenuhi wabak malaria dan tanpa bekalan yang betul, koloni itu musnah sepenuhnya menjelang tahun 1700 dan kesemua modal rakyat Scotland lebur menjadi sifar!
+
+Keruntuhan kewangan itu begitu parah sehingga Scotland akhirnya terpaksa menyerahkan kedaulatannya dalam kesatuan politik pada tahun 1707.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, jangan sesekali mengeluarkan seluruh simpanan keluarga untuk dimasukkan ke dalam satu skim pelaburan yang menjanjikan kekayaan segera!
+
+Pastikan asas simpanan kita diletakkan di dalam emas fizikal yang tidak boleh muflis.
+
+Cuba komen, apakah peraturan nombor satu anda sebelum mengeluarkan duit simpanan untuk melabur?
+
+Utamakan perlindungan modal keluarga anda dengan menyimpan emas fizikal yang pasti Selamat!`
+  },
+  {
+    id: 1370,
+    siri: "Kisah-04",
+    no: 11,
+    topik: "Kenapa Emas",
+    tajuk: "Kerugian USD 6 Bilion Dana Amaranth Dalam Seminggu 2006 & Bahaya Spekulasi",
+    tags: ["hutang", "ringgit"],
+    persona: "GREENWICH, CONNECTICUT, AS (2006) · TOLAK SPEKULASI HARGA JANGKA PENDEK, FOKUS KUMPUL GRAM EMAS",
+    hook: "GAMBAR PEDAGANG TENAGA BRIAN HUNTER TAHUN 2006 INI PERNAH DIPUJI KERANA MENJANA UNTUNG BESAR... TAPI BAGAIMANA PERTARUHANNYA MELEBURKAN RM26 BILION HANYA DALAM MASA SATU MINGGU?",
+    teks: `Pada September 2006, dunia kewangan antarabangsa dikejutkan dengan keruntuhan dana lindung nilai gergasi Amaranth Advisors yang menguruskan aset bernilai lebih 9 bilion dolar Amerika!
+
+Puncanya datang daripada seorang pedagang muda berusia 32 tahun bernama Brian Hunter yang membuat pertaruhan spekulasi besar-besaran menggunakan kontrak hadapan gas asli!
+
+Apabila arah cuaca dan harga pasaran bergerak berlawanan dengan jangkaannya, dana tersebut kehilangan lebih 6 bilion dolar Amerika, iaitu sekitar RM26 bilion, hanya dalam tempoh satu minggu sahaja!
+
+Dana pencen pekerja dan institusi yang melabur di dalam syarikat itu terpaksa menanggung kerugian berbilion ringgit sekelip mata.
+
+Kisah Amaranth Advisors ini adalah peringatan keras buat sesiapa sahaja yang suka berjudi meneka arah pasaran jangka pendek.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jangan sesekali samakan simpanan emas fizikal dengan permainan spekulasi komoditi di atas skrin!
+
+Apabila kita membeli emas fizikal tanpa hutang leverage, kita tidak akan pernah mengalami kerugian total seperti spekulator pasaran hadapan.
+
+Harga emas turun sekalipun, berat gram emas di tangan kita langsung tidak berkurang walau seinci.
+
+Kita hanya perlu sabar menunggu masa yang sesuai kerana nilai jangka panjang emas sentiasa meningkat.
+
+Cuba komen, anda lebih suka tidur lena pegang emas fizikal atau berdebar-debar main kontrak pasaran?
+
+Jadikan emas fizikal sebagai tabungan masa depan supaya emosi dan kewangan anda kekal Tenang!`
+  },
+  {
+    id: 1371,
+    siri: "Kisah-04",
+    no: 12,
+    topik: "Keluarga",
+    tajuk: "Ribut Ais Amerika Utara 1998 Matikan Elektrik Berminggu-Minggu & Aset Fizikal",
+    tags: ["rumah", "kecemasan", "sejarah", "patah", "tunai"],
+    persona: "QUEBEC & ONTARIO, KANADA (1998) · KISAH BANJIR 2014: WAKTU SISTEM ELEKTRONIK LUMPUH, HANYA ASET FIZIKAL YANG BERFUNGSI",
+    hook: "GAMBAR MENARA BESI ELEKTRIK REBAH REMUK SEPERTI KERTAS DI KANADA PADA JANUARI 1998 INI MELUMPUHKAN JUTAAN PENDUDUK... APA TERJADI APABILA ELEKTRIK MATI SELAMA TIGA MINGGU?",
+    teks: `Gambar menara-menara pencawang elektrik keluli gergasi yang bengkok dan rebah menyembah bumi akibat beban lapisan ais tebal di Quebec dan Ontario, Kanada pada Januari 1998 ini adalah antara bencana musim sejuk paling buruk dalam sejarah Amerika Utara!
+
+Lebih 1,000 menara besi dan 35,000 tiang elektrik patah serentak, menyebabkan lebih empat juta penduduk terputus bekalan elektrik di tengah suhu sejuk beku selama berminggu-minggu!
+
+Apabila grid elektrik runtuh, seluruh sistem perbankan elektronik, mesin ATM, dan terminal kad pembayaran di kedai-kedai mati serta-merta!
+
+Keluarga yang hanya bergantung kepada kad bank dan tidak menyimpan sebarang rizab fizikal di rumah terpaksa bergelut untuk mendapatkan bekalan asas seperti kayu api, petrol, dan makanan panas.
+
+Peristiwa di sebuah negara maju seperti Kanada ini mengesahkan pesan guru saya, Tn Mohd Zulkifli Shafie, berdasarkan pengalaman beliau sendiri mengharungi bencana banjir besar pada tahun 2014.
+
+Jangan terlalu selesa menyangka sistem perbankan atas talian akan sentiasa hidup 24 jam tanpa gangguan!
+
+Setiap ketua keluarga wajib menyimpan sedikit tunai kecemasan di rumah, dan selebihnya membina rizab emas fizikal yang boleh dicairkan pada bila-bila masa.
+
+Apabila talian digital terputus, kepingan emas di tangan tetap laku.
+
+Cuba komen, kalau bekalan elektrik dan internet terputus dua minggu, apa persediaan kecemasan keluarga anda?
+
+Kukuhkan pertahanan luar jangka keluarga anda hari ini dengan menyimpan emas Fizikal!`
+  },
+  {
+    id: 1372,
+    siri: "Kisah-04",
+    no: 13,
+    topik: "Kenapa Emas",
+    tajuk: "Pelarian Rahsia 80 Tan Emas Bank Negara Poland 1939 & Kuasa Bangkit Semula",
+    tags: ["perang"],
+    persona: "WARSAW, POLAND KE PARIS & DAKAR (1939–1944) · EMAS ADALAH BOT PENYELAMAT UNTUK MEMBINA SEMULA KEHIDUPAN SELEPAS KRISIS",
+    hook: "GAMBAR BAS MERAH DAN LORI MENGANGKUT 80 TAN EMAS KELUAR DARI WARSAW PADA MALAM 4 SEPTEMBER 1939 INI ADALAH MISI PALING BERANI... KENAPA TENTERA NAZI KECEWA BILA BUKA BILIK KEBAL?",
+    teks: `Pada malam 4 September 1939, ketika tentera Nazi Jerman sedang mengepung kota Warsaw pada minggu pertama Perang Dunia Kedua, kakitangan Bank Negara Poland menjalankan satu operasi rahsia yang amat berani!
+
+Menggunakan bas-bas awam berwarna merah dan lori biasa pada waktu malam, mereka mengangkut keluar hampir 80 tan jongkong dan syiling emas rizab negara merentasi sempadan Romania, belayar melalui Istanbul ke Beirut, seterusnya ke Perancis dan sehingga ke gurun Sahara di Afrika Barat!
+
+Apabila tentera Jerman memecah masuk ke dalam bilik kebal Bank Negara Poland di Warsaw beberapa hari kemudian, mereka hanya menemui bilik kosong!
+
+Manakala 80 tan emas fizikal yang berjaya diselamatkan itu menjadi modal utama yang membiayai kerajaan Poland di dalam buangan serta membina semula negara mereka selepas perang tamat!
+
+Cuba bayangkan jika Bank Negara Poland pada malam itu hanya membawa lari berlori-lori wang kertas Zloty.
+
+Sebaik sahaja negara mereka ditawan, wang kertas itu terus hilang nilai di pasaran antarabangsa!
+
+Tetapi kerana yang diselamatkan itu ialah emas fizikal, ia laku di merata benua untuk memulakan semula perjuangan mereka.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, emas fizikal adalah modal kebangkitan terbaik apabila kita diuji kejatuhan ekonomi.
+
+Cuba komen, apakah pengajaran paling besar yang anda dapat daripada keberanian mereka menyelamatkan emas ini?
+
+Binalah rizab emas keluarga anda dari sekarang supaya walau apa pun ujian mendatang, kita sentiasa mampu Bangkit!`
+  },
+  {
+    id: 1373,
+    siri: "Kisah-04",
+    no: 14,
+    topik: "Strategi Emas",
+    tajuk: "Krisis Gelembung Hartanah & Perbankan Sweden 1992 Vs Formula 3 + 9 Bulan Gaji",
+    tags: ["gaji", "tabung haji", "haji", "hartanah", "krisis", "kecemasan", "sejarah", "tunai"],
+    persona: "STOCKHOLM, SWEDEN (1990–1994) · FORMULA DANA KECEMASAN: 3 BULAN GAJI TUNAI + 9 BULAN GAJI EMAS FIZIKAL",
+    hook: "GAMBAR BANK PUSAT SWEDEN MENAIKKAN KADAR FAEDAH SEHINGGA 500% PADA SEPTEMBER 1992 INI MENGEJUTKAN EROPAH... BAGAIMANA NEGARA KEBAJIKAN TERBAIK DUNIA PUN BOLEH DILANDA KRISIS BANK?",
+    teks: `Ramai menyangka krisis kewangan hanya berlaku di negara-negara miskin atau membangun sahaja.
+
+Tetapi antara tahun 1990 hingga 1994, negara maju Sweden yang terkenal dengan sistem kebajikan terbaik di dunia telah dilanda krisis perbankan dan kejatuhan gelembung hartanah yang amat teruk!
+
+Pada September 1992, demi mempertahankan nilai mata wang Krona daripada jatuh merudum, Bank Pusat Sweden terpaksa menaikkan kadar faedah semalaman sehingga ke paras luar biasa iaitu 500 peratus!
+
+Tindakan itu gagal menyelamatkan mata wang mereka: nilai Krona akhirnya tetap jatuh menyusut, dua buah bank besar terpaksa diambil alih oleh kerajaan, dan ratusan ribu rakyat kehilangan pekerjaan!
+
+Kisah sejarah di Sweden ini membuktikan bahawa tiada mata wang kertas di dunia yang kebal daripada ketidaktentuan pasaran.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, sebagai ketua keluarga yang berpandangan jauh, kita tidak boleh meletakkan kesemua telur simpanan kita di dalam bakul mata wang kertas!
+
+Amalkan formula pengagihan dana yang selamat: simpan tiga bulan gaji dalam bentuk tunai cair di bank atau Tabung Haji untuk kecemasan segera.
+
+Manakala baki sembilan bulan gaji dan simpanan jangka panjang, tukarkan kepada emas fizikal yang kalis kejatuhan nilai mata wang!
+
+Cuba komen, anda dah mula asingkan simpanan jangka panjang ke dalam bentuk gram emas ke belum?
+
+Susun benteng kewangan anda mengikut formula mentor supaya kuasa beli keluarga kekal Utuh!`
+  },
+  {
+    id: 1374,
+    siri: "Kisah-04",
+    no: 15,
+    topik: "Kenapa Emas",
+    tajuk: "Pembatalan Wang Kertas 25, 35 & 75 Kyat Myanmar 1987 & Analogi Token Dobi",
+    tags: ["gaji", "pelajar", "tunai"],
+    persona: "YANGON, MYANMAR (1987) · ANALOGI TOKEN MESIN DOBI: KERTAS BOLEH DIBATALKAN TANPA PAMPASAN, EMAS KEKAL LAKU",
+    hook: "GAMBAR PELAJAR DAN PENDUDUK YANGON MENUNJUKKAN TIMBUNAN WANG KERTAS KYAT PADA 5 SEPTEMBER 1987 INI AMAT MENYEDIHKAN... BAGAIMANA 75% WANG TUNAI RAKYAT DIBATALKAN TANPA SEBARANG GANTI RUGI?",
+    teks: `Pada hari Sabtu, 5 September 1987, radio rasmi kerajaan di Yangon, Myanmar membuat satu pengumuman pendek yang menghancurkan hati jutaan rakyat dalam sekelip mata!
+
+Tanpa sebarang amaran awal dan tanpa sebarang peluang pertukaran atau pampasan, kerajaan membatalkan serta-merta kesemua wang kertas bernilai 25, 35, dan 75 Kyat!
+
+Dengan satu pengumuman radio sahaja, kira-kira 75 peratus daripada jumlah wang kertas yang sedang beredar di tangan rakyat bertukar menjadi helaian kertas tidak bernilai pada saat itu juga!
+
+Para pelajar universiti yang menyimpan wang tunai untuk membayar yuran pengajian dan peniaga pasar yang mengumpul modal bertahun-tahun jatuh miskin dalam masa beberapa minit!
+
+Tetapi tahukah anda golongan mana di Yangon yang terselamat daripada tragedi kewangan tahun 1987 itu?
+
+Mereka ialah keluarga yang mempunyai tabiat menukarkan wang lebihan mereka kepada emas fizikal setiap kali mendapat gaji atau untung berniaga!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, wang kertas sebiji macam token kedai dobi layan diri: bila pemilik kedai ubah peraturan, token itu terus tidak laku.
+
+Sebaliknya, emas fizikal tidak pernah tertakluk kepada pengumuman radio mana-mana pemerintah kerana nilainya melekat pada logam itu sendiri!
+
+Cuba komen, pernah tak anda terfikir betapa besarnya risiko menyimpan wang kertas semata-mata?
+
+Lindungi masa depan anak-anak anda daripada risiko luar jangka dengan menyimpan emas Fizikal!`
+  },
+  {
+    id: 1375,
+    siri: "Kisah-04",
+    no: 16,
+    topik: "Strategi Emas",
+    tajuk: "Henry Comstock Jual Lombong Ratusan Juta Dengan Harga Murah 1859 & Ilmu Emas",
+    tags: ["hutang", "hartanah", "ringgit", "kecemasan", "sejarah", "tunai"],
+    persona: "VIRGINIA CITY, NEVADA, AS (1859) · ILMU EMAS: JANGAN JUAL EMAS TERLALU AWAL TANPA MATLAMAT KUKUH",
+    hook: "GAMBAR LOMBONG COMSTOCK LODE DI NEVADA TAHUN 1859 INI MENGELUARKAN EMAS DAN PERAK BERNILAI RATUSAN JUTA DOLAR... TAPI KENAPA PEMILIK ASALNYA MENJUAL TANAH ITU DENGAN HARGA RM48,000 SAHAJA?",
+    teks: `Gambar kawasan perlombongan Comstock Lode di Virginia City, Nevada pada tahun 1859 ini merakamkan penemuan lubuk bijih perak dan emas terbesar dalam sejarah Amerika Syarikat!
+
+Tetapi di sebalik kekayaan luar biasa lombong yang dinamakan sempena nama penerokanya, Henry Comstock itu, tersimpan satu kisah penyesalan yang tiada penghujung!
+
+Sebaik sahaja menemui urat logam mulia di tanah tersebut pada Jun 1859, Henry Comstock dan rakan-rakannya terlalu gopoh mahukan wang tunai segera kerana tidak tahu menilai potensi sebenar harta yang berada di bawah tapak kaki mereka.
+
+Henry Comstock menjual keseluruhan hak milik tanah lombongnya dengan bayaran hanya 11,000 dolar!
+
+Tidak lama selepas dijual, lombong yang sama itu mengeluarkan emas dan perak bernilai lebih 300 juta dolar pada zaman tersebut, bersamaan puluhan bilion ringgit hari ini, manakala Henry Comstock sendiri akhirnya hidup miskin!
+
+Kisah Henry Comstock ini sebiji macam tabiat segelintir pembeli emas yang tiada ilmu hari ini.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, ramai orang baru simpan emas beberapa gram, bila tengok harga emas naik sikit sahaja terus gatal tangan jual semua emasnya untuk belanja hangus!
+
+Ingat, emas hanya patut dijual apabila kita sudah mencapai matlamat besar seperti beli hartanah, langsaikan hutang, atau kecemasan sebenar.
+
+Cuba komen, apakah matlamat utama yang membuatkan anda nak kumpul emas banyak-banyak?
+
+Simpanlah gram emas anda dengan penuh ilmu sehingga tercapai segala Matlamat!`
+  },
+  {
+    id: 1376,
+    siri: "Kisah-04",
+    no: 17,
+    topik: "Kenapa Emas",
+    tajuk: "Raja Henry VIII 'Old Coppernose' 1544 & Pencairan Nilai Mata Wang",
+    tags: ["dinar", "penipuan", "999", "kilang"],
+    persona: "LONDON, ENGLAND (1544–1551) · SEJARAH PENCAIRAN MATA WANG: HANYA KETULENAN 999.9 YANG MENGEKALKAN KUASA BELI",
+    hook: "GAMBAR SYILING WAJAH RAJA HENRY VIII DARI TAHUN 1544 INI MEMPUNYAI HIDUNG BERWARNA MERAH TEMBAGA... KENAPA RAKYAT ENGLAND MENGGELAR BAGINDA SEBAGAI 'HIDUNG TEMBAGA TUA'?",
+    teks: `Gambar syiling lama dari zaman pemerintahan Raja England, Henry VIII, antara tahun 1544 hingga 1551 ini menyimpan kisah menarik mengapa baginda diejek oleh rakyatnya sendiri dengan gelaran Old Coppernose atau Si Hidung Tembaga Tua!
+
+Kerana kehabisan wang untuk membiayai peperangan dan gaya hidup istana yang boros, Raja Henry VIII mengeluarkan arahan rahsia yang dipanggil The Great Debasement!
+
+Kilang wang diraja diarahkan mengurangkan kandungan logam perak dan emas di dalam syiling negara, lalu menggantikannya dengan logam tembaga murah yang hanya disadur nipis dengan perak di bahagian luar!
+
+Apabila syiling itu berpindah tangan di pasar, saduran nipis pada bahagian paling timbul iaitu hidung potret raja telah haus tergesel sehingga menampakkan warna merah tembaga di dalamnya!
+
+Sebaik sahaja penipuan ketulenan itu terbongkar, para pedagang asing enggan menerima syiling tersebut dan harga barang di seluruh England melambung naik!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, sejak lima ratus tahun dahulu lagi, pemerintah yang berbelanja melebihi kemampuan akan mencairkan nilai mata wang rakyat.
+
+Beza zaman dahulu mereka campur tembaga di dalam syiling, zaman sekarang mereka cetak kertas dan angka digital yang menghakis kuasa beli kita!
+
+Cuba komen, anda tahu tak berapa ketulenan jongkong emas dan dinar keluaran Public Gold?
+
+Lindungi harta anda daripada pencairan nilai dengan menyimpan emas 999.9 yang dijamin Tulen!`
+  },
+  {
+    id: 1377,
+    siri: "Kisah-04",
+    no: 18,
+    topik: "Public Gold & GAP",
+    tajuk: "Bilik Kebal 80 Kaki Bawah Tanah New York Fed & Mengapa Dunia Simpan Emas",
+    tags: [],
+    persona: "MANHATTAN, NEW YORK, AS (1924–KINI) · BANK PUSAT DUNIA SIMPAN 530,000 JONGKONG EMAS FIZIKAL SEBAGAI RIZAB MUTLAK",
+    hook: "GAMBAR PINTU SILINDER KELULI SEBERAT 90 TAN DI BAWAH JALAN WALL STREET NEW YORK INI MENJAGA 530,000 JONGKONG EMAS... KENAPA 36 BANK PUSAT DUNIA SIMPAN EMAS DI BAWAH BATU GRANIT INI?",
+    teks: `Gambar pintu bilik kebal berbentuk silinder keluli padu seberat 90 tan yang terletak 80 kaki di bawah permukaan jalan raya Manhattan, New York ini adalah pintu masuk ke bilik simpanan emas terbesar di dunia milik Federal Reserve Bank of New York!
+
+Bilik kebal yang dibina sejak tahun 1924 di atas batu granit keras pulau Manhattan itu menyimpan sekitar 530,000 ketul jongkong emas tulen seberat lebih 6,300 tan!
+
+Dan tahukah anda siapa pemilik sebenar ratusan ribu jongkong emas di dalam bilik kebal tersebut?
+
+Sebanyak 98 peratus daripadanya adalah milik 36 buah bank pusat negara-negara asing dan organisasi antarabangsa yang menyimpan rizab emas fizikal mereka di situ!
+
+Malah apabila sesebuah negara ingin membuat pembayaran rizab kepada negara lain, pekerja di bilik kebal tersebut akan mengangkat dan memindahkan jongkong emas itu secara fizikal dari bilik kurungan negara pertama ke bilik kurungan negara kedua!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, lihatlah hakikat sebenar sistem kewangan dunia: kepada rakyat biasa mereka suruh simpan wang kertas, tetapi sesama bank pusat dunia mereka tetap berurus niaga dan menyimpan jongkong emas fizikal!
+
+Jangan biarkan diri kita ketinggalan tanpa memiliki walau segram pun aset yang dipegang oleh bank pusat dunia.
+
+Cuba komen, kalau bank pusat simpan emas bertan-tan, berapa gram sasaran simpanan peribadi anda?
+
+Ikut jejak langkah bijak institusi dunia dengan membina tabungan emas Fizikal!`
+  },
+  {
+    id: 1378,
+    siri: "Kisah-04",
+    no: 19,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Skandal Lombong Emas Palsu 'Bre-X' 1997 & Beza Saham Kertas Vs Emas Tangan",
+    tags: ["saham", "palsu", "999"],
+    persona: "BUSANG, KALIMANTAN & CALGARY, KANADA (1997) · BELI EMAS MESTI DAPAT EMAS FIZIKAL: JANGAN BELI KERTAS ATAS NAMA EMAS",
+    hook: "GAMBAR HUTAN BUSANG DI KALIMANTAN TAHUN 1997 INI PERNAH DIDAKWA MEMPUNYAI LOMBONG EMAS TERBESAR DUNIA... BAGAIMANA PENIPUAN TABUR SERBUK EMAS MELEBURKAN RM25 BILION?",
+    teks: `Pada pertengahan tahun 1990-an, sebuah syarikat perlombongan kecil dari Kanada bernama Bre-X Minerals menggemparkan pasaran saham dunia apabila mendakwa mereka telah menemui lubuk emas gergasi seberat 200 juta auns di hutan Busang, Kalimantan!
+
+Harga saham kertas Bre-X melonjak daripada beberapa sen sehingga mencecah nilai pasaran 6 bilion dolar, iaitu lebih RM25 bilion!
+
+Namun pada Mac 1997, apabila syarikat audit bebas melakukan penggerudian semula di tapak tersebut, seluruh dunia terkejut besar!
+
+Tiada walau seurat pun emas di dalam batu hutan tersebut!
+
+Rupa-rupanya sampel tanah yang diuji sebelum itu telah ditabur secara palsu menggunakan kikisan serbuk daripada cincin emas perkahwinan dan emas dulang tempatan!
+
+Dalam masa sehari sahaja, saham kertas Bre-X jatuh menjadi sifar dan ribuan pelabur kehilangan wang persaraan mereka!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, inilah sebabnya mengapa kita wajib membezakan antara melabur dalam saham kertas syarikat lombong dengan menyimpan emas fizikal sebenar!
+
+Syarikat lombong boleh menipu laporan atau jatuh muflis, tetapi sekeping jongkong emas 999.9 yang sudah berada di tangan anda tidak boleh menipu sesiapa.
+
+Pegang prinsip Dato' Wira Louis Ng: beli emas mesti dapat emas fizikal!
+
+Cuba komen, antara saham kertas lombong emas dengan jongkong emas fizikal, mana satu pilihan anda?
+
+Pastikan keselamatan harta anda dengan menyimpan emas tulen yang boleh dipegang di Tangan!`
+  },
+  {
+    id: 1379,
+    siri: "Kisah-04",
+    no: 20,
+    topik: "Keluarga",
+    tajuk: "Kejatuhan Bank Gergasi 'Continental Illinois' 1984 & Risiko Terlalu Besar",
+    tags: ["rumah", "kecemasan", "sejarah"],
+    persona: "CHICAGO, ILLINOIS, AS (1984) · TIADA INSTITUSI YANG MUSTAHIL GOYAH: BINA BENTENG EMAS 10% - 15% KEKAYAAN",
+    hook: "GAMBAR BANGUNAN KLASIK BANK KETUJUH TERBESAR AMERIKA DI CHICAGO PADA MEI 1984 INI MELAHIRKAN ISTILAH 'TOO BIG TO FAIL'... BAGAIMANA USD 10 BILION DIKELUARKAN DALAM BEBERAPA HARI?",
+    teks: `Gambar bangunan megah berpilar batu milik Continental Illinois National Bank di Chicago pada Mei 1984 ini adalah tempat lahirnya istilah terkenal Too Big To Fail dalam sejarah perbankan moden!
+
+Continental Illinois adalah bank ketujuh terbesar di Amerika Syarikat yang menjadi tulang belakang kepada ribuan syarikat dan bank kecil di seluruh negara.
+
+Namun apabila bank itu mengalami kerugian teruk akibat membeli pakej pinjaman minyak yang gagal daripada Penn Square Bank, para pendeposit antarabangsa hilang kepercayaan serta-merta!
+
+Hanya dalam tempoh beberapa hari pada awal Mei 1984, lebih 10 bilion dolar deposit telah ditarik keluar secara elektronik sehingga bank gergasi itu lumpuh dan terpaksa diambil alih oleh pihak FDIC!
+
+Peristiwa tahun 1984 ini mengajar kita bahawa saiz sesebuah bangunan kewangan bukanlah jaminan bahawa ia tidak akan dilanda badai.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, sebagai individu dan ketua keluarga, kita tidak mempunyai bank pusat yang akan datang memberikan dana penyelamat jika kewangan rumah tangga kita runtuh!
+
+Kitalah yang wajib menjadi penyelamat kepada keluarga sendiri dengan mengasingkan sekurang-kurangnya 10 hingga 15 peratus kekayaan bersih ke dalam bentuk emas fizikal.
+
+Emas fizikal adalah dana penyelamat peribadi yang sentiasa sedia berkhidmat tanpa syarat.
+
+Cuba komen, siapakah yang akan bantu keluarga kita kalau bukan tabungan kecemasan kita sendiri?
+
+Binalah dana penyelamat keluarga anda hari ini melalui simpanan emas fizikal Sendiri!`
+  },
+  {
+    id: 1380,
+    siri: "Kisah-04",
+    no: 21,
+    topik: "Kenapa Emas",
+    tajuk: "Jengkaut Parkir Terjumpa 2,518 Syiling Emas Rom 'Trier Hoard' 1993",
+    tags: ["gap", "gaji", "perang", "sejarah"],
+    persona: "TRIER, JERMAN (196 MASIHI – 1993) · 18.5 KILOGRAM EMAS KEKAL UTUH SELEPAS 1,800 TAHUN DI BAWAH TANAH",
+    hook: "GAMBAR 2,518 KEPING SYILING EMAS ROM SEBERAT 18.5 KILOGRAM YANG TERHAMBUR DARI KOREKAN TAPAK PARKIR DI JERMAN PADA 9 SEPTEMBER 1993 INI MEMEGANG REKOD DUNIA... SIAPA YANG MENYIMPANNYA?",
+    teks: `Pada 9 September 1993, sebuah jengkaut yang sedang menggali tapak tempat letak kereta bawah tanah di bandar Trier, Jerman secara tidak sengaja telah memecahkan sebuah bekas gangsa kuno di dalam tanah!
+
+Apabila tanah korekan itu diperiksa, ribuan keping syiling emas tulen berhamburan keluar di celah-celah lumpur!
+
+Penemuan yang dinamakan Khazanah Emas Trier itu mengandungi 2,518 keping syiling emas Aureus Rom dengan berat keseluruhan mencecah 18.5 kilogram emas berketulenan tinggi, menjadikannya penemuan syiling emas Empayar Rom paling besar di dunia!
+
+Pakar sejarah mendapati syiling emas tersebut adalah dana perbendaharaan yang disembunyikan di bilik bawah tanah semasa perang saudara Rom pada tahun 196 Masihi, iaitu lebih seribu lapan ratus tahun dahulu!
+
+Ketika itu, jumlah 18.5 kilogram emas tersebut bersamaan dengan gaji tahunan bagi 130 orang perajurit Rom.
+
+Dan selepas 18 abad berlalu, 18.5 kilogram emas yang sama itu masih bernilai jutaan Euro pada hari ini!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, lihatlah bagaimana emas mengunci nilai titik peluh manusia merentas hampir dua ribu tahun tanpa susut walau sedikit pun.
+
+Mata wang kertas yang kita pegang hari ini belum tentu laku seratus tahun lagi, tetapi setiap gram emas yang kita kumpul pasti kekal bernilai.
+
+Cuba komen, berapa gram emas yang anda nak capai dalam akaun GAP tahun ini?
+
+Kunci sebahagian pendapatan anda di dalam bentuk emas fizikal supaya nilainya terus Bertahan!`
+  },
+  {
+    id: 1381,
+    siri: "Kisah-04",
+    no: 22,
+    topik: "Kenapa Emas",
+    tajuk: "Basil Brown & Kapal Makam Emas 'Sutton Hoo' 1939 Vs Kayu Yang Reput",
+    tags: ["inflasi", "perang", "sejarah"],
+    persona: "WOODBRIDGE, SUFFOLK, ENGLAND (1939) · BENDA LAIN REPUT DIMAKAN MASA, HANYA EMAS YANG KEKAL SEMPURNA",
+    hook: "GAMBAR KEPALA TALI PINGGANG EMAS PADU DAN SYILING DARI TAPAK SUTTON HOO TAHUN 1939 INI DITEMUI DI DALAM SEBUAH KAPAL KAYU... KENAPA KAYU KAPAL LENYAP TETAPI EMASNYA KEKAL?",
+    teks: `Pada musim panas tahun 1939, beberapa minggu sebelum meletusnya Perang Dunia Kedua, seorang ahli arkeologi otodidak bernama Basil Brown telah menggali sebuah bukit tanah milik Puan Edith Pretty di Sutton Hoo, England!
+
+Apa yang ditemui di bawah tanah berpasir yang berasid itu telah mengubah sejarah Britain buat selama-lamanya!
+
+Di dalamnya terdapat kesan sebuah kapal kayu sepanjang 27 meter dari abad ke-7 yang menjadi makam diraja Anglo-Saxon.
+
+Kerana tanah di situ sangat berasid, kesemua papan kayu kapal, pakaian diraja, dan jasad di dalamnya telah hancur lebur sepenuhnya sehingga hanya meninggalkan kesan bayang-bayang di atas pasir!
+
+Tetapi kepala tali pinggang emas padu seberat lebih 400 gram yang diukir halus, penutup dompet emas bertatah permata, serta 37 keping syiling emas di dalamnya langsung tidak terusik oleh asid tanah selama seribu tiga ratus tahun!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, tanah berasid yang mampu melenyapkan sebuah kapal kayu gergasi pun tidak mampu merosakkan walau seurat emas tulen!
+
+Itulah kiasan terbaik bagi dunia kewangan kita: asid inflasi sedang menghancurkan nilai wang kertas di dalam simpanan kita setiap hari tanpa kita nampak.
+
+Hanya aset emas fizikal sahaja yang kebal daripada hakisan asid inflasi tersebut.
+
+Cuba komen, anda perasan tak betapa cepatnya nilai RM50 habis sekarang berbanding 10 tahun lepas?
+
+Lindungi kuasa beli anda dengan menyimpan logam emas yang kekal Sempurna!`
+  },
+  {
+    id: 1382,
+    siri: "Kisah-04",
+    no: 23,
+    topik: "Kenapa Emas",
+    tajuk: "Karamnya 11 Kapal '1715 Treasure Fleet' & Syiling Emas Di Pantai Florida",
+    tags: ["gap"],
+    persona: "VERO BEACH, FLORIDA, AS (1715–2020) · DUIT KERTAS HANCUR DALAM AIR, EMAS 300 TAHUN DI LAUT TETAP BERNILAI JUTAAN RINGGIT",
+    hook: "GAMBAR SYILING EMAS DIRAJA SEPANYOL YANG DITEMUI DI PANTAI FLORIDA SELEPAS TAUFAN INI BERASAL DARI 11 BUAH KAPAL YANG KARAM PADA 31 JULAI 1715... KENAPA IA MASIH BERNILAI JUTAAN RINGGIT?",
+    teks: `Pada malam 31 Julai 1715, sebelas buah kapal armada Sepanyol yang sarat membawa jongkong serta syiling emas dan perak dari Dunia Baru menuju ke Sepanyol telah dibadai taufan ganas di luar pantai timur Florida!
+
+Kesemua sebelas kapal tersebut pecah terhempas di atas terumbu karang, mengorbankan lebih seribu kelasi dan menaburkan jutaan syiling emas Escudo ke dasar laut!
+
+Sehingga ke hari ini, kawasan pantai di Florida itu digelar sebagai Treasure Coast atau Pantai Harta Karun kerana setiap kali berlaku ribut besar, ombak laut masih menghanyutkan syiling-syiling emas tulen dari tahun 1715 itu ke tepi pantai!
+
+Sejak penemuan besar oleh Kip Wagner pada tahun 1960-an sehinggalah penemuan ratusan syiling emas bernilai jutaan dolar pada dekad ini, setiap keping syiling emas yang keluar dari pasir laut itu masih berkilau kuning seperti baru ditempa semalam!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, cuba bayangkan kalau sebelas kapal yang karam pada tahun 1715 itu membawa muatan wang kertas.
+
+Sudah pasti semuanya telah hancur menjadi makanan ikan tiga ratus tahun dahulu!
+
+Tetapi kerana ia adalah emas fizikal, nilai kekayaannya tidak pernah tenggelam walaupun kapalnya sudah hancur.
+
+Cuba komen, kalau anda berjalan di tepi pantai dan terjumpa sekeping syiling emas, apa perasaan anda?
+
+Tak perlu tunggu jumpa di pantai, mulakan tabungan emas anda di GAP hari ini kerana emas sentiasa Bernilai!`
+  },
+  {
+    id: 1383,
+    siri: "Kisah-04",
+    no: 24,
+    topik: "Kenapa Emas",
+    tajuk: "700 Syiling Emas Perang Saudara Di Ladang Jagung Kentucky 2023 & Dana Darurat",
+    tags: ["gap", "perang", "kecemasan", "sejarah"],
+    persona: "KENTUCKY, AMERIKA SYARIKAT (1863–2023) · EMAS FIZIKAL SEBAGAI BENTENG PERTAHANAN KELUARGA KETIKA NEGARA BERGOLAK",
+    hook: "GAMBAR SEORANG PETANI DI KENTUCKY MENGGALI LEBIH 700 KEPING SYILING EMAS DARI LADANG JAGUNGNYA PADA TAHUN 2023 INI BERNILAI LEBIH RM13 JUTA... KENAPA SYILING ITU DITANAM PADA TAHUN 1863?",
+    teks: `Pada musim panas tahun 2023, seorang petani di negeri Kentucky, Amerika Syarikat sedang memeriksa ladang jagungnya apabila beliau tersepak sekeping syiling emas berkilau di atas tanah!
+
+Apabila beliau terus menggali, lebih 700 keping syiling emas tulen Amerika dari era Perang Saudara antara tahun 1840 hingga 1863 keluar daripada tanah ladang tersebut!
+
+Penemuan yang dinamakan Great Kentucky Hoard itu mengandungi syiling emas Double Eagle berketulenan 90 peratus emas yang kini bernilai lebih tiga juta dolar, iaitu melebihi RM13 juta!
+
+Pakar sejarah menjelaskan bahawa pada tahun 1863, ketika tentera berkuda menyerbu negeri Kentucky semasa Perang Saudara Amerika, wang kertas Konfederasi telah hilang nilai dan bank-bank dirompak.
+
+Oleh itu, keluarga berada di kawasan tersebut menukarkan harta mereka kepada syiling emas fizikal dan menyimpannya di luar sistem perbankan demi melindungi masa depan keluarga!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, tabiat menyimpan emas fizikal sebagai insurans kekayaan keluarga bukanlah perkara baharu.
+
+Sejak ratusan tahun dahulu, orang yang bijak tahu bahawa apabila suasana ekonomi atau politik bergolak, hanya emas fizikal di tangan sendiri yang boleh menyelamatkan keluarga!
+
+Hari ini kita boleh mula membina dana perlindungan yang sama serendah RM100 melalui Akaun Emas GAP Public Gold.
+
+Cuba komen, berapa gram emas yang anda sasarkan sebagai dana kecemasan keluarga anda?
+
+Mulakan langkah pertama hari ini demi membina perisai masa depan Keluarga!`
+  },
+  {
+    id: 1384,
+    siri: "Kisah-04",
+    no: 25,
+    topik: "Kenapa Emas",
+    tajuk: "Rekod Angkat 109 Tan Logam Mulia Kapal 'SS Gairsoppa' Sedalam 4,700 Meter",
+    tags: ["ringgit", "sejarah"],
+    persona: "LAUTAN ATLANTIK UTARA, IRELAND (1941–2013) · NILAI INTRINSIK LOGAM MULIA: LEBIH DALAM DARIPADA TITANIC PUN TETAP DICARI",
+    hook: "GAMBAR ROBOT LAUT DALAM MENGANGKAT 2,792 JONGKONG LOGAM MULIA DARI KEDALAMAN 4,700 METER PADA TAHUN 2012 DAN 2013 INI MEMECAHKAN REKOD DUNIA... KENAPA IA LEBIH DALAM DARIPADA TITANIC?",
+    teks: `Pada Julai 2012 dan 2013, syarikat penerokaan laut dalam Odyssey Marine telah mencipta rekod dunia apabila berjaya menaikkan semula kargo logam berharga paling dalam yang pernah diangkat dalam sejarah manusia!
+
+Bangkai kapal kargo Britain SS Gairsoppa yang ditorpedo pada Februari 1941 itu terletak pada kedalaman 4,700 meter di dasar Lautan Atlantik Utara, iaitu hampir satu kilometer lebih dalam daripada bangkai kapal Titanic!
+
+Menggunakan robot kawalan jauh yang tahan tekanan air ekstrem, mereka berjaya mengeluarkan sebanyak 2,792 ketul jongkong logam mulia seberat 109 tan yang bernilai ratusan juta ringgit lalu diserahkan kepada Royal Mint Britain!
+
+Fikirkan fakta ini dengan mendalam.
+
+Walaupun jongkong logam mulia itu terbenam hampir lima kilometer di dasar lautan yang gelap gelita selama 71 tahun, manusia tetap sanggup membelanjakan puluhan juta ringgit kos kejuruteraan satelit dan robotik semata-mata untuk mengambilnya semula!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, itulah bukti hidup tentang apa yang dipanggil sebagai nilai intrinsik!
+
+Nilai emas dan logam mulia melekat pada zat dan berat logam itu sendiri, bukannya pada kertas pengiktirafan.
+
+Sebab itulah walau tercampak ke dasar lautan paling dalam sekalipun, nilainya tidak pernah menjadi sifar!
+
+Cuba komen, adakah wang kertas mempunyai nilai intrinsik macam logam mulia?
+
+Simpanlah sebahagian harta anda di dalam emas fizikal yang mempunyai nilai Intrinsik!`
+  },
+  {
+    id: 1385,
+    siri: "Kisah-04",
+    no: 26,
+    topik: "Public Gold & GAP",
+    tajuk: "Bank Pusat Singapura (MAS) Borong 44.6 Tan Emas 2023 & Isyarat Jiran Kita",
+    tags: ["inflasi"],
+    persona: "SINGAPURA (2021–2023) · IKUT TINDAKAN BANK PUSAT: TAMBAH RIZAB EMAS FIZIKAL KETIKA EKONOMI TIDAK MENENTU",
+    hook: "LAPORAN MAJLIS EMAS DUNIA TAHUN 2023 INI MENDEDAHKAN BANK PUSAT SINGAPURA MEMBORONG 44.6 TAN EMAS DALAM MASA SATU BULAN... KENAPA PUSAT KEWANGAN PALING MODEN DI ASIA BELI EMAS?",
+    teks: `Jika sebelum ini kita melihat kisah bank pusat di Eropah, kali ini mari kita lihat apa yang dilakukan oleh negara jiran di sebelah selatan kita sendiri iaitu Singapura!
+
+Selepas menambah 26.3 tan emas pada tahun 2021, laporan rasmi Majlis Emas Dunia atau World Gold Council mendedahkan bahawa pada awal tahun 2023, Pihak Berkuasa Monetari Singapura iaitu MAS telah memborong lagi sebanyak 44.6 tan emas fizikal sekaligus!
+
+Pembelian besar-besaran itu melonjakkan jumlah rizab emas Singapura sebanyak 45 peratus kepada hampir 200 tan emas!
+
+Cuba kita tanya diri sendiri: Singapura terkenal sebagai salah sebuah pusat kewangan dan perbankan digital paling maju di dunia, malah mata wang Dolar Singapura sangat kukuh.
+
+Tetapi kenapa bank pusat mereka sendiri masih memborong puluhan tan emas fizikal secara senyap?
+
+Kerana para pengurus dana negara yang paling bijak sedar bahawa apabila inflasi global dan risiko geopolitik meningkat, emas fizikal adalah perisai rizab yang paling selamat!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, kita tidak perlu tunggu pengumuman di berita perdana untuk mula melindungi poket keluarga kita.
+
+Apabila kita melihat bank pusat negara jiran pun sibuk menambah gram emas mereka, itu tandanya kita juga wajib konsisten menambah gram emas peribadi kita setiap bulan!
+
+Cuba komen, anda dah tambah gram emas untuk bulan ini atau belum?
+
+Jangan tunggu harga makin tinggi, mulakan tabungan emas fizikal anda Sekarang!`
+  },
+  {
+    id: 1386,
+    siri: "Kisah-04",
+    no: 27,
+    topik: "Bisnes & Dealer",
+    tajuk: "Gladys Holm, Setiausaha Bergaji USD 15,000 Derma USD 18 Juta & Tiru Mentor",
+    tags: ["gap", "sejarah"],
+    persona: "CHICAGO, ILLINOIS, AS (1996–1997) · LEVERAGE ILMU MENTOR: TIRU LANGKAH ORANG BERJAYA & MENABUNG SECARA KONSISTEN",
+    hook: "GAMBAR HOSPITAL KANAK-KANAK DI CHICAGO YANG MENERIMA DERMA RM78 JUTA PADA TAHUN 1997 INI TERKEJUT BESAR... BAGAIMANA SEORANG SETIAUSAHA BERGAJI KECIL MENGALAHKAN DERMA PENGASAS MCDONALD'S?",
+    teks: `Pada Ogos 1997, Hospital Memorial Kanak-Kanak di Chicago mengumumkan bahawa mereka baru sahaja menerima sumbangan derma tunggal terbesar dalam sejarah 115 tahun hospital tersebut iaitu sebanyak 18 juta dolar Amerika, bersamaan sekitar RM78 juta!
+
+Jumlah derma itu malah mengalahkan sumbangan 10 juta dolar yang pernah diberikan oleh jutawan pengasas McDonald's, Ray Kroc!
+
+Tetapi siapakah penderma misteri bernama Gladys Holm yang meninggal dunia pada usia 86 tahun itu?
+
+Beliau rupa-rupanya hanyalah seorang setiausaha pejabat yang sepanjang 41 tahun bekerja tidak pernah bergaji melebihi 15,000 dolar setahun!
+
+Bagaimana seorang kerani biasa boleh membina kekayaan RM78 juta?
+
+Rahsianya ialah beliau mendengar nasihat majikannya yang jutawan: setiap kali majikannya membeli 1,000 unit aset simpanan, Gladys akan meniru langkah yang sama dengan membeli 10 unit mengikut saiz poketnya secara konsisten dan tidak pernah menjualnya!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jalan paling pantas untuk berjaya dalam kewangan bukanlah dengan mencipta roda baharu seorang diri, tetapi dengan meniru tabiat orang yang sudah terbukti berjaya!
+
+Orang kaya menyimpan sekurang-kurangnya 10 peratus pendapatan mereka di dalam aset fizikal seperti emas.
+
+Kalau mereka beli berkilo-kilo emas, kita tirulah langkah mereka dengan mula mengumpul 1 gram sebulan melalui Akaun GAP!
+
+Cuba komen, apakah satu nasihat mentor kewangan yang paling mengubah cara anda urus duit?
+
+Ikutlah acuan simpanan emas bersama bimbingan mentor yang sudah Terbukti!`
+  },
+  {
+    id: 1387,
+    siri: "Kisah-04",
+    no: 28,
+    topik: "Kewangan Peribadi",
+    tajuk: "Eike Batista Hilang USD 30 Bilion Dalam 2 Tahun & Pentingnya Life Boat Emas",
+    tags: ["hutang", "gaji", "saham", "bisnes"],
+    persona: "RIO DE JANEIRO, BRAZIL (2011–2014) · KEKAYAAN KERTAS & HUTANG BOLEH LEBUR SEKELIP MATA, SIMPAN 10%-15% DALAM EMAS FIZIKAL",
+    hook: "GAMBAR USAHAWAN BRAZIL EIKE BATISTA YANG DINOBATKAN MANUSIA KETUJUH TERKAYA DUNIA DENGAN HARTA USD 30 BILION PADA TAHUN 2011 INI MENGEJUTKAN DUNIA... BAGAIMANA BELIAU JATUH MUFLIS DALAM DUA TAHUN?",
+    teks: `Gambar usahawan flamboyan Brazil, Eike Batista, yang pernah menduduki tangga ketujuh manusia paling kaya di dunia pada awal tahun 2011 dengan nilai kekayaan mencecah 30 bilion dolar Amerika, iaitu lebih RM130 bilion, ini adalah pengajaran paling mahal tentang kerapuhan kekayaan kertas!
+
+Ketika berada di puncak, beliau dengan bangga meletakkan sebuah kereta sport mewah Lamborghini di ruang tamu pejabatnya dan berjanji akan menjadi manusia paling kaya di muka bumi!
+
+Namun hampir keseluruhan kekayaan 30 bilion dolar itu hanyalah nilai saham di atas kertas yang dibina menggunakan hutang korporat yang menggunung di dalam syarikat minyaknya, OGX.
+
+Apabila telaga minyaknya gagal mengeluarkan hasil seperti yang dijanjikan pada tahun 2012 dan 2013, saham syarikatnya jatuh menjunam 99 peratus!
+
+Dalam masa kurang dua tahun sahaja, kekayaan 30 bilion dolar itu lebur sepenuhnya, malah beliau bertukar status menjadi jutawan negatif yang menanggung hutang berbilion dolar!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, kekayaan yang dibina di atas kertas dan hutang boleh runtuh sekelip mata seperti istana pasir dipukul ombak!
+
+Sebab itulah walau sehebat mana pun bisnes atau pelaburan kita, wajib asingkan sekurang-kurangnya 10 hingga 15 peratus kekayaan bersih ke dalam bentuk emas fizikal bebas hutang.
+
+Emas fizikal tidak mempunyai risiko muflis dan tidak akan pernah bertukar menjadi angka negatif.
+
+Cuba komen, apa perbezaan paling besar antara kaya atas kertas dengan kaya emas fizikal?
+
+Kunci sebahagian keuntungan dan gaji anda hari ini di dalam bentuk emas Fizikal!`
+  },
+  {
+    id: 1388,
+    siri: "Kisah-04",
+    no: 29,
+    topik: "Keluarga",
+    tajuk: "Kebuluran Besar Eropah 1315–1317 Akibat Hujan Tanpa Henti & Benteng 1 Kg Emas",
+    tags: ["krisis", "sejarah"],
+    persona: "ENGLAND & EROPAH UTARA (1315–1317) · SASARAN 1 KILOGRAM EMAS 1 KELUARGA SEBAGAI PERTAHANAN KRISIS MAKANAN & EKONOMI",
+    hook: "LUKISAN MANUSKRIP ABAD KE-14 INI MERAKAMKAN TRAGEDI APABILA HUJAN TURUN TANPA HENTI SELAMA DUA TAHUN DI EROPAH PADA TAHUN 1315... APA TERJADI APABILA HARGA GANDUM NAIK 800 PERATUS?",
+    teks: `Lukisan manuskrip sejarah dari abad ke-14 ini merakamkan bencana Kebuluran Besar Eropah yang bermula pada musim bunga tahun 1315!
+
+Selama hampir dua tahun berturut-turut, hujan lebat dan cuaca sejuk melanda seluruh Eropah Utara tanpa henti sehingga ladang-ladang gandum tenggelam, biji benih membusuk di dalam tanah, dan garam tidak dapat dikeringkan untuk mengawet makanan!
+
+Akibatnya, bekalan makanan terputus dan harga gandum serta roti di England dan Perancis melambung naik sehingga 300 ke 800 peratus hanya dalam tempoh beberapa bulan!
+
+Malah Raja England sendiri, Raja Edward II, dilaporkan sukar mendapatkan roti untuk santapan diraja ketika singgah di St Albans pada Ogos 1315!
+
+Dalam krisis bekalan makanan sedahsyat itu, mata wang syiling tembaga biasa tidak lagi mampu membeli makanan yang terpaksa dibawa masuk dari wilayah Mediterranean yang jauh.
+
+Hanya mereka yang menyimpan rizab emas dan perak tulen sahaja yang mempunyai kuasa beli untuk menyelamatkan nyawa keluarga mereka!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kita menyimpan emas bukanlah untuk bermewah-mewah, tetapi sebagai perisai terakhir keluarga menghadapi zaman sukar yang tidak terduga!
+
+Tetapkan sasaran jelas: bina tabungan 1 gram sebulan sehingga mencapai 100 gram pertama, dan teruskan menuju sasaran 1 kilogram emas untuk 1 keluarga.
+
+Cuba komen, berapa peratus perjalanan anda menuju sasaran 100 gram emas pertama?
+
+Mulakan tabungan emas anda ketika waktu senang demi keselamatan masa depan Keluarga!`
+  },
+  {
+    id: 1389,
+    siri: "Kisah-04",
+    no: 30,
+    topik: "Kenapa Emas",
+    tajuk: "Cawan Emas Kemek 'Ringlemere Cup' 2001 Bernilai RM1.8 Juta & Jaminan Buyback",
+    tags: ["rumah", "beli balik", "resit", "patah"],
+    persona: "SANDWICH, KENT, ENGLAND (1700 SM – 2001) · EMAS KEMEK, BENGKOK ATAU PATAH TETAP BERNILAI TINGGI (JAMINAN BELI BALIK PUBLIC GOLD)",
+    hook: "GAMBAR CAWAN EMAS PURBA YANG KEMEK TERUK DILANGGAR JENTERA BAJAK DI ENGLAND PADA NOVEMBER 2001 INI NAMPAK SEPERTI TIN ROSAK... TAPI KENAPA MUZIUM BRITISH MEMBELINYA DENGAN HARGA RM1.8 JUTA?",
+    teks: `Gambar sebuah cawan emas purba yang kemek dan herot-berot di Muzium British, London ini ditemui oleh seorang pesara bernama Cliff Bradshaw menggunakan alat pengesan logam di sebuah ladang di Ringlemere, Kent pada November 2001!
+
+Cawan emas setinggi 14 sentimeter yang ditempa daripada sekeping emas tulen pada Zaman Gangsa sekitar tahun 1700 Sebelum Masihi itu telah terperosok di bawah tanah selama 3,700 tahun dan kemek teruk akibat dilanggar mata bajak traktor pertanian moden!
+
+Sekali pandang, bentuknya sudah rosak dan kemek seperti tin minuman yang dipijak.
+
+Tetapi kerana ia adalah emas tulen yang bersejarah, Muzium British tetap membelinya dengan harga 270,000 Paun, iaitu sekitar RM1.8 juta!
+
+Fakta ini menjawab satu kerisauan yang sering ditanya oleh bakal penyimpan emas kepada saya: bagaimana kalau emas fizikal yang saya simpan di rumah tercalar, kemek, atau terbuka plastik bungkusan asalnya?
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, nilai emas terletak pada berat dan ketulenan logamnya, bukannya pada kesempurnaan plastik pembalutnya!
+
+Berbeza dengan wang kertas yang ditolak oleh mesin bank jika koyak separuh, emas fizikal yang kemek, bengkok, atau patah sekalipun tetap laku di seluruh dunia!
+
+Malah Public Gold memberikan jaminan beli balik dengan harga yang tinggi walaupun bungkusan dibuka atau tanpa resit asal.
+
+Cuba komen, anda pernah risau tak kalau jongkong emas tercalar atau terbuka seal?
+
+Simpanlah emas fizikal dengan tenang kerana walau apa pun bentuknya, nilainya tetap Kekal!`
+  },
+  {
+    id: 1390,
+    siri: "Kisah-05",
+    no: 1,
+    topik: "Kenapa Emas",
+    tajuk: "Pekerja Shanghai Menggalas Berikat-Ikat Wang Kertas Beli Beras 1948",
+    tags: ["dinar", "skim", "sejarah"],
+    persona: "SHANGHAI, CHINA (1948–1949) · JANGAN TERTIPU DENGAN NAMA 'KERTAS EMAS', PEGANG EMAS FIZIKAL SEBENAR",
+    hook: "GAMBAR LELAKI DI SHANGHAI MENGGALAS BERIKAT-IKAT WANG KERTAS DI ATAS BAHU PADA TAHUN 1948 INI BUKAN HENDAK MEMBELI RUMAH... TAPI KENAPA DUIT SEBANYAK ITU HANYA CUKUP BELI SEKAMPIT BERAS?",
+    teks: `Gambar pekerja di kota Shanghai yang terpaksa menggalas berikat-ikat wang kertas di atas bahu dan basikal pada tahun 1948 dan 1949 ini merakamkan salah satu tragedi hiperinflasi paling dahsyat dalam sejarah Asia!
+
+Pada Ogos 1948, kerajaan ketika itu memperkenalkan mata wang kertas baharu yang diberi nama cukup gah iaitu Gold Yuan atau Yuan Emas, malah memaksa rakyat menyerahkan emas dan perak simpanan mereka untuk ditukar dengan kertas tersebut!
+
+Namun walaupun namanya ada perkataan Emas, wang kertas itu sebenarnya dicetak tanpa had sehingga menjelang Mei 1949, harga sekampit beras di Shanghai melambung kepada 440 juta Yuan!
+
+Keluarga yang patuh menyerahkan emas fizikal mereka untuk memegang kertas Gold Yuan akhirnya menangis melihat tabungan seumur hidup mereka hancur tidak bernilai!
+
+Kisah sejarah di Shanghai ini memberi satu pengajaran yang sangat besar kepada kita semua.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jangan sesekali terpedaya dengan sebarang produk kertas atau skim yang sekadar menggunakan nama emas pada labelnya!
+
+Kertas yang dicop perkataan emas tetaplah sekeping kertas.
+
+Pelindung kekayaan yang sebenar hanyalah kepingan jongkong dan dinar emas fizikal yang berada di tangan kita sendiri!
+
+Cuba komen, anda lebih yakin pegang kertas bertulis emas atau pegang ketulan emas sebenar?
+
+Pastikan setiap gram tabungan anda disandarkan terus kepada pemilikan emas fizikal yang Tulen!`
+  },
+  {
+    id: 1391,
+    siri: "Kisah-05",
+    no: 2,
+    topik: "Kenapa Emas",
+    tajuk: "Pemandu Traktor Ivan Dimitrov Jumpa 165 Bekas 'Rogozen Treasure' 1985",
+    tags: ["rumah", "ringgit"],
+    persona: "ROGOZEN, VRATSA, BULGARIA (1985) · LOGAM MULIA YANG DITANAM DI KEBUN KEKAL BERNILAI TINGGI SELEPAS 2,400 TAHUN",
+    hook: "GAMBAR PEMANDU TRAKTOR IVAN DIMITROV MENGGALI PARIT AIR DI KEBUN RUMAHNYA PADA MUSIM LURUH 1985 INI MENGEJUTKAN EROPAH... KENAPA 165 MANGKUK DAN KENDI LOGAM MULIA ITU DITANAM DI SITU?",
+    teks: `Pada musim luruh tahun 1985, seorang pemandu traktor bernama Ivan Dimitrov sedang menggali parit saliran paip air di halaman kebun rumahnya di kampung Rogozen, Bulgaria.
+
+Tiba-tiba mata cangkulnya terlanggar timbunan objek logam yang disusun rapi di dalam tanah!
+
+Apabila beliau bersama pasukan ahli arkeologi menggali keseluruhan tapak kebun tersebut, mereka berjaya mengeluarkan sebanyak 165 buah mangkuk, kendi, dan piala perak bersadur emas tulen seberat lebih 20 kilogram dari zaman Kerajaan Thrace abad ke-4 Sebelum Masihi!
+
+Khazanah Rogozen yang telah tertanam di bawah kebun sayur selama 2,400 tahun itu telah digelar sebagai Penemuan Abad Ini di Bulgaria!
+
+Keluarga diraja Thrace telah menanam harta logam mulia tersebut bagi menyembunyikannya daripada serangan tentera Alexander the Great.
+
+Walaupun kerajaan mereka telah lenyap lebih dua alaf lalu, 20 kilogram logam mulia yang ditanam di dalam tanah itu langsung tidak musnah dan kini bernilai puluhan juta ringgit!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, lihatlah betapa jujurnya logam mulia menyimpan nilai kekayaan manusia.
+
+Jika kita menanam wang kertas di belakang rumah, dalam masa setahun sahaja ia sudah reput menjadi tanah.
+
+Tetapi emas dan logam mulia tetap mengekalkan nilainya walau ribuan tahun berlalu!
+
+Cuba komen, dah berapa gram logam mulia yang anda kumpul untuk masa depan keluarga?
+
+Binalah tabungan keluarga anda hari ini di dalam bentuk aset fizikal yang Kekal!`
+  },
+  {
+    id: 1392,
+    siri: "Kisah-05",
+    no: 3,
+    topik: "Strategi Emas",
+    tajuk: "Serbuan Cawangan Bronx 'Bank of the United States' 1930 & Bahaya Nama Gah",
+    tags: ["hartanah", "saham", "cawangan"],
+    persona: "BRONX, NEW YORK, AS (DISEMBER 1930) · ANALOGI KAPAL TITANIC: NAMA YANG HEBAT BUKAN JAMINAN BEBAS KRISIS",
+    hook: "GAMBAR RIBUAN PENDUDUK NEW YORK MEREDAH HUJAN SEJUK DI LUAR 'BANK OF THE UNITED STATES' PADA 10 DISEMBER 1930 INI MENCETUSKAN GELOMBANG KEBANKRAPAN... KENAPA BANK INI BUKAN MILIK KERAJAAN?",
+    teks: `Gambar puluhan ribu pendeposit berdiri berhimpit-himpit di bawah payung dalam cuaca sejuk di luar cawangan Bronx milik Bank of the United States pada 10 Disember 1930 ini adalah detik yang mengubah kemelesetan biasa menjadi Kemelesetan Besar dunia!
+
+Ramai pendeposit imigran meletakkan seluruh wang simpanan hidup mereka di dalam bank tersebut kerana menyangka nama Bank of the United States bermaksud ia adalah bank rasmi milik kerajaan Amerika Syarikat!
+
+Hakikatnya, ia hanyalah sebuah bank komersial swasta biasa.
+
+Apabila khabar angin tersebar bahawa bank itu mengalami kerugian teruk dalam pelaburan saham dan hartanah, lebih 20,000 orang menyerbu cawangan itu untuk mengeluarkan 2 juta dolar dalam sehari sehingga bank yang memegang 200 juta dolar deposit rakyat itu terpaksa ditutup buat selama-lamanya pada keesokan harinya!
+
+Peristiwa tahun 1930 ini mengajar kita supaya jangan sekali-kali menilai keselamatan harta hanya berdasarkan nama institusi yang kedengaran gah.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, sebesar dan sehebat mana pun nama sesebuah institusi kewangan, kita tetap wajib menyediakan bot penyelamat iaitu emas fizikal di tangan!
+
+Apabila kita menyimpan emas fizikal, kita tidak bergantung kepada janji mana-mana syarikat atau bank.
+
+Cuba komen, apakah langkah perlindungan yang anda dah buat untuk pastikan simpanan keluarga selamat?
+
+Mulakan tabungan emas fizikal anda hari ini supaya keselamatan harta berada di tangan Sendiri!`
+  },
+  {
+    id: 1393,
+    siri: "Kisah-05",
+    no: 4,
+    topik: "Kewangan Peribadi",
+    tajuk: "Curt Degerman 'Tin-Can Curt' Simpan 124 Jongkong Emas & Disiplin Menabung",
+    tags: ["gap", "gaji", "999", "disiplin"],
+    persona: "SKELLEFTEA, SWEDEN (2008–2009) · KUMPUL EMAS SEDIKIT DEMI SEDIKIT: ORANG PANDANG RENDAH, TAPI HARTA BERJUTA",
+    hook: "GAMBAR LELAKI TUA BERBASIKAL BURUK MENGUTIP TIN MINUMAN KOSONG DI SWEDEN INI SELALU DIPANDANG RENDAH... TAPI KENAPA DI DALAM PETI BESINYA DITEMUI 124 KETUL JONGKONG EMAS?",
+    teks: `Selama 30 tahun, penduduk bandar Skelleftea di utara Sweden sering melihat seorang lelaki tua bernama Curt Degerman mengayuh basikal buruk sambil memakai jaket biru lusuh untuk mengutip tin minuman kosong dan botol kaca di dalam tong sampah!
+
+Orang ramai menggelarnya sebagai Tin-Can Curt dan menyangka beliau seorang gelandangan yang miskin.
+
+Tetapi apabila beliau meninggal dunia pada usia 60 tahun pada musim luruh 2008, peguam yang membuka wasiatnya ternganga melihat harta sebenar lelaki tersebut!
+
+Hasil daripada wang tebusan kitar semula tin kosong yang dikumpul sen demi sen dan diuruskan dengan penuh ilmu di perpustakaan awam setiap hari, Curt Degerman meninggalkan harta bernilai 1.4 juta dolar, iaitu lebih RM6 juta!
+
+Dan perkara paling mengejutkan ialah apabila peti simpanan keselamatannya dibuka, di dalamnya tersusun rapi sebanyak 124 ketul jongkong emas tulen bernilai ratusan ribu dolar!
+
+Bayangkan: seorang pengutip tin kosong mampu mengumpul 124 ketul jongkong emas kerana disiplin menukar duit kecil kepada aset!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, berhenti memberi alasan kita tiada modal besar untuk membeli emas.
+
+Dengan Akaun Emas GAP Public Gold, duit kecil RM100 hasil jimat belanja harian pun sudah boleh ditukar menjadi gram emas 999.9!
+
+Cuba komen, kalau pengutip tin boleh kumpul 124 jongkong emas, berapa ketul sasaran kita yang ada gaji tetap ni?
+
+Mulakan simpanan gram kecil anda hari ini kerana sikit-sikit lama-lama pasti jadi Bukit!`
+  },
+  {
+    id: 1394,
+    siri: "Kisah-05",
+    no: 5,
+    topik: "Kenapa Emas",
+    tajuk: "Kapal Karam 'San Jose' 1708 & 11 Juta Syiling Emas Bernilai USD 17 Bilion",
+    tags: ["perang", "sejarah"],
+    persona: "CARTAGENA, COLOMBIA (1708–2025) · EMAS TIDAK PERNAH HILANG NILAI WALAUPUN TENGGELAM 300 TAHUN DI DASAR LAUT",
+    hook: "GAMBAR ROBOT TENTERA LAUT COLOMBIA MERAKAMKAN SYILING EMAS DARI BANGKAI KAPAL 'SAN JOSE' PADA KEDALAMAN 600 METER INI BERNILAI RM75 BILION... KENAPA TIGA NEGARA BEREBUT HARTA TAHUN 1708 INI?",
+    teks: `Gambar syiling emas kuno yang dirakam oleh robot bawah laut di perairan Cartagena, Colombia daripada bangkai kapal perang Sepanyol, San Jose, ini digelar oleh pakar sejarah sebagai The Holy Grail of Shipwrecks!
+
+Pada 8 Jun 1708, kapal San Jose telah tenggelam selepas bertempur dengan armada Britain ketika membawa pulang hasil perbendaharaan diraja sebanyak 200 tan emas, perak, dan zamrud!
+
+Selepas lebih tiga ratus tahun bersemadi pada kedalaman 600 meter di dasar Laut Caribbean, penemuan semula kapal itu yang mengandungi sekitar 11 juta keping syiling emas dan perak kini dianggarkan bernilai sehingga 17 bilion dolar Amerika, iaitu sekitar RM75 bilion!
+
+Malah kerana nilainya yang begitu luar biasa, kerajaan Colombia, Sepanyol, dan syarikat penyelamat antarabangsa bertahun-tahun turun naik mahkamah semata-mata untuk menuntut hak ke atas emas tersebut!
+
+Cuba kita fikirkan: adakah mana-mana negara akan berebut di mahkamah antarabangsa jika kapal tahun 1708 itu hanya membawa peti berisi wang kertas?
+
+Sudah tentu tidak, kerana kertas sudah lama hancur dan tamat tempoh!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, emas fizikal adalah satu-satunya harta dunia yang nilainya merentas abad dan sentiasa menjadi rebutan kerajaan mahupun hartawan.
+
+Cuba komen, kenapa agaknya selepas 300 tahun pun nilai emas bukannya jatuh malah makin melambung?
+
+Kunci hasil titik peluh anda di dalam emas fizikal hari ini kerana nilainya kekal Abadi!`
+  },
+  {
+    id: 1395,
+    siri: "Kisah-05",
+    no: 6,
+    topik: "Kenapa Emas",
+    tajuk: "Krisis Kekurangan Tunai 'Naira Redesign' Nigeria 2023 & Analogi Token Dobi",
+    tags: ["gaji", "krisis", "tunai"],
+    persona: "LAGOS & ABUJA, NIGERIA (2023) · ANALOGI TOKEN MESIN DOBI: BAHAYA BERGANTUNG 100% PADA SISTEM KERTAS & DIGITAL",
+    hook: "GAMBAR RIBUAN PENDUDUK LAGOS BERATUR SEJAK SUBUH DI HADAPAN ATM KOSONG PADA FEBRUARI 2023 INI MELUMPUHKAN PERNIAGAAN... APA TERJADI APABILA WANG LAMA DIHARAMKAN TETAPI WANG BAHARU TIADA?",
+    teks: `Pada awal tahun 2023, lebih 200 juta penduduk Nigeria berdepan satu krisis kewangan yang amat pelik apabila Bank Pusat Nigeria mengumumkan pertukaran reka bentuk wang kertas 200, 500, dan 1,000 Naira!
+
+Rakyat diwajibkan menyerahkan wang kertas lama mereka ke dalam bank sebelum tarikh akhir, namun apabila mereka mahu mengeluarkan semula wang kertas baharu, mesin ATM di seluruh negara kehabisan wang tunai manakala aplikasi perbankan digital pula lumpuh akibat kesesakan talian!
+
+Akibatnya, orang ramai yang mempunyai duit gaji di dalam akaun bank terpaksa tidur di kaki lima bank dan tidak dapat membeli makanan di pasar kerana peniaga enggan menerima wang kertas lama yang telah dibatalkan!
+
+Peristiwa tahun 2023 ini membuktikan betapa rapuhnya kuasa beli kita apabila ia bergantung sepenuhnya kepada kertas cetakan dan sistem pelayan bank.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, wang kertas fungsinya sebiji seperti token mesin dobi layan diri!
+
+Apabila pemilik sistem menukar bentuk token atau mesin mengalami kerosakan teknikal, kita yang memegang token lama terus terkandas walaupun duit itu milik kita.
+
+Sebaliknya, emas fizikal tidak pernah perlu ditukar reka bentuk baharu untuk kekal laku di pasaran dunia!
+
+Cuba komen, pernah tak anda alami situasi panik bila sistem pembayaran digital tiba-tiba tergendala?
+
+Asingkan sebahagian harta anda ke dalam bentuk emas fizikal supaya kuasa beli keluarga kekal Bebas!`
+  },
+  {
+    id: 1396,
+    siri: "Kisah-05",
+    no: 7,
+    topik: "Kenapa Emas",
+    tajuk: "Kejatuhan Bank 'Jay Cooke' Panik 1873 & Analogi Kapal Titanic",
+    tags: ["hutang", "saham", "perang", "kecemasan", "sejarah", "tunai"],
+    persona: "PHILADELPHIA & NEW YORK, AS (1873) · ANALOGI KAPAL TITANIC: JANGAN LETAK SEMUA HARTA DALAM SISTEM KERTAS",
+    hook: "LUKISAN ORANG RAMAI MENYERBU WALL STREET PADA 18 SEPTEMBER 1873 SELEPAS TUMBANGNYA BANK TERBESAR AMERIKA INI MENUTUP BURSA SAHAM SELAMA 10 HARI... APA PENGAJARANNYA?",
+    teks: `Pada pagi Khamis, 18 September 1873, seluruh Amerika Syarikat terkejut apabila bank pelaburan paling berkuasa di negara itu iaitu Jay Cooke and Company tiba-tiba menutup pintunya dan mengisytiharkan muflis!
+
+Jay Cooke bukanlah jurubank sembarangan; beliau digelar sebagai Pembiaya Negara kerana berjaya mengumpul dana berbilion dolar untuk kerajaan Amerika semasa Perang Saudara.
+
+Namun kerana terlalu yakin dan mencetak bon hutang kertas secara berlebihan untuk membina landasan kereta api Northern Pacific, bank gergasi itu kehabisan tunai dan runtuh sekelip mata!
+
+Kejatuhan Jay Cooke mencetuskan Panik Kewangan 1873 yang begitu dahsyat sehingga Bursa Saham New York terpaksa ditutup buat pertama kali dalam sejarahnya selama 10 hari, ratusan bank lain turut tumbang, dan ekonomi dunia terjerumus ke dalam kemelesetan panjang selama enam tahun!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, sejarah kejatuhan Jay Cooke pada tahun 1873, Lehman Brothers pada tahun 2008, dan Silicon Valley Bank pada tahun 2023 semuanya membawa satu mesej yang sama!
+
+Sehebat mana pun sesebuah institusi kewangan, ia tetap umpama kapal Titanic yang terdedah kepada risiko melanggar aisberg hutang.
+
+Jangan biarkan keluarga kita berenang tanpa pelampung apabila ribut kewangan melanda.
+
+Cuba komen, dah berapa gram emas yang anda sediakan sebagai pelampung kecemasan keluarga?
+
+Binalah bot penyelamat harta anda hari ini melalui tabungan konsisten emas Fizikal!`
+  },
+  {
+    id: 1397,
+    siri: "Kisah-05",
+    no: 8,
+    topik: "Kenapa Emas",
+    tajuk: "Sir Leonard Woolley & Mahkota Emas Ratu Puabi Di Makam Ur 4,500 Tahun",
+    tags: ["1971", "sejarah"],
+    persona: "KOTA PURBA UR, MESOPOTAMIA / IRAQ (2600 SM – 1928) · EMAS ADALAH HARTA SEBENAR SEJAK TAMADUN MESOPOTAMIA 4,500 TAHUN DAHULU",
+    hook: "GAMBAR MAHKOTA DAUN EMAS RATU PUABI YANG DIGALI OLEH SIR LEONARD WOOLLEY DI IRAQ PADA TAHUN 1928 INI BERUSIA 4,500 TAHUN... KENAPA EMAS TAMADUN SUMERIA INI MASIH BERKILAU?",
+    teks: `Gambar perhiasan kepala yang ditempa daripada puluhan helai daun emas tulen, cincin emas, dan batu permata lapis lazuli milik Ratu Puabi ini ditemui oleh ahli arkeologi Britain, Sir Leonard Woolley, ketika menggali Makam Diraja Ur di selatan Iraq pada tahun 1928!
+
+Khazanah daripada tamadun Mesopotamia purba itu berasal dari sekitar tahun 2600 Sebelum Masihi, bermakna ia telah tertanam di bawah padang pasir selama lebih empat ribu lima ratus tahun!
+
+Perhatikan satu fakta sejarah yang luar biasa ini.
+
+Tamadun Sumeria di kota Ur adalah tempat manusia mula-mula mencipta tulisan paku di atas kepingan tanah liat dan membangunkan sistem perdagangan awal.
+
+Tetapi sejak empat ribu lima ratus tahun dahulu lagi, apabila raja dan bangsawan mahu menyimpan kekayaan yang paling tinggi nilainya, mereka tidak menyimpan tanah liat, sebaliknya mereka menyimpan emas tulen!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, manusia moden baru sahaja bereksperimen dengan wang kertas tanpa sandaran emas sejak tahun 1971, iaitu baru sekitar lima dekad.
+
+Manakala emas fizikal sudah teruji mempertahankan nilai kekayaan manusia sejak zaman Mesopotamia lebih empat alaf yang lalu!
+
+Antara eksperimen kertas 50 tahun dengan rekod emas 4,500 tahun, mana satu yang lebih meyakinkan anda?
+
+Cuba komen, berapa tahun dah anda mula kenal dan simpan emas fizikal?
+
+Peganglah aset yang telah teruji sejak awal tamadun manusia iaitu emas Tulen!`
+  },
+  {
+    id: 1398,
+    siri: "Kisah-05",
+    no: 9,
+    topik: "Kenapa Emas",
+    tajuk: "Wang Kertas Pertama Dunia 'Jiaozi' Dinasti Song 1023 & Nasib Semua Kertas",
+    tags: ["susut nilai", "inflasi", "1971", "sejarah", "resit"],
+    persona: "CHENGDU, SICHUAN, CHINA (1023) · SEJARAH 1,000 TAHUN WANG KERTAS: SEMUANYA BERAKHIR DENGAN INFLASI AKIBAT CETAKAN BERLEBIHAN",
+    hook: "GAMBAR CETAKAN KAYU WANG KERTAS 'JIAOZI' DARI TAHUN 1023 INI ADALAH DUIT KERTAS PERTAMA DALAM SEJARAH MANUSIA... TAPI TAHUKAH ANDA BAGAIMANA NASIB AKHIR DUIT KERTAS PERTAMA INI?",
+    teks: `Gambar wang kertas kuno bernama Jiaozi yang mula dikeluarkan secara rasmi di wilayah Sichuan, China pada tahun 1023 semasa pemerintahan Dinasti Song ini adalah wang kertas pertama yang pernah dicipta dalam sejarah umat manusia!
+
+Pada asalnya, wang kertas Jiaozi ini hanyalah resit deposit yang dikeluarkan oleh kedai-kedai saudagar kerana syiling besi dan tembaga terlalu berat untuk dibawa berniaga jauh.
+
+Setiap keping resit kertas itu disandarkan seratus peratus kepada logam sebenar di dalam bilik simpanan!
+
+Namun sebaik sahaja kerajaan mengambil alih kuasa mencetak Jiaozi dan terdesak membiayai kos tentera berperang, mereka mula mencetak berjuta-juta keping kertas Jiaozi melebihi jumlah logam di dalam bilik kebal!
+
+Apakah kesudahannya? Nilai wang kertas pertama dunia itu jatuh merudum dimakan inflasi sehingga rakyat enggan menerimanya lagi!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, sejarah wang kertas Jiaozi seribu tahun dahulu adalah sebiji seperti sejarah pemutusan sandaran emas pada tahun 1971!
+
+Pada mulanya wang kertas adalah resit mewakili emas, tetapi akhirnya manusia pasti tergoda mencetak kertas melebihi sandaran sehingga menghakis kuasa beli penyimpan.
+
+Jangan biarkan sejarah seribu tahun ini terus memakan titik peluh kita.
+
+Cuba komen, kalau resit kertas makin susut nilai, apa yang patut kita kumpul?
+
+Tukarkan resit kertas lebihan anda kepada aset sebenar iaitu emas Fizikal!`
+  },
+  {
+    id: 1399,
+    siri: "Kisah-05",
+    no: 10,
+    topik: "Keluarga",
+    tajuk: "George Hudson & Gelembung 'Railway Mania' 1846 Vs Simpanan Emas Konsisten",
+    tags: ["saham", "disiplin"],
+    persona: "LONDON & YORK, UNITED KINGDOM (1844–1848) · JANGAN KEJAR SKIM SPEKULASI PANAS, BINA TABUNGAN EMAS SECARA SABAR",
+    hook: "POTRET USAHAWAN GEORGE HUDSON YANG DIGELAR 'RAJA KERETA API' BRITAIN PADA TAHUN 1845 INI PERNAH MEMUKAU SELURUH LONDON... BAGAIMANA GELEMBUNG SAHAM ITU MEMUFLISKAN RIBUAN KELUARGA?",
+    teks: `Pada pertengahan dekad 1840-an, seluruh negara Britain dilanda satu kegilaan pelaburan yang digelar sebagai Railway Mania atau Demam Saham Kereta Api!
+
+Diterajui oleh seorang tokoh korporat bernama George Hudson yang dijulang sebagai Raja Kereta Api, lebih 270 buah syarikat kereta api baharu ditubuhkan di atas kertas dan diiklankan di surat khabar dengan janji keuntungan berlipat kali ganda!
+
+Daripada golongan bangsawan sehinggalah pesara, paderi, dan balu termasuk penulis terkenal adik-beradik Bronte, ramai mengeluarkan seluruh wang simpanan keluarga untuk memborong saham kertas tersebut!
+
+Namun menjelang tahun 1847, apabila terbongkar bahawa George Hudson telah memanipulasi akaun dan membayar dividen menggunakan modal pelabur baharu, gelembung itu pecah!
+
+Harga saham kereta api jatuh menjunam, George Hudson jatuh muflis lalu melarikan diri ke luar negara, dan ribuan keluarga kelas pertengahan kehilangan seluruh harta simpanan seumur hidup mereka!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, setiap zaman pasti akan muncul trend spekulasi panas yang menjanjikan kekayaan segera sehingga membuatkan orang ramai lupa daratan.
+
+Tetapi penyimpan emas yang berilmu tidak mudah goyang dengan janji manis pasaran spekulasi.
+
+Kita fokus mengumpul gram emas fizikal yang nyata di tangan.
+
+Cuba komen, apakah trend pelaburan panas yang pernah anda tengok kawan-kawan rugi besar?
+
+Kekalkan disiplin menabung emas fizikal kerana nilainya jauh lebih selamat dan Stabil!`
+  },
+  {
+    id: 1400,
+    siri: "Kisah-05",
+    no: 11,
+    topik: "Kewangan Peribadi",
+    tajuk: "Jerome Kerviel & Kerugian Spekulasi EUR 4.9 Bilion Societe Generale 2008",
+    tags: ["hutang", "saham", "skim", "sejarah"],
+    persona: "PARIS, PERANCIS (2008) · PRINSIP DATO' WIRA LOUIS NG: JUAL BELI EMAS 1 TO 1 TANPA HUTANG LEVERAGE",
+    hook: "GAMBAR PEDAGANG MUDA JEROME KERVIEL KELUAR DARI MAHKAMAH PARIS PADA TAHUN 2008 INI MENGGEMPARKAN DUNIA... BAGAIMANA SEORANG PEKERJA MEMBUAT PERTARUHAN RAHSIA RM230 BILION?",
+    teks: `Pada Januari 2008, salah sebuah bank tertua dan terbesar di Perancis iaitu Societe Generale mengumumkan bahawa mereka baru sahaja mengalami kerugian perdagangan tunggal terbesar dalam sejarah perbankan iaitu sebanyak 4.9 bilion Euro, bersamaan sekitar RM24 bilion!
+
+Puncanya datang daripada seorang pedagang berusia 31 tahun bernama Jerome Kerviel yang menggunakan pengetahuan sistem komputernya untuk membuka posisi spekulasi pasaran hadapan secara rahsia bernilai 50 bilion Euro, iaitu melebihi nilai pasaran keseluruhan bank itu sendiri!
+
+Apabila pasaran saham jatuh dan bank terpaksa menutup posisi berhutang tersebut dalam masa tiga hari, kerugian berbilion Euro terpaksa ditanggung serta-merta!
+
+Kisah Jerome Kerviel ini membuktikan betapa bahayanya urus niaga atas kertas yang menggunakan hutang leverage.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, sebab itulah kita wajib menjauhi sebarang bentuk perdagangan emas kertas atau forex yang menggunakan margin berhutang!
+
+Di Public Gold, Pengasas kami Dato' Wira Louis Ng telah menetapkan syarat besi sejak tahun 2008: jual beli emas mesti dilakukan satu lawan satu secara fizikal tanpa sebarang gearing atau hutang.
+
+Apabila tiada hutang margin, modal kita tidak mungkin lebur walaupun pasaran dunia bergolak.
+
+Cuba komen, anda pernah diajak masuk skim trading emas yang janji untung cepat tak?
+
+Elakkan diri daripada risiko spekulasi berhutang dan simpanlah emas fizikal yang pasti Selamat!`
+  },
+  {
+    id: 1401,
+    siri: "Kisah-05",
+    no: 12,
+    topik: "Kewangan Peribadi",
+    tajuk: "Gelap Gelita 'Northeast Blackout' 55 Juta Penduduk 2003 & Kuasa Fizikal",
+    tags: ["kad kredit", "gaji", "kecemasan", "sejarah", "tunai"],
+    persona: "NEW YORK, AS & ONTARIO, KANADA (14 OGOS 2003) · KISAH BANJIR 2014: APABILA SISTEM ELEKTRIK & BANK TERPADAM, HANYA FIZIKAL YANG LAKU",
+    hook: "GAMBAR JUTAAN PENDUDUK BERJALAN KAKI MERENTASI JAMBATAN BROOKLYN DALAM GELAP GELITA PADA 14 OGOS 2003 INI BUKAN FILEM... APA TERJADI APABILA ELEKTRIK 55 JUTA MANUSIA TERPADAM SERENTAK?",
+    teks: `Gambar jutaan pekerja pejabat berjalan kaki beramai-ramai merentasi Jambatan Brooklyn di New York ketika seluruh bandar raya bertukar gelap gelita pada petang 14 Ogos 2003 ini adalah gangguan elektrik terbesar dalam sejarah Amerika Utara!
+
+Hanya kerana kerosakan talian elektrik yang gagal dikesan oleh perisian komputer di Ohio, bekalan elektrik terputus secara berantai merentasi lapan buah negeri Amerika dan Kanada sehingga menjejaskan 55 juta manusia serentak!
+
+Kereta api bawah tanah terhenti, lif bangunan pencakar langit tersangkut, dan kesemua mesin ATM serta mesin kad kredit di ribuan kedai mati serta-merta!
+
+Orang kaya yang memegang kad kredit platinum di dalam dompet mereka pun terpaksa berjalan kaki berbatu-batu dalam kepanasan musim panas tanpa dapat membeli sebotol air minuman kerana kedai hanya menerima bayaran fizikal!
+
+Peristiwa di kota paling moden dunia ini mengesahkan pesan guru saya, Tn Mohd Zulkifli Shafie, tentang kelemahan bergantung seratus peratus kepada angka di dalam skrin.
+
+Teknologi ciptaan manusia boleh terpadam pada bila-bila masa.
+
+Tetapi tunai kecemasan tiga bulan gaji dan kepingan emas fizikal yang kita simpan sendiri tidak memerlukan bekalan elektrik untuk mengekalkan nilainya!
+
+Cuba komen, pernah tak anda tersangkut nak bayar barang waktu sistem bank tiba-tiba tergendala?
+
+Pastikan keluarga anda mempunyai rizab kecemasan fizikal yang sentiasa sedia di Tangan!`
+  },
+  {
+    id: 1402,
+    siri: "Kisah-05",
+    no: 13,
+    topik: "Kenapa Emas",
+    tajuk: "Pelarian 2,500 Tan Emas 'Banque de France' Ke Dakar 1940 & Nilai Sebenar",
+    tags: ["krisis", "perang", "sejarah"],
+    persona: "PARIS, PERANCIS KE DAKAR & MARTINIQUE (1940) · WAKTU NEGARA DIUJI PERANG, EMAS FIZIKAL ADALAH SATU-SATUNYA HARTA YANG DISELAMATKAN",
+    hook: "GAMBAR BILIK KEBAL BAWAH TANAH BANQUE DE FRANCE DI PARIS YANG DIKOSONGKAN SECARA RAHSIA PADA TAHUN 1940 INI MENYIMPAN KISAH LUAR BIASA... BAGAIMANA 2,500 TAN EMAS DILARIKAN KE AFRIKA?",
+    teks: `Gambar bilik kebal gergasi di bawah tanah ibu pejabat Banque de France di Paris ini menyimpan satu operasi penyelamatan harta yang jarang diceritakan dalam buku sejarah!
+
+Antara tahun 1939 hingga Jun 1940, ketika tentera Jerman mara menghampiri kota Paris, ribuan pekerja bank dan kelasi tentera laut Perancis bertungkus-lumus mengangkut keluar hampir 2,500 tan jongkong dan syiling emas rizab negara mereka!
+
+Menggunakan kereta api khas dan kapal-kapal perang dari pelabuhan Brest dan Toulon, ribuan tan emas fizikal itu dilarikan merentasi lautan menuju ke Dakar di Afrika Barat dan pulau Martinique di Caribbean!
+
+Apabila tentera pendudukan masuk ke dalam bilik kebal utama di Paris, tiada seketul pun emas negara Perancis yang dapat dirampas!
+
+Dan emas fizikal yang diselamatkan itulah yang kemudiannya membolehkan Perancis memulihkan semula mata wang dan ekonominya sebaik sahaja perang tamat.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, perhatikan bagaimana setiap negara besar dunia bertindak apabila berdepan krisis hidup dan mati!
+
+Mereka tidak menyelamatkan kertas bon atau mesin cetak duit, sebaliknya mereka menyelamatkan emas fizikal.
+
+Bagi sebuah keluarga, emas fizikal yang kita kumpul hari ini adalah rizab kedaulatan keluarga kita sendiri.
+
+Cuba komen, dah berapa peratus daripada simpanan keluarga anda yang ditukar kepada emas fizikal?
+
+Jadikan emas fizikal sebagai aset perlindungan jangka panjang keluarga yang Utama!`
+  },
+  {
+    id: 1403,
+    siri: "Kisah-05",
+    no: 14,
+    topik: "Kenapa Emas",
+    tajuk: "Krisis 'Savings & Loan' Lincoln Savings 1989 & Bahaya Satu Bakul Kertas",
+    tags: ["krisis"],
+    persona: "IRVINE, CALIFORNIA, AS (1989) · GOLONGAN KETIGA: JANGAN LETAK SEMUA SIMPANAN HARI TUA DALAM SATU INSTRUMEN KERTAS",
+    hook: "GAMBAR RIBUAN WARGA EMAS CALIFORNIA MENANGIS MEMEGANG SIJIL BON TIDAK BERNILAI PADA TAHUN 1989 INI MERUNTUN HATI... BAGAIMANA LEBIH 1,000 INSTITUSI SIMPANAN RUNTUH?",
+    teks: `Pada penghujung dekad 1980-an, Amerika Syarikat digegarkan dengan Krisis Savings and Loan yang menyaksikan lebih 1,000 buah institusi simpanan dan pinjaman runtuh dengan kos kerugian melebihi 160 bilion dolar!
+
+Tragedi paling menyayat hati berlaku pada April 1989 apabila Lincoln Savings and Loan di California yang diketuai oleh Charles Keating tumbang!
+
+Lebih 23,000 orang pelanggan yang kebanyakannya terdiri daripada pesara warga emas telah dipujuk menukarkan wang simpanan bank mereka kepada bon kertas syarikat induk dengan janji faedah sedikit lebih tinggi dan jaminan mulut bahawa ia kononnya selamat sepenuhnya.
+
+Apabila syarikat itu muflis, sijil bon kertas bernilai lebih 250 juta dolar di tangan warga emas tersebut bertukar menjadi kertas tidak bernilai walau satu sen pun!
+
+Ramai pesara berusia 70-an dan 80-an kehilangan keseluruhan wang belanja hari tua mereka dalam sekelip mata.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, jangan sesekali mempertaruhkan wang hari tua kita kepada kertas janji syarikat yang menjanjikan pulangan tetap yang meragukan!
+
+Simpanlah sebahagian besar dana jangka panjang dan hari tua di dalam bentuk emas fizikal yang nyata.
+
+Emas fizikal tidak mempunyai risiko syarikat muflis kerana nilainya berdiri sendiri.
+
+Cuba komen, apakah persediaan tabung hari tua yang sedang anda bina sekarang?
+
+Lindungi ketenangan usia emas anda dengan menyimpan aset emas Fizikal!`
+  },
+  {
+    id: 1404,
+    siri: "Kisah-05",
+    no: 15,
+    topik: "Kenapa Emas",
+    tajuk: "Pembatalan Wang Kertas 50 Cedi Ghana 1982 & Analogi Token Mesin Dobi",
+    tags: ["resit", "tunai"],
+    persona: "ACCRA, GHANA (FEBRUARI 1982) · ANALOGI TOKEN MESIN DOBI: KERTAS HANYA LAKU SELAGI DIIKTIRAF PEMERINTAH",
+    hook: "GAMBAR PETANI DAN PENIAGA DI GHANA MEMEGANG WANG KERTAS 50 CEDI YANG DIBATALKAN PADA FEBRUARI 1982 INI MENYIMPAN KISAH PAHIT... KENAPA DUIT TERBESAR NEGARA ITU DIHARAMKAN?",
+    teks: `Pada Februari 1982, kerajaan baharu di Ghana mengambil satu tindakan drastik dengan mengarahkan pembatalan serta-merta wang kertas denominasi tertinggi negara itu iaitu wang kertas 50 Cedi!
+
+Rakyat diberi tempoh yang amat singkat untuk menyerahkan kesemua wang kertas 50 Cedi ke bank tanpa mendapat wang tunai pengganti serta-merta, sebaliknya hanya diberikan slip resit di atas kertas!
+
+Ramai petani koko di kawasan luar bandar yang menyimpan hasil jualan tahunan mereka dalam bentuk wang kertas 50 Cedi tidak sempat sampai ke bank sebelum tarikh tutup, menyebabkan wang titik peluh mereka bertukar menjadi kertas kosong yang tidak boleh digunakan lagi!
+
+Akibat trauma peristiwa tersebut, rakyat Ghana selama bertahun-tahun takut memegang wang kertas bernilai besar dan lebih memilih menyimpan emas serta harta fizikal!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, kisah di Ghana pada tahun 1982, Myanmar pada tahun 1987, dan India pada tahun 2016 semuanya membuktikan kebenaran analogi token mesin dobi layan diri!
+
+Wang kertas hanyalah token yang laku selagi pemilik kedai membenarkannya.
+
+Tetapi emas fizikal yang terkenal di bumi Ghana sejak zaman dahulu sebagai Gold Coast tidak pernah boleh dibatalkan nilainya oleh sesiapa!
+
+Cuba komen, kalau kertas boleh dibatalkan, kenapa kita masih takut nak tukar sebahagian simpanan kepada emas?
+
+Peganglah emas fizikal kerana kuasanya diiktiraf tanpa syarat di seluruh Dunia!`
+  },
+  {
+    id: 1405,
+    siri: "Kisah-05",
+    no: 16,
+    topik: "Kewangan Peribadi",
+    tajuk: "Penemuan Emas 'Klondike Gold Rush' 1896 & Nasib Peneroka Tanpa Ilmu",
+    tags: ["ringgit", "skim", "g100", "anak"],
+    persona: "BONANZA CREEK, YUKON, KANADA (1896) · BUKAN EMAS YANG MENJADIKAN KITA KAYA, TETAPI ILMU MENGURUS WANG & EMAS",
+    hook: "GAMBAR BARISAN PENDAKI MEREDAH SALJI TEBAL CHILKOOT PASS PADA TAHUN 1897 INI BERMULA DARIPADA PENEMUAN EMAS DI SUNGAI KLONDIKE... TAPI APA NASIB AKHIR MEREKA YANG MENJUMPAI EMAS ITU?",
+    teks: `Gambar ribuan manusia memanjat tangga ais curam di laluan Chilkoot Pass meredah ribut salji menuju ke wilayah Yukon, Kanada pada akhir abad ke-19 ini tercetus selepas penemuan emas oleh Skookum Jim Mason dan George Carmack di anak sungai Bonanza Creek pada 17 Ogos 1896!
+
+Mereka menemui kepingan emas tulen yang begitu banyak di dasar sungai sehingga berjaya mengeluarkan emas bernilai lebih satu juta dolar!
+
+Tetapi tahukah anda apa yang berlaku kepada kebanyakan pelombong yang tiba-tiba mendapat emas bernilai jutaan ringgit ketika Demam Emas Klondike itu?
+
+Kerana tiada ilmu pengurusan kewangan, ramai yang menghabiskan emas mereka di kelab hiburan, ditipu oleh spekulator tanah, dan berbelanja boros sehingga akhirnya kembali jatuh miskin dalam masa beberapa tahun sahaja!
+
+Kisah benar Klondike tahun 1896 ini mengesahkan pesan guru saya, Tn Mohd Zulkifli Shafie, tentang rukun keempat dalam dunia emas.
+
+Ingat: bukan emas itu sendiri yang menjadikan kita kaya, tetapi ilmu kita tentang cara menguruskan wang dan emas!
+
+Orang yang ada emas tetapi tiada ilmu akan mudah terpedaya menjual emasnya untuk perkara sia-sia atau terjebak dengan skim cepat kaya.
+
+Sebaliknya, orang yang berilmu menggunakan emas sebagai alat membina harta yang berkekalan.
+
+Cuba komen, apakah perkara pertama yang patut kita cari sebelum mula melabur: untung cepat atau ilmu?
+
+Mulakan simpanan emas anda bersama rangkaian G100 Network yang sentiasa mengutamakan bimbingan Ilmu!`
+  },
+  {
+    id: 1406,
+    siri: "Kisah-05",
+    no: 17,
+    topik: "Kenapa Emas",
+    tajuk: "'Revolusi Harga' Abad Ke-16 & Mengapa Simpanan Tunai Kalah Dengan Inflasi",
+    tags: ["inflasi", "gaji", "kecemasan", "sejarah", "tunai"],
+    persona: "SEVILLE, SEPANYOL & EROPAH (ABAD KE-16) · HAKISAN INFLASI JANGKA PANJANG: KUASA BELI TUNAI PASTI MEROSOT",
+    hook: "LUKISAN PELABUHAN SEVILLE DI SEPANYOL PADA ABAD KE-16 INI MENERIMA LAMBAKAN MATA WANG BAHARU... TAPI KENAPA RAKYAT BIASA YANG MENYIMPAN DUIT TETAP JATUH MISKIN?",
+    teks: `Lukisan pelabuhan Seville di Sepanyol pada abad ke-16 ini merakamkan fenomena sejarah ekonomi yang dikenali oleh para sejarawan sebagai The Price Revolution atau Revolusi Harga!
+
+Ketika itu, kerajaan Sepanyol membawa masuk bekalan mata wang syiling perak dalam jumlah yang terlalu banyak secara mendadak ke pasaran Eropah tanpa diimbangi dengan pertambahan pengeluaran makanan dan barangan.
+
+Apakah kesan apabila bekalan mata wang di pasaran bertambah dengan mendadak?
+
+Harga gandum, roti, dan pakaian di seluruh Eropah meningkat sehingga empat ke lima kali ganda, menyebabkan golongan pekerja dan penyimpan wang tunai tetap kehilangan kuasa beli mereka secara berterusan!
+
+Jika pada abad ke-16 pertambahan bekalan syiling pun sudah mampu menaikkan harga barang berlipat kali ganda, bayangkan pula zaman moden hari ini apabila trilion mata wang kertas dan digital boleh ditambah hanya dengan menekan butang komputer!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, selagi bekalan wang kertas terus bertambah di dunia, inflasi tidak akan pernah berhenti menghakis tabungan tunai kita.
+
+Menyimpan wang tunai melebihi keperluan kecemasan tiga bulan gaji adalah satu kerugian jangka panjang yang nyata.
+
+Kita mesti menukar lebihan tunai kepada emas fizikal dan aset sebenar yang terhad bekalannya.
+
+Cuba komen, berapa kali ganda harga barang dapur dah naik sejak anda mula bekerja dulu?
+
+Selamatkan kuasa beli gaji anda hari ini dengan menukarkannya kepada emas dan Aset!`
+  },
+  {
+    id: 1407,
+    siri: "Kisah-05",
+    no: 18,
+    topik: "Kenapa Emas",
+    tajuk: "Bilik Kebal Emas 1,040 Tan Di Bawah Gunung Alps Switzerland & Rahsia Kestabilan",
+    tags: ["gap"],
+    persona: "BERN & PEGUNUNGAN ALPS, SWITZERLAND (1939–KINI) · NEGARA PALING STABIL DI DUNIA PUN MENYIMPAN 1,040 TAN EMAS FIZIKAL SEBAGAI BENTENG",
+    hook: "GAMBAR KUBU RAHSIA DI BAWAH GUNUNG BATU ALPS SWITZERLAND INI MENYIMPAN LEBIH 1,040 TAN JONGKONG EMAS... KENAPA NEGARA PALING AMAN DI DUNIA MASIH MENJAGA EMAS SEBANYAK ITU?",
+    teks: `Apabila menyebut nama negara Switzerland, seluruh dunia mengenali negara ini sebagai simbol keamanan, berkecuali daripada peperangan, dan mempunyai mata wang Franc Switzerland yang paling stabil di dunia!
+
+Tetapi tahukah anda apa yang tersimpan di dalam bilik kebal rahsia Bank Pusat Switzerland di bawah dataran Bern dan di dalam terowong batu pergunungan Alps?
+
+Walaupun jumlah penduduk Switzerland hanyalah sekitar sembilan juta orang, bank pusat mereka menyimpan sebanyak 1,040 tan jongkong emas fizikal, menjadikannya negara yang mempunyai rizab emas per kapita paling tinggi di dunia!
+
+Malah pada tahun 2014, rakyat Switzerland sendiri mengadakan pungutan suara nasional untuk membincangkan perlindungan rizab emas negara mereka!
+
+Fikirkan sejenak: mengapa sebuah negara yang sudah aman selama ratusan tahun masih memegang seribu tan emas fizikal di bawah gunung batu?
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, jawapannya ialah kerana mereka faham bahawa keamanan dan kestabilan kewangan bukanlah datang secara kebetulan, tetapi dibina di atas kekuatan rizab emas fizikal!
+
+Sediakan payung ketika langit masih cerah, jangan tunggu ribut melanda baru hendak mencari perlindungan.
+
+Keluarga kita juga memerlukan kubu rizab emas sendiri seperti Switzerland.
+
+Cuba komen, berapa gram emas sasaran yang anda nak capai untuk keluarga anda?
+
+Mulakan simpanan 1 gram 1 bulan di Akaun GAP hari ini supaya kewangan keluarga berdiri Kukuh!`
+  },
+  {
+    id: 1408,
+    siri: "Kisah-05",
+    no: 19,
+    topik: "Kewangan Peribadi",
+    tajuk: "Penipuan Negara Khayalan 'Poyais' 1822 Oleh Gregor MacGregor & Bahaya Kertas",
+    tags: ["penipuan"],
+    persona: "LONDON & EDINBURGH, UK (1822–1823) · BELI EMAS MESTI DAPAT EMAS FIZIKAL: JANGAN TUKAR EMAS DENGAN KERTAS KHAYALAN",
+    hook: "GAMBAR WANG KERTAS DAN SIJIL TANAH NEGARA 'POYAIS' YANG DIJUAL DI LONDON PADA TAHUN 1822 INI NAMPAK SANGAT RASMI... TAPI KENAPA NEGARA ITU RUPA-RUPANYA LANGSUNG TIDAK WUJUD?",
+    teks: `Pada tahun 1822, seorang bekas tentera Scotland bernama Gregor MacGregor tiba di kota London dan memperkenalkan dirinya sebagai Putera bagi sebuah negara kaya-raya di Amerika Tengah yang bernama Poyais!
+
+Beliau mencetak buku panduan tebal, peta rasmi, sijil geran tanah, malah mencetak wang kertas Dolar Poyais yang kemas di Scotland!
+
+MacGregor mendakwa sungai-sungai di negara Poyais penuh dengan ketulan emas dan tanahnya amat subur.
+
+Terpukau dengan janji pulangan tinggi, ratusan penduduk Britain menyerahkan wang simpanan serta syiling emas Sovereign mereka untuk membeli bon kertas Poyais bernilai 200,000 Paun dan menukar duit mereka kepada wang kertas Poyais!
+
+Namun apabila dua buah kapal yang membawa 250 peneroka tiba di pantai Honduras pada tahun 1823, mereka menangis terduduk apabila mendapati negara Poyais itu langsung tidak wujud, melainkan hanyalah hutan belantara kosong yang dipenuhi nyamuk!
+
+Wang kertas Poyais di tangan mereka tidak laku walau satu sen pun!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, manusia mudah tertipu apabila menyerahkan emas yang nyata demi mengejar kertas janji yang kelihatan cantik!
+
+Dalam dunia emas, pegang satu rukun sahaja: beli emas mesti dapat emas fizikal di tangan.
+
+Cuba komen, apakah cara anda pastikan sesuatu pelaburan emas itu betul-betul wujud dan sah?
+
+Lindungi harta anda daripada penipuan kertas dengan hanya menyimpan emas fizikal yang Sebenar!`
+  },
+  {
+    id: 1409,
+    siri: "Kisah-05",
+    no: 20,
+    topik: "Keluarga",
+    tajuk: "Serbuan Pendeposit & Tumbangnya 'IndyMac Bank' Julai 2008 Vs Life Boat Emas",
+    tags: ["hutang", "rumah", "dinar", "krisis", "kecemasan"],
+    persona: "PASADENA, CALIFORNIA, AS (JULAI 2008) · ANALOGI KAPAL TITANIC: BINA LIFE BOAT EMAS SEBELUM KRISIS MELANDA",
+    hook: "GAMBAR RATUSAN PENDUDUK CALIFORNIA BERATUR DI BAWAH TERIK MATAHARI DI LUAR INDYMAC BANK PADA JULAI 2008 INI ADALAH AMARAN AWAL KRISIS DUNIA... KENAPA RM5 BILION DITARIK KELUAR DALAM 11 HARI?",
+    teks: `Gambar ratusan pendeposit warga emas dan keluarga beratur panjang di bawah panas terik di luar ibu pejabat IndyMac Bank di Pasadena, California pada 11 Julai 2008 ini adalah detik amaran awal sebelum meletusnya krisis kewangan global dua bulan kemudian!
+
+IndyMac Bank merupakan institusi pinjaman perumahan gergasi yang mempunyai aset bernilai 32 bilion dolar.
+
+Namun apabila harga rumah jatuh dan ramai peminjam gagal membayar hutang, para pendeposit panik dan mengeluarkan sebanyak 1.55 bilion dolar, iaitu lebih RM5 bilion, hanya dalam tempoh 11 hari!
+
+Pada petang Jumaat, 11 Julai 2008, pihak berkuasa menutup pintu bank tersebut, dan sekitar 10,000 pendeposit yang mempunyai simpanan melebihi had perlindungan insurans terpaksa berdepan pembekuan serta kerugian ratusan juta dolar!
+
+Perhatikan bagaimana setiap kali krisis bermula, orang ramai yang tiada persediaan terpaksa beratur dalam ketakutan di hadapan pintu bank yang tertutup.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, seorang ketua keluarga yang bijak tidak akan membiarkan keluarganya berada di dalam barisan panik tersebut!
+
+Kita sediakan bot penyelamat kekayaan kita lebih awal dengan menukar sebahagian simpanan jangka panjang kepada jongkong emas dan dinar fizikal.
+
+Waktu krisis melanda, emas di tangan kita terus menjaga ketenangan keluarga.
+
+Cuba komen, adakah anda rasa simpanan kecemasan keluarga anda hari ini sudah cukup kukuh?
+
+Mulakan tabungan 1 gram 1 bulan hari ini supaya keluarga anda sentiasa Bersedia!`
+  },
+  {
+    id: 1410,
+    siri: "Kisah-05",
+    no: 21,
+    topik: "Kenapa Emas",
+    tajuk: "Pekerja Roboh Bangunan Lama Jumpa Mahkota Emas 'Sroda Treasure' 1985",
+    tags: ["krisis", "sejarah"],
+    persona: "SRODA SLASKA, POLAND (ABAD KE-14 – 1988) · EMAS YANG DISIMPAN KETIKA KRISIS ABAD KE-14 KEKAL BERNILAI RATUSAN JUTA RINGGIT",
+    hook: "GAMBAR MAHKOTA EMAS PERMAISURI YANG DITEMUI DI DALAM TIMBUNAN TANAH ROBOHAN BANGUNAN DI POLAND PADA TAHUN 1988 INI BERNILAI RATUSAN JUTA... KENAPA IA DISEMBUNYIKAN 600 TAHUN DAHULU?",
+    teks: `Antara tahun 1985 hingga 1988, sekumpulan pekerja binaan sedang merobohkan sebuah bangunan lama dan menggali tapak telefon di bandar kecil Sroda Slaska, Poland apabila jengkaut mereka memecahkan sebuah pasu tembikar zaman pertengahan!
+
+Apabila tanah daripada tapak binaan itu diperiksa, penduduk menemui ribuan keping syiling emas Florin dan perak, cincin permata, serta sebuah mahkota emas tulen milik permaisuri diraja abad ke-14 yang bertatahkan batu nilam dan helang emas!
+
+Khazanah Sroda itu rupa-rupanya telah disembunyikan di bawah tanah sekitar tahun 1348 ketika wabak Black Death melanda Eropah, selepas mahkota itu dicagarkan oleh Maharaja Charles IV kepada seorang saudagar kaya untuk mendapatkan pinjaman emas!
+
+Selepas lebih enam ratus tahun tertanam di bawah tapak bangunan lama, mahkota dan syiling emas tersebut keluar dari tanah dalam keadaan masih utuh dan dinilai berharga puluhan juta dolar!
+
+Kisah sejarah abad ke-14 ini membuktikan bahawa sejak dahulu lagi, apabila maharaja sendiri memerlukan pembiayaan besar ketika krisis, cagaran yang diterima hanyalah emas tulen!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, emas fizikal adalah aset cagaran dan simpanan nilai paling unggul yang diterima pada bila-bila masa.
+
+Walaupun bangunan di atasnya sudah roboh berganti zaman, nilai emas di bawahnya langsung tidak susut!
+
+Cuba komen, pernah tak anda gunakan emas sebagai modal pusingan waktu terdesak?
+
+Simpanlah emas fizikal hari ini supaya nilai harta keluarga anda sentiasa Terpelihara!`
+  },
+  {
+    id: 1411,
+    siri: "Kisah-05",
+    no: 22,
+    topik: "Public Gold & GAP",
+    tajuk: "Petani Kebun Anggur Jumpa 12.5 Kg Emas 'Valchitran Treasure' & Jongkong TRX",
+    tags: ["gap", "ringgit"],
+    persona: "VALCHITRAN, PLEVEN, BULGARIA (1924) · 12.5 KILOGRAM EMAS ZAMAN GANGSA SAMA BERAT DENGAN JONGKONG LBMA MENARA PG TRX",
+    hook: "GAMBAR 13 KEPING ARTIFAK EMAS PADU SEBERAT 12.5 KILOGRAM YANG DIGALI OLEH DUA BERADIK DI KEBUN ANGGUR BULGARIA PADA DISEMBER 1924 INI BERUSIA 3,300 TAHUN... APA PERSAMAANNYA DENGAN MENARA TRX?",
+    teks: `Pada Disember 1924, dua beradik petani sedang mencangkul tanah di kebun anggur mereka di kampung Valchitran, Bulgaria apabila mereka menemui 13 buah bekas logam besar yang tertanam di dalam tanah!
+
+Apabila diuji oleh Muzium Arkeologi Nasional di Sofia, kesemua 13 buah bekas tersebut rupa-rupanya ditempa daripada emas tulen semula jadi dari Zaman Gangsa sekitar tahun 1300 Sebelum Masihi!
+
+Dan tahukah anda berapakah jumlah berat keseluruhan Khazanah Emas Valchitran yang berusia 3,300 tahun itu?
+
+Beratnya ialah tepat 12.5 kilogram emas padu!
+
+Kebetulan yang sangat menarik, berat 12.5 kilogram itu adalah sama tepat dengan berat seketul jongkong emas gergasi berstandard LBMA Good Delivery yang dipamerkan untuk disentuh oleh orang ramai di Menara Public Gold, TRX Kuala Lumpur hari ini!
+
+Tiga ribu tiga ratus tahun dahulu, 12.5 kilogram emas melambangkan kekayaan seorang raja purba.
+
+Hari ini, 12.5 kilogram emas yang sama masih bernilai jutaan ringgit di pusat kewangan moden!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, nilai berat emas tidak pernah kalah oleh peredaran ribuan tahun.
+
+Kita boleh mula mengumpul emas yang sama ketulenannya daripada satu gram pertama melalui Akaun Emas GAP Public Gold.
+
+Cuba komen, berapa gram emas yang anda dah berjaya kumpul setakat tahun ini?
+
+Mulakan tabungan emas anda hari ini sehingga kepingan fizikal itu berada di Tangan!`
+  },
+  {
+    id: 1412,
+    siri: "Kisah-05",
+    no: 23,
+    topik: "Penipuan & Keselamatan",
+    tajuk: "Kapal Karam Dinasti Tang Di Pulau Belitung 1998 & Cawan Emas Seribu Tahun",
+    tags: ["999"],
+    persona: "PERAIRAN PULAU BELITUNG, NUSANTARA (ABAD KE-9 – 1998) · SERIBU TAHUN TERENDAM AIR MASIN DI LAUT NUSANTARA, EMAS KEKAL BERKILAU",
+    hook: "GAMBAR CAWAN EMAS BERSEGI LAPAN YANG DITEMUI OLEH PENYELAM GAMAT DI PERAIRAN PULAU BELITUNG PADA TAHUN 1998 INI BERUSIA 1,200 TAHUN... KENAPA EMAS DI DASAR LAUT KITA INI TIDAK BERKARAT?",
+    teks: `Pada tahun 1998, sekumpulan nelayan penyelam gamat di perairan Pulau Belitung di rantau Nusantara kita telah menemui bangkai sebuah kapal layar Arab dari abad ke-9 yang sedang belayar membawa kargo berharga dari zaman Dinasti Tang!
+
+Di celah-celah puluhan ribu mangkuk seramik di dasar laut tersebut, penyelam menemui khazanah diraja yang amat menakjubkan!
+
+Terdapat piring emas berukir dan sebuah cawan emas padu bersegi lapan yang merupakan cawan emas Dinasti Tang paling besar yang pernah ditemui di dunia!
+
+Kapal itu telah karam di dasar laut tropika yang masin dan berlumpur sekitar tahun 830 Masihi, iaitu hampir seribu dua ratus tahun dahulu.
+
+Kayu kapal telah dimakan cacing laut dan besi sauh telah hancur berkarat, tetapi cawan dan piring emas tulen itu keluar dari dasar laut dalam keadaan masih berkilau kuning tanpa sebarang kerosakan!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kisah kapal Belitung di perairan Nusantara kita sendiri adalah bukti nyata bahawa emas fizikal merupakan mata wang perdagangan antarabangsa yang paling tahan lasak!
+
+Ia tidak reput di darat dan tidak berkarat di dasar laut.
+
+Apabila kita menyimpan emas fizikal 999.9 untuk keluarga kita, kita sedang memegang harta yang kalis kerosakan masa.
+
+Cuba komen, antara simpan kertas yang mudah koyak dengan simpan emas yang tahan seribu tahun, mana pilihan anda?
+
+Tukarkan sebahagian tabungan anda kepada kepingan emas fizikal yang kekal Mulia!`
+  },
+  {
+    id: 1413,
+    siri: "Kisah-05",
+    no: 24,
+    topik: "Keluarga",
+    tajuk: "Dua Remaja Gali Bilik Bawah Tanah Jumpa 3,558 Syiling Emas 'Baltimore Hoard' 1934",
+    tags: ["gap", "rumah", "isteri"],
+    persona: "BALTIMORE, MARYLAND, AS (1934) · WARISAN EMAS: PENTINGNYA MEMAKLUMKAN REKOD SIMPANAN KEPADA WARIS (AKAUN GAP)",
+    hook: "GAMBAR DUA REMAJA MISKIN MENJUMPAI 3,558 KEPING SYILING EMAS DI DALAM DUA PERIUK TEMBAGA DI BAWAH TANAH RUMAH SEWA PADA 31 OGOS 1934 INI MENGEJUTKAN AMERIKA... KENAPA HARTA ITU TERBIAR?",
+    teks: `Pada 31 Ogos 1934, di tengah-tengah kesempitan hidup zaman Kemelesetan Besar, dua orang remaja berusia 16 dan 15 tahun bernama Theodore Jones dan Henry Grob sedang menggali tanah di bilik bawah tanah rumah sewa keluarga mereka di Baltimore, Amerika Syarikat!
+
+Tiba-tiba cangkul mereka terlanggar dua buah periuk tembaga yang tertanam di dalam dinding bata.
+
+Apabila dibuka, kedua-dua periuk itu penuh sesak dengan 3,558 keping syiling emas tulen Amerika dari era tahun 1830-an hingga 1850-an!
+
+Syiling emas seberat lebih 30 kilogram itu rupa-rupanya telah disembunyikan oleh seorang penghuni kaya puluhan tahun sebelumnya yang meninggal dunia secara mengejut tanpa sempat memberitahu sesiapa pun di mana emasnya disimpan!
+
+Akibatnya, waris asal pemilik tersebut tidak mendapat walau sekeping pun daripada ribuan syiling emas itu kerana tiada rekod yang ditinggalkan!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, kisah Baltimore Gold Hoard tahun 1934 ini memberi satu peringatan yang sangat penting kepada kita semua.
+
+Menyimpan emas fizikal memang sangat bagus, tetapi jangan simpan secara rahsia sehingga isteri atau waris terdekat langsung tidak tahu!
+
+Itulah kelebihan menabung melalui Akaun Emas GAP Public Gold: setiap gram emas kita direkodkan dengan kemas secara sah dan boleh dituntut oleh waris keluarga dengan mudah apabila kita tiada nanti.
+
+Cuba komen, adakah pasangan anda tahu di mana anda simpan emas dan nombor akaun PG anda?
+
+Susun rekod simpanan emas anda dengan teratur hari ini demi masa depan Waris!`
+  },
+  {
+    id: 1414,
+    siri: "Kisah-05",
+    no: 25,
+    topik: "Kenapa Emas",
+    tajuk: "Kapal Karam 'SS Republic' 1865 & 51,000 Syiling Emas Vs Kertas Konfederasi",
+    tags: ["perang", "ringgit"],
+    persona: "PANTAI GEORGIA, AMERIKA SYARIKAT (1865–2003) · KERTAS KERAJAAN KALAH PERANG JADI SAMPAH, SYILING EMAS KEKAL BERNILAI RATUSAN JUTA",
+    hook: "GAMBAR TIMBUNAN 51,000 KEPING SYILING EMAS DAN PERAK YANG DIANGKAT DARI BANGKAI KAPAL 'SS REPUBLIC' PADA TAHUN 2003 INI BERNILAI RM300 JUTA... KENAPA KAPAL TAHUN 1865 ITU MEMBAWA SYILING EMAS?",
+    teks: `Pada Oktober 1865, sejurus selepas tamatnya Perang Saudara Amerika, sebuah kapal roda kayuh bernama SS Republic belayar dari New York menuju ke New Orleans sambil membawa kargo syiling emas dan perak bernilai 400,000 dolar!
+
+Mengapa wilayah selatan Amerika ketika itu sangat memerlukan bekalan syiling emas fizikal?
+
+Kerana sebaik sahaja pihak Konfederasi kalah perang pada tahun 1865, kesemua wang kertas Dolar Konfederasi yang dipegang oleh jutaan penduduk di selatan Amerika telah terbatal dan jatuh menjadi sifar!
+
+Walaupun kapal SS Republic itu kemudiannya karam dipukul taufan pada 25 Oktober 1865 pada kedalaman 1,700 kaki, apabila syarikat Odyssey Marine menemui semula bangkai kapal tersebut 138 tahun kemudian pada tahun 2003, mereka berjaya menaikkan lebih 51,000 keping syiling emas dan perak yang kini bernilai sekitar 75 juta dolar, iaitu lebih RM300 juta!
+
+Bandingkan dua jenis harta dari tahun 1865 yang sama itu.
+
+Wang kertas Konfederasi tahun 1865 telah mati menjadi kertas buruk, manakala syiling emas tahun 1865 yang tenggelam di dasar laut sekalipun kini bernilai ratusan juta ringgit!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, duit kertas bila jatuh nilainya ia hanyalah kertas, tetapi emas walau tenggelam di lautan tetap emas!
+
+Cuba komen, antara janji kertas dengan kepingan emas tulen, mana satu pelindung keluarga anda?
+
+Binalah benteng harta keluarga anda hari ini di atas kekuatan emas Fizikal!`
+  },
+  {
+    id: 1415,
+    siri: "Kisah-05",
+    no: 26,
+    topik: "Kenapa Emas",
+    tajuk: "Bank Pusat Turkiye (CBRT) Muncul Pembeli Emas Terbesar Dunia 2022–2024",
+    tags: ["inflasi", "gaji", "rumah", "999", "syariah", "inflasi makanan", "tunai"],
+    persona: "ANKARA & ISTANBUL, TURKIYE (2022–2024) · APABILA MATA WANG KERTAS MENYUSUT, BANK PUSAT & RAKYAT BERLINDUNG PADA EMAS",
+    hook: "LAPORAN RASMI MAJLIS EMAS DUNIA INI MENDEDAHKAN BANK PUSAT TURKIYE SEBAGAI PEMBELI EMAS TERBESAR DUNIA PADA TAHUN 2022 HINGGA MENCECAH 570 TAN... KENAPA MEREKA BORONG EMAS?",
+    teks: `Menurut laporan rasmi tahunan Majlis Emas Dunia atau World Gold Council, Bank Pusat Republik Turkiye telah mencipta kejutan apabila muncul sebagai pembeli emas rasmi paling besar di dunia pada tahun 2022 dengan menambah 148 tan emas, dan terus mengumpul sehingga rizabnya mencecah 570 tan menjelang tahun 2024!
+
+Kenapa bank pusat dan jutaan rakyat di Turkiye begitu agresif menukarkan wang mereka kepada jongkong dan syiling emas fizikal?
+
+Jawapannya terletak pada realiti pahit yang sedang mereka lalui: apabila nilai mata wang kertas Lira menyusut teruk dan inflasi makanan serta sewa rumah melambung melebihi 60 ke 80 peratus setahun, orang yang menyimpan wang kertas di bank kehilangan kuasa beli mereka setiap bulan!
+
+Sebaliknya, harga emas di dalam mata wang Lira melonjak naik berkali-kali ganda, menyelamatkan kuasa beli sesiapa sahaja yang menyimpan emas fizikal!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, jangan tunggu mata wang kita sendiri diuji kejatuhan teruk baru kita kelam-kabut hendak belajar menyimpan emas!
+
+Rakyat Turkiye sudah lama menjadikan emas sebagai tabungan wajib setiap kali menerima gaji.
+
+Di Malaysia, kita sangat bertuah kerana mempunyai platform patuh syariah Public Gold yang membolehkan kita menabung emas 999.9 serendah RM100 sahaja.
+
+Cuba komen, kalau inflasi meningkat, adakah simpanan tunai anda sekarang mampu bertahan?
+
+Mulakan tabungan satu gram satu bulan hari ini sebagai perisai kalis Inflasi!`
+  },
+  {
+    id: 1416,
+    siri: "Kisah-05",
+    no: 27,
+    topik: "Bisnes & Dealer",
+    tajuk: "Geoffrey Holt, Penjaga Taman Treler Tinggalkan USD 3.8 Juta 2023 & Gaya G100",
+    tags: ["hutang", "rumah", "palsu", "g100"],
+    persona: "HINSDALE, NEW HAMPSHIRE, AS (2023) · BUDAYA G100 NETWORK & TUAN AZIZI ALI: HIDUP SEDERHANA, KUMPUL HARTA SEBENAR",
+    hook: "GAMBAR LELAKI TUA MENAIKI MESIN PEMOTONG RUMPUT DI PEKAN KECIL NEW HAMPSHIRE INI TULAR KE SELURUH DUNIA PADA NOVEMBER 2023... BAGAIMANA PENJAGA TAMAN TRELER INI MENINGGALKAN WASIAT RM17 JUTA?",
+    teks: `Gambar seorang warga emas bernama Geoffrey Holt yang duduk di atas mesin pemotong rumput dengan pakaian lusuh di pekan kecil Hinsdale, New Hampshire ini telah menggemparkan berita dunia pada November 2023!
+
+Sepanjang hidupnya, penduduk pekan menyangka beliau hanyalah seorang penjaga kawasan rumah treler yang miskin kerana beliau tidak memandu kereta dan tinggal di dalam rumah treler yang serba ringkas.
+
+Namun apabila beliau meninggal dunia pada usia 82 tahun pada Jun 2023, seluruh pekan yang mempunyai 4,200 penduduk itu terkejut besar apabila menerima wang wasiat sebanyak 3.8 juta dolar Amerika, iaitu sekitar RM17 juta, daripada tabungan pelaburan senyap beliau!
+
+Geoffrey Holt membuktikan satu prinsip kewangan yang sangat mahal: orang yang benar-benar berharta tidak perlu berhutang membeli kereta mewah untuk membuktikan dirinya kaya kepada jiran tetangga!
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, kekayaan sebenar diukur pada berapa banyak aset bersih dan gram emas yang kita simpan untuk masa depan, bukannya pada kemewahan palsu yang kita tayangkan!
+
+Itulah budaya yang diterapkan di dalam G100 Network Public Gold: hidup di bawah kemampuan, elakkan hutang jahat, dan kumpul gram emas secara konsisten setiap bulan.
+
+Biar nampak biasa pada pandangan manusia, asalkan poket dan masa depan keluarga kita kukuh.
+
+Cuba komen, anda lebih suka nampak bergaya tapi banyak hutang, atau hidup ringkas tapi banyak emas?
+
+Binalah kekayaan bersih anda secara senyap hari ini demi menikmati hidup yang Tenang!`
+  },
+  {
+    id: 1417,
+    siri: "Kisah-05",
+    no: 28,
+    topik: "Kewangan Peribadi",
+    tajuk: "Tragedi Bilionair Jerman Adolf Merckle 2008 & Bahaya Berjudi Spekulasi Harga",
+    tags: ["gap", "hutang", "saham", "tunai"],
+    persona: "BLAUBEUREN, JERMAN (2008–2009) · PENYIMPAN EMAS FIZIKAL TIDUR LENA TANPA TEKANAN SPEKULASI & PANGGILAN MARGIN",
+    hook: "GAMBAR BILIONAIR KELIMA TERKAYA JERMAN ADOLF MERCKLE PADA TAHUN 2008 INI MENYIMPAN KISAH TRAGIS... BAGAIMANA PERTARUHAN SPEKULASI SAHAM MEMUSNAHKAN EMPAYAR RM40 BILION MILIKNYA?",
+    teks: `Pada awal tahun 2008, usahawan industri dan farmaseutikal Jerman berusia 74 tahun, Adolf Merckle, menduduki senarai manusia kelima paling kaya di Jerman dan ke-94 terkaya di dunia dengan nilai harta melebihi 9 bilion dolar Amerika, iaitu sekitar RM40 bilion!
+
+Beliau sudah memiliki empayar perniagaan sebenar yang kukuh bersama 100,000 orang pekerja.
+
+Namun pada Oktober 2008, beliau membuat satu kesilapan besar dengan terjebak membuat pertaruhan spekulasi jualan singkat atau short selling ke atas saham syarikat kereta Volkswagen menggunakan dana pinjaman!
+
+Apabila harga saham Volkswagen tiba-tiba melonjak naik empat kali ganda dalam masa dua hari, pertaruhan spekulasinya meletup dan mengakibatkan kerugian ratusan juta Euro serta-merta sehingga bank-bank menuntut bayaran hutang dan memaksanya menyerahkan empayar perniagaan keluarganya!
+
+Kisah tragis bilionair Jerman ini memberi satu iktibar yang amat mendalam kepada kita semua.
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, jangan sesekali menghancurkan ketenangan hidup yang sudah kita bina dengan berjudi meneka turun naik harga pasaran jangka pendek!
+
+Simpanan emas fizikal dicipta untuk memberi ketenangan jiwa, bukannya tekanan darah tinggi.
+
+Apabila kita membeli emas fizikal secara tunai atau melalui Akaun GAP, tiada bank yang akan menelefon menuntut margin walaupun harga turun naik.
+
+Cuba komen, apakah perkara paling berharga bagi anda: untung spekulasi cepat atau ketenangan keluarga?
+
+Pilihlah jalan simpanan emas fizikal tanpa hutang supaya jiwa dan keluarga kekal Damai!`
+  },
+  {
+    id: 1418,
+    siri: "Kisah-05",
+    no: 29,
+    topik: "Kenapa Emas",
+    tajuk: "Krisis Kebuluran Besar 1770 & 1845 Apabila Harga Makanan Melambung Vs Emas",
+    tags: ["inflasi", "krisis", "anak", "isteri", "sejarah", "inflasi makanan"],
+    persona: "BENGAL (1770) & IRELAND (1845–1849) · FORMULA 1 KILOGRAM EMAS 1 KELUARGA SEBAGAI INSURANS KRISIS BEKALAN MAKANAN",
+    hook: "LUKISAN KELUARGA MERAYU MAKANAN SEMASA KRISIS KEBULURAN BESAR TAHUN 1845 INI MENDEDAHKAN REALITI KEJAM... KENAPA KEDAI MASIH ADA GANDUM TETAPI ORANG BIASA TIDAK MAMPU MEMBELINYA?",
+    teks: `Lukisan sejarah daripada tragedi Kebuluran Besar di Ireland antara tahun 1845 hingga 1849 dan di Bengal pada tahun 1770 ini mendedahkan satu hakikat ekonomi yang sering disalahertikan oleh ramai orang!
+
+Ketika penyakit tanaman memusnahkan hasil kentang di Ireland dan kemarau melanda Bengal, ramai menyangka tiada langsung makanan yang tinggal di negara tersebut.
+
+Hakikatnya, kapal-kapal dagang masih mempunyai bekalan gandum dan beras di pelabuhan, tetapi harga makanan asas telah melambung naik berkali-kali ganda sehingga wang upah harian rakyat biasa langsung tidak lagi mampu membelinya!
+
+Hanya golongan yang mempunyai rizab simpanan emas seperti syiling emas Sovereign dan logam berharga sahaja yang mempunyai kuasa beli untuk mendapatkan bekalan makanan bagi menyelamatkan anak-anak mereka!
+
+Sejarah membuktikan bahawa apabila berlaku krisis bekalan, inflasi makanan adalah perkara pertama yang akan menyerang poket rakyat.
+
+Pesan guru saya, Tn Mohd Zulkifli Shafie, emas fizikal adalah insurans kelangsungan hidup keluarga apabila kuasa beli wang kertas lumpuh!
+
+Mulakan tabungan emas anda hari ini daripada sasaran kecil 1 gram sebulan, bina dana 100 gram pertama, dan teruskan istiqamah menuju sasaran 1 kilogram emas untuk 1 keluarga.
+
+Kita berusaha menyimpan ketika waktu senang supaya anak isteri kita tidak terlantar ketika waktu sukar.
+
+Cuba komen, apakah motivasi paling kuat yang membuatkan anda konsisten menabung emas?
+
+Binalah benteng pertahanan emas anda sekarang demi melindungi nyawa dan maruah Keluarga!`
+  },
+  {
+    id: 1419,
+    siri: "Kisah-05",
+    no: 30,
+    topik: "Public Gold & GAP",
+    tajuk: "Baju Bahu Emas Padu 'Mold Gold Cape' 1833 Yang Kemek Di Bawah Batu 3,700 Tahun",
+    tags: ["barang kemas", "dinar", "916", "999", "sejarah", "beli balik", "resit", "patah"],
+    persona: "MOLD, FLINTSHIRE, WALES, UK (1900 SM – 1833) · EMAS KEMEK, PATAH ATAU TERBUKA SEAL TETAP BERNILAI TINGGI (JAMINAN BELI BALIK PUBLIC GOLD)",
+    hook: "GAMBAR BAJU BAHU EMAS PADU DARI ZAMAN GANGSA YANG DITEMUI PENUH KEMEK DI BAWAH TIMBUNAN BATU DI WALES PADA 11 OKTOBER 1833 INI BERUSIA 3,700 TAHUN... KENAPA IA MENJADI HARTA TERAGUNG MUZIUM BRITISH?",
+    teks: `Pada 11 Oktober 1833, sekumpulan pekerja kuari yang sedang mengalihkan timbunan batu di sebuah bukit lama di Mold, Wales telah menemui sekeping logam kuning besar yang kemek dan pecah terhimpit di bawah batu berat!
+
+Apabila kepingan-kepingan logam itu dikumpulkan dan dicantumkan semula oleh pakar di Muzium British, seluruh dunia terpegun melihat keindahannya!
+
+Ia rupa-rupanya adalah sehelai baju bahu diraja yang ditempa dengan tangan daripada seketul jongkong emas tulen tanpa sebarang sambungan pateri dari Zaman Gangsa sekitar tahun 1900 Sebelum Masihi!
+
+Walaupun lapisan kain dan kulit di dalamnya telah reput selama tiga ribu tujuh ratus tahun dan emas itu sendiri telah kemek dihempap batu kuari, kualiti emas tulennya langsung tidak berubah dan kini diiktiraf sebagai salah satu daripada seratus objek paling berharga dalam sejarah dunia!
+
+Kata guru emas saya, Tn Mohd Zulkifli Shafie, inilah keistimewaan emas fizikal yang wajib difahami oleh setiap penyimpan.
+
+Emas tidak pernah kehilangan nilainya walaupun ia kemek, bengkok, patah, atau tercalar!
+
+Malah jika anda menyimpan jongkong emas atau dinar keluaran Public Gold, syarikat memberikan jaminan beli balik dengan kadar harga yang telus walaupun plastik seal telah dibuka atau resit belian telah hilang.
+
+Cuba komen, antara barang kemas 916 dengan jongkong emas 999.9, mana satu pilihan utama simpanan anda?
+
+Simpanlah emas fizikal bersama Public Gold hari ini kerana nilai dan kecairannya sentiasa Terjamin!`
   }
 ];
 
@@ -34937,4 +39325,4 @@ export const namaSiri = {
 export const hargaLalai = { harga999: "542", harga916: "497", tarikh: "27 September 2026" };
 
 // Siri yang dapat TAB sendiri (ikut susunan). Semua siri lain masuk tab "Archive".
-export const tabUtama = ["PG1S-01", "PG1S-02", "PG1S-03", "PG1S-04", "PG1S-05", "Mentor-01", "Mentor-02", "Mentor-03", "Mentor-04", "Mentor-05", "GPT-Asas-01", "Listicle-03", "Listicle-04", "Listicle-05", "Listicle-06", "Listicle-07", "Listicle-08", "Listicle-09", "Listicle-10", "Listicle-11", "Listicle-12", "Listicle-13", "Listicle-14", "Listicle-15", "Listicle-16", "Listicle-17"];
+export const tabUtama = ["Kisah-01", "Kisah-02", "Kisah-03", "Kisah-04", "Kisah-05", "PG1S-01", "PG1S-02", "PG1S-03", "PG1S-04", "PG1S-05", "Mentor-01", "Mentor-02", "Mentor-03", "Mentor-04", "Mentor-05", "GPT-Asas-01", "Listicle-03", "Listicle-04", "Listicle-05", "Listicle-06", "Listicle-07", "Listicle-08", "Listicle-09", "Listicle-10", "Listicle-11", "Listicle-12", "Listicle-13", "Listicle-14", "Listicle-15", "Listicle-16", "Listicle-17"];
