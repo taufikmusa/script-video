@@ -3,8 +3,12 @@ import { muat, simpan, kiraPatah, anggarMasa } from './util'
 
 // Saiz lalai ikut skrin: phone lebih kecil supaya muat 4-5 patah sebaris
 const lebar = typeof window !== "undefined" ? window.innerWidth : 1000
-const TETAPAN_LALAI = { laju: 5, saiz: lebar < 600 ? 34 : 52, cermin: false, tengah: false }
-const HAD = { lajuMin: 1, lajuMax: 20, saizMin: 24, saizMax: 96 }
+// saizKamera = saiz teks bila kamera hidup (lebih kecil supaya muka tak tertutup)
+const TETAPAN_LALAI = { laju: 5, saiz: lebar < 600 ? 34 : 52, saizKamera: lebar < 600 ? 24 : 36, cermin: false, tengah: false }
+const HAD = { lajuMin: 1, lajuMax: 20, saizMin: 18, saizMax: 96 }
+
+// Saiz output TikTok/Reels 9:16 HD
+const OUT_W = 1080, OUT_H = 1920
 
 // Format rakaman: iPhone/Safari = mp4, Chrome/Android = webm (atau mp4 kalau disokong)
 const JENIS_VIDEO = ["video/mp4;codecs=avc1,mp4a", "video/mp4", "video/webm;codecs=vp9,opus", "video/webm;codecs=vp8,opus", "video/webm"]
@@ -34,6 +38,12 @@ export default function Teleprompter({ skrip, label, onTutup }) {
   const recRef = useRef(null)
   const ketulRef = useRef([])
   const mulaRakamRef = useRef(0)
+  const lukisRef = useRef(null)     // berhenti gelung lukis canvas
+  const [infoKamera, setInfoKamera] = useState("")
+  const kameraRef = useRef(false)
+  kameraRef.current = kamera
+  const kunciSaiz = kamera ? "saizKamera" : "saiz"
+  const saizAktif = tetapan[kunciSaiz]
 
   const scrollRef = useRef(null)
   const posRef = useRef(0)       // kedudukan pecahan (scrollTop dibundarkan oleh pelayar)
@@ -78,12 +88,19 @@ export default function Teleprompter({ skrip, label, onTutup }) {
     ;(async () => {
       try {
         const st = await navigator.mediaDevices.getUserMedia({
-          video: { facingMode: "user", width: { ideal: 1080 }, height: { ideal: 1920 }, frameRate: { ideal: 30 } },
-          audio: { echoCancellation: true, noiseSuppression: true },
+          // iPhone kira width/height ikut landscape; dalam portrait jadi 1080x1920
+          video: { facingMode: "user", width: { ideal: 1920 }, height: { ideal: 1080 }, frameRate: { ideal: 30 } },
+          // Suara asli & jelas: matikan pemprosesan gaya 'panggilan telefon' yang buat suara tenggelam
+          audio: { echoCancellation: false, noiseSuppression: false, autoGainControl: true, channelCount: 1, sampleRate: 48000 },
         })
         if (batal) { st.getTracks().forEach(t => t.stop()); return }
         streamRef.current = st
-        if (videoRef.current) { videoRef.current.srcObject = st; videoRef.current.play?.().catch(() => {}) }
+        if (videoRef.current) {
+          const v = videoRef.current
+          v.srcObject = st
+          v.onloadedmetadata = () => setInfoKamera(`Kamera ${v.videoWidth}×${v.videoHeight} → Rakam ${OUT_W}×${OUT_H} HD`)
+          v.play?.().catch(() => {})
+        }
       } catch (e) {
         if (batal) return
         setRalatKamera(e?.name === "NotAllowedError"
@@ -114,20 +131,51 @@ export default function Teleprompter({ skrip, label, onTutup }) {
     try { if (recRef.current?.state === "recording") recRef.current.stop() } catch {}
   }, [])
 
+  // Lukis video kamera ke canvas 1080x1920 (potong tengah 9:16, tak dicermin) → stream untuk dirakam
+  const streamTikTok = useCallback(st => {
+    const v = videoRef.current
+    const c = document.createElement("canvas")
+    if (!v || !c.captureStream) return null
+    c.width = OUT_W; c.height = OUT_H
+    const ctx = c.getContext("2d")
+    let hidup = true
+    const lukis = () => {
+      if (!hidup) return
+      const vw = v.videoWidth, vh = v.videoHeight
+      if (vw && vh) {
+        const r = OUT_W / OUT_H
+        let sw = vw, sh = vh, sx = 0, sy = 0
+        if (vw / vh > r) { sw = vh * r; sx = (vw - sw) / 2 } else { sh = vw / r; sy = (vh - sh) / 2 }
+        ctx.drawImage(v, sx, sy, sw, sh, 0, 0, OUT_W, OUT_H)
+      }
+      requestAnimationFrame(lukis)
+    }
+    lukis()
+    lukisRef.current = () => { hidup = false }
+    const out = c.captureStream(30)
+    st.getAudioTracks().forEach(t => out.addTrack(t))
+    return out
+  }, [])
+
   const mulaRakam = useCallback(() => {
-    const st = streamRef.current
+    const asal = streamRef.current
     const jenis = pilihJenis()
-    if (!st || jenis === null) { setRalatKamera("Pelayar ini tak sokong rakaman video. Cuba Safari (iPhone) atau Chrome."); return }
+    if (!asal || jenis === null) { setRalatKamera("Pelayar ini tak sokong rakaman video. Cuba Safari (iPhone) atau Chrome."); return }
+    let st = asal
+    try { st = streamTikTok(asal) || asal } catch { st = asal }
+    const opsyen = { videoBitsPerSecond: 10_000_000, audioBitsPerSecond: 160_000 }
     let rec
     try {
-      rec = new MediaRecorder(st, { ...(jenis ? { mimeType: jenis } : {}), videoBitsPerSecond: 8_000_000 })
+      rec = new MediaRecorder(st, { ...(jenis ? { mimeType: jenis } : {}), ...opsyen })
     } catch {
-      try { rec = new MediaRecorder(st) } catch { setRalatKamera("Rakaman gagal dimulakan."); return }
+      try { rec = new MediaRecorder(st) } catch { lukisRef.current?.(); setRalatKamera("Rakaman gagal dimulakan."); return }
     }
     ketulRef.current = []
     rec.ondataavailable = e => { if (e.data?.size) ketulRef.current.push(e.data) }
     rec.onstop = () => {
       setRakam(false)
+      lukisRef.current?.(); lukisRef.current = null
+      if (st !== asal) st.getVideoTracks().forEach(t => t.stop())
       const type = rec.mimeType || jenis || "video/mp4"
       const blob = new Blob(ketulRef.current, { type })
       if (!blob.size) return
@@ -145,7 +193,7 @@ export default function Teleprompter({ skrip, label, onTutup }) {
     if (scrollRef.current) scrollRef.current.scrollTop = 0
     posRef.current = 0
     setKiraan(3)
-  }, [label, skrip])
+  }, [label, skrip, streamTikTok])
 
   // Skrip habis semasa merakam → henti sendiri selepas 1.5 saat (bagi masa senyum/tutup)
   useEffect(() => {
@@ -190,7 +238,8 @@ export default function Teleprompter({ skrip, label, onTutup }) {
       lastRef.current = now
       // User tarik/scroll sendiri → ikut kedudukan baru
       if (Math.abs(el.scrollTop - posRef.current) > 3) posRef.current = el.scrollTop
-      const { laju, saiz } = tetapanRef.current
+      const { laju } = tetapanRef.current
+      const saiz = tetapanRef.current[kameraRef.current ? "saizKamera" : "saiz"]
       posRef.current += laju * 0.15 * saiz * dt
       el.scrollTop = posRef.current
       const maks = el.scrollHeight - el.clientHeight
@@ -244,14 +293,14 @@ export default function Teleprompter({ skrip, label, onTutup }) {
       else if (k === "ArrowDown") { e.preventDefault(); ubah("laju", v => Math.max(HAD.lajuMin, v - 1)) }
       else if (k === "PageDown" || k === "ArrowRight") { e.preventDefault(); lompat(1) }
       else if (k === "PageUp" || k === "ArrowLeft") { e.preventDefault(); lompat(-1) }
-      else if (k === "+" || k === "=") ubah("saiz", v => Math.min(HAD.saizMax, v + 4))
-      else if (k === "-" || k === "_") ubah("saiz", v => Math.max(HAD.saizMin, v - 4))
+      else if (k === "+" || k === "=") ubah(kunciSaiz, v => Math.min(HAD.saizMax, v + 2))
+      else if (k === "-" || k === "_") ubah(kunciSaiz, v => Math.max(HAD.saizMin, v - 2))
       else if (k === "m" || k === "M") ubah("cermin", v => !v)
       else if (k === "r" || k === "R") ulang()
     }
     window.addEventListener("keydown", onKey)
     return () => window.removeEventListener("keydown", onKey)
-  }, [togolMain, onTutup, ubah, lompat, ulang])
+  }, [togolMain, onTutup, ubah, lompat, ulang, kunciSaiz])
 
   const baki = Math.round((1 - kemajuan) * patah)
 
@@ -270,7 +319,7 @@ export default function Teleprompter({ skrip, label, onTutup }) {
       <div ref={scrollRef} className="tp-scroll" onScroll={kemaskiniKemajuan} onClick={togolMain}>
         <div
           className={"tp-teks" + (tetapan.tengah ? " tengah" : "")}
-          style={{ fontSize: tetapan.saiz, transform: tetapan.cermin ? "scaleX(-1)" : "none" }}
+          style={{ fontSize: saizAktif, transform: tetapan.cermin ? "scaleX(-1)" : "none" }}
         >
           {perenggan.map((p, i) => (
             <p key={i} className={i === perenggan.length - 1 ? "tp-punch" : ""}>{p}</p>
@@ -295,6 +344,7 @@ export default function Teleprompter({ skrip, label, onTutup }) {
 
       <div className={"tp-kawal" + (main ? " malap" : "")}>
         {ralatKamera && <div className="tp-ralat">{ralatKamera}</div>}
+        {kamera && infoKamera && !rakam && <div className="tp-info">{infoKamera}</div>}
         {kamera && (
           <div className="tp-baris">
             <button className={"tp-rakam" + (rakam ? " on" : "")} onClick={rakam ? hentiRakam : mulaRakam}>
@@ -320,9 +370,9 @@ export default function Teleprompter({ skrip, label, onTutup }) {
           </div>
           <div className="tp-grup">
             <span>Saiz</span>
-            <button className="tp-btn kecil" onClick={() => ubah("saiz", v => Math.max(HAD.saizMin, v - 4))}>A−</button>
-            <b>{tetapan.saiz}</b>
-            <button className="tp-btn kecil" onClick={() => ubah("saiz", v => Math.min(HAD.saizMax, v + 4))}>A+</button>
+            <button className="tp-btn kecil" onClick={() => ubah(kunciSaiz, v => Math.max(HAD.saizMin, v - 2))}>A−</button>
+            <b>{saizAktif}</b>
+            <button className="tp-btn kecil" onClick={() => ubah(kunciSaiz, v => Math.min(HAD.saizMax, v + 2))}>A+</button>
           </div>
         </div>
         <div className="tp-info">
