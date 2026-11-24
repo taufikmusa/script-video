@@ -1,6 +1,7 @@
 import { useState, useEffect, useRef, useCallback } from 'react'
 import { muat, simpan, kiraPatah, anggarMasa } from './util'
 import { OUT_W, OUT_H, muatSegmenter, buatPemapar, sediakanGambar } from './greenscreen'
+import { semakSokongan, mulaPerakam } from './perakam'
 
 // Saiz lalai ikut skrin: phone lebih kecil supaya muat 4-5 patah sebaris
 const lebar = typeof window !== "undefined" ? window.innerWidth : 1000
@@ -43,6 +44,8 @@ function pilihJenis() {
 }
 const STUDIO_LALAI = () => new URL("latar/studio-navy.jpg", document.baseURI).href   // public/latar/studio-navy.jpg
 const FPS = 30
+// 6 Mbps + 128 kbps ≈ 46 MB seminit → video 100 saat ≈ 77 MB (bawah 100 MB), masih HD 1080x1920
+const VIDEO_BPS = 6_000_000, AUDIO_BPS = 128_000
 const masaMMSS = s => `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, "0")}`
 
 export default function Teleprompter({ skrip, label, onTutup }) {
@@ -69,6 +72,10 @@ export default function Teleprompter({ skrip, label, onTutup }) {
   const ketulRef = useRef([])
   const mulaRakamRef = useRef(0)
   const lukisRef = useRef(null)     // berhenti gelung lukis canvas
+  const perakamRef = useRef(null)   // perakam WebCodecs (MP4 bersih) — null bila guna MediaRecorder
+  const codecRef = useRef(null)     // codec WebCodecs yang disokong peranti ni (null = guna MediaRecorder)
+  const [proses, setProses] = useState(false)   // sedang siapkan fail MP4
+  const [enjin, setEnjin] = useState("")
   const [infoKamera, setInfoKamera] = useState("")
   const kameraRef = useRef(false)
   kameraRef.current = kamera
@@ -158,6 +165,17 @@ export default function Teleprompter({ skrip, label, onTutup }) {
     }
   }, [kamera])
 
+  // Semak sekali sama ada peranti boleh rakam MP4 bersih (WebCodecs)
+  useEffect(() => {
+    if (!sedia || codecRef.current !== null) return
+    semakSokongan({ lebar: OUT_W, tinggi: OUT_H, fps: FPS, videoBps: VIDEO_BPS, audioBps: AUDIO_BPS })
+      .then(c => {
+        codecRef.current = c || false
+        const nama = { avc: "H.264", vp9: "VP9", aac: "AAC", opus: "Opus" }
+        setEnjin(c ? `MP4 bersih ${nama[c.video] || c.video}/${nama[c.audio] || c.audio} 30fps` : "MediaRecorder (sandaran)")
+      })
+  }, [sedia])
+
   // Jam rakaman
   useEffect(() => {
     if (!rakam) return
@@ -219,6 +237,7 @@ export default function Teleprompter({ skrip, label, onTutup }) {
           lukis(v, t.gs ? segRef.current : null, {
             gs: t.gs, latar: t.gsLatar, gambar: gambarRef.current, garisPutih: t.gsGaris, tebal: t.gsTebal,
           })
+          perakamRef.current?.tick(now)
         } catch {}
       }
     }
@@ -253,14 +272,59 @@ export default function Teleprompter({ skrip, label, onTutup }) {
     return out
   }, [])
 
-  const mulaRakam = useCallback(() => {
-    const asal = streamRef.current
+  const siapkanHasil = useCallback((blob, type) => {
+    if (!blob?.size) return
+    const ext = type.includes("mp4") ? "mp4" : "webm"
+    const nama = `${(label || "skrip").replace(/[^\w-]+/g, "_")}_${Date.now()}.${ext}`
+    setHasil({ url: URL.createObjectURL(blob), blob, nama, saat: (performance.now() - mulaRakamRef.current) / 1000 })
+  }, [label])
+
+  const mulaSkrip = useCallback(() => {
+    mulaRakamRef.current = performance.now()
+    setSaatRakam(0)
+    setRakam(true)
+    // Mula skrip dari awal serentak dengan rakaman (terus, tanpa 3-2-1)
+    setTamat(false)
+    if (scrollRef.current) scrollRef.current.scrollTop = 0
+    posRef.current = 0
+    setMain(true)
+  }, [])
+
+  // Cara utama: WebCodecs → MP4 CFR 30fps bersih (CapCut lancar)
+  const mulaRakamBersih = useCallback(async (asal, codec) => {
+    let suara = null
+    try { suara = kuatkanSuara(asal.getAudioTracks()) } catch { suara = null }
+    const trek = suara?.trek?.[0] ?? asal.getAudioTracks()[0] ?? null
+    const p = await mulaPerakam(outRef.current, trek, { codec, fps: FPS, videoBps: VIDEO_BPS, audioBps: AUDIO_BPS })
+    lukisRef.current = () => { suara?.tutup() }
+    recRef.current = {
+      state: "recording",
+      stop: async () => {
+        recRef.current = null
+        perakamRef.current = null
+        setRakam(false); setMain(false); setProses(true)
+        try {
+          const blob = await p.henti()
+          siapkanHasil(blob, "video/mp4")
+        } catch {
+          setRalatKamera("Video gagal disiapkan. Cuba rakam semula.")
+        } finally {
+          setProses(false)
+          lukisRef.current?.(); lukisRef.current = null
+        }
+      },
+    }
+    perakamRef.current = p
+    mulaSkrip()
+  }, [mulaSkrip, siapkanHasil])
+
+  // Cara sandaran: MediaRecorder (pelayar tanpa WebCodecs)
+  const mulaRakamLama = useCallback(asal => {
     const jenis = pilihJenis()
-    if (!asal || jenis === null) { setRalatKamera("Pelayar ini tak sokong rakaman video. Cuba Safari (iPhone) atau Chrome."); return }
+    if (jenis === null) { setRalatKamera("Pelayar ini tak sokong rakaman video. Cuba Safari (iPhone) atau Chrome."); return }
     let st = asal
     try { st = streamTikTok(asal) || asal } catch { st = asal }
-    // 6 Mbps + 128 kbps ≈ 46 MB seminit → video 100 saat ≈ 77 MB (bawah 100 MB), masih HD 1080x1920
-    const opsyen = { videoBitsPerSecond: 6_000_000, audioBitsPerSecond: 128_000 }
+    const opsyen = { videoBitsPerSecond: VIDEO_BPS, audioBitsPerSecond: AUDIO_BPS }
     let rec
     try {
       rec = new MediaRecorder(st, { ...(jenis ? { mimeType: jenis } : {}), ...opsyen })
@@ -275,23 +339,22 @@ export default function Teleprompter({ skrip, label, onTutup }) {
       lukisRef.current?.(); lukisRef.current = null
       if (st !== asal) st.getVideoTracks().forEach(t => t.stop())
       const type = rec.mimeType || jenis || "video/mp4"
-      const blob = new Blob(ketulRef.current, { type })
-      if (!blob.size) return
-      const ext = type.includes("mp4") ? "mp4" : "webm"
-      const nama = `${(label || "skrip").replace(/[^\w-]+/g, "_")}_${Date.now()}.${ext}`
-      setHasil({ url: URL.createObjectURL(blob), blob, nama, saat: (performance.now() - mulaRakamRef.current) / 1000 })
+      siapkanHasil(new Blob(ketulRef.current, { type }), type)
     }
     rec.start(1000)
     recRef.current = rec
-    mulaRakamRef.current = performance.now()
-    setSaatRakam(0)
-    setRakam(true)
-    // Mula skrip dari awal serentak dengan rakaman (terus, tanpa 3-2-1)
-    setTamat(false)
-    if (scrollRef.current) scrollRef.current.scrollTop = 0
-    posRef.current = 0
-    setMain(true)
-  }, [label, skrip, streamTikTok])
+    mulaSkrip()
+  }, [streamTikTok, siapkanHasil, mulaSkrip])
+
+  const mulaRakam = useCallback(async () => {
+    const asal = streamRef.current
+    if (!asal || rakam || proses) return
+    const codec = codecRef.current
+    if (codec && outRef.current) {
+      try { await mulaRakamBersih(asal, codec); return } catch { lukisRef.current?.(); lukisRef.current = null }
+    }
+    mulaRakamLama(asal)
+  }, [rakam, proses, mulaRakamBersih, mulaRakamLama])
 
   // Skrip habis semasa merakam → henti sendiri selepas 1.5 saat (bagi masa senyum/tutup)
   useEffect(() => {
@@ -374,9 +437,10 @@ export default function Teleprompter({ skrip, label, onTutup }) {
   // Butang utama: kamera sedia → tekan terus rakam / stop. Tiada kamera → main/pause biasa.
   const togolMain = useCallback(() => {
     if (hasil) return
+    if (proses) return
     if (kamera && sedia) { rakam ? hentiRakam() : mulaRakam(); return }
     togolScroll()
-  }, [hasil, kamera, sedia, rakam, hentiRakam, mulaRakam, togolScroll])
+  }, [hasil, proses, kamera, sedia, rakam, hentiRakam, mulaRakam, togolScroll])
 
   // Tap teks: semasa rakam TIADA kesan (elak terpause bila nak seret); tanpa kamera = main/pause
   const tapTeks = useCallback(() => {
@@ -448,6 +512,7 @@ export default function Teleprompter({ skrip, label, onTutup }) {
       </div>
 
 
+      {proses && <div className="tp-hasil"><div className="tp-hasil-info">Menyiapkan video…</div></div>}
       {hasil && (
         <div className="tp-hasil">
           <video src={hasil.url} className="tp-hasil-video" controls playsInline />
@@ -466,7 +531,7 @@ export default function Teleprompter({ skrip, label, onTutup }) {
             {ralatKamera} <button className="btn-link" onClick={() => { setRalatKamera(""); setKamera(true) }}>Cuba lagi</button>
           </div>
         )}
-        {kamera && infoKamera && !rakam && <div className="tp-info">{infoKamera}</div>}
+        {kamera && infoKamera && !rakam && <div className="tp-info">{infoKamera}{enjin && ` · ${enjin}`}</div>}
         {kamera && sedia && (
           <div className="tp-gs">
             <button className={"tp-pil" + (tetapan.gs ? " on" : "")} onClick={() => ubah("gs", v => !v)}>
