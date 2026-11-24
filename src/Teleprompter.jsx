@@ -10,6 +10,29 @@ const HAD = { lajuMin: 1, lajuMax: 20, saizMin: 18, saizMax: 96 }
 // Saiz output TikTok/Reels 9:16 HD
 const OUT_W = 1080, OUT_H = 1920
 
+// Mic pelayar lebih perlahan berbanding app kamera (app kamera ada penguat sendiri).
+// Naikkan suara ~2.5x, kemudian compressor/limiter supaya suara kuat tapi tak pecah.
+const GANDAAN_SUARA = 2.5
+
+function kuatkanSuara(trekAudio) {
+  const AC = window.AudioContext || window.webkitAudioContext
+  if (!AC || !trekAudio.length) return null
+  const ac = new AC()
+  ac.resume?.()
+  const sumber = ac.createMediaStreamSource(new MediaStream(trekAudio))
+  const gandaan = ac.createGain()
+  gandaan.gain.value = GANDAAN_SUARA
+  const komp = ac.createDynamicsCompressor()        // ratakan suara kuat/perlahan
+  komp.threshold.value = -20; komp.knee.value = 10; komp.ratio.value = 4
+  komp.attack.value = 0.005; komp.release.value = 0.2
+  const had = ac.createDynamicsCompressor()         // limiter: elak pecah/clip
+  had.threshold.value = -2; had.knee.value = 0; had.ratio.value = 20
+  had.attack.value = 0.001; had.release.value = 0.1
+  const dest = ac.createMediaStreamDestination()
+  sumber.connect(gandaan).connect(komp).connect(had).connect(dest)
+  return { trek: dest.stream.getAudioTracks(), tutup: () => { try { ac.close() } catch {} } }
+}
+
 // Format rakaman: iPhone/Safari = mp4, Chrome/Android = webm (atau mp4 kalau disokong)
 const JENIS_VIDEO = ["video/mp4;codecs=avc1,mp4a", "video/mp4", "video/webm;codecs=vp9,opus", "video/webm;codecs=vp8,opus", "video/webm"]
 function pilihJenis() {
@@ -155,7 +178,11 @@ export default function Teleprompter({ skrip, label, onTutup }) {
     lukis()
     lukisRef.current = () => { hidup = false }
     const out = c.captureStream(30)
-    st.getAudioTracks().forEach(t => out.addTrack(t))
+    let suara = null
+    try { suara = kuatkanSuara(st.getAudioTracks()) } catch { suara = null }
+    ;(suara?.trek ?? st.getAudioTracks()).forEach(t => out.addTrack(t))
+    const hentiLukis = lukisRef.current
+    lukisRef.current = () => { hentiLukis(); suara?.tutup() }
     return out
   }, [])
 
