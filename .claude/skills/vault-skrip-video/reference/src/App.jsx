@@ -243,7 +243,7 @@ export default function App() {
               <button className="btn-link" onClick={() => setKembang(k => ({ ...k, [s.id]: !k[s.id] }))}>
                 {buka ? "▲ Tutup skrip" : "▼ Baca skrip penuh"}
               </button>
-              <button className="btn btn-emas btn-penuh" onClick={() => bukaPrompter(s)}>🎬 Teleprompter</button>
+              <button className="btn btn-emas btn-penuh" onClick={() => bukaPrompter(s)}>🎥 Rakam Video</button>
               <div className="kad-butang">
                 <button className={"btn btn-garis" + (disalin === s.id ? " ok" : "")} onClick={() => salin(s)}>
                   {disalin === s.id ? "✓ Disalin!" : "📋 Salin"}

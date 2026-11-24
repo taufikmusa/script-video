@@ -201,7 +201,42 @@ def baca_listicle(d):
     return skrip
 
 
+def baca_kisah(d):
+    """Format Kisah Benar: 'SKRIP VIDEO #NN | LOKASI (TAHUN) | PRINSIP MENTOR: X', baris tajuk,
+    'Sumber Fakta: ...', jadual 1x1 hook (huruf besar), perenggan skrip, jadual 'Kapsyen / Sign-Off' = tamat."""
+    from docx.table import Table
+    from docx.text.paragraph import Paragraph
+    skrip, s, tahap = [], None, None
+    for el in d.element.body.iterchildren():
+        if el.tag.endswith("}p"):
+            t = Paragraph(el, d).text.strip()
+            if not t:
+                continue
+            m = re.match(r"SKRIP VIDEO #(\d+)[^|]*\|\s*(.*?)\s*\|\s*PRINSIP MENTOR:\s*(.*)", t)
+            if m:
+                s = {"tajuk": "", "p": [], "persona": f"{m[2]} · {m[3].strip()}", "hook": ""}
+                skrip.append(s); tahap = "tajuk"
+            elif s is None or tahap is None:
+                continue
+            elif tahap == "tajuk":
+                s["tajuk"] = t; tahap = "sumber"
+            elif not t.startswith("Sumber Fakta"):
+                s["p"].append(t)
+            else:
+                tahap = "hook"
+        elif el.tag.endswith("}tbl") and s is not None and tahap is not None:
+            tb = Table(el, d)
+            txt = tb.cell(0, 0).text.strip() if len(tb.rows) == 1 and len(tb.columns) == 1 else ""
+            if txt.startswith("Kapsyen"):
+                tahap = None
+            elif tahap == "hook" and txt:
+                s["hook"] = " ".join(txt.split()); tahap = "teks"
+    return skrip
+
+
 def kesan_format(d):
+    if any(re.match(r"SKRIP VIDEO #\d+.*PRINSIP MENTOR:", p.text.strip()) for p in d.paragraphs):
+        return baca_kisah(d)
     if any(re.match(r"SKRIP #\d+\s*(?:\[[^\]]*\])?\s*:", p.text.strip(), re.I) for p in d.paragraphs) or any(
             "tajuk" in c.text.lower() and "hook" in c.text.lower() for t in d.tables for c in t.rows[0].cells):
         return baca_listicle(d)
