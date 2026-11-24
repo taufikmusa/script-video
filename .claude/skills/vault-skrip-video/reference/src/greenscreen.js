@@ -54,6 +54,9 @@ export function buatPemapar(out) {
   const data = tctx.createImageData(SW, SH)
   for (let i = 0; i < data.data.length; i += 4) { data.data[i] = data.data[i + 1] = data.data[i + 2] = 255 }
   let adaTopeng = false, tsAkhir = 0
+  // AI kesan badan ialah kerja paling berat. Kalau ia lambat, jangan biar video ikut lambat:
+  // video tetap dilukis setiap frame, AI cuma dijalankan setiap 2/3 frame (guna topeng terakhir).
+  let kiraan = 0, purataMs = 0
 
   return function lukis(video, seg, { gs, latar, gambar, garisPutih, tebal }) {
     const vw = video.videoWidth, vh = video.videoHeight
@@ -61,9 +64,12 @@ export function buatPemapar(out) {
     const [sx, sy, sw, sh] = potong(vw, vh)
     if (!gs || !seg) { ctx.drawImage(video, sx, sy, sw, sh, 0, 0, OUT_W, OUT_H); return }
 
-    // 1. Topeng badan pada resolusi kecil
+    // 1. Topeng badan pada resolusi kecil (ikut beban)
+    const langkau = purataMs > 24 ? 3 : purataMs > 12 ? 2 : 1
+    if (kiraan++ % langkau === 0) {
     kctx.drawImage(video, sx, sy, sw, sh, 0, 0, SW, SH)
     const ts = Math.max(performance.now(), tsAkhir + 1); tsAkhir = ts
+    const t0 = performance.now()
     try {
       seg.segmentForVideo(kecil, ts, hasil => {
         const m = hasil.confidenceMasks?.[0]
@@ -77,6 +83,8 @@ export function buatPemapar(out) {
         adaTopeng = true
       })
     } catch {}
+    purataMs = purataMs * 0.8 + (performance.now() - t0) * 0.2
+    }
 
     // 2. Latar
     if (latar === "gambar" && gambar?.complete && gambar.naturalWidth) ctx.drawImage(gambar, 0, 0, OUT_W, OUT_H)

@@ -42,6 +42,7 @@ function pilihJenis() {
   } catch { return "" }
 }
 const STUDIO_LALAI = () => new URL("latar/studio-navy.jpg", document.baseURI).href   // public/latar/studio-navy.jpg
+const FPS = 30
 const masaMMSS = s => `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, "0")}`
 
 export default function Teleprompter({ skrip, label, onTutup }) {
@@ -203,8 +204,15 @@ export default function Teleprompter({ skrip, label, onTutup }) {
     if (!sedia || !outRef.current) return
     const lukis = buatPemapar(outRef.current)
     let id, hidup = true
-    const gelung = () => {
+    // Kunci 30fps tetap: iPhone skrin 60/120Hz → kalau lukis setiap rAF, kadar frame naik turun
+    // (VFR) & phone kerja lebih → video tersekat bila masuk CapCut. Lukis tepat setiap ~33ms sahaja.
+    const SELANG = 1000 / FPS
+    let akhir = 0
+    const gelung = now => {
       if (!hidup) return
+      id = requestAnimationFrame(gelung)
+      if (now - akhir < SELANG - 4) return
+      akhir = now
       const t = tetapanRef.current, v = videoRef.current
       if (v) {
         try {
@@ -213,9 +221,8 @@ export default function Teleprompter({ skrip, label, onTutup }) {
           })
         } catch {}
       }
-      id = requestAnimationFrame(gelung)
     }
-    gelung()
+    id = requestAnimationFrame(gelung)
     return () => { hidup = false; cancelAnimationFrame(id) }
   }, [sedia])
 
@@ -238,7 +245,7 @@ export default function Teleprompter({ skrip, label, onTutup }) {
   const streamTikTok = useCallback(st => {
     const c = outRef.current
     if (!c?.captureStream) return null
-    const out = c.captureStream(30)
+    const out = c.captureStream(FPS)
     let suara = null
     try { suara = kuatkanSuara(st.getAudioTracks()) } catch { suara = null }
     ;(suara?.trek ?? st.getAudioTracks()).forEach(t => out.addTrack(t))
@@ -252,7 +259,8 @@ export default function Teleprompter({ skrip, label, onTutup }) {
     if (!asal || jenis === null) { setRalatKamera("Pelayar ini tak sokong rakaman video. Cuba Safari (iPhone) atau Chrome."); return }
     let st = asal
     try { st = streamTikTok(asal) || asal } catch { st = asal }
-    const opsyen = { videoBitsPerSecond: 10_000_000, audioBitsPerSecond: 160_000 }
+    // 6 Mbps + 128 kbps ≈ 46 MB seminit → video 100 saat ≈ 77 MB (bawah 100 MB), masih HD 1080x1920
+    const opsyen = { videoBitsPerSecond: 6_000_000, audioBitsPerSecond: 128_000 }
     let rec
     try {
       rec = new MediaRecorder(st, { ...(jenis ? { mimeType: jenis } : {}), ...opsyen })
@@ -443,7 +451,7 @@ export default function Teleprompter({ skrip, label, onTutup }) {
       {hasil && (
         <div className="tp-hasil">
           <video src={hasil.url} className="tp-hasil-video" controls playsInline />
-          <div className="tp-hasil-info">Video siap · {masaMMSS(hasil.saat)}</div>
+          <div className="tp-hasil-info">Video siap · {masaMMSS(hasil.saat)} · {(hasil.blob.size / 1048576).toFixed(1)} MB</div>
           <div className="tp-baris">
             <button className="btn btn-emas" onClick={simpanVideo}>⬇ Simpan / Share</button>
             <button className="btn btn-garis" onClick={() => { setHasil(null); ulang() }}>⟲ Rakam semula</button>
