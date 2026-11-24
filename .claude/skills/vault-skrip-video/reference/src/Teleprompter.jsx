@@ -76,6 +76,9 @@ export default function Teleprompter({ skrip, label, onTutup }) {
   const codecRef = useRef(null)     // codec WebCodecs yang disokong peranti ni (null = guna MediaRecorder)
   const [proses, setProses] = useState(false)   // sedang siapkan fail MP4
   const [enjin, setEnjin] = useState("")
+  const enjinRef = useRef("")
+  enjinRef.current = enjin
+  const perakamDipakaiRef = useRef(false)
   const [infoKamera, setInfoKamera] = useState("")
   const kameraRef = useRef(false)
   kameraRef.current = kamera
@@ -276,7 +279,7 @@ export default function Teleprompter({ skrip, label, onTutup }) {
     if (!blob?.size) return
     const ext = type.includes("mp4") ? "mp4" : "webm"
     const nama = `${(label || "skrip").replace(/[^\w-]+/g, "_")}_${Date.now()}.${ext}`
-    setHasil({ url: URL.createObjectURL(blob), blob, nama, saat: (performance.now() - mulaRakamRef.current) / 1000 })
+    setHasil({ url: URL.createObjectURL(blob), blob, nama, saat: (performance.now() - mulaRakamRef.current) / 1000, enjin: type.includes("mp4") && perakamDipakaiRef.current ? enjinRef.current : "MediaRecorder (sandaran)" })
   }, [label])
 
   const mulaSkrip = useCallback(() => {
@@ -315,6 +318,7 @@ export default function Teleprompter({ skrip, label, onTutup }) {
       },
     }
     perakamRef.current = p
+    perakamDipakaiRef.current = true
     mulaSkrip()
   }, [mulaSkrip, siapkanHasil])
 
@@ -343,6 +347,7 @@ export default function Teleprompter({ skrip, label, onTutup }) {
     }
     rec.start(1000)
     recRef.current = rec
+    perakamDipakaiRef.current = false
     mulaSkrip()
   }, [streamTikTok, siapkanHasil, mulaSkrip])
 
@@ -517,6 +522,7 @@ export default function Teleprompter({ skrip, label, onTutup }) {
         <div className="tp-hasil">
           <video src={hasil.url} className="tp-hasil-video" controls playsInline />
           <div className="tp-hasil-info">Video siap · {masaMMSS(hasil.saat)} · {(hasil.blob.size / 1048576).toFixed(1)} MB</div>
+          {enjin && <div className="tp-info">Enjin: {hasil.enjin || enjin}</div>}
           <div className="tp-baris">
             <button className="btn btn-emas" onClick={simpanVideo}>⬇ Simpan / Share</button>
             <button className="btn btn-garis" onClick={() => { setHasil(null); ulang() }}>⟲ Rakam semula</button>

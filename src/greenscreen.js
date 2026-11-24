@@ -52,6 +52,7 @@ export function buatPemapar(out) {
   const garis = kanvas(SW, SH), gctx = garis.getContext("2d")
   const orang = kanvas(OUT_W, OUT_H), octx = orang.getContext("2d")
   const data = tctx.createImageData(SW, SH)
+  const lalu = new Float32Array(SW * SH)   // alpha frame lepas — lembutkan kelip-kelip tepi
   for (let i = 0; i < data.data.length; i += 4) { data.data[i] = data.data[i + 1] = data.data[i + 2] = 255 }
   let adaTopeng = false, tsAkhir = 0
   // AI kesan badan ialah kerja paling berat. Kalau ia lambat, jangan biar video ikut lambat:
@@ -76,8 +77,13 @@ export function buatPemapar(out) {
         if (!m) return
         const f = m.getAsFloat32Array(), d = data.data
         for (let i = 0; i < f.length; i++) {
-          const a = (f[i] - 0.35) / 0.3           // tepi lebih tegas, kurang 'halo'
-          d[i * 4 + 3] = a <= 0 ? 0 : a >= 1 ? 255 : a * 255
+          // Ambang rendah & curam: AI kurang yakin dalam cahaya malap (keyakinan ~0.4–0.5) →
+          // dulu badan jadi separuh lut sinar (hijau tembus muka). Kini ≥0.45 = badan penuh.
+          let a = (f[i] - 0.2) / 0.25
+          a = a <= 0 ? 0 : a >= 1 ? 1 : a
+          a = a * 0.7 + lalu[i] * 0.3
+          lalu[i] = a
+          d[i * 4 + 3] = a * 255
         }
         tctx.putImageData(data, 0, 0)
         adaTopeng = true
