@@ -120,6 +120,7 @@ Punchline!`              // babak dipisah SATU baris kosong; perenggan terakhir 
 - **Link terus:** `#skrip-<id>` buka teleprompter.
 
 ### Teleprompter = PERAKAM VIDEO (Nov 2026, kehendak Taufik)
+> **Status 25 Nov 2026: DISAHKAN BERFUNGSI oleh Taufik di iPhone** — rakam 1080×1920, enjin MP4 bersih (WebCodecs/Mediabunny), video tak lag lagi di CapCut, green screen ok. **Taufik SENTIASA guna Google Chrome di iPhone** (Chrome iOS = enjin WebKit macam Safari; baris info/panel hasil tunjuk enjin). Uji & reka untuk Chrome iOS dahulu; jangan cadang tukar ke Safari melainkan untuk diagnosis. Bar bawah Chrome (Ask Gemini / New tab / tabs) makan ruang skrin — kawalan rakam mesti muat di atasnya.
 Butang kad `🎥 Rakam Video` buka overlay skrin penuh yang TERUS mod rakam (tiada mod teleprompter biasa, tiada butang 📷).
 - **Kamera depan auto-buka** (`getUserMedia` `facingMode: "user"`, `width 1920 / height 1080` ideal — iPhone portrait bagi 1080×1920, 30fps). Preview `<video>` dicermin (scaleX -1) sebagai latar; teks atas gradient gelap, padding atas 18vh + garis mata 18% (dekat lensa supaya mata nampak pandang kamera). Baris info: `Kamera WxH → Rakam 1080×1920 HD`.
 - **● = terus rakam + skrip scroll dari awal, TANPA kiraan 3-2-1.** ■ = stop. Auto-stop 1.5s selepas skrip tamat. Tap teks semasa rakam = pause/sambung scroll sahaja (rakaman jalan terus). ⟲ dikunci semasa rakam. Badge `● REC m:ss`.
