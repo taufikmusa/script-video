@@ -41,7 +41,7 @@ function pilihJenis() {
     return JENIS_VIDEO.find(j => MediaRecorder.isTypeSupported?.(j)) ?? ""
   } catch { return "" }
 }
-const STUDIO_LALAI = () => new URL("latar/studio.jpg", document.baseURI).href   // public/latar/studio.jpg
+const STUDIO_LALAI = () => new URL("latar/studio-navy.jpg", document.baseURI).href   // public/latar/studio-navy.jpg
 const masaMMSS = s => `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, "0")}`
 
 export default function Teleprompter({ skrip, label, onTutup }) {
