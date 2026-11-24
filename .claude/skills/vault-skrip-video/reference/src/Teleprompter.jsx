@@ -6,7 +6,7 @@ import { OUT_W, OUT_H, muatSegmenter, buatPemapar, sediakanGambar } from './gree
 const lebar = typeof window !== "undefined" ? window.innerWidth : 1000
 // saizKamera = saiz teks bila kamera hidup (lebih kecil supaya muka tak tertutup)
 const TETAPAN_LALAI = { laju: 5, saiz: lebar < 600 ? 34 : 52, saizKamera: 18, cermin: false, tengah: false,
-  gs: false, gsLatar: "hijau", gsGaris: true, gsTebal: 16 }   // green screen
+  gs: false, gsLatar: "gambar", gsGaris: true, gsTebal: 16 }   // green screen
 const HAD = { lajuMin: 1, lajuMax: 20, saizMin: 18, saizMax: 96 }
 
 
@@ -41,10 +41,15 @@ function pilihJenis() {
     return JENIS_VIDEO.find(j => MediaRecorder.isTypeSupported?.(j)) ?? ""
   } catch { return "" }
 }
+const STUDIO_LALAI = () => new URL("latar/studio.jpg", document.baseURI).href   // public/latar/studio.jpg
 const masaMMSS = s => `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, "0")}`
 
 export default function Teleprompter({ skrip, label, onTutup }) {
-  const [tetapan, setTetapan] = useState(() => muat("prompter2", TETAPAN_LALAI))
+  const [tetapan, setTetapan] = useState(() => {
+    const t = muat("prompter2", TETAPAN_LALAI)
+    // Sekali sahaja: latar lalai bertukar ke gambar studio (24 Nov 2026)
+    return t.gsV2 ? t : { ...t, gsLatar: "gambar", gsV2: true }
+  })
   const [main, setMain] = useState(false)
   const [kemajuan, setKemajuan] = useState(0)    // 0..1
   const [tamat, setTamat] = useState(false)
@@ -73,7 +78,7 @@ export default function Teleprompter({ skrip, label, onTutup }) {
   const gambarRef = useRef(null)
   const failRef = useRef(null)
   const [statusGs, setStatusGs] = useState("")   // "" | muat | sedia | ralat
-  const [adaGambar, setAdaGambar] = useState(false)
+  const [gambarSendiri, setGambarSendiri] = useState(false)   // true = gambar dari Gallery, false = studio lalai
   const [notaGambar, setNotaGambar] = useState("")
   const saizAktif = tetapan[kunciSaiz]
 
@@ -165,13 +170,20 @@ export default function Teleprompter({ skrip, label, onTutup }) {
     try { if (recRef.current?.state === "recording") recRef.current.stop() } catch {}
   }, [])
 
-  // Gambar studio tersimpan (dari Gallery) — dimuat sekali
+  // Latar: gambar dari Gallery (jika ada) atau studio lalai dalam app
+  const pasangGambar = useCallback(url => { const i = new Image(); i.src = url; gambarRef.current = i }, [])
   useEffect(() => {
-    try {
-      const url = localStorage.getItem("gsGambar")
-      if (url) { const i = new Image(); i.src = url; gambarRef.current = i; setAdaGambar(true) }
-    } catch {}
-  }, [])
+    let url = null
+    try { url = localStorage.getItem("gsGambar") } catch {}
+    if (url) { pasangGambar(url); setGambarSendiri(true) }
+    else pasangGambar(STUDIO_LALAI())
+  }, [pasangGambar])
+
+  const studioAsal = useCallback(() => {
+    try { localStorage.removeItem("gsGambar") } catch {}
+    pasangGambar(STUDIO_LALAI()); setGambarSendiri(false); setNotaGambar("")
+    ubah("gsLatar", () => "gambar")
+  }, [pasangGambar, ubah])
 
   // Muat model AI bila green screen dihidupkan
   useEffect(() => {
@@ -212,14 +224,14 @@ export default function Teleprompter({ skrip, label, onTutup }) {
     if (!fail) return
     try {
       const url = await sediakanGambar(fail)
-      const i = new Image(); i.src = url; gambarRef.current = i
-      setAdaGambar(true)
+      pasangGambar(url)
+      setGambarSendiri(true)
       ubah("gsLatar", () => "gambar")
       let ok = true
       try { localStorage.setItem("gsGambar", url) } catch { ok = false }
       setNotaGambar(ok ? "" : "Gambar dipakai untuk sesi ni je (storan pelayar penuh).")
     } catch { setNotaGambar("Gambar tak dapat dibaca. Cuba gambar lain (JPG/PNG).") }
-  }, [ubah])
+  }, [ubah, pasangGambar])
 
   // Stream rakaman = canvas 1080x1920 + suara dikuatkan
   const streamTikTok = useCallback(st => {
@@ -438,9 +450,9 @@ export default function Teleprompter({ skrip, label, onTutup }) {
             {tetapan.gs && (
               <>
                 <button className={"tp-pil" + (tetapan.gsLatar === "hijau" ? " on" : "")} onClick={() => ubah("gsLatar", () => "hijau")}>Hijau</button>
-                <button className={"tp-pil" + (tetapan.gsLatar === "gambar" ? " on" : "")}
-                  onClick={() => adaGambar ? ubah("gsLatar", () => "gambar") : failRef.current?.click()}>Studio</button>
-                <button className="tp-pil" onClick={() => failRef.current?.click()} disabled={rakam}>🖼 {adaGambar ? "Tukar" : "Pilih"} gambar</button>
+                <button className={"tp-pil" + (tetapan.gsLatar === "gambar" ? " on" : "")} onClick={() => ubah("gsLatar", () => "gambar")}>Studio</button>
+                <button className="tp-pil" onClick={() => failRef.current?.click()} disabled={rakam}>🖼 Tukar gambar</button>
+                {gambarSendiri && <button className="tp-pil" onClick={studioAsal} disabled={rakam}>↺ Studio asal</button>}
                 <button className={"tp-pil" + (tetapan.gsGaris ? " on" : "")} onClick={() => ubah("gsGaris", v => !v)}>⬜ Garis putih</button>
                 {tetapan.gsGaris && (
                   <span className="tp-pil-grup">
