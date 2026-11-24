@@ -1,14 +1,14 @@
 import { useState, useEffect, useRef, useCallback } from 'react'
 import { muat, simpan, kiraPatah, anggarMasa } from './util'
+import { OUT_W, OUT_H, muatSegmenter, buatPemapar, sediakanGambar } from './greenscreen'
 
 // Saiz lalai ikut skrin: phone lebih kecil supaya muat 4-5 patah sebaris
 const lebar = typeof window !== "undefined" ? window.innerWidth : 1000
 // saizKamera = saiz teks bila kamera hidup (lebih kecil supaya muka tak tertutup)
-const TETAPAN_LALAI = { laju: 5, saiz: lebar < 600 ? 34 : 52, saizKamera: 18, cermin: false, tengah: false }
+const TETAPAN_LALAI = { laju: 5, saiz: lebar < 600 ? 34 : 52, saizKamera: 18, cermin: false, tengah: false,
+  gs: false, gsLatar: "hijau", gsGaris: true, gsTebal: 16 }   // green screen
 const HAD = { lajuMin: 1, lajuMax: 20, saizMin: 18, saizMax: 96 }
 
-// Saiz output TikTok/Reels 9:16 HD
-const OUT_W = 1080, OUT_H = 1920
 
 // Mic pelayar lebih perlahan berbanding app kamera (app kamera ada penguat sendiri).
 // Naikkan suara ~2.5x, kemudian compressor/limiter supaya suara kuat tapi tak pecah.
@@ -66,6 +66,15 @@ export default function Teleprompter({ skrip, label, onTutup }) {
   const kameraRef = useRef(false)
   kameraRef.current = kamera
   const kunciSaiz = kamera ? "saizKamera" : "saiz"
+
+  // Green screen
+  const outRef = useRef(null)          // canvas 1080x1920: preview green screen + sumber rakaman
+  const segRef = useRef(null)
+  const gambarRef = useRef(null)
+  const failRef = useRef(null)
+  const [statusGs, setStatusGs] = useState("")   // "" | muat | sedia | ralat
+  const [adaGambar, setAdaGambar] = useState(false)
+  const [notaGambar, setNotaGambar] = useState("")
   const saizAktif = tetapan[kunciSaiz]
 
   const scrollRef = useRef(null)
@@ -156,33 +165,71 @@ export default function Teleprompter({ skrip, label, onTutup }) {
     try { if (recRef.current?.state === "recording") recRef.current.stop() } catch {}
   }, [])
 
-  // Lukis video kamera ke canvas 1080x1920 (potong tengah 9:16, tak dicermin) → stream untuk dirakam
-  const streamTikTok = useCallback(st => {
-    const v = videoRef.current
-    const c = document.createElement("canvas")
-    if (!v || !c.captureStream) return null
-    c.width = OUT_W; c.height = OUT_H
-    const ctx = c.getContext("2d")
-    let hidup = true
-    const lukis = () => {
+  // Gambar studio tersimpan (dari Gallery) — dimuat sekali
+  useEffect(() => {
+    try {
+      const url = localStorage.getItem("gsGambar")
+      if (url) { const i = new Image(); i.src = url; gambarRef.current = i; setAdaGambar(true) }
+    } catch {}
+  }, [])
+
+  // Muat model AI bila green screen dihidupkan
+  useEffect(() => {
+    if (!tetapan.gs || segRef.current) return
+    let batal = false
+    setStatusGs("muat")
+    muatSegmenter()
+      .then(seg => { if (!batal) { segRef.current = seg; setStatusGs("sedia") } })
+      .catch(() => { if (!batal) setStatusGs("ralat") })
+    return () => { batal = true }
+  }, [tetapan.gs])
+
+  // Gelung lukis: kamera → canvas 1080x1920 (potong tengah 9:16, tak dicermin, green screen jika on).
+  // Canvas ni jadi preview green screen DAN sumber video rakaman.
+  useEffect(() => {
+    if (!sedia || !outRef.current) return
+    const lukis = buatPemapar(outRef.current)
+    let id, hidup = true
+    const gelung = () => {
       if (!hidup) return
-      const vw = v.videoWidth, vh = v.videoHeight
-      if (vw && vh) {
-        const r = OUT_W / OUT_H
-        let sw = vw, sh = vh, sx = 0, sy = 0
-        if (vw / vh > r) { sw = vh * r; sx = (vw - sw) / 2 } else { sh = vw / r; sy = (vh - sh) / 2 }
-        ctx.drawImage(v, sx, sy, sw, sh, 0, 0, OUT_W, OUT_H)
+      const t = tetapanRef.current, v = videoRef.current
+      if (v) {
+        try {
+          lukis(v, t.gs ? segRef.current : null, {
+            gs: t.gs, latar: t.gsLatar, gambar: gambarRef.current, garisPutih: t.gsGaris, tebal: t.gsTebal,
+          })
+        } catch {}
       }
-      requestAnimationFrame(lukis)
+      id = requestAnimationFrame(gelung)
     }
-    lukis()
-    lukisRef.current = () => { hidup = false }
+    gelung()
+    return () => { hidup = false; cancelAnimationFrame(id) }
+  }, [sedia])
+
+  const pilihGambar = useCallback(async e => {
+    const fail = e.target.files?.[0]
+    e.target.value = ""
+    if (!fail) return
+    try {
+      const url = await sediakanGambar(fail)
+      const i = new Image(); i.src = url; gambarRef.current = i
+      setAdaGambar(true)
+      ubah("gsLatar", () => "gambar")
+      let ok = true
+      try { localStorage.setItem("gsGambar", url) } catch { ok = false }
+      setNotaGambar(ok ? "" : "Gambar dipakai untuk sesi ni je (storan pelayar penuh).")
+    } catch { setNotaGambar("Gambar tak dapat dibaca. Cuba gambar lain (JPG/PNG).") }
+  }, [ubah])
+
+  // Stream rakaman = canvas 1080x1920 + suara dikuatkan
+  const streamTikTok = useCallback(st => {
+    const c = outRef.current
+    if (!c?.captureStream) return null
     const out = c.captureStream(30)
     let suara = null
     try { suara = kuatkanSuara(st.getAudioTracks()) } catch { suara = null }
     ;(suara?.trek ?? st.getAudioTracks()).forEach(t => out.addTrack(t))
-    const hentiLukis = lukisRef.current
-    lukisRef.current = () => { hentiLukis(); suara?.tutup() }
+    lukisRef.current = () => { suara?.tutup() }
     return out
   }, [])
 
@@ -338,6 +385,10 @@ export default function Teleprompter({ skrip, label, onTutup }) {
   return (
     <div className={"tp" + (kamera ? " tp-kamera" : "")}>
       {kamera && <video ref={videoRef} className="tp-video" autoPlay playsInline muted />}
+      {kamera && (
+        <canvas ref={outRef} width={OUT_W} height={OUT_H} className="tp-video"
+          style={{ visibility: tetapan.gs && statusGs === "sedia" ? "visible" : "hidden" }} />
+      )}
       <div className="tp-atas">
         {rakam && <div className="tp-rec">● REC {masaMMSS(saatRakam)}</div>}
         <div className="tp-tajuk">{label ? `${label} · ` : ""}{skrip.tajuk}</div>
@@ -379,6 +430,33 @@ export default function Teleprompter({ skrip, label, onTutup }) {
           </div>
         )}
         {kamera && infoKamera && !rakam && <div className="tp-info">{infoKamera}</div>}
+        {kamera && sedia && (
+          <div className="tp-gs">
+            <button className={"tp-pil" + (tetapan.gs ? " on" : "")} onClick={() => ubah("gs", v => !v)}>
+              🟩 Green screen {tetapan.gs ? "ON" : "OFF"}
+            </button>
+            {tetapan.gs && (
+              <>
+                <button className={"tp-pil" + (tetapan.gsLatar === "hijau" ? " on" : "")} onClick={() => ubah("gsLatar", () => "hijau")}>Hijau</button>
+                <button className={"tp-pil" + (tetapan.gsLatar === "gambar" ? " on" : "")}
+                  onClick={() => adaGambar ? ubah("gsLatar", () => "gambar") : failRef.current?.click()}>Studio</button>
+                <button className="tp-pil" onClick={() => failRef.current?.click()} disabled={rakam}>🖼 {adaGambar ? "Tukar" : "Pilih"} gambar</button>
+                <button className={"tp-pil" + (tetapan.gsGaris ? " on" : "")} onClick={() => ubah("gsGaris", v => !v)}>⬜ Garis putih</button>
+                {tetapan.gsGaris && (
+                  <span className="tp-pil-grup">
+                    <button className="tp-pil" onClick={() => ubah("gsTebal", v => Math.max(6, v - 4))}>−</button>
+                    <b>{tetapan.gsTebal}</b>
+                    <button className="tp-pil" onClick={() => ubah("gsTebal", v => Math.min(48, v + 4))}>+</button>
+                  </span>
+                )}
+              </>
+            )}
+            <input ref={failRef} type="file" accept="image/*" hidden onChange={pilihGambar} />
+            {tetapan.gs && statusGs === "muat" && <div className="tp-info">Memuatkan AI green screen… (kali pertama ambil masa sikit)</div>}
+            {tetapan.gs && statusGs === "ralat" && <div className="tp-ralat">Green screen tak dapat dimuat pada peranti ni.</div>}
+            {notaGambar && <div className="tp-info">{notaGambar}</div>}
+          </div>
+        )}
         <div className="tp-baris">
           <button className="tp-btn" onClick={ulang} disabled={rakam} title="Ulang dari awal (R)">⟲</button>
           {kamera && sedia ? (

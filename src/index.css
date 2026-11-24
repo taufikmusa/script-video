@@ -141,6 +141,12 @@ button { font: inherit; }
 .tp-rec-btn.on { background: #111; border-color: #d32f2f; color: #ff5252; }
 .tp-btn:disabled { opacity: .35; }
 .tp-kamera .tp-teks { padding-left: 28px; padding-right: 16px; }
+.tp-gs { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 6px; max-width: 520px; }
+.tp-gs .tp-info, .tp-gs .tp-ralat { flex-basis: 100%; }
+.tp-pil { padding: 6px 11px; border-radius: 16px; border: 1px solid #444; background: rgba(20,20,20,.85); color: #ddd; font-size: 13px; cursor: pointer; }
+.tp-pil.on { border-color: #00c853; color: #69f0ae; }
+.tp-pil:disabled { opacity: .4; }
+.tp-pil-grup { display: inline-flex; align-items: center; gap: 6px; color: #fff; font-size: 13px; }
 .tp-rec { flex: none; color: #fff; background: #d32f2f; border-radius: 6px; padding: 4px 10px; font-size: 13px; font-weight: 700; letter-spacing: .5px; }
 .tp-rakam { min-width: 150px; height: 52px; border-radius: 26px; border: 2px solid #fff; background: #d32f2f; color: #fff; font-size: 17px; font-weight: 700; cursor: pointer; }
 .tp-rakam.on { background: #111; border-color: #d32f2f; color: #ff5252; }
