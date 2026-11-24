@@ -5,9 +5,9 @@ import { OUT_W, OUT_H, muatSegmenter, buatPemapar, sediakanGambar } from './gree
 // Saiz lalai ikut skrin: phone lebih kecil supaya muat 4-5 patah sebaris
 const lebar = typeof window !== "undefined" ? window.innerWidth : 1000
 // saizKamera = saiz teks bila kamera hidup (lebih kecil supaya muka tak tertutup)
-const TETAPAN_LALAI = { laju: 5, saiz: lebar < 600 ? 34 : 52, saizKamera: 18, cermin: false, tengah: false,
-  gs: false, gsLatar: "gambar", gsGaris: true, gsTebal: 16 }   // green screen
-const HAD = { lajuMin: 1, lajuMax: 20, saizMin: 18, saizMax: 96 }
+const TETAPAN_LALAI = { laju: 4, saiz: lebar < 600 ? 34 : 52, saizKamera: 18, cermin: false, tengah: false,
+  gs: false, gsLatar: "hijau", gsGaris: true, gsTebal: 16 }   // green screen
+const HAD = { lajuMin: 0.5, lajuMax: 20, saizMin: 18, saizMax: 96 }
 
 
 // Mic pelayar lebih perlahan berbanding app kamera (app kamera ada penguat sendiri).
@@ -47,8 +47,9 @@ const masaMMSS = s => `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padSta
 export default function Teleprompter({ skrip, label, onTutup }) {
   const [tetapan, setTetapan] = useState(() => {
     const t = muat("prompter2", TETAPAN_LALAI)
-    // Sekali sahaja: latar lalai bertukar ke gambar studio (24 Nov 2026)
-    return t.gsV2 ? t : { ...t, gsLatar: "gambar", gsV2: true }
+    // Sekali sahaja (25 Nov 2026): latar lalai = hijau, laju lalai turun 5 → 4
+    if (t.gsV3) return t
+    return { ...t, gsLatar: "hijau", laju: t.laju === 5 ? 4 : t.laju, gsV3: true }
   })
   const [main, setMain] = useState(false)
   const [kemajuan, setKemajuan] = useState(0)    // 0..1
@@ -307,6 +308,17 @@ export default function Teleprompter({ skrip, label, onTutup }) {
 
 
   // Enjin scroll
+  // Jari pada teks → auto-scroll berhenti sekejap supaya boleh seret ke atas/bawah dengan lancar.
+  // Rakaman TAK terhenti. Lepas jari dilepaskan, scroll sambung dari kedudukan baru.
+  const pegangRef = useRef(false)
+  const lepasRef = useRef(null)
+  const mulaPegang = useCallback(() => { clearTimeout(lepasRef.current); pegangRef.current = true }, [])
+  const habisPegang = useCallback(() => {
+    clearTimeout(lepasRef.current)
+    lepasRef.current = setTimeout(() => { pegangRef.current = false }, 400)   // tunggu momentum scroll reda
+  }, [])
+  useEffect(() => () => clearTimeout(lepasRef.current), [])
+
   useEffect(() => {
     if (!main) return
     const el = scrollRef.current
@@ -316,6 +328,8 @@ export default function Teleprompter({ skrip, label, onTutup }) {
     const langkah = now => {
       const dt = Math.min((now - lastRef.current) / 1000, 0.1)
       lastRef.current = now
+      // Sedang diseret → biar jari kawal, cuma ikut kedudukan
+      if (pegangRef.current) { posRef.current = el.scrollTop; id = requestAnimationFrame(langkah); return }
       // User tarik/scroll sendiri → ikut kedudukan baru
       if (Math.abs(el.scrollTop - posRef.current) > 3) posRef.current = el.scrollTop
       const { laju } = tetapanRef.current
@@ -356,8 +370,9 @@ export default function Teleprompter({ skrip, label, onTutup }) {
     togolScroll()
   }, [hasil, kamera, sedia, rakam, hentiRakam, mulaRakam, togolScroll])
 
+  // Tap teks: semasa rakam TIADA kesan (elak terpause bila nak seret); tanpa kamera = main/pause
   const tapTeks = useCallback(() => {
-    if (rakam || !(kamera && sedia)) togolScroll()
+    if (!rakam && !(kamera && sedia)) togolScroll()
   }, [rakam, kamera, sedia, togolScroll])
 
   const ulang = useCallback(() => {
@@ -379,8 +394,8 @@ export default function Teleprompter({ skrip, label, onTutup }) {
       const k = e.key
       if (k === " " || k === "Enter") { e.preventDefault(); togolMain() }
       else if (k === "Escape") onTutup()
-      else if (k === "ArrowUp") { e.preventDefault(); ubah("laju", v => Math.min(HAD.lajuMax, v + 1)) }
-      else if (k === "ArrowDown") { e.preventDefault(); ubah("laju", v => Math.max(HAD.lajuMin, v - 1)) }
+      else if (k === "ArrowUp") { e.preventDefault(); ubah("laju", v => Math.min(HAD.lajuMax, v + 0.5)) }
+      else if (k === "ArrowDown") { e.preventDefault(); ubah("laju", v => Math.max(HAD.lajuMin, v - 0.5)) }
       else if (k === "PageDown" || k === "ArrowRight") { e.preventDefault(); lompat(1) }
       else if (k === "PageUp" || k === "ArrowLeft") { e.preventDefault(); lompat(-1) }
       else if (k === "+" || k === "=") ubah(kunciSaiz, v => Math.min(HAD.saizMax, v + 2))
@@ -410,7 +425,9 @@ export default function Teleprompter({ skrip, label, onTutup }) {
 
       <div className="tp-garis" aria-hidden="true" />
 
-      <div ref={scrollRef} className="tp-scroll" onScroll={kemaskiniKemajuan} onClick={tapTeks}>
+      <div ref={scrollRef} className="tp-scroll" onScroll={kemaskiniKemajuan} onClick={tapTeks}
+        onTouchStart={mulaPegang} onTouchEnd={habisPegang} onTouchCancel={habisPegang}
+        onMouseDown={mulaPegang} onMouseUp={habisPegang} onWheel={() => { mulaPegang(); habisPegang() }}>
         <div
           className={"tp-teks" + (tetapan.tengah ? " tengah" : "")}
           style={{ fontSize: saizAktif, transform: tetapan.cermin ? "scaleX(-1)" : "none" }}
@@ -484,9 +501,9 @@ export default function Teleprompter({ skrip, label, onTutup }) {
         <div className="tp-baris">
           <div className="tp-grup">
             <span>Laju</span>
-            <button className="tp-btn kecil" onClick={() => ubah("laju", v => Math.max(HAD.lajuMin, v - 1))}>−</button>
+            <button className="tp-btn kecil" onClick={() => ubah("laju", v => Math.max(HAD.lajuMin, v - 0.5))}>−</button>
             <b>{tetapan.laju}</b>
-            <button className="tp-btn kecil" onClick={() => ubah("laju", v => Math.min(HAD.lajuMax, v + 1))}>+</button>
+            <button className="tp-btn kecil" onClick={() => ubah("laju", v => Math.min(HAD.lajuMax, v + 0.5))}>+</button>
           </div>
           <div className="tp-grup">
             <span>Saiz</span>
@@ -497,7 +514,7 @@ export default function Teleprompter({ skrip, label, onTutup }) {
         </div>
         <div className="tp-info">
           {kamera && sedia
-            ? (rakam ? `Baki ${anggarMasa(baki)} · tap teks untuk pause/sambung scroll · ■ untuk stop` : "Tekan ● — terus rakam & skrip mula scroll")
+            ? (rakam ? `Baki ${anggarMasa(baki)} · seret teks ke atas/bawah bila perlu · ■ untuk stop` : "Tekan ● — terus rakam & skrip mula scroll")
             : (tamat ? "Siap! Tekan ▶ untuk ulang." : `Baki ${anggarMasa(baki)} · tap teks untuk main/pause`)}
         </div>
       </div>
