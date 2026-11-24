@@ -137,6 +137,10 @@ button { font: inherit; }
 .tp-kamera .tp-teks { padding-top: 18vh; text-shadow: 0 2px 6px rgba(0,0,0,.9); }
 .tp-kamera .tp-garis { top: 18%; }
 .tp-kamera .tp-kawal { background: linear-gradient(transparent, rgba(0,0,0,.75) 40%); }
+.tp-rec-btn { background: #d32f2f; border-color: #fff; color: #fff; font-size: 30px; }
+.tp-rec-btn.on { background: #111; border-color: #d32f2f; color: #ff5252; }
+.tp-btn:disabled { opacity: .35; }
+.tp-kamera .tp-teks { padding-left: 28px; padding-right: 16px; }
 .tp-rec { flex: none; color: #fff; background: #d32f2f; border-radius: 6px; padding: 4px 10px; font-size: 13px; font-weight: 700; letter-spacing: .5px; }
 .tp-rakam { min-width: 150px; height: 52px; border-radius: 26px; border: 2px solid #fff; background: #d32f2f; color: #fff; font-size: 17px; font-weight: 700; cursor: pointer; }
 .tp-rakam.on { background: #111; border-color: #d32f2f; color: #ff5252; }

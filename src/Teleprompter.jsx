@@ -4,7 +4,7 @@ import { muat, simpan, kiraPatah, anggarMasa } from './util'
 // Saiz lalai ikut skrin: phone lebih kecil supaya muat 4-5 patah sebaris
 const lebar = typeof window !== "undefined" ? window.innerWidth : 1000
 // saizKamera = saiz teks bila kamera hidup (lebih kecil supaya muka tak tertutup)
-const TETAPAN_LALAI = { laju: 5, saiz: lebar < 600 ? 34 : 52, saizKamera: lebar < 600 ? 24 : 36, cermin: false, tengah: false }
+const TETAPAN_LALAI = { laju: 5, saiz: lebar < 600 ? 34 : 52, saizKamera: 18, cermin: false, tengah: false }
 const HAD = { lajuMin: 1, lajuMax: 20, saizMin: 18, saizMax: 96 }
 
 // Saiz output TikTok/Reels 9:16 HD
@@ -21,14 +21,14 @@ function pilihJenis() {
 const masaMMSS = s => `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, "0")}`
 
 export default function Teleprompter({ skrip, label, onTutup }) {
-  const [tetapan, setTetapan] = useState(() => muat("prompter", TETAPAN_LALAI))
+  const [tetapan, setTetapan] = useState(() => muat("prompter2", TETAPAN_LALAI))
   const [main, setMain] = useState(false)
-  const [kiraan, setKiraan] = useState(0)        // 3-2-1 sebelum mula
   const [kemajuan, setKemajuan] = useState(0)    // 0..1
   const [tamat, setTamat] = useState(false)
 
   // Kamera depan + rakam
-  const [kamera, setKamera] = useState(false)
+  const [kamera, setKamera] = useState(true)   // terus buka kamera (mod rakam video)
+  const [sedia, setSedia] = useState(false)    // stream kamera dah dapat
   const [ralatKamera, setRalatKamera] = useState("")
   const [rakam, setRakam] = useState(false)
   const [saatRakam, setSaatRakam] = useState(0)
@@ -57,7 +57,7 @@ export default function Teleprompter({ skrip, label, onTutup }) {
   const ubah = useCallback((kunci, fn) => {
     setTetapan(t => {
       const baru = { ...t, [kunci]: fn(t[kunci]) }
-      simpan("prompter", baru)
+      simpan("prompter2", baru)
       return baru
     })
   }, [])
@@ -95,6 +95,7 @@ export default function Teleprompter({ skrip, label, onTutup }) {
         })
         if (batal) { st.getTracks().forEach(t => t.stop()); return }
         streamRef.current = st
+        setSedia(true)
         if (videoRef.current) {
           const v = videoRef.current
           v.srcObject = st
@@ -114,6 +115,7 @@ export default function Teleprompter({ skrip, label, onTutup }) {
       try { if (recRef.current?.state === "recording") recRef.current.stop() } catch {}
       streamRef.current?.getTracks().forEach(t => t.stop())
       streamRef.current = null
+      setSedia(false)
     }
   }, [kamera])
 
@@ -174,6 +176,7 @@ export default function Teleprompter({ skrip, label, onTutup }) {
     rec.ondataavailable = e => { if (e.data?.size) ketulRef.current.push(e.data) }
     rec.onstop = () => {
       setRakam(false)
+      setMain(false)
       lukisRef.current?.(); lukisRef.current = null
       if (st !== asal) st.getVideoTracks().forEach(t => t.stop())
       const type = rec.mimeType || jenis || "video/mp4"
@@ -188,11 +191,11 @@ export default function Teleprompter({ skrip, label, onTutup }) {
     mulaRakamRef.current = performance.now()
     setSaatRakam(0)
     setRakam(true)
-    // Mula skrip dari awal serentak dengan rakaman
-    setMain(false); setTamat(false)
+    // Mula skrip dari awal serentak dengan rakaman (terus, tanpa 3-2-1)
+    setTamat(false)
     if (scrollRef.current) scrollRef.current.scrollTop = 0
     posRef.current = 0
-    setKiraan(3)
+    setMain(true)
   }, [label, skrip, streamTikTok])
 
   // Skrip habis semasa merakam → henti sendiri selepas 1.5 saat (bagi masa senyum/tutup)
@@ -216,15 +219,6 @@ export default function Teleprompter({ skrip, label, onTutup }) {
     document.body.appendChild(a); a.click(); a.remove()
   }, [hasil, skrip])
 
-  // Kiraan detik 3-2-1
-  useEffect(() => {
-    if (kiraan <= 0) return
-    const t = setTimeout(() => {
-      if (kiraan === 1) { setKiraan(0); setMain(true) }
-      else setKiraan(k => k - 1)
-    }, 800)
-    return () => clearTimeout(t)
-  }, [kiraan])
 
   // Enjin scroll
   useEffect(() => {
@@ -261,17 +255,27 @@ export default function Teleprompter({ skrip, label, onTutup }) {
     setKemajuan(maks > 0 ? el.scrollTop / maks : 0)
   }
 
+  // Scroll sahaja (pause/sambung) — rakaman jalan terus
+  const togolScroll = useCallback(() => {
+    if (hasil) return
+    if (main) { setMain(false); return }
+    if (tamat) { scrollRef.current.scrollTop = 0; posRef.current = 0; setTamat(false) }
+    setMain(true)
+  }, [main, tamat, hasil])
+
+  // Butang utama: kamera sedia → tekan terus rakam / stop. Tiada kamera → main/pause biasa.
   const togolMain = useCallback(() => {
     if (hasil) return
-    if (kiraan > 0) { setKiraan(0); return }
-    if (main) { setMain(false); return }
-    if (tamat) { scrollRef.current.scrollTop = 0; setTamat(false) }
-    setKiraan(3)
-  }, [main, kiraan, tamat, hasil])
+    if (kamera && sedia) { rakam ? hentiRakam() : mulaRakam(); return }
+    togolScroll()
+  }, [hasil, kamera, sedia, rakam, hentiRakam, mulaRakam, togolScroll])
+
+  const tapTeks = useCallback(() => {
+    if (rakam || !(kamera && sedia)) togolScroll()
+  }, [rakam, kamera, sedia, togolScroll])
 
   const ulang = useCallback(() => {
     setMain(false)
-    setKiraan(0)
     setTamat(false)
     scrollRef.current.scrollTop = 0
     posRef.current = 0
@@ -316,7 +320,7 @@ export default function Teleprompter({ skrip, label, onTutup }) {
 
       <div className="tp-garis" aria-hidden="true" />
 
-      <div ref={scrollRef} className="tp-scroll" onScroll={kemaskiniKemajuan} onClick={togolMain}>
+      <div ref={scrollRef} className="tp-scroll" onScroll={kemaskiniKemajuan} onClick={tapTeks}>
         <div
           className={"tp-teks" + (tetapan.tengah ? " tengah" : "")}
           style={{ fontSize: saizAktif, transform: tetapan.cermin ? "scaleX(-1)" : "none" }}
@@ -328,7 +332,6 @@ export default function Teleprompter({ skrip, label, onTutup }) {
         </div>
       </div>
 
-      {kiraan > 0 && <div className="tp-kira">{kiraan}</div>}
 
       {hasil && (
         <div className="tp-hasil">
@@ -343,21 +346,21 @@ export default function Teleprompter({ skrip, label, onTutup }) {
       )}
 
       <div className={"tp-kawal" + (main ? " malap" : "")}>
-        {ralatKamera && <div className="tp-ralat">{ralatKamera}</div>}
-        {kamera && infoKamera && !rakam && <div className="tp-info">{infoKamera}</div>}
-        {kamera && (
-          <div className="tp-baris">
-            <button className={"tp-rakam" + (rakam ? " on" : "")} onClick={rakam ? hentiRakam : mulaRakam}>
-              {rakam ? "■ Stop" : "● Rakam"}
-            </button>
+        {ralatKamera && (
+          <div className="tp-ralat">
+            {ralatKamera} <button className="btn-link" onClick={() => { setRalatKamera(""); setKamera(true) }}>Cuba lagi</button>
           </div>
         )}
+        {kamera && infoKamera && !rakam && <div className="tp-info">{infoKamera}</div>}
         <div className="tp-baris">
-          <button className={"tp-btn" + (kamera ? " on" : "")} onClick={() => { if (rakam) hentiRakam(); setKamera(v => !v) }} title="Kamera depan">📷</button>
-          <button className="tp-btn" onClick={ulang} title="Ulang dari awal (R)">⟲</button>
-          <button className="tp-btn tp-main" onClick={togolMain} title="Main / Pause (Space)">
-            {main || kiraan > 0 ? "⏸" : "▶"}
-          </button>
+          <button className="tp-btn" onClick={ulang} disabled={rakam} title="Ulang dari awal (R)">⟲</button>
+          {kamera && sedia ? (
+            <button className={"tp-btn tp-main tp-rec-btn" + (rakam ? " on" : "")} onClick={togolMain} title="Rakam / Stop (Space)">
+              {rakam ? "■" : "●"}
+            </button>
+          ) : (
+            <button className="tp-btn tp-main" onClick={togolMain} title="Main / Pause (Space)">{main ? "⏸" : "▶"}</button>
+          )}
           <button className={"tp-btn" + (tetapan.cermin ? " on" : "")} onClick={() => ubah("cermin", v => !v)} title="Cermin (M)">⇋</button>
           <button className={"tp-btn" + (tetapan.tengah ? " on" : "")} onClick={() => ubah("tengah", v => !v)} title="Teks tengah">≡</button>
         </div>
@@ -376,8 +379,9 @@ export default function Teleprompter({ skrip, label, onTutup }) {
           </div>
         </div>
         <div className="tp-info">
-          {tamat ? "Siap! Tekan ▶ untuk ulang." : `Baki ${anggarMasa(baki)} · tap teks untuk main/pause`}
-          {kamera && !rakam && " · ● Rakam = mula skrip + rakam serentak"}
+          {kamera && sedia
+            ? (rakam ? `Baki ${anggarMasa(baki)} · tap teks untuk pause/sambung scroll · ■ untuk stop` : "Tekan ● — terus rakam & skrip mula scroll")
+            : (tamat ? "Siap! Tekan ▶ untuk ulang." : `Baki ${anggarMasa(baki)} · tap teks untuk main/pause`)}
         </div>
       </div>
     </div>
