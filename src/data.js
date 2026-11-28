@@ -40161,6 +40161,936 @@ Seratus keping wang kertas RM1 yang tebal akan kalah nilainya dengan sekeping em
 Cuba komen, berapa keping emas kecil 1 gram atau 1 Dinar yang dah ada dalam koleksi anda?
 
 Mulakan tabungan 1 gram anda hari ini kerana walaupun kecil pada saiznya, nilainya tetap Besar!`
+  },
+  {
+    id: 1450,
+    siri: "Loop-01",
+    no: 1,
+    topik: "Strategi Emas",
+    tajuk: "Harga Emas Tak Pernah Murah",
+    tags: ["gap", "gaji", "ringgit"],
+    teks: `Harga emas tak pernah murah pada mana-mana zaman.
+
+Persoalannya, kenapa ramai yang tunggu harga jatuh baru nak mula?
+
+Saya jelaskan.
+
+Pertama, sebab kita fokus pada angka ringgit, bukan gram emas. Bila harga naik, kita rasa rugi.
+
+Kedua, sebab kita ingat emas ini untuk kejar untung cepat. Padahal emas fizikal ini untuk simpanan jangka panjang, sekurang-kurangnya 2 tahun ke atas.
+
+Ketiga, sebab kita belum ada tabiat simpanan paksa dan lupa. Bila gaji masuk, duit habis dulu baru nak fikir simpan.
+
+Pesan guru saya,
+
+Bila kita ubah cara pandang ini, harga naik kita beli, harga turun kita beli lebih banyak.
+
+Gram tetap bertambah.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih tunggu harga jatuh sedangkan kuasa beli duit kertas makin mengecil setiap tahun?..Sebab`
+  },
+  {
+    id: 1451,
+    siri: "Loop-01",
+    no: 2,
+    topik: "Kewangan Peribadi",
+    tajuk: "Simpanan Bocor & Tangan Gatal",
+    tags: ["gap", "gaji"],
+    teks: `Duit gaji masuk bulan ni, esok dah nampak tinggal separuh.
+
+Persoalannya, kenapa ramai yang kerja bertahun tapi simpanan tetap tak lekat?
+
+Saya jelaskan.
+
+Pertama, sebab kita simpan duit dalam akaun yang senang nampak. Bila nampak baki banyak, nafsu tangan gatal senang terpanggil.
+
+Kedua, sebab kita anggap emas ini barang mewah untuk orang kaya. Padahal emas fizikal ini alat paling mudah matikan nafsu belanja hangus.
+
+Ketiga, sebab kita belum ada tabiat simpanan paksa dan lupa. Sepatutnya simpan dulu sebelum belanja, bukan tunggu baki hujung bulan.
+
+Pesan guru saya,
+
+Bila kita asingkan siap-siap awal bulan, duit yang tinggal itulah bajet belanja kita.
+
+Simpanan tetap jalan.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih tunggu baki hujung bulan sedangkan gaji kita hari-hari bocor tanpa sedar?..Sebab`
+  },
+  {
+    id: 1452,
+    siri: "Loop-01",
+    no: 3,
+    topik: "Kenapa Emas",
+    tajuk: "ASB / Tabung Haji vs Hakikat Inflasi",
+    tags: ["gap", "inflasi", "asb", "tabung haji", "haji", "ringgit", "kecemasan", "tunai"],
+    teks: `Angka dalam akaun nampak makin naik tiap tahun.
+
+Persoalannya, kenapa kuasa beli kita rasa makin mengecil bila masuk pasar raya?
+
+Saya jelaskan.
+
+Pertama, sebab kita terlalu tengok angka ringgit, bukan kuasa beli sebenar. Dulu RM50 penuh satu troli, sekarang separuh pun belum tentu.
+
+Kedua, sebab kita letak semua simpanan jangka panjang di tempat yang mudah dicuri inflasi. Akaun tunai sesuai untuk dana kecemasan 3 bulan sahaja.
+
+Ketiga, sebab kita tangguh tukar lebihan tunai kepada aset fizikal. Lagi lama kita peram kertas, lagi lama nilai sebenar dia susut.
+
+Pesan guru saya,
+
+Simpan tunai cukup untuk kecemasan jangka pendek, selebihnya alihkan ke aset yang tahan inflasi.
+
+Nilai kekayaan lebih terjaga.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih biarkan simpanan jangka panjang dimakan inflasi sedangkan emas fizikal dah terbukti tahan lama?..Sebab`
+  },
+  {
+    id: 1453,
+    siri: "Loop-01",
+    no: 4,
+    topik: "Keluarga",
+    tajuk: "Kapal Titanic & Benteng Keluarga",
+    tags: ["gap", "krisis", "kecemasan"],
+    teks: `Nampak gah dari luar, tapi bila krisis datang baru kelam-kabut.
+
+Persoalannya, kenapa ramai orang berduit tetap terdedah bila berlaku kecemasan besar?
+
+Saya jelaskan.
+
+Pertama, sebab kita simpan semua harta dalam satu sistem sahaja. Bila akaun tersekat atau kecemasan mendadak berlaku, akses duit jadi terbatas.
+
+Kedua, sebab kita anggap emas itu tidak penting selagi keadaan masih aman. Padahal emas fizikal inilah bot penyelamat bila keadaan darurat.
+
+Ketiga, sebab kita tak tetapkan sasaran benteng keluarga dari awal. Sekurang-kurangnya 10% kekayaan atau sasaran gram tertentu patut diasingkan.
+
+Pesan guru saya,
+
+Sediakan bot penyelamat sebelum kapal berdepan ribut.
+
+Benteng keluarga lebih kukuh.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih tunggu musibah datang baru nak sediakan benteng sedangkan emas fizikal boleh dikumpul sikit demi sikit dari sekarang?..Sebab`
+  },
+  {
+    id: 1454,
+    siri: "Loop-01",
+    no: 5,
+    topik: "Zakat & Syariah",
+    tajuk: "Teori 1 Dinar 1 Ekor Kambing",
+    tags: ["gap", "susut nilai", "inflasi", "dinar", "ringgit"],
+    teks: `1,400 tahun dulu 1 dinar boleh beli seekor kambing, hari ini pun masih sama.
+
+Persoalannya, kenapa ramai orang rasa harga emas makin mahal setiap tahun?
+
+Saya jelaskan.
+
+Pertama, sebab kita ukur nilai emas menggunakan duit kertas yang makin lemah. Bukan emas yang makin mahal, tetapi ringgit yang susut kuasa beli.
+
+Kedua, sebab kita simpan kertas untuk jangka panjang. Dulu kambing RM50 seekor, sekarang RM800 ke atas, tapi berat emasnya tetap sama.
+
+Ketiga, sebab kita takut mula walaupun modal kecil. Sedangkan kuasa beli emas terbukti kekal merentas zaman tanpa susut nilai.
+
+Pesan guru saya,
+
+Penyimpan emas tidak kaya mendadak, tetapi kekayaannya bertahan daripada hakisan inflasi.
+
+Kuasa beli kekal terpelihara.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih simpan kertas yang makin lemah sedangkan 1 dinar emas terbukti kekal nilainya sejak 1,400 tahun lalu?..Sebab`
+  },
+  {
+    id: 1455,
+    siri: "Loop-01",
+    no: 6,
+    topik: "Kenapa Emas",
+    tajuk: "Analogi Token Mesin Dobi",
+    tags: ["gap", "inflasi", "1971", "krisis"],
+    teks: `Token kedai dobi cuma laku selagi kita berada dalam premis kedai itu sahaja.
+
+Persoalannya, kenapa ramai masih bergantung seratus peratus pada wang kertas?
+
+Saya jelaskan.
+
+Pertama, sebab kita lupa wang kertas hanya bernilai selagi kerajaan menjaminnya. Di luar negara atau saat krisis besar, kertas itu boleh hilang kuasa.
+
+Kedua, sebab kita tak sedar sejak tahun 1971 wang kertas tidak lagi bersandarkan emas. Kerajaan boleh cetak wang tanpa had sehingga berlakunya inflasi.
+
+Ketiga, sebab kita jarang pegang aset yang berdiri dengan sendiri. Emas fizikal laku di seluruh dunia tanpa perlukan tandatangan sesiapa.
+
+Pesan guru saya,
+
+Wang kertas perlukan jaminan pemerintah, emas pula berdiri dengan nilai intrinsiknya sendiri.
+
+Aset lebih bebas dan selamat.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih kumpul kertas yang bergantung pada jaminan sedangkan emas fizikal laku di mana-mana saja di dunia?..Sebab`
+  },
+  {
+    id: 1456,
+    siri: "Loop-01",
+    no: 7,
+    topik: "Public Gold & GAP",
+    tajuk: "Emas Fizikal vs Emas Digital",
+    tags: ["gap", "hutang", "emas digital"],
+    teks: `Ramai teruja tengok nombor emas dalam aplikasi tapi tak pernah pegang fizikalnya.
+
+Persoalannya, kenapa emas fizikal tetap jauh lebih selamat berbanding emas digital?
+
+Saya jelaskan.
+
+Pertama, sebab prinsip asas pelaburan emas sebenar ialah beli emas mesti dapat emas. Tanpa fizikal di tangan, kita hanya pegang janji atas skrin.
+
+Kedua, sebab emas digital sering wujud untuk spekulasi dan menyukarkan pengeluaran fizikal. Bila syarikat bermasalah, pembeli yang tanggung risiko.
+
+Ketiga, sebab emas fizikal memberi pemilikan penuh tanpa hutang atau manipulasi. Kita boleh simpan sendiri atau keluarkan bila-bila masa.
+
+Pesan guru saya,
+
+Beli emas mesti dapat emas fizikal, jangan tertipu dengan sekadar nombor di skrin telefon.
+
+Pemilikan lebih sah dan tenang.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih berpuas hati dengan nombor maya sedangkan emas fizikal sebenar boleh dikumpul dalam genggaman?..Sebab`
+  },
+  {
+    id: 1457,
+    siri: "Loop-01",
+    no: 8,
+    topik: "Strategi Emas",
+    tajuk: "Perlumbaan Kura-Kura & Arnab",
+    tags: ["gap", "disiplin"],
+    teks: `Tiap-tiap hari tengok graf harga emas, tapi satu gram pun belum beli.
+
+Persoalannya, kenapa penyimpan konsisten selalu menang berbanding orang yang sibuk baca graf?
+
+Saya jelaskan.
+
+Pertama, sebab emosi manusia cepat goyang bila tengok harga turun naik setiap jam. Bila harga jatuh takut makin jatuh, bila naik rasa dah mahal.
+
+Kedua, sebab tiada siapa di dunia mampu teka paras harga paling rendah dengan tepat. Menunggu harga dasar hanya buat masa berlalu kosong.
+
+Ketiga, sebab kekayaan emas datang daripada disiplin menambah gram setiap bulan. Macam kura-kura yang jalan perlahan tapi tak pernah berhenti.
+
+Pesan guru saya,
+
+Jangan bazirkan emosi memantau graf setiap minit, yang penting gram emas bertambah setiap bulan.
+
+Hati lebih tenang menabung.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih penat teka graf setiap hari sedangkan menabung konsisten setiap bulan terbukti lebih menguntungkan?..Sebab`
+  },
+  {
+    id: 1458,
+    siri: "Loop-01",
+    no: 9,
+    topik: "Kenapa Emas",
+    tajuk: "Duit Jatuh Jadi Kertas, Emas Jatuh Tetap Emas",
+    tags: ["gap", "sejarah"],
+    teks: `Bila mata wang jatuh teruk, orang ramai panik cuba tukar ke aset lain.
+
+Persoalannya, kenapa bila harga emas jatuh, penyimpan emas pula tersenyum lebar?
+
+Saya jelaskan.
+
+Pertama, sebab nilai wang kertas bergantung sepenuhnya pada keyakinan pasaran. Bila keyakinan runtuh, ia kembali menjadi helaian kertas biasa.
+
+Kedua, sebab emas fizikal mempunyai berat dan ketulenan yang kekal abadi. Turun macam mana pun harganya, ia tetap seketul emas bernilai.
+
+Ketiga, sebab sepanjang sejarah ribuan tahun, nilai emas tidak pernah jatuh menjadi sifar. Kejatuhan harga cuma peluang menambah gram pada kos lebih rendah.
+
+Pesan guru saya,
+
+Duit bila nilainya jatuh jadi kertas, emas bila harganya jatuh tetap emas.
+
+Risiko sifar dapat dielakkan.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih takut dengan turun naik harga emas sedangkan nilai emas fizikal tidak pernah jatuh kosong?..Sebab`
+  },
+  {
+    id: 1459,
+    siri: "Loop-01",
+    no: 10,
+    topik: "Kenapa Emas",
+    tajuk: "Karipap Mak Cik Bedah & Duit 50 Sen",
+    tags: ["gap", "inflasi", "ringgit", "patah", "tunai"],
+    teks: `Tahun 80-an dulu, duit 50 sen dah cukup beli semangkuk mee sup di sekolah.
+
+Persoalannya, kenapa hari ini 50 sen hanya mampu beli sebiji karipap kecil?
+
+Saya jelaskan.
+
+Pertama, sebab inflasi sentiasa bekerja senyap-senyap mengecilkan nilai wang kita. Harga barang tidak pernah patah balik ke zaman 80-an.
+
+Kedua, sebab duit kertas dicipta untuk dibelanjakan segera, bukan diperam puluhan tahun. Lagi lama disimpan dalam bentuk tunai, lagi sikit barang dapat dibeli.
+
+Ketiga, sebab hanya aset fizikal terhad mampu mengekalkan kuasa beli jangka panjang. Jika karipap pun naik harga, apatah lagi logam berharga seperti emas.
+
+Pesan guru saya,
+
+Kalau harga karipap Mak Cik Bedah pun pasti naik masa depan, apatah lagi aset fizikal seperti emas.
+
+Masa depan lebih terjamin.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih harap nilai ringgit kekal sama 10 tahun lagi sedangkan harga karipap pun dah naik berkali ganda?..Sebab`
+  },
+  {
+    id: 1460,
+    siri: "Loop-01",
+    no: 11,
+    topik: "Public Gold & GAP",
+    tajuk: "3 Posisi Emas: Penyimpan vs Pelabur",
+    tags: ["gap", "ringgit", "tunai"],
+    teks: `Ramai beli emas hari ini, tapi bulan depan dah pening kepala tengok harga.
+
+Persoalannya, kenapa ada orang gelisah pegang emas sedangkan orang lain sangat tenang?
+
+Saya jelaskan.
+
+Pertama, sebab mereka keliru antara posisi penyimpan emas dengan pelabur emas. Penyimpan fokus tambah gram, pelabur pula fokus pusingan modal ringgit.
+
+Kedua, sebab mereka guna duit belanja harian untuk beli emas. Bila terdesak nak pakai tunai dalam tempoh singkat, terpaksa jual walaupun harga belum untung.
+
+Ketiga, sebab penyimpanan emas sesuai untuk wang lebihan jangka masa 2 tahun ke atas. Bila posisi jelas dari awal, emosi langsung tidak terganggu.
+
+Pesan guru saya,
+
+Tentukan posisi diri sejak hari pertama supaya kita tidak berkonflik emosi setiap kali harga bergerak.
+
+Strategi simpanan lebih jelas.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih keliru dengan turun naik harga harian sedangkan posisi penyimpan emas hanyalah fokus menambah gram?..Sebab`
+  },
+  {
+    id: 1461,
+    siri: "Loop-01",
+    no: 12,
+    topik: "Zakat & Syariah",
+    tajuk: "Dana Haji: Kos Turun 80% Dalam Emas",
+    tags: ["gap", "haji", "ringgit", "tunai"],
+    teks: `Tahun 1998 kos haji sekitar RM8,000, hari ini angkanya jauh lebih tinggi.
+
+Persoalannya, kenapa bila dinilai dalam gram emas, kos haji sebenarnya turun hampir 80%?
+
+Saya jelaskan.
+
+Pertama, sebab pada tahun 1998 kos RM8,000 itu bersamaan 267 gram emas. Pada tahun 2017 pula, kos RM9,980 hanya bersamaan 56 gram emas sahaja.
+
+Kedua, sebab simpanan tunai sentiasa dikejar kenaikan kos penginapan dan penerbangan di Mekah. Simpanan emas pula memelihara kuasa beli kita.
+
+Ketiga, sebab sasaran 60 gram emas sudah cukup menjadi benteng dana haji masa depan. Kumpul 1 gram sebulan selama 5 tahun tanpa rasa terbeban.
+
+Pesan guru saya,
+
+Tukar target simpanan haji daripada angka ringgit kepada berat gram emas supaya kosnya terkunci.
+
+Niat haji lebih mudah tercapai.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih kejar angka kos haji dalam ringgit sedangkan 60 gram emas mampu mengunci kos tersebut lebih awal?..Sebab`
+  },
+  {
+    id: 1462,
+    siri: "Loop-01",
+    no: 13,
+    topik: "Keluarga",
+    tajuk: "Dana Pendidikan Anak Tanpa PTPTN",
+    tags: ["gap", "inflasi", "hutang", "anak", "ptptn", "tunai"],
+    teks: `Yuran universiti hari ini RM35,000, 18 tahun lagi angkanya pasti berganda.
+
+Persoalannya, macam mana ibu bapa boleh sediakan dana pengajian anak tanpa bebankan mereka dengan hutang?
+
+Saya jelaskan.
+
+Pertama, sebab simpanan tunai untuk anak mudah terguna bila mak ayah terdesak. Bila simpan dalam Akaun GAP Junior, duit itu terus bertukar menjadi gram.
+
+Kedua, sebab tabungan 1 gram sebulan sejak bayi lahir menghasilkan 216 gram menjelang umur 18 tahun. Jumlah itu kekal kuasa belinya walaupun inflasi tinggi.
+
+Ketiga, sebab kita mengajar anak nilai aset sebenar sejak kecil. Anak melangkah ke menara gading dengan modal tunai hasil jualan emas sendiri.
+
+Pesan guru saya,
+
+Simpan 1 gram sebulan untuk anak sejak lahir supaya mereka masuk universiti bebas pinjaman.
+
+Masa depan anak lebih cerah.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih biarkan anak mewarisi hutang pendidikan sedangkan 1 gram sebulan hari ini mampu membebaskan mereka?..Sebab`
+  },
+  {
+    id: 1463,
+    siri: "Loop-01",
+    no: 14,
+    topik: "Kewangan Peribadi",
+    tajuk: "Formula Dana Kecemasan 3 Bulan + 9 Bulan",
+    tags: ["gap", "susut nilai", "inflasi", "gaji", "kecemasan", "tunai"],
+    teks: `Semua duit kecemasan letak dalam satu akaun bank yang sama.
+
+Persoalannya, kenapa strategi simpanan tunai semata-mata belum cukup kuat lindungi keluarga?
+
+Saya jelaskan.
+
+Pertama, sebab dana tunai cair hanya perlu disimpan sekitar 3 bulan gaji sahaja. Ia cukup untuk kegunaan kecemasan segera seperti baiki kereta atau rawatan.
+
+Kedua, sebab simpanan kecemasan jangka sederhana 9 bulan gaji lagi lebih selamat dalam bentuk emas. Ia kalis nafsu boros dan tidak susut nilai.
+
+Ketiga, sebab emas fizikal boleh dicairkan atau dipajak bila-bila masa saat keadaan benar-benar mendesak. Kita dapat perlindungan berganda tanpa rugi inflasi.
+
+Pesan guru saya,
+
+Simpan 3 bulan gaji dalam bentuk tunai, dan 9 bulan gaji lagi dalam bentuk emas fizikal.
+
+Pertahanan kewangan lebih seimbang.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih simpan semua dana kecemasan dalam tunai sedangkan kombinasi tunai dan emas jauh lebih kebal?..Sebab`
+  },
+  {
+    id: 1464,
+    siri: "Loop-01",
+    no: 15,
+    topik: "Kenapa Emas",
+    tajuk: "Emas Bukan Segala-Galanya, Tapi Sesuatu",
+    tags: ["gap", "saham", "tunai"],
+    teks: `Ada orang kata simpan emas tak bagi dividen bulanan macam pelaburan lain.
+
+Persoalannya, kenapa orang kaya dan bank pusat dunia tetap simpan bertan-tan emas?
+
+Saya jelaskan.
+
+Pertama, sebab fungsi utama emas bukan untuk menjana aliran tunai bulanan. Emas berfungsi sebagai pelindung kekayaan dan penyelamat nilai harta.
+
+Kedua, sebab bila ekonomi gawat atau pasaran saham jatuh, emas menjadi penstabil portfolio. Ia menjaga nilai bersih harta daripada musnah serentak.
+
+Ketiga, sebab emas adalah aset yang tiada risiko pihak ketiga. Bila semua sistem kewangan terganggu, emas di tangan tetap bernilai.
+
+Pesan guru saya,
+
+Emas bukan segala-galanya, tetapi emas adalah sesuatu yang wajib ada sebagai benteng kewangan.
+
+Kekayaan lebih kukuh berdiri.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih nafikan peranan emas sedangkan bank pusat negara pun menyimpan emas sebagai rizab utama?..Sebab`
+  },
+  {
+    id: 1465,
+    siri: "Loop-01",
+    no: 16,
+    topik: "Strategi Emas",
+    tajuk: "Ilmu Adalah Kunci Kekayaan Emas",
+    tags: ["gap", "susut nilai"],
+    teks: `Beli emas yang sama, harga yang sama, tapi hasil dua orang boleh jadi jauh berbeza.
+
+Persoalannya, kenapa ada orang makin kaya dengan emas dan ada yang rugi bila simpan emas?
+
+Saya jelaskan.
+
+Pertama, sebab orang yang rugi beli emas tanpa ilmu dan mudah panik bila harga turun. Baru simpan tiga bulan dah jual sebab takut rugi.
+
+Kedua, sebab mereka salah pilih platform yang mengenakan susut nilai tinggi atau caj tersembunyi. Akibatnya tempoh pulang modal jadi terlalu lama.
+
+Ketiga, sebab emas hanyalah alat, manakala ilmu pengurusan kewangan yang memandu arahnya. Dengan ilmu, kita tahu bila nak simpan dan bila nak tukar ke aset lain.
+
+Pesan guru saya,
+
+Bukan emas yang membuatkan kita kaya, tetapi ilmu kita tentang pengurusan wang dan emas.
+
+Keputusan kewangan lebih tepat.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih mula tanpa bimbingan ilmu sedangkan kesilapan kecil dalam emas boleh dielakkan dengan panduan yang betul?..Sebab`
+  },
+  {
+    id: 1466,
+    siri: "Loop-01",
+    no: 17,
+    topik: "Strategi Emas",
+    tajuk: "Emas Sebagai Alat Capai Matlamat (En Bashir)",
+    tags: ["gap", "susut nilai", "hutang", "hartanah", "rumah", "tunai"],
+    teks: `Simpan emas bertahun-tahun tapi tak tahu bila waktu sesuai nak guna.
+
+Persoalannya, bilakah masa paling tepat untuk kita menjual simpanan emas fizikal?
+
+Saya jelaskan.
+
+Pertama, sebab emas tidak patut dijual semata-mata untuk beli barang kehendak yang susut nilai. Jangan cairkan aset demi tukar telefon atau rim kereta.
+
+Kedua, sebab masa terbaik mencairkan emas ialah apabila kita mahu menukarnya kepada aset pasif. Contohnya seperti modal membeli tanah atau rumah sewa.
+
+Ketiga, sebab ramai penyimpan berjaya kumpul gram sehingga cukup modal tunai beli hartanah tanpa hutang. Emas bertindak sebagai batu loncatan membina harta.
+
+Pesan guru saya,
+
+Jangan simpan emas selama-lamanya tanpa matlamat, tukarkan ia kepada aset yang menjana aliran tunai.
+
+Harta berkembang lebih pantas.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih biarkan impian beli aset tertangguh sedangkan tabungan emas boleh menjadi modal tunai masa depan?..Sebab`
+  },
+  {
+    id: 1467,
+    siri: "Loop-01",
+    no: 18,
+    topik: "Kewangan Peribadi",
+    tajuk: "Misi Bebas Hutang Dengan Emas (En Azlan)",
+    tags: ["gap", "hutang", "gaji", "bonus", "rumah", "disiplin", "tunai"],
+    teks: `Komitmen hutang rumah dan pinjaman peribadi makan separuh gaji setiap bulan.
+
+Persoalannya, macam mana simpanan emas boleh bantu kita langsaikan hutang lebih awal?
+
+Saya jelaskan.
+
+Pertama, sebab bila kita alihkan bonus dan lebihan gaji ke emas, duit itu selamat daripada dibelanjakan. Tabungan terkumpul diam-diam tanpa gangguan.
+
+Kedua, sebab kenaikan harga emas dalam jangka masa beberapa tahun menggandakan nilai simpanan kita. Masa yang diambil untuk capai sasaran tunai jadi lebih singkat.
+
+Ketiga, sebab apabila nilai emas sudah menyamai baki pinjaman, kita boleh cairkan untuk tutup hutang sekaligus. Beban faedah bank terus terhenti.
+
+Pesan guru saya,
+
+Gunakan disiplin simpanan emas untuk percepatkan misi bebas hutang agar gaji kembali menjadi milik kita.
+
+Hidup lebih bebas komitmen.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih bayar faedah bank bertahun-tahun sedangkan tabungan emas mampu mempercepatkan kebebasan hutang kita?..Sebab`
+  },
+  {
+    id: 1468,
+    siri: "Loop-01",
+    no: 19,
+    topik: "Keluarga",
+    tajuk: "Sasaran 1 Kilogram 1 Keluarga",
+    tags: ["gap", "krisis"],
+    teks: `Ramai ada target beli kereta idaman, tapi jarang ada target berat emas keluarga.
+
+Persoalannya, kenapa setiap keluarga disarankan menetapkan sasaran simpanan emas sendiri?
+
+Saya jelaskan.
+
+Pertama, sebab tanpa sasaran yang jelas, tabungan kita mudah terhenti di tengah jalan. Sasaran 100 gram pertama atau 1 kilogram memberi hala tuju nyata.
+
+Kedua, sebab 1 kilogram emas bersamaan sekitar 10% hingga 15% benteng kekayaan keluarga kelas pertengahan. Ia cukup menampung kos hidup bertahun jika berlaku krisis.
+
+Ketiga, sebab perjalanan seribu batu bermula daripada langkah pertama. Kumpul gram demi gram secara konsisten lama-lama mencukupi sasaran.
+
+Pesan guru saya,
+
+Tetapkan sasaran 100 gram pertama atau 1 kilogram untuk satu keluarga sebagai insurans kekayaan.
+
+Hala tuju simpanan lebih jelas.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih menabung tanpa sasaran jelas sedangkan matlamat 100 gram pertama boleh dimulakan hari ini?..Sebab`
+  },
+  {
+    id: 1469,
+    siri: "Loop-01",
+    no: 20,
+    topik: "Public Gold & GAP",
+    tajuk: "GAP Auto-Debit: Kuasa Simpanan Paksa & Lupa",
+    tags: ["gap", "gaji", "auto-debit", "disiplin"],
+    teks: `Niat nak simpan hujung bulan memang baik, tapi baki selalu habis dulu.
+
+Persoalannya, macam mana nak pastikan simpanan emas tetap berjalan walaupun kita sibuk bekerja?
+
+Saya jelaskan.
+
+Pertama, sebab disiplin manusia mudah tewas bila terpaksa buat keputusan membeli setiap bulan. Kadang-kadang lupa, kadang-kadang bertangguh.
+
+Kedua, sebab kemudahan GAP Auto-Debit memotong terus dari akaun bank pada hari gaji. Kita beli secara automatik tanpa perlu tengok carta harga.
+
+Ketiga, sebab kaedah kos pemurataan ini memberi lebih banyak gram ketika harga rendah. Lama-lama simpanan membesar tanpa kita sedar.
+
+Pesan guru saya,
+
+Aktifkan simpanan paksa dan lupa supaya tabungan emas berjalan sendiri sebelum kita sempat berbelanja.
+
+Disiplin menabung jadi automatik.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih bergantung pada kerajinan sendiri sedangkan simpanan automatik mampu mengunci disiplin setiap bulan?..Sebab`
+  },
+  {
+    id: 1470,
+    siri: "Loop-01",
+    no: 21,
+    topik: "Kenapa Emas",
+    tajuk: "Aset Luar Sistem Kewangan & Kalis Beku",
+    tags: ["gap", "krisis"],
+    teks: `Semua harta dalam bank memang nampak tersusun, tapi ia berada dalam satu sistem.
+
+Persoalannya, apa akan berlaku kepada keluarga jika akaun bank tiba-tiba dibekukan?
+
+Saya jelaskan.
+
+Pertama, sebab dalam situasi luar jangka seperti siasatan atau krisis undang-undang, semua akaun boleh disekat serta-merta. Satu sen pun tak boleh dikeluarkan.
+
+Kedua, sebab emas fizikal di tangan tiada dalam rekod sistem perbankan. Tiada siapa tahu jumlahnya dan tiada pihak boleh membekukannya.
+
+Ketiga, sebab dalam keadaan darurat, emas fizikal boleh terus dicairkan untuk menyara keluarga. Ia memberi talian hayat ketika semua pintu kewangan tertutup.
+
+Pesan guru saya,
+
+Emas fizikal adalah aset privasi luar sistem kewangan yang menyelamatkan keluarga saat akaun dibekukan.
+
+Perlindungan keluarga lebih mutlak.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih letak seluruh nasib keluarga dalam sistem bank sedangkan emas fizikal memberi perlindungan luar sistem?..Sebab`
+  },
+  {
+    id: 1471,
+    siri: "Loop-01",
+    no: 22,
+    topik: "Kenapa Emas",
+    tajuk: "Banjir Besar & Krisis Darurat",
+    tags: ["gap", "barang kemas", "krisis", "kecemasan", "sejarah", "patah"],
+    teks: `Bila bencana besar melanda, mesin ATM terputus bekalan dan talian internet lumpuh.
+
+Persoalannya, kenapa emas fizikal tetap diterima sebagai tukaran saat duit kertas ditolak?
+
+Saya jelaskan.
+
+Pertama, sebab ketika krisis besar atau banjir melumpuhkan bandar, peniaga bimbang nilai mata wang terjejas. Urusan kad dan perbankan atas talian terus terhenti.
+
+Kedua, sebab emas fizikal mempunyai nilai sejagat yang diiktiraf seluruh dunia. Walaupun barang kemas bengkok atau patah, berat emasnya tetap laku.
+
+Ketiga, sebab sejarah membuktikan mangsa bencana yang memegang emas lebih mudah mendapatkan keperluan asas. Emas menjadi penyelamat di saat paling genting.
+
+Pesan guru saya,
+
+Saat sistem kewangan lumpuh akibat bencana, emas fizikal tetap diterima sebagai mata wang sebenar.
+
+Persediaan kecemasan lebih mantap.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih anggap sistem digital kebal selamanya sedangkan emas fizikal terbukti penyelamat di waktu darurat?..Sebab`
+  },
+  {
+    id: 1472,
+    siri: "Loop-01",
+    no: 23,
+    topik: "Kenapa Emas",
+    tajuk: "Kisah Duit Pokok Pisang & Dua Kali Miskin",
+    tags: ["gap", "perang", "sejarah"],
+    teks: `Pernah ada saudagar kaya raya mengumpul berguni-guni duit kertas zaman penjajah.
+
+Persoalannya, macam mana orang yang begitu kaya boleh jatuh miskin dalam sekelip mata?
+
+Saya jelaskan.
+
+Pertama, sebab kekayaan beliau disimpan dalam bentuk duit pokok pisang yang hilang nilai bila perang tamat. Berguni wang kertas hanya layak dibuang.
+
+Kedua, sebab wang kertas hanya bertahan selagi kuasa yang mengeluarkannya masih wujud. Apabila tampuk bertukar, kertas itu tidak lagi diiktiraf.
+
+Ketiga, sebab sekeping syiling emas yang beliau simpan sejak awal tetap laku merentas dua era berbeza. Nilai emas tidak mati bersama kejatuhan mata wang.
+
+Pesan guru saya,
+
+Sejarah membuktikan wang kertas boleh hilang nilai sekelip mata, tetapi emas kekal bernilai merentas zaman.
+
+Sejarah jadi pengajaran mahal.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih ulang kesilapan menyimpan kertas berlebihan sedangkan sejarah membuktikan emas melangkaui perubahan zaman?..Sebab`
+  },
+  {
+    id: 1473,
+    siri: "Loop-01",
+    no: 24,
+    topik: "Zakat & Syariah",
+    tajuk: "Orang Bujang: Kumpul Dinar Untuk Maskahwin",
+    tags: ["gap", "dinar", "kahwin", "bujang", "tunai"],
+    teks: `Orang muda sering mengeluh kos kahwin makin tinggi setiap tahun.
+
+Persoalannya, kenapa menabung dinar emas lebih bijak untuk orang bujang berbanding simpan tunai?
+
+Saya jelaskan.
+
+Pertama, sebab simpanan tunai orang bujang sangat mudah bocor untuk hobi dan gaya hidup. Bila tukar ke dinar emas, nafsu berbelanja terus terkunci.
+
+Kedua, sebab 1 Dinar seberat 4.25 gram mempunyai nilai sentimental tinggi sebagai maskahwin. Ia kekal sebagai kenangan berharga berbanding wang kertas yang habis dibelanjakan.
+
+Ketiga, sebab jika kita mula menabung dari awal kerja, nilai dinar itu meningkat seiring masa. Kos majlis perkahwinan jadi lebih ringan ditanggung.
+
+Pesan guru saya,
+
+Orang bujang patut tukar simpanan kahwin kepada dinar emas supaya duit selamat dan nilainya terjaga.
+
+Persediaan kahwin lebih teratur.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih simpan duit kahwin dalam akaun biasa sedangkan dinar emas mampu mengunci nilai simpanan orang bujang?..Sebab`
+  },
+  {
+    id: 1474,
+    siri: "Loop-01",
+    no: 25,
+    topik: "Public Gold & GAP",
+    tajuk: "Kenapa Pilih Platform Kukuh & Spread Rendah",
+    tags: ["gap", "penipuan", "kilang", "syariah", "spread", "tunai"],
+    teks: `Ramai terpedaya beli emas murah dari penjual tidak dikenali di media sosial.
+
+Persoalannya, kenapa memilih syarikat kukuh seperti Public Gold jauh lebih penting daripada kejar harga murah?
+
+Saya jelaskan.
+
+Pertama, sebab membeli emas dari individu tidak dikenali mendedahkan kita kepada risiko emas curi atau penipuan. Urus niaga tanpa dokumen sah sangat berbahaya.
+
+Kedua, sebab syarikat besar menjamin belian balik emas kita pada bila-bila masa walaupun sijil terbuka. Tiada masalah kedai enggan terima bila kita perlukan tunai.
+
+Ketiga, sebab Public Gold mempunyai kilang penulenan sendiri dan kapasiti tunai kukuh. Spread jual beli yang rendah membolehkan kita cepat pulang modal.
+
+Pesan guru saya,
+
+Pilih syarikat emas yang kukuh dan menjamin belian balik dengan spread rendah supaya simpanan kita selamat.
+
+Urus niaga lebih telus dan terjamin.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih ambil risiko beli daripada sumber meragukan sedangkan platform patuh syariah yang kukuh sudah tersedia?..Sebab`
+  },
+  {
+    id: 1475,
+    siri: "Loop-01",
+    no: 26,
+    topik: "Public Gold & GAP",
+    tajuk: "Belian EPP: Kunci Harga Emas Besar Tanpa Beban",
+    tags: ["gap", "susut nilai", "dinar", "ringgit", "epp", "disiplin", "syariah", "tunai"],
+    teks: `Nak beli jongkong 10 gram atau 1 dinar sekaligus, tapi bajet bulanan terhad.
+
+Persoalannya, macam mana nak miliki item emas bersaiz besar tanpa tunggu duit cukup beribu ringgit?
+
+Saya jelaskan.
+
+Pertama, sebab menunggu duit tunai cukup selalunya berakhir dengan duit terbelanja ke tempat lain. Harga emas pula mungkin sudah naik lebih tinggi.
+
+Kedua, sebab kaedah EPP patuh syariah membolehkan kita kunci harga hari ini dan bayar ansuran 6 atau 10 bulan. Komitmen bulanan memaksa kita disiplin menyimpan.
+
+Ketiga, sebab selepas selesai bayaran akhir, jongkong emas fizikal terus diserahkan ke tangan kita. Ia jauh lebih menguntungkan berbanding berhutang beli barang susut nilai.
+
+Pesan guru saya,
+
+Gunakan kemudahan kunci harga secara patuh syariah untuk miliki jongkong emas besar dengan disiplin bulanan.
+
+Item besar lebih mudah dimiliki.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih bertangguh nak miliki dinar atau jongkong emas sedangkan kita boleh mula mengumpulnya secara berperingkat?..Sebab`
+  },
+  {
+    id: 1476,
+    siri: "Loop-01",
+    no: 27,
+    topik: "Kenapa Emas",
+    tajuk: "Jangan Simpan Tunai Terlalu Banyak Di Bank",
+    tags: ["gap", "inflasi", "kecemasan", "tunai"],
+    teks: `Ramai rasa bangga tengok baki enam angka duduk diam dalam akaun simpanan.
+
+Persoalannya, kenapa pakar kewangan menyifatkan penyimpan wang kertas berlebihan sebagai golongan yang rugi?
+
+Saya jelaskan.
+
+Pertama, sebab kadar faedah atau dividen simpanan tunai sering kali kalah dengan kadar inflasi sebenar. Nombor memang bertambah, tetapi barang yang boleh dibeli makin berkurang.
+
+Kedua, sebab bank menggunakan wang simpanan kita untuk dilaburkan semula kepada aset sebenar. Kita pula hanya menerima pulangan kecil atas kertas.
+
+Ketiga, sebab emas fizikal melindungi nilai lebihan tunai daripada susut dimakan masa. Lebihan selepas dana kecemasan 3 bulan patut dialihkan segera.
+
+Pesan guru saya,
+
+Orang lain sibuk simpan nombor dalam bank, tetapi orang bijak menukarnya kepada nilai emas sebenar.
+
+Kuasa beli harta lebih kebal.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih biarkan lebihan tunai tidur dalam bank sedangkan nilai sebenar wang itu sedang susut setiap tahun?..Sebab`
+  },
+  {
+    id: 1477,
+    siri: "Loop-01",
+    no: 28,
+    topik: "Kewangan Peribadi",
+    tajuk: "Dulu Pilih ASB, Sekarang Pilih Emas",
+    tags: ["gap", "asb", "krisis", "ringgit", "kecemasan", "tunai"],
+    teks: `Zaman dulu simpan dalam akaun dividen tahunan memang dah cukup selesa.
+
+Persoalannya, kenapa pendekatan kewangan hari ini menuntut kita mengimbangi simpanan dengan emas fizikal?
+
+Saya jelaskan.
+
+Pertama, sebab kos sara hidup moden meningkat jauh lebih pantas berbanding pulangan simpanan konvensional. Kebergantungan pada satu instrumen tunai tidak lagi mencukupi.
+
+Kedua, sebab ringgit pernah mengalami kejatuhan nilai ketara dalam krisis ekonomi terdahulu. Emas pula naik mengimbangi penyusutan mata wang tempatan.
+
+Ketiga, sebab gabungan tunai untuk kecemasan pantas dan emas untuk jangka panjang memberi ketahanan lengkap. Kita nikmati kecairan tunai dan kekuatan nilai aset.
+
+Pesan guru saya,
+
+Dulu orang pilih ubi sebagai makanan utama, sekarang pilih beras; dulu pilih tunai semata-mata, sekarang pilih emas.
+
+Strategi kewangan lebih relevan.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih guna strategi kewangan lama sedangkan realiti ekonomi hari ini memerlukan perlindungan emas fizikal?..Sebab`
+  },
+  {
+    id: 1478,
+    siri: "Loop-01",
+    no: 29,
+    topik: "Bisnes & Dealer",
+    tajuk: "Bisnes Dealer: Tanam Pokok Durian vs Sayur",
+    tags: ["gap", "dealer", "bisnes", "anak", "durian"],
+    teks: `Ramai nak buat bisnes sampingan yang terus bagi untung besar dalam masa seminggu.
+
+Persoalannya, kenapa membina kerjaya pengedar emas diibaratkan seperti menanam pokok durian?
+
+Saya jelaskan.
+
+Pertama, sebab menanam sayur memang cepat dituai dalam dua bulan, tetapi hasilnya habis sekali makan dan perlu ditanam semula dari kosong.
+
+Kedua, sebab menanam pokok durian menuntut kesabaran menjaga anak pokok di fasa awal. Namun apabila sudah berbuah, hasilnya berterusan tanpa henti.
+
+Ketiga, sebab kerja pengedar emas ialah mendidik masyarakat menabung, bukan menghabiskan duit. Empayar penyimpan ini boleh diwariskan kepada keluarga.
+
+Pesan guru saya,
+
+Sabarlah membina pokok durian dalam bisnes emas kerana hasilnya kelak dinikmati sehingga anak cucu.
+
+Pendapatan pasif lebih kukuh.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih kejar bisnes cepat kaya yang sementara sedangkan membina empayar penyimpan emas memberi legasi jangka panjang?..Sebab`
+  },
+  {
+    id: 1479,
+    siri: "Loop-01",
+    no: 30,
+    topik: "Strategi Emas",
+    tajuk: "Mulakan 1 Gram Pertama Sebagai Tanda Aras",
+    tags: ["gap"],
+    teks: `Dah baca puluhan artikel emas, dah tengok banyak video, tapi masih belum bermula.
+
+Persoalannya, kenapa langkah memiliki satu gram pertama itu jauh lebih penting daripada membaca seribu teori?
+
+Saya jelaskan.
+
+Pertama, sebab tanpa belian pertama, kita tidak pernah ada harga tanda aras sendiri. Setiap kali tengok harga, kita cuma menjadi penonton dari luar.
+
+Kedua, sebab selepas memiliki satu gram pertama, cara kita melihat pergerakan harga emas akan berubah serta-merta. Kita mula faham rentak pasaran secara nyata.
+
+Ketiga, sebab emas pertama itulah pencetus momentum untuk gram kedua, kesepuluh dan keseratus. Ilmu sebenar hanya melekat selepas kita bertindak.
+
+Pesan guru saya,
+
+Mulakan dengan satu gram pertama hari ini sebagai tanda aras agar kita berhenti menjadi penonton.
+
+Langkah pertama mengubah segalanya.
+
+Nak mula?
+
+Melalui Akaun GAP Public Gold, kita boleh mula menabung emas fizikal serendah satu gram sahaja.
+
+Jadi, persoalannya… kenapa kita masih bertangguh nak mulakan satu gram pertama sedangkan tindakan kecil hari ini menentukan masa depan kewangan kita?..Sebab`
   }
 ];
 
@@ -40175,4 +41105,4 @@ export const namaSiri = {
 export const hargaLalai = { harga999: "542", harga916: "497", tarikh: "27 September 2026" };
 
 // Siri yang dapat TAB sendiri (ikut susunan). Semua siri lain masuk tab "Archive".
-export const tabUtama = ["Kisah-01", "Kisah-02", "Kisah-03", "Kisah-04", "Kisah-05", "Kisah-06", "PG1S-01", "PG1S-02", "PG1S-03", "PG1S-04", "PG1S-05", "Mentor-01", "Mentor-02", "Mentor-03", "Mentor-04", "Mentor-05", "GPT-Asas-01", "Listicle-03", "Listicle-04", "Listicle-05", "Listicle-06", "Listicle-07", "Listicle-08", "Listicle-09", "Listicle-10", "Listicle-11", "Listicle-12", "Listicle-13", "Listicle-14", "Listicle-15", "Listicle-16", "Listicle-17"];
+export const tabUtama = ["Loop-01", "Kisah-01", "Kisah-02", "Kisah-03", "Kisah-04", "Kisah-05", "Kisah-06", "PG1S-01", "PG1S-02", "PG1S-03", "PG1S-04", "PG1S-05", "Mentor-01", "Mentor-02", "Mentor-03", "Mentor-04", "Mentor-05", "GPT-Asas-01", "Listicle-03", "Listicle-04", "Listicle-05", "Listicle-06", "Listicle-07", "Listicle-08", "Listicle-09", "Listicle-10", "Listicle-11", "Listicle-12", "Listicle-13", "Listicle-14", "Listicle-15", "Listicle-16", "Listicle-17"];

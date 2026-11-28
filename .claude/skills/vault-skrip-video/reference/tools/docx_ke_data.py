@@ -234,7 +234,34 @@ def baca_kisah(d):
     return skrip
 
 
+def baca_loop(d):
+    """Format Loop: jadual indeks 'NN. Tajuk' (2 kolum), jadual 1x1 'SKRIP NN. TAJUK HURUF BESAR',
+    jadual 1x1 berisi skrip (satu baris = satu perenggan), perenggan sign-off (diabaikan)."""
+    tajuk = {}
+    for t in d.tables:
+        if len(t.columns) == 2 and len(t.rows) > 3:
+            for row in t.rows:
+                for c in row.cells:
+                    m = re.match(r"(\d+)\.\s*(.+)", c.text.strip())
+                    if m:
+                        tajuk[int(m[1])] = m[2].strip()
+    skrip, n = [], None
+    for t in d.tables:
+        if len(t.rows) != 1 or len(t.columns) != 1:
+            continue
+        txt = t.cell(0, 0).text.strip()
+        m = re.match(r"SKRIP\s+(\d+)\.\s*(.+)", txt)
+        if m:
+            n = int(m[1])
+            skrip.append({"tajuk": tajuk.get(n, m[2].strip().title()), "p": [], "hook": ""})
+        elif n is not None and skrip and not skrip[-1]["p"]:
+            skrip[-1]["p"] = [l.strip() for l in txt.split("\n") if l.strip()]
+    return skrip
+
+
 def kesan_format(d):
+    if any(len(t.rows) == 1 and len(t.columns) == 1 and re.match(r"SKRIP\s+\d+\.\s", t.cell(0, 0).text.strip()) for t in d.tables):
+        return baca_loop(d)
     if any(re.match(r"SKRIP VIDEO #\d+.*PRINSIP MENTOR:", p.text.strip()) for p in d.paragraphs):
         return baca_kisah(d)
     if any(re.match(r"SKRIP #\d+\s*(?:\[[^\]]*\])?\s*:", p.text.strip(), re.I) for p in d.paragraphs) or any(
